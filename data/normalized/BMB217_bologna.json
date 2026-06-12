@@ -1,0 +1,75 @@
+{
+  "title": "BMB217 - Nesneye Dayalı Programlama Laboratuvarı Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB217",
+    "ders_adi": "Nesneye Dayalı Programlama Laboratuvarı",
+    "yariyil": "3",
+    "kredi": "1",
+    "akts": "2",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilerin nesneye dayalı programlama (OOP) kavramlarını Python programlama dili kullanarak uygulamalı olarak öğrenmelerini sağlamaktır. Dersin sonunda öğrenciler, sınıf, nesne, miras alma, kapsülleme, soyutlama ve çok biçimlilik gibi OOP kavramlarını kullanarak etkili ve işlevsel programlar geliştirme becerisi kazanacaklardır.",
+    "icerik": "Python sözdizimi kavramları, nesne referansları ve kimliği, temel veri tipleri, karakter formatlama, operatörler, koşullu ifadeler ve döngü yapısı, sıralı–sırasız veri tipleri ve metotları, veri üreteçleri ve fonksiyon yapısı gibi dile özgü temel yapıların uygulamalı olarak öğretilmesi sağlanır. Dersin ana hedefi; sınıf yapısı, nesne özellikleri, farklı metot kullanımları, miras alma, kapsülleme, soyutlama, çok biçimlilik ve modüller gibi nesneye dayalı programlama tekniklerine dayalı projeler ve uygulamalar geliştirmektir.",
+    "yontemler": "Uygulama, Gösterim, Problem Çözme",
+    "kaynaklar": {
+      "kitaplar": [
+        "Lott, S. F. & Phillips D., Python Object-Oriented Programming, 4th Edition, Packt Publishing, 2021",
+        "U. Sinan. Uygulamalarla Python Programlamaya Giriş, Nobel Akademik Yayıncılık, 2024."
+      ],
+      "ders_notlari": [
+        "Öğretim üyesi tarafından hazırlanan laboratuvar yönergeleri"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Uygulama",
+        "sayi": "5",
+        "katki": "%10"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "2",
+        "katki": "%10"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Python programlama ortamını kullanarak temel yapıların uygulamasını yapar.",
+      "Sınıf, nesne, metot ve özellik kavramlarını kod düzeyinde uygular.",
+      "Kapsülleme, kalıtım ve çok biçimlilik kavramlarını Python ile uygular.",
+      "OOP ilkelerine uygun yazılım modülleri geliştirir.",
+      "Gerçek dünya problemleri için nesne tabanlı uygulamalar geliştirir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Python çalışma ortamının kurulumu, IDE tanıtımı",
+      "Hafta 2: Değişkenler, veri tipleri ve temel işleme dayalı uygulamalar",
+      "Hafta 3: Koşullar, döngüler ve temel algoritma uygulamaları",
+      "Hafta 4: Veri yapıları uygulamaları",
+      "Hafta 5: Sınıf ve nesne tanımlama, yapıcı metot uygulaması",
+      "Hafta 6: Özellikler ve metotların tanımlanması",
+      "Hafta 7: Kapsülleme uygulamaları",
+      "Hafta 8: Miras alma örnekleri",
+      "Hafta 9: Çok biçimlilik uygulamaları",
+      "Hafta 10: Soyut sınıflar ve modül oluşturma",
+      "Hafta 11: Dosya işlemleri ve hata yönetimi",
+      "Hafta 12: Mini proje geliştirme 1 – OOP kavramlarının entegrasyonu Öğretim üyesi rehberliği",
+      "Hafta 13: Mini proje geliştirme 2 – Test ve hata ayıklama Öğretim üyesi rehberliği",
+      "Hafta 14: Dönem değerlendirmesi Öğretim üyesi değerlendirmesi"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Nesneye Dayalı Programlama Laboratuvarı\nDers Kodu: BMB217\nYarıyıl: 3. Yarıyıl\nKredi: 1\nAKTS Kredisi: 2\nDers Saati: Teori=0, Uygulama=2, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilerin nesneye dayalı programlama (OOP) kavramlarını Python programlama dili kullanarak uygulamalı olarak öğrenmelerini sağlamaktır. Dersin sonunda öğrenciler, sınıf, nesne, miras alma, kapsülleme, soyutlama ve çok biçimlilik gibi OOP kavramlarını kullanarak etkili ve işlevsel programlar geliştirme becerisi kazanacaklardır.\n\n--- DERS İÇERİĞİ ---\nPython sözdizimi kavramları, nesne referansları ve kimliği, temel veri tipleri, karakter formatlama, operatörler, koşullu ifadeler ve döngü yapısı, sıralı–sırasız veri tipleri ve metotları, veri üreteçleri ve fonksiyon yapısı gibi dile özgü temel yapıların uygulamalı olarak öğretilmesi sağlanır. Dersin ana hedefi; sınıf yapısı, nesne özellikleri, farklı metot kullanımları, miras alma, kapsülleme, soyutlama, çok biçimlilik ve modüller gibi nesneye dayalı programlama tekniklerine dayalı projeler ve uygulamalar geliştirmektir.\n\nÖğretim Yöntemleri: Uygulama, Gösterim, Problem Çözme\n\n--- DERS KAYNAKLARI ---\n• Lott, S. F. & Phillips D., Python Object-Oriented Programming, 4th Edition, Packt Publishing, 2021\n• U. Sinan. Uygulamalarla Python Programlamaya Giriş, Nobel Akademik Yayıncılık, 2024.\n• Ders Notu: Öğretim üyesi tarafından hazırlanan laboratuvar yönergeleri\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %30\nUygulama: 5 adet, katkı oranı %10\nProje: 2 adet, katkı oranı %10\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Python programlama ortamını kullanarak temel yapıların uygulamasını yapar.\n2. Sınıf, nesne, metot ve özellik kavramlarını kod düzeyinde uygular.\n3. Kapsülleme, kalıtım ve çok biçimlilik kavramlarını Python ile uygular.\n4. OOP ilkelerine uygun yazılım modülleri geliştirir.\n5. Gerçek dünya problemleri için nesne tabanlı uygulamalar geliştirir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Python çalışma ortamının kurulumu, IDE tanıtımı\nHafta 2: Değişkenler, veri tipleri ve temel işleme dayalı uygulamalar\nHafta 3: Koşullar, döngüler ve temel algoritma uygulamaları\nHafta 4: Veri yapıları uygulamaları\nHafta 5: Sınıf ve nesne tanımlama, yapıcı metot uygulaması\nHafta 6: Özellikler ve metotların tanımlanması\nHafta 7: Kapsülleme uygulamaları\nHafta 8: Miras alma örnekleri\nHafta 9: Çok biçimlilik uygulamaları\nHafta 10: Soyut sınıflar ve modül oluşturma\nHafta 11: Dosya işlemleri ve hata yönetimi\nHafta 12: Mini proje geliştirme 1 – OOP kavramlarının entegrasyonu Öğretim üyesi rehberliği\nHafta 13: Mini proje geliştirme 2 – Test ve hata ayıklama Öğretim üyesi rehberliği\nHafta 14: Dönem değerlendirmesi Öğretim üyesi değerlendirmesi\n",
+  "source_file": "BMB217_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

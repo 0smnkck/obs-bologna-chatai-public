@@ -1,0 +1,63 @@
+{
+  "title": "BMB404 - Ar-Ge ve Teknoloji Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB404",
+    "ders_adi": "Ar-Ge ve Teknoloji",
+    "yariyil": "8",
+    "kredi": "2",
+    "akts": "2",
+    "son_guncelleme": "05.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER"
+  },
+  "sections": {
+    "amac": "Öğrencilere Ar-Ge, teknoloji ve inovasyon kavramlarını tanıtmak, teknoloji yönetimi, ürün geliştirme süreçleri ve dünyadaki Ar-Ge ekosistemleri hakkında akademik ve sektörel bir bakış açısı kazandırmak hedeflanmektedir.",
+    "icerik": "Teknoloji kavramı, inovasyon türleri, Ar-Ge tanımı ve kapsamı, gelişmekte olan ülkelerde Ar-Ge politikaları, Ar-Ge yönetimi, Ar-Ge merkezlerinin yapısı, ürün geliştirme süreçleri ve teknoloji-Ar-Ge ilişkisi.",
+    "yontemler": "Anlatım, Soru-Cevap",
+    "kaynaklar": {
+      "kitaplar": [
+        "Betz, F. Managing Technological Innovation: Competitive Advantage from Change, 2011, John Wiley & Sons."
+      ],
+      "ders_notlari": [
+        "Öğretim Üyesi tarafından hazırlanan ders notları"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Teknoloji, Ar-Ge ve inovasyon arasındaki temel kavramsal farkları ve etkileşimleri açıklayabilir.",
+      "Ar-Ge projelerinin yönetimi ve Ar-Ge merkezlerinin işleyiş mekanizmalarını analiz edebilir.",
+      "Yeni bir ürün geliştirme sürecinin aşamalarını ve bu süreçte teknolojinin rolünü tanımlayabilir.",
+      "Teknoloji transferi ve fikri hakların korunması stratejilerini kavrar."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Teknoloji Kavramı ve Temel Tanımlar",
+      "Hafta 2: İnovasyon: Tanımı, Türleri ve Süreçleri",
+      "Hafta 3: Ar-Ge: Tanımı, Kapsamı ve Çeşitleri",
+      "Hafta 4: Dünyada Ar-Ge ve Gelişmekte Olan Ülkelerin Stratejileri",
+      "Hafta 5: Ar-Ge Yönetimi: Organizasyon ve Planlama",
+      "Hafta 6: Ar-Ge Merkezleri: Kurulum, Yapı ve İşleyiş",
+      "Hafta 7: Ürün Geliştirme Süreçleri ve Tasarım Yönetimi",
+      "Hafta 8: Ar-Ge ve Teknoloji Arasındaki Stratejik İlişki",
+      "Hafta 9: Teknoloji Yaşam Döngüsü ve S-Eğrileri",
+      "Hafta 10: Fikri Mülkiyet Hakları: Patent, Faydalı Model ve Marka",
+      "Hafta 11: Ulusal ve Uluslararası Ar-Ge Teşvik ve Destekleri",
+      "Hafta 12: Üniversite-Sanayi İşbirliği Modelleri ve TTO'lar",
+      "Hafta 13: Teknoloji Öngörüsü ve Gelecek Projeksiyonları",
+      "Hafta 14: Ar-Ge'de Güncel Trendler ve Dijital Dönüşüm"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Ar-Ge ve Teknoloji\nDers Kodu: BMB404\nYarıyıl: 8. Yarıyıl\nKredi: 2\nAKTS Kredisi: 2\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 05.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Abdurrahman Burak GÜHER\n\n--- DERS AMACI ---\nÖğrencilere Ar-Ge, teknoloji ve inovasyon kavramlarını tanıtmak, teknoloji yönetimi, ürün geliştirme süreçleri ve dünyadaki Ar-Ge ekosistemleri hakkında akademik ve sektörel bir bakış açısı kazandırmak hedeflanmektedir.\n\n--- DERS İÇERİĞİ ---\nTeknoloji kavramı, inovasyon türleri, Ar-Ge tanımı ve kapsamı, gelişmekte olan ülkelerde Ar-Ge politikaları, Ar-Ge yönetimi, Ar-Ge merkezlerinin yapısı, ürün geliştirme süreçleri ve teknoloji-Ar-Ge ilişkisi.\n\nÖğretim Yöntemleri: Anlatım, Soru-Cevap\n\n--- DERS KAYNAKLARI ---\n• Betz, F. Managing Technological Innovation: Competitive Advantage from Change, 2011, John Wiley & Sons.\n• Ders Notu: Öğretim Üyesi tarafından hazırlanan ders notları\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Teknoloji, Ar-Ge ve inovasyon arasındaki temel kavramsal farkları ve etkileşimleri açıklayabilir.\n2. Ar-Ge projelerinin yönetimi ve Ar-Ge merkezlerinin işleyiş mekanizmalarını analiz edebilir.\n3. Yeni bir ürün geliştirme sürecinin aşamalarını ve bu süreçte teknolojinin rolünü tanımlayabilir.\n4. Teknoloji transferi ve fikri hakların korunması stratejilerini kavrar.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Teknoloji Kavramı ve Temel Tanımlar\nHafta 2: İnovasyon: Tanımı, Türleri ve Süreçleri\nHafta 3: Ar-Ge: Tanımı, Kapsamı ve Çeşitleri\nHafta 4: Dünyada Ar-Ge ve Gelişmekte Olan Ülkelerin Stratejileri\nHafta 5: Ar-Ge Yönetimi: Organizasyon ve Planlama\nHafta 6: Ar-Ge Merkezleri: Kurulum, Yapı ve İşleyiş\nHafta 7: Ürün Geliştirme Süreçleri ve Tasarım Yönetimi\nHafta 8: Ar-Ge ve Teknoloji Arasındaki Stratejik İlişki\nHafta 9: Teknoloji Yaşam Döngüsü ve S-Eğrileri\nHafta 10: Fikri Mülkiyet Hakları: Patent, Faydalı Model ve Marka\nHafta 11: Ulusal ve Uluslararası Ar-Ge Teşvik ve Destekleri\nHafta 12: Üniversite-Sanayi İşbirliği Modelleri ve TTO'lar\nHafta 13: Teknoloji Öngörüsü ve Gelecek Projeksiyonları\nHafta 14: Ar-Ge'de Güncel Trendler ve Dijital Dönüşüm\n",
+  "source_file": "BMB404_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

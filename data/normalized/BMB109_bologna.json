@@ -1,0 +1,68 @@
+{
+  "title": "BMB109 - Algoritma ve Programlama I Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB109",
+    "ders_adi": "Algoritma ve Programlama I",
+    "yariyil": "1",
+    "kredi": "2",
+    "akts": "5",
+    "son_guncelleme": "21.10.2025",
+    "ogretim_uyesi": "Doç. Dr. Mehmet Fatih TEFEK"
+  },
+  "sections": {
+    "amac": "Bu ders bilgisayar bilimleri ve programlamanın temellerine bir giriş niteliğindedir. Dersin amacı çok az programlama deneyimi olan ya da hiç programlama deneyimi olmayan öğrencilere soyut kavramlar kullanarak programlama problemlerini çözebilmelerine yardımcı olacak yetenekleri kazandırmaktır.",
+    "icerik": "Bu derste bilgisayar sisteminin temelleri, bilgisayar programı ve çalışması, algoritma ve veri yapıları kavramları, programlama dili ve nesilleri, derleyici ve yorumlayıcı, uygulama geliştirme süreçleri, gerekli yazılım araçlarının kurulumu açıklanacaktır. Genel amaçlı programlama dillerinde kullanılan temel veri tipleri ve değişken tanımı, tek ve çok boyutlu dizi tanımı, string kavramı, işaretçi tanımı ve dinamik hafıza tahsisi, veri yapıları, işleçler, program akış kontrol deyimleri, fonksiyon tanımı, bildirimi ve çağrısı, standard fonksiyon örnekleri ve modüler programlama vb. konular ders hedeflerini uygulamalı olarak yerine getirebilmek için C programlama dili referans alınarak işlenecektir.",
+    "yontemler": "Teorik Anlatım, Kaynak Kodları Üzerinden Uygulamalı Anlatım, Uygulama",
+    "kaynaklar": {
+      "kitaplar": [
+        "Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley"
+      ],
+      "ders_notlari": [
+        "Ders Sunuları; Ders Slaytları, Online Kaynaklar, İlgili Programlama Diline Ait Kaynak Kodları"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Bilgisayar sisteminin temel çalışma mantığını, algoritma ve veri yapıları kavramlarını açıklar.",
+      "Programlama dili kavramını, nesillerini, tercüme tekniklerini ve arayüz kavramını açıklar.",
+      "İlgili programlama dilinde yazılım geliştirme süreçlerini açıklar ve gerekli yazılım araçlarının kurulumunu gerçekleştirir.",
+      "İlgili programlama dilinde kaynak kodlarını oluşturarak uygulamalar geliştirip, çalıştırır.",
+      "Genel amaçlı programlama dillerinde kullanılan veri tipleri, değişken tanımı, dizi tanımı vb. temel kavramları açıklar ve ilgili programlama dilinde uygular.",
+      "Genel amaçlı programlama dillerinde kullanılan işaretçi tanımı, işaretçi aritmetiği, dinamik hafıza tahsisi vb. temel kavramları açıklar ve ilgili programlama dilinde uygular.",
+      "Genel amaçlı programlama dillerinde kullanılan akış kontrol deyimlerini (if-else, switch-case, for, while, vb.) açıklar ve ilgili programlama dilinde uygular.",
+      "Genel amaçlı programlama dillerinde kullanılan fonksiyon tanımı, bildirimi, çağrısı vb. temel kavramları açıklar ve ilgili programlama dilinde standart fonksiyon örnekleri ile birlikte uygular.",
+      "Test ve hata ayıklama tekniklerini uygular ve program yürütülürken oluşabilecek hataları yönetir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Bilgisayarın Temelleri, Bilgisayar Programı ve Çalışması, Algoritma Kavramları Ders slaytları ve laboratuvar materyalleri",
+      "Hafta 2: Algoritmalar ve akış şemalarına giriş Ders sunumları",
+      "Hafta 3: Algoritma ve akış şemaları üzerinde pratik Ders Sunumları",
+      "Hafta 4: Algoritma ve akış şemaları üzerinde pratik Ders slaytları ve laboratuvar materyalleri",
+      "Hafta 5: C'de Bir Programın Yapısı Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley",
+      "Hafta 6: C'de Koşullu İfadeler Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley",
+      "Hafta 7: C'de Program Akış Kontrolü ve Döngüler Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley",
+      "Hafta 8: C Dilinde Temel Veri Tipleri, Değişken Tanımı, Tek ve Çok Boyutlu Dizi Tanımlama Algoritma ve Akış diyagramı kavraması Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley",
+      "Hafta 9: C Dilinde Temel Veri Tipleri, Değişken Tanımı, Tek ve Çok Boyutlu Dizi Tanımlama Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley",
+      "Hafta 10: C Dilinde İşaretçi Tanımı, İşaretçi Aritmetiği ve Dinamik Hafıza Tahsisi Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley",
+      "Hafta 11: C Dilinde Fonksiyon Tanımı, Fonksiyon Bildirimi, Fonksiyon Çağrısı ve Standard Fonksiyon Örnekleri Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley",
+      "Hafta 12: C Dilinde Fonksiyon Tanımı, Fonksiyon Bildirimi, Fonksiyon Çağrısı ve Standard Fonksiyon Örnekleri Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley",
+      "Hafta 13: C'de Hata Ayıklama ve Yakalama Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley",
+      "Hafta 14: C'de Dosya İşlemleri Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Algoritma ve Programlama I\nDers Kodu: BMB109\nYarıyıl: 1. Yarıyıl\nKredi: 2\nAKTS Kredisi: 5\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 21.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Doç. Dr. Mehmet Fatih TEFEK\n\n--- DERS AMACI ---\nBu ders bilgisayar bilimleri ve programlamanın temellerine bir giriş niteliğindedir. Dersin amacı çok az programlama deneyimi olan ya da hiç programlama deneyimi olmayan öğrencilere soyut kavramlar kullanarak programlama problemlerini çözebilmelerine yardımcı olacak yetenekleri kazandırmaktır.\n\n--- DERS İÇERİĞİ ---\nBu derste bilgisayar sisteminin temelleri, bilgisayar programı ve çalışması, algoritma ve veri yapıları kavramları, programlama dili ve nesilleri, derleyici ve yorumlayıcı, uygulama geliştirme süreçleri, gerekli yazılım araçlarının kurulumu açıklanacaktır. Genel amaçlı programlama dillerinde kullanılan temel veri tipleri ve değişken tanımı, tek ve çok boyutlu dizi tanımı, string kavramı, işaretçi tanımı ve dinamik hafıza tahsisi, veri yapıları, işleçler, program akış kontrol deyimleri, fonksiyon tanımı, bildirimi ve çağrısı, standard fonksiyon örnekleri ve modüler programlama vb. konular ders hedeflerini uygulamalı olarak yerine getirebilmek için C programlama dili referans alınarak işlenecektir.\n\nÖğretim Yöntemleri: Teorik Anlatım, Kaynak Kodları Üzerinden Uygulamalı Anlatım, Uygulama\n\n--- DERS KAYNAKLARI ---\n• Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley\n• Ders Notu: Ders Sunuları; Ders Slaytları, Online Kaynaklar, İlgili Programlama Diline Ait Kaynak Kodları\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Bilgisayar sisteminin temel çalışma mantığını, algoritma ve veri yapıları kavramlarını açıklar.\n2. Programlama dili kavramını, nesillerini, tercüme tekniklerini ve arayüz kavramını açıklar.\n3. İlgili programlama dilinde yazılım geliştirme süreçlerini açıklar ve gerekli yazılım araçlarının kurulumunu gerçekleştirir.\n4. İlgili programlama dilinde kaynak kodlarını oluşturarak uygulamalar geliştirip, çalıştırır.\n5. Genel amaçlı programlama dillerinde kullanılan veri tipleri, değişken tanımı, dizi tanımı vb. temel kavramları açıklar ve ilgili programlama dilinde uygular.\n6. Genel amaçlı programlama dillerinde kullanılan işaretçi tanımı, işaretçi aritmetiği, dinamik hafıza tahsisi vb. temel kavramları açıklar ve ilgili programlama dilinde uygular.\n7. Genel amaçlı programlama dillerinde kullanılan akış kontrol deyimlerini (if-else, switch-case, for, while, vb.) açıklar ve ilgili programlama dilinde uygular.\n8. Genel amaçlı programlama dillerinde kullanılan fonksiyon tanımı, bildirimi, çağrısı vb. temel kavramları açıklar ve ilgili programlama dilinde standart fonksiyon örnekleri ile birlikte uygular.\n9. Test ve hata ayıklama tekniklerini uygular ve program yürütülürken oluşabilecek hataları yönetir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Bilgisayarın Temelleri, Bilgisayar Programı ve Çalışması, Algoritma Kavramları Ders slaytları ve laboratuvar materyalleri\nHafta 2: Algoritmalar ve akış şemalarına giriş Ders sunumları\nHafta 3: Algoritma ve akış şemaları üzerinde pratik Ders Sunumları\nHafta 4: Algoritma ve akış şemaları üzerinde pratik Ders slaytları ve laboratuvar materyalleri\nHafta 5: C'de Bir Programın Yapısı Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley\nHafta 6: C'de Koşullu İfadeler Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley\nHafta 7: C'de Program Akış Kontrolü ve Döngüler Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley\nHafta 8: C Dilinde Temel Veri Tipleri, Değişken Tanımı, Tek ve Çok Boyutlu Dizi Tanımlama Algoritma ve Akış diyagramı kavraması Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley\nHafta 9: C Dilinde Temel Veri Tipleri, Değişken Tanımı, Tek ve Çok Boyutlu Dizi Tanımlama Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley\nHafta 10: C Dilinde İşaretçi Tanımı, İşaretçi Aritmetiği ve Dinamik Hafıza Tahsisi Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley\nHafta 11: C Dilinde Fonksiyon Tanımı, Fonksiyon Bildirimi, Fonksiyon Çağrısı ve Standard Fonksiyon Örnekleri Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley\nHafta 12: C Dilinde Fonksiyon Tanımı, Fonksiyon Bildirimi, Fonksiyon Çağrısı ve Standard Fonksiyon Örnekleri Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley\nHafta 13: C'de Hata Ayıklama ve Yakalama Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley\nHafta 14: C'de Dosya İşlemleri Bjarne Stroustrup - Programming Principles and Practice Using C++ , Addison Wesley\n",
+  "source_file": "BMB109_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

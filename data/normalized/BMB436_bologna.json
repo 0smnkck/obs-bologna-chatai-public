@@ -1,0 +1,69 @@
+{
+  "title": "BMB436 - FPGA Programlama Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB436",
+    "ders_adi": "FPGA Programlama",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "06.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Donanım tanımlama dili kullanılarak FPGA üzerinde sistem tasarımı hakkında öğrencilerin bilgi sahibi olmasını sağlamak",
+    "icerik": "Gömülü sistemlerin uygulama alanları, PLD Teknolojileri ve Ürünleri, Donanım Tanımlama Dilleri (HDL), Davranışsal ve kapı seviyesi tasarım modelleri, Kombinezonsal ve Ardışıl devre tasarımları, Aritmetik ve Mantık Devrelerinin HDL ile tasarımı, I/O Çevresel Arayüz Birimleri, I/O Çevresel Arayüz Birimleri, Sonlu durum makineleri ile sistem tanımlama.",
+    "yontemler": "Anlatım, Alıştırma ve Uygulama, Proje Temelli Öğrenme",
+    "kaynaklar": {
+      "kitaplar": [
+        "Roth, C. H., & John, L. K. (2008). Digital systems design using VHDL. Thomson. Brown, S., & Vranesic, Z. (2005). Digital Logic with VHDL Design. McGRAW HILL company. Rafiquzzaman, M. (2005). Fundamentals of digital logic and microcomputer design. John Wiley & Sons. Dally, W. J., Harting, R. C., & Aamodt, T. M. (2016). Digital design using VHDL. Cambridge University Press. LaMeres, B. J. (2023). Introduction to logic circuits & logic design with VHDL. Springer Nature. Taraate, V. (2022). Digital logic design using verilog. Springer Singapore. Harris, S., & Harris, D. (2021). Digital Design and Computer Architecture, RISC-V Edition. Morgan Kaufmann."
+      ],
+      "ders_notlari": [
+        "Pong, P. (2008). FPGA Prototyping by VHDL Examples: Xilinx SpartanTM-3 Version."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Kodun bir \"yazılım\" olmadığının, aslında bir donanım inşa etmek olduğunun kavranması",
+      "Mantıksal kapıları kullanarak kodla kendi seçicilerini, toplayıcılarını ve karşılaştırıcılarını tasarlayabilme.",
+      "Bir işlemin saat vuruşuyla nasıl tetiklendiğinin kavrama; bir veriyi saklayabilme ve bu veriyi gerektiğinde geri çağırabilme, ardışıl devreleri tasarlayabilme",
+      "Tasarladığı devrenin simülasyonu için profesyonel test senaryoları oluşturabilme.",
+      "Karmaşık bir algoritmayı VHDL kullanarak donanım seviyesinde modelleyebilme"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Sayısal Mantık Devrelerine Genel Bakış ve Derse Giriş Temel mantık kapıları (AND, OR, NOT, XOR), Boole cebri ve Karno haritaları konuları gözden geçirilmelidir. Sayısal ve analog sinyaller arasındaki fark araştırılmalıdır.",
+      "Hafta 2: FPGA Mimarisi ve Tasarım Akışı FPGA'in temel yapı taşları (CLB, LUT, IOB, anahtarlama matrisleri) incelenmelidir. Bir donanım tasarım akışının (sentez, yerleştirme, yönlendirme) adımları okunmalıdır.",
+      "Hafta 3: VHDL Giriş: Temel Yapı ve Hiyerarşi VHDL'in bir donanım tanımlama dili (HDL) olarak amacı araştırılmalıdır. ENTITY, ARCHITECTURE ve LIBRARY bildirimlerinin temel söz dizimi (syntax) incelenmelidir.",
+      "Hafta 4: VHDL'de Veri Tipleri, Operatörler ve Sinyaller STD_LOGIC ve STD_LOGIC_VECTOR veri tiplerinin önemi anlaşılmalıdır. SIGNAL ve VARIABLE arasındaki farklar ve temel mantıksal operatörler çalışılmalıdır.",
+      "Hafta 5: Kombinasyonel Devrelerin VHDL ile Modellenmesi Kombinasyonel (birleşimsel) devrenin tanımı (hafızasız devre) pekiştirilmelidir. WHEN-ELSE, WITH-SELECT gibi eşzamanlı (concurrent) VHDL ifadeleri incelenmelidir.",
+      "Hafta 6: Sıralı Devrelerin VHDL ile Modellenmesi - Temeller Sıralı (ardışıl) devrenin tanımı (hafızalı devre, saat sinyali) öğrenilmelidir. Flip-flop ve Latch kavramları tekrar edilmelidir. PROCESS bloğunun temel yapısı çalışılmalıdır.",
+      "Hafta 7: Sıralı Devrelerin VHDL ile Modellenmesi - Gelişmiş Konular Durum makinesi (Finite State Machine - FSM) kavramı araştırılmalıdır. Sayıcı (counter) ve kaydırmalı yazmaç (shift register) gibi yapıların VHDL ile nasıl modelleneceği incelenmelidir.",
+      "Hafta 8: Tasarım Simülasyonu ve Testbench Kavramı Donanım tasarımında simülasyonun neden kritik olduğu anlaşılmalıdır. Bir \"Testbench\"in ne olduğu ve VHDL'de test sinyalleri üretmek için nasıl yazıldığı öğrenilmelidir.",
+      "Hafta 9: Ara sınav 1. ve 8. haftalar arasındaki tüm VHDL kodlama teknikleri, mimari kavramlar ve sayısal mantık temelleri tekrar edilmelidir. Örnek simülasyon sonuçları yorumlanmalıdır.",
+      "Hafta 10: Proje Konularının Belirlenmesi ve Tartışılması Dersin hedeflerine uygun potansiyel FPGA proje fikirleri düşünülmelidir. Proje grupları (eğer varsa) oluşturulmalı ve ilgi alanları belirlenmelidir.",
+      "Hafta 11: FPGA Geliştirme Ortamı ve Fiziksel Gerçekleme Derste kullanılacak spesifik FPGA IDE (örn. Xilinx Vivado, Intel Quartus) yazılımı kurulmalıdır. Sentez (Synthesis) ve Uygulama (Implementation) adımlarının pratik anlamı araştırılmalıdır.",
+      "Hafta 12: Örnek Uygulamalar: FPGA Üzerinde Gerçekleme Geliştirme kartına ait kısıtlama dosyası (Constraints File - XDC/UCF) incelenmelidir. Basit bir devrenin (örn. LED yakma) nasıl sentezlenip karta yükleneceği öğrenilmelidir.",
+      "Hafta 13: Proje Sunumları Proje raporunun taslağı tamamlanmış olmalıdır. Sunum slaytları hazırlanmalı ve yapılacak demo (canlı gösterim) için donanım/simülasyon son kontrolleri yapılmalıdır.",
+      "Hafta 14: Proje Sunumları Proje kodu ve dokümantasyonu teslim edilmek üzere son haline getirilmelidir. Sunum sırasında gelebilecek teknik sorulara yönelik hazırlık yapılmalıdır."
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: FPGA Programlama\nDers Kodu: BMB436\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 06.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr\n\n--- DERS AMACI ---\nDonanım tanımlama dili kullanılarak FPGA üzerinde sistem tasarımı hakkında öğrencilerin bilgi sahibi olmasını sağlamak\n\n--- DERS İÇERİĞİ ---\nGömülü sistemlerin uygulama alanları, PLD Teknolojileri ve Ürünleri, Donanım Tanımlama Dilleri (HDL), Davranışsal ve kapı seviyesi tasarım modelleri, Kombinezonsal ve Ardışıl devre tasarımları, Aritmetik ve Mantık Devrelerinin HDL ile tasarımı, I/O Çevresel Arayüz Birimleri, I/O Çevresel Arayüz Birimleri, Sonlu durum makineleri ile sistem tanımlama.\n\nÖğretim Yöntemleri: Anlatım, Alıştırma ve Uygulama, Proje Temelli Öğrenme\n\n--- DERS KAYNAKLARI ---\n• Roth, C. H., & John, L. K. (2008). Digital systems design using VHDL. Thomson. Brown, S., & Vranesic, Z. (2005). Digital Logic with VHDL Design. McGRAW HILL company. Rafiquzzaman, M. (2005). Fundamentals of digital logic and microcomputer design. John Wiley & Sons. Dally, W. J., Harting, R. C., & Aamodt, T. M. (2016). Digital design using VHDL. Cambridge University Press. LaMeres, B. J. (2023). Introduction to logic circuits & logic design with VHDL. Springer Nature. Taraate, V. (2022). Digital logic design using verilog. Springer Singapore. Harris, S., & Harris, D. (2021). Digital Design and Computer Architecture, RISC-V Edition. Morgan Kaufmann.\n• Ders Notu: Pong, P. (2008). FPGA Prototyping by VHDL Examples: Xilinx SpartanTM-3 Version.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %30\nProje: 1 adet, katkı oranı %30\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Kodun bir \"yazılım\" olmadığının, aslında bir donanım inşa etmek olduğunun kavranması\n2. Mantıksal kapıları kullanarak kodla kendi seçicilerini, toplayıcılarını ve karşılaştırıcılarını tasarlayabilme.\n3. Bir işlemin saat vuruşuyla nasıl tetiklendiğinin kavrama; bir veriyi saklayabilme ve bu veriyi gerektiğinde geri çağırabilme, ardışıl devreleri tasarlayabilme\n4. Tasarladığı devrenin simülasyonu için profesyonel test senaryoları oluşturabilme.\n5. Karmaşık bir algoritmayı VHDL kullanarak donanım seviyesinde modelleyebilme\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Sayısal Mantık Devrelerine Genel Bakış ve Derse Giriş Temel mantık kapıları (AND, OR, NOT, XOR), Boole cebri ve Karno haritaları konuları gözden geçirilmelidir. Sayısal ve analog sinyaller arasındaki fark araştırılmalıdır.\nHafta 2: FPGA Mimarisi ve Tasarım Akışı FPGA'in temel yapı taşları (CLB, LUT, IOB, anahtarlama matrisleri) incelenmelidir. Bir donanım tasarım akışının (sentez, yerleştirme, yönlendirme) adımları okunmalıdır.\nHafta 3: VHDL Giriş: Temel Yapı ve Hiyerarşi VHDL'in bir donanım tanımlama dili (HDL) olarak amacı araştırılmalıdır. ENTITY, ARCHITECTURE ve LIBRARY bildirimlerinin temel söz dizimi (syntax) incelenmelidir.\nHafta 4: VHDL'de Veri Tipleri, Operatörler ve Sinyaller STD_LOGIC ve STD_LOGIC_VECTOR veri tiplerinin önemi anlaşılmalıdır. SIGNAL ve VARIABLE arasındaki farklar ve temel mantıksal operatörler çalışılmalıdır.\nHafta 5: Kombinasyonel Devrelerin VHDL ile Modellenmesi Kombinasyonel (birleşimsel) devrenin tanımı (hafızasız devre) pekiştirilmelidir. WHEN-ELSE, WITH-SELECT gibi eşzamanlı (concurrent) VHDL ifadeleri incelenmelidir.\nHafta 6: Sıralı Devrelerin VHDL ile Modellenmesi - Temeller Sıralı (ardışıl) devrenin tanımı (hafızalı devre, saat sinyali) öğrenilmelidir. Flip-flop ve Latch kavramları tekrar edilmelidir. PROCESS bloğunun temel yapısı çalışılmalıdır.\nHafta 7: Sıralı Devrelerin VHDL ile Modellenmesi - Gelişmiş Konular Durum makinesi (Finite State Machine - FSM) kavramı araştırılmalıdır. Sayıcı (counter) ve kaydırmalı yazmaç (shift register) gibi yapıların VHDL ile nasıl modelleneceği incelenmelidir.\nHafta 8: Tasarım Simülasyonu ve Testbench Kavramı Donanım tasarımında simülasyonun neden kritik olduğu anlaşılmalıdır. Bir \"Testbench\"in ne olduğu ve VHDL'de test sinyalleri üretmek için nasıl yazıldığı öğrenilmelidir.\nHafta 9: Ara sınav 1. ve 8. haftalar arasındaki tüm VHDL kodlama teknikleri, mimari kavramlar ve sayısal mantık temelleri tekrar edilmelidir. Örnek simülasyon sonuçları yorumlanmalıdır.\nHafta 10: Proje Konularının Belirlenmesi ve Tartışılması Dersin hedeflerine uygun potansiyel FPGA proje fikirleri düşünülmelidir. Proje grupları (eğer varsa) oluşturulmalı ve ilgi alanları belirlenmelidir.\nHafta 11: FPGA Geliştirme Ortamı ve Fiziksel Gerçekleme Derste kullanılacak spesifik FPGA IDE (örn. Xilinx Vivado, Intel Quartus) yazılımı kurulmalıdır. Sentez (Synthesis) ve Uygulama (Implementation) adımlarının pratik anlamı araştırılmalıdır.\nHafta 12: Örnek Uygulamalar: FPGA Üzerinde Gerçekleme Geliştirme kartına ait kısıtlama dosyası (Constraints File - XDC/UCF) incelenmelidir. Basit bir devrenin (örn. LED yakma) nasıl sentezlenip karta yükleneceği öğrenilmelidir.\nHafta 13: Proje Sunumları Proje raporunun taslağı tamamlanmış olmalıdır. Sunum slaytları hazırlanmalı ve yapılacak demo (canlı gösterim) için donanım/simülasyon son kontrolleri yapılmalıdır.\nHafta 14: Proje Sunumları Proje kodu ve dokümantasyonu teslim edilmek üzere son haline getirilmelidir. Sunum sırasında gelebilecek teknik sorulara yönelik hazırlık yapılmalıdır.\n",
+  "source_file": "BMB436_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

@@ -1,0 +1,65 @@
+{
+  "title": "BMB313 - Bilgisayar Ağları Laboratuvarı Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB313",
+    "ders_adi": "Bilgisayar Ağları Laboratuvarı",
+    "yariyil": "5",
+    "kredi": "1",
+    "akts": "2",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilerin bilgisayar ağlarının çalışma prensiplerini uygulamalı olarak öğrenmelerini, ağ cihazlarını yapılandırabilmelerini ve ağ iletişimini analiz edebilmelerini sağlamaktır.",
+    "icerik": "Ders içeriği; Cisco Packet Tracer ortamında ağ topolojisi oluşturma, IP adresleme, DHCP, DNS ve Web servisleri, yönlendirme protokolleri, TCP bağlantı yönetimi, VPN yapılandırmaları, socket ve WebSocket programlama, NAT ve Wireshark analizlerini kapsamaktadır.",
+    "yontemler": "Uygulamalı laboratuvar çalışmaları, grup tartışmaları ve proje tabanlı öğrenme teknikleri kullanılır.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Cisco Networking Academy. (2025). Bilgisayar Ağları Eğitimi Platformu: NetAcad. Erişim adresi: https://www.netacad.com"
+      ],
+      "ders_notlari": [
+        "Cisco Networking Academy kaynakları, ders slaytları ve laboratuvar uygulama kılavuzları."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Cisco Packet Tracer kullanarak temel ağ topolojilerini oluşturur ve yapılandırır.",
+      "TCP/IP protokol ailesi ve IP adresleme kavramlarını uygulamalı olarak açıklar.",
+      "Web, DNS ve DHCP gibi temel ağ servislerini kurar ve test eder.",
+      "Yönlendirme, NAT ve VPN yapılandırmalarını gerçekleştirir ve ağ trafiğini analiz eder.",
+      "Wireshark ve benzeri araçlarla paket analizi yapar ve ağ performansını değerlendirir.",
+      "Socket programlama ve WebSocket uygulamaları geliştirerek istemci-sunucu iletişimini simüle eder."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Cisco Packet Tracer’a Giriş Cisco Packet Tracer kurulumunu incele Ders slaytları ve kurulum kılavuzu",
+      "Hafta 2: Ağ Temelleri ve Topoloji İncelemesi Ağ cihazlarını ve topolojileri araştır Cisco Networking temelleri notları",
+      "Hafta 3: Ev Ağı Kurulumu ve Ping Mesajları Ping ve IP komutlarını gözden geçir Ping ve IP komut kılavuzu",
+      "Hafta 4: Web Sunucusu ve HTTP Deneyi HTTP protokolünü araştır Web sunucu yapılandırma dokümanı",
+      "Hafta 5: DNS Sunucu Hiyerarşisi DNS kavramlarını incele DNS yapılandırma notları",
+      "Hafta 6: Socket Programlama Python socket kütüphanesini incele Socket programlama örnekleri",
+      "Hafta 7: TCP ve Sıra Numarası Deneyi TCP bağlantı sürecini incele TCP analiz dokümanı",
+      "Hafta 8: VPN Deneyi VPN türlerini araştır VPN yapılandırma dökümanı",
+      "Hafta 9: WebSocket Deneyi WebSocket kavramını incele WebSocket örnek uygulaması",
+      "Hafta 10: IP, DHCP ve NAT Yapılandırmaları IP sınıflarını ve NAT türlerini gözden geçir DHCP/NAT yapılandırma notları",
+      "Hafta 11: Yönlendirme Algoritması ve Tracert Deneyi Tracert komutunu incele Yönlendirme algoritması dökümanı",
+      "Hafta 12: Router OSPF Yapılandırmaları OSPF protokolünü araştır OSPF yapılandırma rehberi",
+      "Hafta 13: Wireshark Deneyleri Paket analizi kavramını incele Wireshark analiz örnekleri",
+      "Hafta 14: Switch Yapılandırmaları ve Genel Değerlendirme Switch kavramlarını gözden geçir Switch yapılandırma dokümanı"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Bilgisayar Ağları Laboratuvarı\nDers Kodu: BMB313\nYarıyıl: 5. Yarıyıl\nKredi: 1\nAKTS Kredisi: 2\nDers Saati: Teori=0, Uygulama=2, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilerin bilgisayar ağlarının çalışma prensiplerini uygulamalı olarak öğrenmelerini, ağ cihazlarını yapılandırabilmelerini ve ağ iletişimini analiz edebilmelerini sağlamaktır.\n\n--- DERS İÇERİĞİ ---\nDers içeriği; Cisco Packet Tracer ortamında ağ topolojisi oluşturma, IP adresleme, DHCP, DNS ve Web servisleri, yönlendirme protokolleri, TCP bağlantı yönetimi, VPN yapılandırmaları, socket ve WebSocket programlama, NAT ve Wireshark analizlerini kapsamaktadır.\n\nÖğretim Yöntemleri: Uygulamalı laboratuvar çalışmaları, grup tartışmaları ve proje tabanlı öğrenme teknikleri kullanılır.\n\n--- DERS KAYNAKLARI ---\n• Cisco Networking Academy. (2025). Bilgisayar Ağları Eğitimi Platformu: NetAcad. Erişim adresi: https://www.netacad.com\n• Ders Notu: Cisco Networking Academy kaynakları, ders slaytları ve laboratuvar uygulama kılavuzları.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %30\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Cisco Packet Tracer kullanarak temel ağ topolojilerini oluşturur ve yapılandırır.\n2. TCP/IP protokol ailesi ve IP adresleme kavramlarını uygulamalı olarak açıklar.\n3. Web, DNS ve DHCP gibi temel ağ servislerini kurar ve test eder.\n4. Yönlendirme, NAT ve VPN yapılandırmalarını gerçekleştirir ve ağ trafiğini analiz eder.\n5. Wireshark ve benzeri araçlarla paket analizi yapar ve ağ performansını değerlendirir.\n6. Socket programlama ve WebSocket uygulamaları geliştirerek istemci-sunucu iletişimini simüle eder.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Cisco Packet Tracer’a Giriş Cisco Packet Tracer kurulumunu incele Ders slaytları ve kurulum kılavuzu\nHafta 2: Ağ Temelleri ve Topoloji İncelemesi Ağ cihazlarını ve topolojileri araştır Cisco Networking temelleri notları\nHafta 3: Ev Ağı Kurulumu ve Ping Mesajları Ping ve IP komutlarını gözden geçir Ping ve IP komut kılavuzu\nHafta 4: Web Sunucusu ve HTTP Deneyi HTTP protokolünü araştır Web sunucu yapılandırma dokümanı\nHafta 5: DNS Sunucu Hiyerarşisi DNS kavramlarını incele DNS yapılandırma notları\nHafta 6: Socket Programlama Python socket kütüphanesini incele Socket programlama örnekleri\nHafta 7: TCP ve Sıra Numarası Deneyi TCP bağlantı sürecini incele TCP analiz dokümanı\nHafta 8: VPN Deneyi VPN türlerini araştır VPN yapılandırma dökümanı\nHafta 9: WebSocket Deneyi WebSocket kavramını incele WebSocket örnek uygulaması\nHafta 10: IP, DHCP ve NAT Yapılandırmaları IP sınıflarını ve NAT türlerini gözden geçir DHCP/NAT yapılandırma notları\nHafta 11: Yönlendirme Algoritması ve Tracert Deneyi Tracert komutunu incele Yönlendirme algoritması dökümanı\nHafta 12: Router OSPF Yapılandırmaları OSPF protokolünü araştır OSPF yapılandırma rehberi\nHafta 13: Wireshark Deneyleri Paket analizi kavramını incele Wireshark analiz örnekleri\nHafta 14: Switch Yapılandırmaları ve Genel Değerlendirme Switch kavramlarını gözden geçir Switch yapılandırma dokümanı\n",
+  "source_file": "BMB313_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

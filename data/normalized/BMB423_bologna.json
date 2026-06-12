@@ -1,0 +1,71 @@
+{
+  "title": "BMB 423 - İnsan Bilgisayar Etkileşimi Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB423",
+    "ders_adi": "İnsan Bilgisayar Etkileşimi",
+    "yariyil": "7",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "27.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi ERHAN TURAN"
+  },
+  "sections": {
+    "amac": "İnsan-bilgisayar etkileşimi (İBE), insanların bilgisayar sistemleriyle nasıl etkileşime girdiğinin incelenmesidir. Kullanıcı deneyimini geliştiren kullanıcı dostu arayüzler tasarlamaya odaklanır. İBE, kullanıcıların teknolojiyle etkileşimini geliştirmek için bilgisayar bilimi, bilişsel psikoloji ve tasarım unsurlarını birleştirir.",
+    "icerik": "İnsan Bilgisayar Etkileşiminin (İBE) fiziksel ve felsefi boyutu, İBE’nin bilişsel boyutu, İBE tasarım temelleri, yazılım sürecinde İBE, İBE’de tasarım kuralları, Evrensel Tasarım ve Kullanıcı Desteği, İBE’de kullanılan modellemeler, İBE’de kullanılan modellemeler (Sistem modelleri, Zengin Etkileşimli Modelleme), İBE’de kullanılabilirlik kavramı, yararları ve bileşenleri Kullanılabilirlik testleri, Kullanılabilirlik çalışmaları sırasında izlenmesi gereken adımlar, Göz hareketlerini takip sistemi (Eye Tracker) ve uygulama örnekleri, Web sayfaları için etkinlik analizi.",
+    "yontemler": "Anlatım,Tartışma,Sunum,Proje",
+    "kaynaklar": {
+      "kitaplar": [
+        "Interaction Design: Beyond Human-Computer Interaction, 6th Ed., Yvonne Rogers, Helen Sharp, Jennifer Preece",
+        "Designing the User Interface - Strategies for Effective Human-Computer Interaction, Ben Shneiderman"
+      ],
+      "ders_notlari": [
+        "Interaction Design: Beyond Human-Computer Interaction, 6th Ed., Yvonne Rogers, Helen Sharp, Jennifer Preece"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "İnsan-bilgisayar etkileşimi temel kavramlarını ve tarihsel gelişimini açıklayabilme",
+      "Kullanıcı odaklı tasarım prensiplerini uygulayabilme",
+      "Kullanıcı deneyimi (UX) ve kullanıcı arayüzü (UI) tasarımının temel prensiplerini öğrenme ve uygulayabilme",
+      "Kullanılabilirlik testleri yaparak sistemlerin kullanılabilirlik performansını değerlendirebilme",
+      "Çeşitli İBE araçlarını ve tekniklerini kullanarak tasarım süreçlerini geliştirebilme.",
+      "Farklı kullanıcı gruplarının ihtiyaçlarını anlayarak kapsayıcı tasarım yapabilme"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: İnsan Bilgisayar Etkileşiminin (İBE) fiziksel ve felsefi boyutu, - -",
+      "Hafta 2: İBE’nin bilişsel boyutu, - -",
+      "Hafta 3: İBE tasarım temelleri, - -",
+      "Hafta 4: yazılım sürecinde İBE, - -",
+      "Hafta 5: İBE’de tasarım kuralları, - -",
+      "Hafta 6: Evrensel Tasarım ve Kullanıcı Desteği, - -",
+      "Hafta 7: Ara Sınav, - -",
+      "Hafta 8: İBE’de kullanılan modellemeler - Sistem modelleri - -",
+      "Hafta 9: İBE’de kullanılan modellemeler - Zengin Etkileşimli Modelleme, - -",
+      "Hafta 10: İBE’de kullanılabilirlik kavramı, yararları ve bileşenleri Kullanılabilirlik testleri, - -",
+      "Hafta 11: Kullanılabilirlik çalışmaları sırasında izlenmesi gereken adımlar, - -",
+      "Hafta 12: Göz hareketlerini takip sistemi (Eye Tracker) ve uygulama örnekleri, - -",
+      "Hafta 13: Web sayfaları için etkinlik analizi. - -",
+      "Hafta 14: Genel Tekrar - -"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: İnsan Bilgisayar Etkileşimi\nDers Kodu: BMB 423\nYarıyıl: 7. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 27.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Doç. Dr. Mehmet Fatih TEFEK\nÖğretim Üyesi: Dr. Öğr. Üyesi ERHAN TURAN\n\n--- DERS AMACI ---\nİnsan-bilgisayar etkileşimi (İBE), insanların bilgisayar sistemleriyle nasıl etkileşime girdiğinin incelenmesidir. Kullanıcı deneyimini geliştiren kullanıcı dostu arayüzler tasarlamaya odaklanır. İBE, kullanıcıların teknolojiyle etkileşimini geliştirmek için bilgisayar bilimi, bilişsel psikoloji ve tasarım unsurlarını birleştirir.\n\n--- DERS İÇERİĞİ ---\nİnsan Bilgisayar Etkileşiminin (İBE) fiziksel ve felsefi boyutu, İBE’nin bilişsel boyutu, İBE tasarım temelleri, yazılım sürecinde İBE, İBE’de tasarım kuralları, Evrensel Tasarım ve Kullanıcı Desteği, İBE’de kullanılan modellemeler, İBE’de kullanılan modellemeler (Sistem modelleri, Zengin Etkileşimli Modelleme), İBE’de kullanılabilirlik kavramı, yararları ve bileşenleri Kullanılabilirlik testleri, Kullanılabilirlik çalışmaları sırasında izlenmesi gereken adımlar, Göz hareketlerini takip sistemi (Eye Tracker) ve uygulama örnekleri, Web sayfaları için etkinlik analizi.\n\nÖğretim Yöntemleri: Anlatım,Tartışma,Sunum,Proje\n\n--- DERS KAYNAKLARI ---\n• Interaction Design: Beyond Human-Computer Interaction, 6th Ed., Yvonne Rogers, Helen Sharp, Jennifer Preece\n• Designing the User Interface - Strategies for Effective Human-Computer Interaction, Ben Shneiderman\n• Ders Notu: Interaction Design: Beyond Human-Computer Interaction, 6th Ed., Yvonne Rogers, Helen Sharp, Jennifer Preece\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nProje: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. İnsan-bilgisayar etkileşimi temel kavramlarını ve tarihsel gelişimini açıklayabilme\n2. Kullanıcı odaklı tasarım prensiplerini uygulayabilme\n3. Kullanıcı deneyimi (UX) ve kullanıcı arayüzü (UI) tasarımının temel prensiplerini öğrenme ve uygulayabilme\n4. Kullanılabilirlik testleri yaparak sistemlerin kullanılabilirlik performansını değerlendirebilme\n5. Çeşitli İBE araçlarını ve tekniklerini kullanarak tasarım süreçlerini geliştirebilme.\n6. Farklı kullanıcı gruplarının ihtiyaçlarını anlayarak kapsayıcı tasarım yapabilme\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: İnsan Bilgisayar Etkileşiminin (İBE) fiziksel ve felsefi boyutu, - -\nHafta 2: İBE’nin bilişsel boyutu, - -\nHafta 3: İBE tasarım temelleri, - -\nHafta 4: yazılım sürecinde İBE, - -\nHafta 5: İBE’de tasarım kuralları, - -\nHafta 6: Evrensel Tasarım ve Kullanıcı Desteği, - -\nHafta 7: Ara Sınav, - -\nHafta 8: İBE’de kullanılan modellemeler - Sistem modelleri - -\nHafta 9: İBE’de kullanılan modellemeler - Zengin Etkileşimli Modelleme, - -\nHafta 10: İBE’de kullanılabilirlik kavramı, yararları ve bileşenleri Kullanılabilirlik testleri, - -\nHafta 11: Kullanılabilirlik çalışmaları sırasında izlenmesi gereken adımlar, - -\nHafta 12: Göz hareketlerini takip sistemi (Eye Tracker) ve uygulama örnekleri, - -\nHafta 13: Web sayfaları için etkinlik analizi. - -\nHafta 14: Genel Tekrar - -\n",
+  "source_file": "BMB 423_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

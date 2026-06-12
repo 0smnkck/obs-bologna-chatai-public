@@ -1,0 +1,68 @@
+{
+  "title": "BMB208 - Algoritma Analizi Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB208",
+    "ders_adi": "Algoritma Analizi",
+    "yariyil": "4",
+    "kredi": "3",
+    "akts": "4",
+    "son_guncelleme": "02.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, algoritmaların tasarımı ve analizine ilişkin temel kavramları öğretmek, algoritmaların doğruluğunu ve zaman/uzay karmaşıklığını analiz edebilme becerisi kazandırmaktır.",
+    "icerik": "Algoritma analizi, asimptotik gösterimler, sıralama algoritmaları, böl-ve-yönet yaklaşımı, dinamik programlama, açgözlü algoritmalar, grafik algoritmaları ve NP-tamlık konuları ele alınır.",
+    "yontemler": "Anlatım, uygulama, problem çözme",
+    "kaynaklar": {
+      "kitaplar": [
+        "Algoritmalara Giriş (Cormen vd. - Türkçe Çeviri)",
+        "Algoritmalar (Dasgupta, Papadimitriou, Vazirani)",
+        "Introduction to algorithms, Cormen, Leiserson, Rivest, SteIn, the mit press, 4th edition"
+      ],
+      "ders_notlari": [
+        "Ders notları, öğretim üyesi tarafından sağlanan materyaller ve temel ders kitabı olarak kullanılan algoritma kitabından oluşmaktadır."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Algoritmaların doğruluğunu matematiksel yöntemler ve özyineleme ile analiz eder.",
+      "Algoritmaların zaman ve uzay karmaşıklığını asimptotik analiz ve recurrence bağıntıları ile değerlendirir.",
+      "Böl ve yönet yaklaşımı ve özyinelemeli algoritmaları tasarlar ve analiz eder.",
+      "Temel sıralama algoritmalarını (merge sort, quick sort) özyineleme açısından analiz eder.",
+      "Dinamik programlama ve açgözlü algoritmaları problem çözmede uygular.",
+      "P, NP ve NP-tamlık kavramlarını açıklar ve algoritmik problemleri sınıflandırır."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Algoritmalara Giriş Ders öncesi ilgili konunun okunması",
+      "Hafta 2: Algoritma Analizi Ders öncesi ilgili konunun okunması",
+      "Hafta 3: Asimptotik Gösterimler Ders öncesi ilgili konunun okunması",
+      "Hafta 4: İteratif Algoritmaların Analizi Ders öncesi ilgili konunun okunması",
+      "Hafta 5: Böl ve Yönet Ders öncesi ilgili konunun okunması",
+      "Hafta 6: Özyinelemeli Algoritmalar Ders öncesi ilgili konunun okunması",
+      "Hafta 7: Quick Sort Ders öncesi ilgili konunun okunması",
+      "Hafta 8: Bellek Yığınları ve Öncelik Kuyruğu Ders öncesi ilgili konunun okunması",
+      "Hafta 9: Ara Sınav Ders öncesi ilgili konunun okunması",
+      "Hafta 10: Sıralama İstatistikleri Ders öncesi ilgili konunun okunması",
+      "Hafta 11: Dinamik Programlama Ders öncesi ilgili konunun okunması",
+      "Hafta 12: Açgözlü Algoritmalar Ders öncesi ilgili konunun okunması",
+      "Hafta 13: Graf Algoritmaları Ders öncesi ilgili konunun okunması",
+      "Hafta 14: Minimum Örtücü Ağaçlar Ders öncesi ilgili konunun okunması",
+      "Hafta 15: String Matching ve NP Ders öncesi ilgili konunun okunması"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Algoritma Analizi\nDers Kodu: BMB208\nYarıyıl: 4. Yarıyıl\nKredi: 3\nAKTS Kredisi: 4\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 02.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, algoritmaların tasarımı ve analizine ilişkin temel kavramları öğretmek, algoritmaların doğruluğunu ve zaman/uzay karmaşıklığını analiz edebilme becerisi kazandırmaktır.\n\n--- DERS İÇERİĞİ ---\nAlgoritma analizi, asimptotik gösterimler, sıralama algoritmaları, böl-ve-yönet yaklaşımı, dinamik programlama, açgözlü algoritmalar, grafik algoritmaları ve NP-tamlık konuları ele alınır.\n\nÖğretim Yöntemleri: Anlatım, uygulama, problem çözme\n\n--- DERS KAYNAKLARI ---\n• Algoritmalara Giriş (Cormen vd. - Türkçe Çeviri)\n• Algoritmalar (Dasgupta, Papadimitriou, Vazirani)\n• Introduction to algorithms, Cormen, Leiserson, Rivest, SteIn, the mit press, 4th edition\n• Ders Notu: Ders notları, öğretim üyesi tarafından sağlanan materyaller ve temel ders kitabı olarak kullanılan algoritma kitabından oluşmaktadır.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Algoritmaların doğruluğunu matematiksel yöntemler ve özyineleme ile analiz eder.\n2. Algoritmaların zaman ve uzay karmaşıklığını asimptotik analiz ve recurrence bağıntıları ile değerlendirir.\n3. Böl ve yönet yaklaşımı ve özyinelemeli algoritmaları tasarlar ve analiz eder.\n4. Temel sıralama algoritmalarını (merge sort, quick sort) özyineleme açısından analiz eder.\n5. Dinamik programlama ve açgözlü algoritmaları problem çözmede uygular.\n6. P, NP ve NP-tamlık kavramlarını açıklar ve algoritmik problemleri sınıflandırır.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Algoritmalara Giriş Ders öncesi ilgili konunun okunması\nHafta 2: Algoritma Analizi Ders öncesi ilgili konunun okunması\nHafta 3: Asimptotik Gösterimler Ders öncesi ilgili konunun okunması\nHafta 4: İteratif Algoritmaların Analizi Ders öncesi ilgili konunun okunması\nHafta 5: Böl ve Yönet Ders öncesi ilgili konunun okunması\nHafta 6: Özyinelemeli Algoritmalar Ders öncesi ilgili konunun okunması\nHafta 7: Quick Sort Ders öncesi ilgili konunun okunması\nHafta 8: Bellek Yığınları ve Öncelik Kuyruğu Ders öncesi ilgili konunun okunması\nHafta 9: Ara Sınav Ders öncesi ilgili konunun okunması\nHafta 10: Sıralama İstatistikleri Ders öncesi ilgili konunun okunması\nHafta 11: Dinamik Programlama Ders öncesi ilgili konunun okunması\nHafta 12: Açgözlü Algoritmalar Ders öncesi ilgili konunun okunması\nHafta 13: Graf Algoritmaları Ders öncesi ilgili konunun okunması\nHafta 14: Minimum Örtücü Ağaçlar Ders öncesi ilgili konunun okunması\nHafta 15: String Matching ve NP Ders öncesi ilgili konunun okunması\n",
+  "source_file": "BMB208_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

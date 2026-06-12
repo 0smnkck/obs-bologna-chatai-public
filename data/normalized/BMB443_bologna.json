@@ -1,0 +1,72 @@
+{
+  "title": "BMB443 - Görüntü İşleme Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB443",
+    "ders_adi": "Görüntü İşleme",
+    "yariyil": "7",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "22.10.2025",
+    "ogretim_uyesi": "Doç. Dr. Mehmet Fatih TEFEK"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı görüntü tanımlama, iyileştirme, onarma, sıkıştırma, bölütleme gibi sayısal görüntü işlemenin temel konularını öğrencilere sunmaktır. Öğrencilere uzamsal ve frekans domeninde gerçekleştirilecek dönüşümlerin sayısal görüntü üzerindeki etkilerinin anlatılmasıdır.",
+    "icerik": "Bu ders Matlab programlama ve görüntü işleme tasarımı ve gelişimi üzerine odaklanacaktır. Çeşitli görüntü işleme görevlerinin kavranabilir bir teorisini sağlar ve bu görevlerin simüle edilmesi için pratik deneyim sağlar. Bu dersin tamamlanmasında öğrenciler geniş simülasyon ödevleri boyunca aşağıdaki konular hakkında pratik deneyimi kazanmış olacaklardır. Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "C. Solomon, T. Breckon, Fundamentals of Digital Image Processing. A Practical Approach"
+      ],
+      "ders_notlari": [
+        "R. C. Gonzalez, R. E. Woods, S. L. Eddins, Digital Image Processing using MATLAB, Prentice Hall, 2010"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%10"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Bazı görüntü temellerini, kontrast iyileştirme tekniklerini ve kullanımını, temel uzamsal-ortam filtrelemeyi, çizgi ve kenar çıkarma tekniklerini öğrenmek",
+      "2-B Fourier dönüşümünü, özelliklerini ve frekans ortamında filtrelemeyi öğrenmek",
+      "Eşikleme tekniklerini ve temel bölgesel bölütleme tekniklerini öğrenmek",
+      "Temel görüntü bölütleme, temsil etme, tanımlama ve tanıma yöntemlerini öğrenmek",
+      "Renkli görüntü işlemenin temellerini öğrenmek",
+      "Bir gerçek probleme bir dizi görüntü işleme tekniklerinden oluşan bir çözüm önermek",
+      "Görüntü işleme teknikleri ve algoritmalarını yorumlamak ve değerlendirmek",
+      "Temel görüntü işleme alıştırmalarını bir yazılım paketi kullanarak çözmek ve deneysel çalışma raporlarını yazmak"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: İnsan görme sistemi ve bilgisayar görme sistemleri",
+      "Hafta 2: Sayısal görüntünün temelleri",
+      "Hafta 3: Uzamsal domeninde görüntü iyileştirme ve dönüşümler",
+      "Hafta 4: Uzamsal domeninde görüntü iyileştirme ve dönüşümlerin MATLAB uygulamaları",
+      "Hafta 5: Frekans domeninde görüntü iyileştirme ve dönüşümler",
+      "Hafta 6: Frekans domeninde görüntü iyileştirme ve dönüşümlerin MATLAB uygulamaları",
+      "Hafta 7: Görüntü onarma",
+      "Hafta 8: MATLAB ortamında görüntü onarma uygulamaları",
+      "Hafta 9: Görüntü bölütleme",
+      "Hafta 10: Ara sınav",
+      "Hafta 11: MATLAB ortamında görüntü bölütleme uygulamaları",
+      "Hafta 12: Renkli görüntü işleme",
+      "Hafta 13: RGB düzleminde görüntü işleme uygulamaları",
+      "Hafta 14: İki boyutlu Fourier Dönüşümü"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Görüntü İşleme\nDers Kodu: BMB443\nYarıyıl: 7. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 22.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Doç. Dr. Mehmet Fatih TEFEK\n\n--- DERS AMACI ---\nBu dersin amacı görüntü tanımlama, iyileştirme, onarma, sıkıştırma, bölütleme gibi sayısal görüntü işlemenin temel konularını öğrencilere sunmaktır. Öğrencilere uzamsal ve frekans domeninde gerçekleştirilecek dönüşümlerin sayısal görüntü üzerindeki etkilerinin anlatılmasıdır.\n\n--- DERS İÇERİĞİ ---\nBu ders Matlab programlama ve görüntü işleme tasarımı ve gelişimi üzerine odaklanacaktır. Çeşitli görüntü işleme görevlerinin kavranabilir bir teorisini sağlar ve bu görevlerin simüle edilmesi için pratik deneyim sağlar. Bu dersin tamamlanmasında öğrenciler geniş simülasyon ödevleri boyunca aşağıdaki konular hakkında pratik deneyimi kazanmış olacaklardır. Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• C. Solomon, T. Breckon, Fundamentals of Digital Image Processing. A Practical Approach\n• Ders Notu: R. C. Gonzalez, R. E. Woods, S. L. Eddins, Digital Image Processing using MATLAB, Prentice Hall, 2010\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nProje: 1 adet, katkı oranı %10\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Bazı görüntü temellerini, kontrast iyileştirme tekniklerini ve kullanımını, temel uzamsal-ortam filtrelemeyi, çizgi ve kenar çıkarma tekniklerini öğrenmek\n2. 2-B Fourier dönüşümünü, özelliklerini ve frekans ortamında filtrelemeyi öğrenmek\n3. Eşikleme tekniklerini ve temel bölgesel bölütleme tekniklerini öğrenmek\n4. Temel görüntü bölütleme, temsil etme, tanımlama ve tanıma yöntemlerini öğrenmek\n5. Renkli görüntü işlemenin temellerini öğrenmek\n6. Bir gerçek probleme bir dizi görüntü işleme tekniklerinden oluşan bir çözüm önermek\n7. Görüntü işleme teknikleri ve algoritmalarını yorumlamak ve değerlendirmek\n8. Temel görüntü işleme alıştırmalarını bir yazılım paketi kullanarak çözmek ve deneysel çalışma raporlarını yazmak\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: İnsan görme sistemi ve bilgisayar görme sistemleri\nHafta 2: Sayısal görüntünün temelleri\nHafta 3: Uzamsal domeninde görüntü iyileştirme ve dönüşümler\nHafta 4: Uzamsal domeninde görüntü iyileştirme ve dönüşümlerin MATLAB uygulamaları\nHafta 5: Frekans domeninde görüntü iyileştirme ve dönüşümler\nHafta 6: Frekans domeninde görüntü iyileştirme ve dönüşümlerin MATLAB uygulamaları\nHafta 7: Görüntü onarma\nHafta 8: MATLAB ortamında görüntü onarma uygulamaları\nHafta 9: Görüntü bölütleme\nHafta 10: Ara sınav\nHafta 11: MATLAB ortamında görüntü bölütleme uygulamaları\nHafta 12: Renkli görüntü işleme\nHafta 13: RGB düzleminde görüntü işleme uygulamaları\nHafta 14: İki boyutlu Fourier Dönüşümü\n",
+  "source_file": "BMB443_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

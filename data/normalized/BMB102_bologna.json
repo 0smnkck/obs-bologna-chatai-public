@@ -1,0 +1,72 @@
+{
+  "title": "BMB102 - Matematik- II Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB102",
+    "ders_adi": "Matematik- II",
+    "yariyil": "2",
+    "kredi": "4",
+    "akts": "5",
+    "son_guncelleme": "21.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Özcan YIRTICI"
+  },
+  "sections": {
+    "amac": "Dizi ve seri kavramlarını açıklamak, integral hesabı ve uygulamalarını vermek, çok değişkenli fonksiyonları tanıtmak, kısmi türevleri ve katlı integralleri vermek, bu konular yardımıyla problem çözme yeteneğini geliştirmek, akıl yürütme becerisine destek olmak, bilgisayar mühendisliği bölümü meslek dersleri için matematiksel alt yapı oluşturmak.",
+    "icerik": "Kutupsal koordinatlar. Diziler ve seriler, Belirsiz integral formülleri, Kısmi integrasyon ve basit kerislere ayırma yöntemi ile integral alma, Bazı trigonometrik fonksiyonların integrali. Belirli integral.Belirli integralin temel özellikleri. İntegral hesabın temel teoremi. Belirli integralin uygulamaları ; düzlem bölgelerin alanı, hacım hesapları, yay uzunluğu,Matrisler ve lineer denklem sistemlerinin çözümü. Çok değişkenli fonksiyonlar. Kısmi türevler. Maksimum ve minimum problemleri. Çok katlı integraller ve uygulamaları. Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "D. Brannan, A First Course in Mathematical Analysis",
+        "[2] Thomas/Finney (çeviran Recep Korkmaz), Calculus 1-2, Beta yayınları, İstanbul,2000.",
+        "[3] J. Stewart, Kalkülüs:Diferansiyel ve İntegral Hesap, Tüba Yayınları, Ankara, 2007.",
+        "[4] Genel Matematik II, Prof.Dr. Mustafa BALCI, Balcı Yayınları, 2008."
+      ],
+      "ders_notlari": [
+        "[1] K. Stein, A. Barsellas (çevirenler Beno Kuryel, Firuz Balkan), Calculus ve Analitik Geometri 1-2, Literatür Yayıncılık, İstanbul, 1997."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Kısa Sınav",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Belirsiz integrallerin özelliklerini kavrar.",
+      "Belirli integrallerin özelliklerini kavrar.",
+      "Belirli İntegralleri alan ve hacim hesaplamalarında kullanır",
+      "Çeşitli fonksiyonların integrallerini alır"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Belirsiz integralin tanımı, temel integral alma kuralları.",
+      "Hafta 2: Belirli İntegralin Tanımı ve Özellikleri, Analizin Temel Teoremi",
+      "Hafta 3: Değişken Değiştirme ve Rasyonel Fonksiyonların Integrasyonu",
+      "Hafta 4: Kısmi İntegrasyon ve Basit Kesirlere Ayırma Yöntemi.",
+      "Hafta 5: Trigonometrik Dönüşümler ve Trigonometrik İntegraller",
+      "Hafta 6: İki Katlı İntegraller",
+      "Hafta 7: Üç Katlı İntegraller",
+      "Hafta 8: Ara Sınav",
+      "Hafta 9: Düzlem Eğrilerin Uzunlukları, Dönel Yüzey Alanları ve Papus Teoremleri",
+      "Hafta 10: Belirli İntegrallerin Uygulamaları, Hacim Hesapları ve Bir Eksen Etrafında Döndürme I",
+      "Hafta 11: Belirli İntegrallerin Uygulamaları, Hacim Hesapları ve Bir Eksen Etrafında Döndürme II",
+      "Hafta 12: Momentler ve Ağırlık Merkezleri",
+      "Hafta 13: Diziler, Seriler, Sonsuz Seriler, Serilerin Yakınsaklığı, Oran ve Kök Testleri",
+      "Hafta 14: Kuvvet Serileri, Taylor ve Maclaurin Serileri, Kuvvet Serilerinin Uygulamaları",
+      "Hafta 15: Sınav Uygulaması"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Matematik- II\nDers Kodu: BMB102\nYarıyıl: 2. Yarıyıl\nKredi: 4\nAKTS Kredisi: 5\nDers Saati: Teori=4, Uygulama=0, Lab=0\nSon Güncelleme: 21.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Özcan YIRTICI\n\n--- DERS AMACI ---\nDizi ve seri kavramlarını açıklamak, integral hesabı ve uygulamalarını vermek, çok değişkenli fonksiyonları tanıtmak, kısmi türevleri ve katlı integralleri vermek, bu konular yardımıyla problem çözme yeteneğini geliştirmek, akıl yürütme becerisine destek olmak, bilgisayar mühendisliği bölümü meslek dersleri için matematiksel alt yapı oluşturmak.\n\n--- DERS İÇERİĞİ ---\nKutupsal koordinatlar. Diziler ve seriler, Belirsiz integral formülleri, Kısmi integrasyon ve basit kerislere ayırma yöntemi ile integral alma, Bazı trigonometrik fonksiyonların integrali. Belirli integral.Belirli integralin temel özellikleri. İntegral hesabın temel teoremi. Belirli integralin uygulamaları ; düzlem bölgelerin alanı, hacım hesapları, yay uzunluğu,Matrisler ve lineer denklem sistemlerinin çözümü. Çok değişkenli fonksiyonlar. Kısmi türevler. Maksimum ve minimum problemleri. Çok katlı integraller ve uygulamaları. Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• D. Brannan, A First Course in Mathematical Analysis\n• [2] Thomas/Finney (çeviran Recep Korkmaz), Calculus 1-2, Beta yayınları, İstanbul,2000.\n• [3] J. Stewart, Kalkülüs:Diferansiyel ve İntegral Hesap, Tüba Yayınları, Ankara, 2007.\n• [4] Genel Matematik II, Prof.Dr. Mustafa BALCI, Balcı Yayınları, 2008.\n• Ders Notu: [1] K. Stein, A. Barsellas (çevirenler Beno Kuryel, Firuz Balkan), Calculus ve Analitik Geometri 1-2, Literatür Yayıncılık, İstanbul, 1997.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %30\nKısa Sınav: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Belirsiz integrallerin özelliklerini kavrar.\n2. Belirli integrallerin özelliklerini kavrar.\n3. Belirli İntegralleri alan ve hacim hesaplamalarında kullanır\n4. Çeşitli fonksiyonların integrallerini alır\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Belirsiz integralin tanımı, temel integral alma kuralları.\nHafta 2: Belirli İntegralin Tanımı ve Özellikleri, Analizin Temel Teoremi\nHafta 3: Değişken Değiştirme ve Rasyonel Fonksiyonların Integrasyonu\nHafta 4: Kısmi İntegrasyon ve Basit Kesirlere Ayırma Yöntemi.\nHafta 5: Trigonometrik Dönüşümler ve Trigonometrik İntegraller\nHafta 6: İki Katlı İntegraller\nHafta 7: Üç Katlı İntegraller\nHafta 8: Ara Sınav\nHafta 9: Düzlem Eğrilerin Uzunlukları, Dönel Yüzey Alanları ve Papus Teoremleri\nHafta 10: Belirli İntegrallerin Uygulamaları, Hacim Hesapları ve Bir Eksen Etrafında Döndürme I\nHafta 11: Belirli İntegrallerin Uygulamaları, Hacim Hesapları ve Bir Eksen Etrafında Döndürme II\nHafta 12: Momentler ve Ağırlık Merkezleri\nHafta 13: Diziler, Seriler, Sonsuz Seriler, Serilerin Yakınsaklığı, Oran ve Kök Testleri\nHafta 14: Kuvvet Serileri, Taylor ve Maclaurin Serileri, Kuvvet Serilerinin Uygulamaları\nHafta 15: Sınav Uygulaması\n",
+  "source_file": "BMB102_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

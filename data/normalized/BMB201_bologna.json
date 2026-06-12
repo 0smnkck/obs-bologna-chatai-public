@@ -1,0 +1,72 @@
+{
+  "title": "BMB201 - Diferansiyel Denklemler Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB201",
+    "ders_adi": "Diferansiyel Denklemler",
+    "yariyil": "3",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "21.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Özcan YIRTICI"
+  },
+  "sections": {
+    "amac": "Bu derste, mühendislik bilimlerinde çok kullanılan diferansiyel denklemlerin çözüm yöntemlerinin kavranması amaçlanmaktadır.",
+    "icerik": "Giriş, Diferansiyel Denklemler ve Onların Çözümleri, Birinci Mertebeden Adi Diferansiyel Denklemler(ADD), Değişkenlerine Ayrılabilen ADD, Homojen ADD, Lineer ADD, Bernoulli Denklemi, Riccati Denklemi, Tam ADD, İntegrasyon Çarpanı, Birinci Mertebeden Yüksek Dereceli ADD, Yüksek Mertebeden Lineer ADD, Yüksek Mertebeden Lineer ADD, Lineer Diferansiyel Denklem Sistemleri, Laplace Dönüşümü.ve Adi Diferansiyel Denklemlere Uygulaması Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "Lectures on Differential Equations, Craig A. Tracy, 2017",
+        "[2] Sheply R. (1980), Introduction to Ordinary Differential Equations, Wiley."
+      ],
+      "ders_notlari": [
+        "[1] Boyce W. and DiPrima R. (2009), Elementary Differential Equations and Boundary Value Problems, Wiley."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Kısa Sınav",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Diferansiyel denklemi tanımlayarak, oluşturulmasını ve çözümünü açıklamak.",
+      "Birinci mertebeden diferansiyel denklemlerin çözüm metotlarını kavramak.",
+      "Birinci mertebeden denklemlerin mühendislik problemlerinde uygulamalarını kavramak.",
+      "Lineer Denklem sisteminin tipini belirlemek.",
+      "Sabit katsayılı homojen lineer sistemleri çözmek.",
+      "Yüksek mertebeden lineer diferansiyel denklemlerin çözüm metotlarını kavramak."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Diferansiyel denklemlerin sınıflandırılması, tanımlar, çözümlerin varlığı",
+      "Hafta 2: Ayrılabilir denklemler, homojen denklemler",
+      "Hafta 3: Homojen hale gelebilen denklemler",
+      "Hafta 4: Tam Diferansiyel denklemler ve integral çarpanları",
+      "Hafta 5: Lineer denklemler ve Bernoulli denklemleri, özel integral çarpanları",
+      "Hafta 6: Birinci mertebe diferansiyel denklemlerin uygulamaları, mekanikte uygulamalar",
+      "Hafta 7: İkinci mertebe diferansiyel denklemler, katsayıları sabit homojen lineer denklemler",
+      "Hafta 8: Ara Sınav",
+      "Hafta 9: Belirsiz katsayılar yöntemi",
+      "Hafta 10: Parametrelerin varyasyonu yöntemi, Cauchy-Euler denklemi",
+      "Hafta 11: Sabit katsayılı ikinci mertebe lineer diferansiyel denklem uygulamaları, kütle-yay problemi, sönümlü ve sönümsüz salınıcılar, sürümlü salınıcı",
+      "Hafta 12: Laplace dönüşümü, temel özellikler",
+      "Hafta 13: Katsayıları sabit lineer diferansiyel denklemlerin Laplace yöntemi ile çözülmesi",
+      "Hafta 14: Ters Laplace dönüşümleri",
+      "Hafta 15: Sınav Uygulaması"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Diferansiyel Denklemler\nDers Kodu: BMB201\nYarıyıl: 3. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 21.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Özcan YIRTICI\n\n--- DERS AMACI ---\nBu derste, mühendislik bilimlerinde çok kullanılan diferansiyel denklemlerin çözüm yöntemlerinin kavranması amaçlanmaktadır.\n\n--- DERS İÇERİĞİ ---\nGiriş, Diferansiyel Denklemler ve Onların Çözümleri, Birinci Mertebeden Adi Diferansiyel Denklemler(ADD), Değişkenlerine Ayrılabilen ADD, Homojen ADD, Lineer ADD, Bernoulli Denklemi, Riccati Denklemi, Tam ADD, İntegrasyon Çarpanı, Birinci Mertebeden Yüksek Dereceli ADD, Yüksek Mertebeden Lineer ADD, Yüksek Mertebeden Lineer ADD, Lineer Diferansiyel Denklem Sistemleri, Laplace Dönüşümü.ve Adi Diferansiyel Denklemlere Uygulaması Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• Lectures on Differential Equations, Craig A. Tracy, 2017\n• [2] Sheply R. (1980), Introduction to Ordinary Differential Equations, Wiley.\n• Ders Notu: [1] Boyce W. and DiPrima R. (2009), Elementary Differential Equations and Boundary Value Problems, Wiley.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %30\nKısa Sınav: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Diferansiyel denklemi tanımlayarak, oluşturulmasını ve çözümünü açıklamak.\n2. Birinci mertebeden diferansiyel denklemlerin çözüm metotlarını kavramak.\n3. Birinci mertebeden denklemlerin mühendislik problemlerinde uygulamalarını kavramak.\n4. Lineer Denklem sisteminin tipini belirlemek.\n5. Sabit katsayılı homojen lineer sistemleri çözmek.\n6. Yüksek mertebeden lineer diferansiyel denklemlerin çözüm metotlarını kavramak.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Diferansiyel denklemlerin sınıflandırılması, tanımlar, çözümlerin varlığı\nHafta 2: Ayrılabilir denklemler, homojen denklemler\nHafta 3: Homojen hale gelebilen denklemler\nHafta 4: Tam Diferansiyel denklemler ve integral çarpanları\nHafta 5: Lineer denklemler ve Bernoulli denklemleri, özel integral çarpanları\nHafta 6: Birinci mertebe diferansiyel denklemlerin uygulamaları, mekanikte uygulamalar\nHafta 7: İkinci mertebe diferansiyel denklemler, katsayıları sabit homojen lineer denklemler\nHafta 8: Ara Sınav\nHafta 9: Belirsiz katsayılar yöntemi\nHafta 10: Parametrelerin varyasyonu yöntemi, Cauchy-Euler denklemi\nHafta 11: Sabit katsayılı ikinci mertebe lineer diferansiyel denklem uygulamaları, kütle-yay problemi, sönümlü ve sönümsüz salınıcılar, sürümlü salınıcı\nHafta 12: Laplace dönüşümü, temel özellikler\nHafta 13: Katsayıları sabit lineer diferansiyel denklemlerin Laplace yöntemi ile çözülmesi\nHafta 14: Ters Laplace dönüşümleri\nHafta 15: Sınav Uygulaması\n",
+  "source_file": "BMB201_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

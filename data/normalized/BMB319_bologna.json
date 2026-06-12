@@ -1,0 +1,62 @@
+{
+  "title": "BMB319 - Web programlama Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB319",
+    "ders_adi": "Web programlama",
+    "yariyil": "5",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "27.10.2025",
+    "ogretim_uyesi": "Doç. Dr. Mehmet Fatih TEFEK"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilerin web teknolojileri alanında temel bilgi ve beceriler kazanmasını sağlamaktır. Ders kapsamında web programlama, web tasarımı ve internet teknolojilerinin temel kavramları ele alınarak, modern web tabanlı uygulama geliştirme süreçleri ayrıntılı biçimde incelenecektir. Öğrenciler, HTML, CSS ve JavaScript gibi istemci taraflı teknolojiler ile dinamik ve etkileşimli web sayfaları tasarlamayı öğreneceklerdir. Ayrıca PHP ve MVC tabanlı ASP.NET gibi sunucu taraflı programlama dilleri ve çerçeveler aracılığıyla veritabanı bağlantılı dinamik web uygulamaları geliştirme becerisi kazanacaklardır. Dersin sonunda öğrencilerin, kullanıcı dostu arayüzler tasarlayabilme, veri tabanı entegrasyonu yapabilme, web sunucusu üzerinde çalışan dinamik web sayfaları geliştirebilme ve web tabanlı yazılım projelerini planlayıp uygulayabilme yetkinliklerine ulaşmaları hedeflenmektedir.",
+    "icerik": "Bu derste web teknolojilerinin temel kavramları ele alınarak, web programlama ve web tasarımı alanında uygulamalı bilgiler kazandırılır. HTML, CSS ve JavaScript kullanılarak statik ve etkileşimli web sayfaları oluşturma yöntemleri incelenir. PHP ve MVC tabanlı ASP.NET teknolojileri aracılığıyla sunucu taraflı dinamik web sayfaları ve veri tabanı bağlantılı uygulamalar geliştirilir. Ayrıca web mimarisi, istemci-sunucu yapısı, form işlemleri, veri tabanı yönetimi, güvenlik temelleri ve modern web geliştirme yaklaşımları üzerinde durulur. Ders kapsamında öğrencilerin, web tabanlı sistemlerin tasarımından yayınlanmasına kadar tüm aşamaları uygulamalı olarak deneyimlemeleri hedeflenmektedir.",
+    "yontemler": "Bu derste öğrencilere teorik bilgiler kazandırmanın yanı sıra, uygulamalı etkinliklerle öğrenmenin pekiştirilmesi amaçlanmaktadır. Öğretim sürecinde aşağıdaki yöntem ve teknikler kullanılacaktır: Anlatım ve Soru-Cevap: Web teknolojilerinin temel kavramlarının aktarılması ve öğrencilerin anlamlarını pekiştirmesi. Uygulamalı Laboratuvar Çalışmaları: HTML, CSS, JavaScript, PHP ve ASP.NET uygulamaları üzerinde pratik yapma. Proje Tabanlı Öğrenme: Gerçek yaşam senaryolarına dayalı web projeleri geliştirerek problem çözme ve takım çalışması becerilerinin geliştirilmesi. Görsel ve Etkileşimli Sunumlar: Kavramların daha etkili öğrenilmesi için kod örnekleri, canlı demolar ve kısa sunumlar. Tartışma ve Geri Bildirim: Öğrencilerin kendi kodlarını paylaşarak eleştirel düşünme ve yapıcı değerlendirme alışkanlığı kazanmaları.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Duckett, J. (2014). HTML and CSS: Design and Build Websites. John Wiley & Sons. Flanagan, D. (2020). JavaScript: The Definitive Guide (7th Edition). O’Reilly Media. Welling, L., & Thomson, L. (2017). PHP and MySQL Web Development (5th Edition). Addison-Wesley. Freeman, A. (2020). Pro ASP.NET Core MVC 2. Apress. Keith, J., & Andrew, R. (2022). Resilient Web Design. MDN Web Docs (Mozilla Developer Network): https://developer.mozilla.org W3Schools Online Web Tutorials: https://www.w3schools.com"
+      ],
+      "ders_notlari": []
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Web programlama için kullanılan editör ve programlama dillerini bilir.",
+      "HTML5 ile web sayfası geliştirir ve CSS ile geliştirdiği web sayfasını biçimlendirir.",
+      "Javascript dili ile dinamik web sayfaları geliştirir.",
+      "HTTP ve diğer web protokollerini bilir.",
+      "Backend programlama (PHP, MVC temelli ASp.Net) temellerini bilir.",
+      "Veritabanı ile dinamik web sayfaları yapabilir.",
+      "Front-end ve back-end (Full-Stack) bilgilerini toplayarak dinamik web projesi üretebilir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Dersin tanıtımı: Kapsamı, gerekçesi, önemi, kural ve gerekleri",
+      "Hafta 2: Temel HTML5 Etiketleri - Liste Etiketleri - Sıralı, Sırasız ve İç İçe Liste Etiketleri",
+      "Hafta 3: HTML5 Tablolarla Çalışma - Tablo Etiketleri - Bağlantı Etiketleri - Bağlantı Listeleri",
+      "Hafta 6: CSS ile Web Sayfalarını Biçimlendirme - Renkler İle Çalışma - Metinleri Biçimlendirme",
+      "Hafta 7: JavaScript ile İstemci Tarafı Programlama - Fonksiyonlar ve Olaylar Yazma - Düğme ve Metin Alanı Olayları",
+      "Hafta 8: JavaScript Koşul İfadeleri - Döngüler - Diziler - Nesneler İle Çalışma - Canvas İle Çalışma",
+      "Hafta 9: PHP’ye Giriş",
+      "Hafta 10: PHP ve Veri Tabanı İşlemleri",
+      "Hafta 11: ASP.NET MVC’ye Giriş",
+      "Hafta 12: MVC tabanlı ASP.Net uygulamaları",
+      "Hafta 13: Dinamik Web Uygulaması Geliştirme",
+      "Hafta 14: Final Projesi Sunumu: Web tabanlı proje geliştirme ve sunum (HTML–CSS–JS–PHP/ASP.NET entegrasyonu)."
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Web programlama\nDers Kodu: BMB319\nYarıyıl: 5. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 27.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Doç. Dr. Mehmet Fatih TEFEK\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilerin web teknolojileri alanında temel bilgi ve beceriler kazanmasını sağlamaktır. Ders kapsamında web programlama, web tasarımı ve internet teknolojilerinin temel kavramları ele alınarak, modern web tabanlı uygulama geliştirme süreçleri ayrıntılı biçimde incelenecektir. Öğrenciler, HTML, CSS ve JavaScript gibi istemci taraflı teknolojiler ile dinamik ve etkileşimli web sayfaları tasarlamayı öğreneceklerdir. Ayrıca PHP ve MVC tabanlı ASP.NET gibi sunucu taraflı programlama dilleri ve çerçeveler aracılığıyla veritabanı bağlantılı dinamik web uygulamaları geliştirme becerisi kazanacaklardır. Dersin sonunda öğrencilerin, kullanıcı dostu arayüzler tasarlayabilme, veri tabanı entegrasyonu yapabilme, web sunucusu üzerinde çalışan dinamik web sayfaları geliştirebilme ve web tabanlı yazılım projelerini planlayıp uygulayabilme yetkinliklerine ulaşmaları hedeflenmektedir.\n\n--- DERS İÇERİĞİ ---\nBu derste web teknolojilerinin temel kavramları ele alınarak, web programlama ve web tasarımı alanında uygulamalı bilgiler kazandırılır. HTML, CSS ve JavaScript kullanılarak statik ve etkileşimli web sayfaları oluşturma yöntemleri incelenir. PHP ve MVC tabanlı ASP.NET teknolojileri aracılığıyla sunucu taraflı dinamik web sayfaları ve veri tabanı bağlantılı uygulamalar geliştirilir. Ayrıca web mimarisi, istemci-sunucu yapısı, form işlemleri, veri tabanı yönetimi, güvenlik temelleri ve modern web geliştirme yaklaşımları üzerinde durulur. Ders kapsamında öğrencilerin, web tabanlı sistemlerin tasarımından yayınlanmasına kadar tüm aşamaları uygulamalı olarak deneyimlemeleri hedeflenmektedir.\n\nÖğretim Yöntemleri: Bu derste öğrencilere teorik bilgiler kazandırmanın yanı sıra, uygulamalı etkinliklerle öğrenmenin pekiştirilmesi amaçlanmaktadır. Öğretim sürecinde aşağıdaki yöntem ve teknikler kullanılacaktır: Anlatım ve Soru-Cevap: Web teknolojilerinin temel kavramlarının aktarılması ve öğrencilerin anlamlarını pekiştirmesi. Uygulamalı Laboratuvar Çalışmaları: HTML, CSS, JavaScript, PHP ve ASP.NET uygulamaları üzerinde pratik yapma. Proje Tabanlı Öğrenme: Gerçek yaşam senaryolarına dayalı web projeleri geliştirerek problem çözme ve takım çalışması becerilerinin geliştirilmesi. Görsel ve Etkileşimli Sunumlar: Kavramların daha etkili öğrenilmesi için kod örnekleri, canlı demolar ve kısa sunumlar. Tartışma ve Geri Bildirim: Öğrencilerin kendi kodlarını paylaşarak eleştirel düşünme ve yapıcı değerlendirme alışkanlığı kazanmaları.\n\n--- DERS KAYNAKLARI ---\n• Duckett, J. (2014). HTML and CSS: Design and Build Websites. John Wiley & Sons. Flanagan, D. (2020). JavaScript: The Definitive Guide (7th Edition). O’Reilly Media. Welling, L., & Thomson, L. (2017). PHP and MySQL Web Development (5th Edition). Addison-Wesley. Freeman, A. (2020). Pro ASP.NET Core MVC 2. Apress. Keith, J., & Andrew, R. (2022). Resilient Web Design. MDN Web Docs (Mozilla Developer Network): https://developer.mozilla.org W3Schools Online Web Tutorials: https://www.w3schools.com\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Web programlama için kullanılan editör ve programlama dillerini bilir.\n2. HTML5 ile web sayfası geliştirir ve CSS ile geliştirdiği web sayfasını biçimlendirir.\n3. Javascript dili ile dinamik web sayfaları geliştirir.\n4. HTTP ve diğer web protokollerini bilir.\n5. Backend programlama (PHP, MVC temelli ASp.Net) temellerini bilir.\n6. Veritabanı ile dinamik web sayfaları yapabilir.\n7. Front-end ve back-end (Full-Stack) bilgilerini toplayarak dinamik web projesi üretebilir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Dersin tanıtımı: Kapsamı, gerekçesi, önemi, kural ve gerekleri\nHafta 2: Temel HTML5 Etiketleri - Liste Etiketleri - Sıralı, Sırasız ve İç İçe Liste Etiketleri\nHafta 3: HTML5 Tablolarla Çalışma - Tablo Etiketleri - Bağlantı Etiketleri - Bağlantı Listeleri\nHafta 6: CSS ile Web Sayfalarını Biçimlendirme - Renkler İle Çalışma - Metinleri Biçimlendirme\nHafta 7: JavaScript ile İstemci Tarafı Programlama - Fonksiyonlar ve Olaylar Yazma - Düğme ve Metin Alanı Olayları\nHafta 8: JavaScript Koşul İfadeleri - Döngüler - Diziler - Nesneler İle Çalışma - Canvas İle Çalışma\nHafta 9: PHP’ye Giriş\nHafta 10: PHP ve Veri Tabanı İşlemleri\nHafta 11: ASP.NET MVC’ye Giriş\nHafta 12: MVC tabanlı ASP.Net uygulamaları\nHafta 13: Dinamik Web Uygulaması Geliştirme\nHafta 14: Final Projesi Sunumu: Web tabanlı proje geliştirme ve sunum (HTML–CSS–JS–PHP/ASP.NET entegrasyonu).\n",
+  "source_file": "BMB319_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

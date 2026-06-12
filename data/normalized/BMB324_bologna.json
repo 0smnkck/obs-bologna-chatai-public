@@ -1,0 +1,67 @@
+{
+  "title": "BMB324 - Sinyaller ve Sistemler Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB324",
+    "ders_adi": "Sinyaller ve Sistemler",
+    "yariyil": "6",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "28.11.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+  },
+  "sections": {
+    "amac": "Elektrik ve Elektronik Mühendisliğinin sinyal işleme, haberleşme sistemleri ve kontrol sistemleri gibi alanlardaki konuların ve derslerin anlaşılması için gerekli temel bilgiler kazandırılmaktadır. Elektrik ve Elektronik Mühendisliği öğrencilerine karmaşık proseslerin analizinde kullanılacak olan tekniklerin ve dönüşümlerin öğretilmesi.",
+    "icerik": "Sinyal ve sistemlerin tanımlanması. Doğrusal zamanla-değişmeyen sistemler. Fourier serileri. Sürekli-zaman Fourier dönüşümü. Ayrık-zaman Fourier dönüşümü. Örnekleme. Sinyal ve sistemlerin Laplace dönüşümü ile analizi. Sinyal ve sistemlerin z-dönüşümü ile analizi. Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "A.V. Oppenheim, A.S. Willsky, S.H. Nawab, Signals & Systems, Prentice-Hall, 1997, ISBN 0-13-651175-9.",
+        "A.V. Oppenheim, A.S. Willsky, S.H. Nawab, Sinyaller ve Sistemler (Çeviri), 2008, ISBN 978-975-6885-13-0.",
+        "S. Haykin, B.Van Veen, Signals and Systems, John Wiley & Sons, 1999, ISBN 0-471-13820-7.",
+        "M.J. Roberts, Signals and Systems Analysis Using Transform Methods and MATLAB, McGraw-Hill, 2003, ISBN 007-123268-0.",
+        "A.V. Oppenheim, A.S. Willsky, S.H. Nawab, Sinyaller ve Sistemler (Çeviri), 2008, ISBN 978-975-6885-13-0."
+      ],
+      "ders_notlari": [
+        "A.V. Oppenheim, A.S. Willsky, S.H. Nawab, Signals & Systems, Prentice-Hall, 1997, ISBN 0-13-651175-9."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%50"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Sinyal ve sistemlerle ilgili temel kavramları bilir, bunları sınıflandırabilir.",
+      "Periyodik ve aperiyodik giriş sinyalleri için sistem çıkışını hesaplayabilir.",
+      "Frekans ve zaman bölgeleri arasındaki ilişkiyi anlar ve açıklar. Sinyal ve sistem analizinde Fourier, Laplace ve z-dönüşümlerini etkin olarak kullanır.",
+      "Örnekleme kuramını anlar ve bu sayede bir sürekli-zaman sinyaliyle onun örneklenmiş versiyonunun arasındaki zaman ve frekans bölgelerindeki ilişkileri kurabilir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Sinyaller ve Sistemlere Giriş; Sürekli Zamanlı ve Ayrık Zamanlı Sinyaller; Bağımsız değişkenlerin işlemleri, Çift ve tek sinyaller, Periyodiklik, Sinyal Enerjisi ve Güç",
+      "Hafta 2: Basic C-T and D-T signals (Sinusoidal, Exponential, Unit Step, Unit İmpulse), Systems: connections, properties.",
+      "Hafta 3: Konvolosyon",
+      "Hafta 4: Doğrusal, Zamanla Değişmeyen Sistemlerin Özellikleri",
+      "Hafta 5: Diferansiyel ve fark denklemleriyle temsil edilen sistemler",
+      "Hafta 6: Sürekli Zamanlı Periyodik Sinyalin Fourier Serisi Gösterimi",
+      "Hafta 7: Ayrık Zamanlı Periyodik Sinyalin Fourier Serisi Gösterimi, Filtreleme",
+      "Hafta 8: Arasınav",
+      "Hafta 9: Sürekli Zamanlı Fourier Dönüşümü",
+      "Hafta 10: Sürekli Zaman Fourier Dönüşümünün Özellikleri",
+      "Hafta 11: Doğrusal Sabit Katsayılı Diferansiyel Denklemlerle Karakterize Edilen Sistemler",
+      "Hafta 12: Ayrık Fourier Dönüşümü Örnekleme",
+      "Hafta 13: Laplace Dönüşümü; Laplace Dönüşümleri İçin Yakınsama Bölgesi; Ters Laplace Dönüşümü; Kutup Sıfır Grafikleri; Laplace'ın Özellikleri, Laplace Dönüşümü Kullanılarak LTI Sistemlerinin Analizi ve Karakterizasyonu",
+      "Hafta 14: Z-Dönüşümü; Z-Dönüşümü için Yakınsama Bölgesi; Ters z-Dönüşümü; Z-Dönüşümünün Özellikleri, z-Dönüşümleri Kullanılarak LTI Sistemlerinin Analizi ve Karakterizasyonu"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Sinyaller ve Sistemler\nDers Kodu: BMB324\nYarıyıl: 6. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 28.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\n\n--- DERS AMACI ---\nElektrik ve Elektronik Mühendisliğinin sinyal işleme, haberleşme sistemleri ve kontrol sistemleri gibi alanlardaki konuların ve derslerin anlaşılması için gerekli temel bilgiler kazandırılmaktadır. Elektrik ve Elektronik Mühendisliği öğrencilerine karmaşık proseslerin analizinde kullanılacak olan tekniklerin ve dönüşümlerin öğretilmesi.\n\n--- DERS İÇERİĞİ ---\nSinyal ve sistemlerin tanımlanması. Doğrusal zamanla-değişmeyen sistemler. Fourier serileri. Sürekli-zaman Fourier dönüşümü. Ayrık-zaman Fourier dönüşümü. Örnekleme. Sinyal ve sistemlerin Laplace dönüşümü ile analizi. Sinyal ve sistemlerin z-dönüşümü ile analizi. Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• A.V. Oppenheim, A.S. Willsky, S.H. Nawab, Signals & Systems, Prentice-Hall, 1997, ISBN 0-13-651175-9.\n• A.V. Oppenheim, A.S. Willsky, S.H. Nawab, Sinyaller ve Sistemler (Çeviri), 2008, ISBN 978-975-6885-13-0.\n• S. Haykin, B.Van Veen, Signals and Systems, John Wiley & Sons, 1999, ISBN 0-471-13820-7.\n• M.J. Roberts, Signals and Systems Analysis Using Transform Methods and MATLAB, McGraw-Hill, 2003, ISBN 007-123268-0.\n• A.V. Oppenheim, A.S. Willsky, S.H. Nawab, Sinyaller ve Sistemler (Çeviri), 2008, ISBN 978-975-6885-13-0.\n• Ders Notu: A.V. Oppenheim, A.S. Willsky, S.H. Nawab, Signals & Systems, Prentice-Hall, 1997, ISBN 0-13-651175-9.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %50\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Sinyal ve sistemlerle ilgili temel kavramları bilir, bunları sınıflandırabilir.\n2. Periyodik ve aperiyodik giriş sinyalleri için sistem çıkışını hesaplayabilir.\n3. Frekans ve zaman bölgeleri arasındaki ilişkiyi anlar ve açıklar. Sinyal ve sistem analizinde Fourier, Laplace ve z-dönüşümlerini etkin olarak kullanır.\n4. Örnekleme kuramını anlar ve bu sayede bir sürekli-zaman sinyaliyle onun örneklenmiş versiyonunun arasındaki zaman ve frekans bölgelerindeki ilişkileri kurabilir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Sinyaller ve Sistemlere Giriş; Sürekli Zamanlı ve Ayrık Zamanlı Sinyaller; Bağımsız değişkenlerin işlemleri, Çift ve tek sinyaller, Periyodiklik, Sinyal Enerjisi ve Güç\nHafta 2: Basic C-T and D-T signals (Sinusoidal, Exponential, Unit Step, Unit İmpulse), Systems: connections, properties.\nHafta 3: Konvolosyon\nHafta 4: Doğrusal, Zamanla Değişmeyen Sistemlerin Özellikleri\nHafta 5: Diferansiyel ve fark denklemleriyle temsil edilen sistemler\nHafta 6: Sürekli Zamanlı Periyodik Sinyalin Fourier Serisi Gösterimi\nHafta 7: Ayrık Zamanlı Periyodik Sinyalin Fourier Serisi Gösterimi, Filtreleme\nHafta 8: Arasınav\nHafta 9: Sürekli Zamanlı Fourier Dönüşümü\nHafta 10: Sürekli Zaman Fourier Dönüşümünün Özellikleri\nHafta 11: Doğrusal Sabit Katsayılı Diferansiyel Denklemlerle Karakterize Edilen Sistemler\nHafta 12: Ayrık Fourier Dönüşümü Örnekleme\nHafta 13: Laplace Dönüşümü; Laplace Dönüşümleri İçin Yakınsama Bölgesi; Ters Laplace Dönüşümü; Kutup Sıfır Grafikleri; Laplace'ın Özellikleri, Laplace Dönüşümü Kullanılarak LTI Sistemlerinin Analizi ve Karakterizasyonu\nHafta 14: Z-Dönüşümü; Z-Dönüşümü için Yakınsama Bölgesi; Ters z-Dönüşümü; Z-Dönüşümünün Özellikleri, z-Dönüşümleri Kullanılarak LTI Sistemlerinin Analizi ve Karakterizasyonu\n",
+  "source_file": "BMB324_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

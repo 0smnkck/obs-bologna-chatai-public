@@ -1,0 +1,71 @@
+{
+  "title": "BMB214 - Yapay Zekaya Giriş Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB214",
+    "ders_adi": "Yapay Zekaya Giriş",
+    "yariyil": "4",
+    "kredi": "3",
+    "akts": "4",
+    "son_guncelleme": "20.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/profil-bahargezici bahargezici@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Öğrencilere yapay zekânın temel kavramlarını ve yöntemlerini öğretmek.",
+    "icerik": "Bu ders kapsamında yapay zekânın temel kavramları, akıllı ajanlar, arama algoritmaları, sezgisel arama yöntemleri, oyun ağaçları, kısıt tatmin problemleri, mantıksal çıkarım, olasılık temelli yaklaşımlar, makine öğrenmesi, derin öğrenme, prompt mühendisliği ile yapay zekâda etik ve tarafsızlık konuları ele alınmaktadır.",
+    "yontemler": "Ders anlatımı, bireysel veya grup çalışması şeklinde gerçekleştirilen sınıf içi uygulama etkinlikleri.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Peter Norvig, Stuart Russell, 2021, Yapay Zekâ: Modern Yaklaşım, Global Edition (4th edition), Pearson",
+        "Dökümanlar https://repo.darmajaya.ac.id/5272/1/Artificial%20Intelligence-A%20Modern%20Approach%20(3rd%20Edition)%20(%20PDFDrive%20).pdf"
+      ],
+      "ders_notlari": [
+        "Peter Norvig ve Stuart Russell’ın Artificial Intelligence: A Modern Approach kitabı ile dersin öğretim elemanının farklı kaynakları harmanlayarak hazırladığı ders slaytları kullanılacaktır."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Kısa Sınav",
+        "sayi": "6",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Öğrenci, yapay zekânın temel bileşenlerini, ajan türlerini ve ajanların çevre ile etkileşim mekanizmalarını tanımlar.",
+      "Öğrenci; BFS, DFS, Greedy, Uniform Cost ve A* gibi arama algoritmalarını kullanarak problem çözebilir.",
+      "Öğrenci, problem temsilini yaparak uygun çözüm tekniklerini uygular.",
+      "YZ etik ve sosyal etkilerini değerlendirir",
+      "Öğrenci, büyük dil modelleri ile etkili iletişim kurmak amacıyla prompt mühendisliği tekniklerini kullanarak uygun istemler (promptlar) tasarlayabilir ve elde edilen çıktıları değerlendirebilir.",
+      "Öğrenci, prompt mühendisliği tekniklerini kullanarak tasarladığı çıktıları değerlendirebilir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Yapay Zekâya Giriş Okuma: Norvig & Russell, Ch.1 Slaytlar",
+      "Hafta 2: Yapay Zekâ Temelleri Okuma: Norvig & Russell, Ch.2 Slaytlar",
+      "Hafta 3: Akıllı Ajanlar Okuma: Norvig & Russell, Ch.2 Slaytlar ve Örnekler",
+      "Hafta 4: Arama Yöntemleri Okuma: Norvig & Russell, Ch.3 Slaytlar ve Kod Örnekleri",
+      "Hafta 5: Sezgisel Aramalar (Greedy, UCS, A*) Okuma: Norvig & Russell, Ch.4 Slaytlar ve Ödevler",
+      "Hafta 6: Çekişmeli Arama Okuma: Norvig & Russell, Ch.5 Slaytlar ve Kod Örnekleri",
+      "Hafta 7: Oyun Ağaçları Okuma: Ders Slaytları Slaytlar ve Ödevler",
+      "Hafta 8: Kısıt Tatmin Problemleri Okuma: Norvig & Russell, Ch.6 Slaytlar ve Örnekler",
+      "Hafta 9: Mantıksal Ajanlar Okuma: Norvig & Russell, Ch.7 Slaytlar ve Kod Örnekleri",
+      "Hafta 10: Olasılık Okuma: Norvig & Russell, Ch.13 Slaytlar ve Kod Örnekleri",
+      "Hafta 11: Makine Öğrenmesine Giriş Okuma: Norvig & Russell, Ch.19 Slaytlar ve Örnekler",
+      "Hafta 12: Derin Öğrenmeye Giriş Okuma: Norvig & Russell, Ch.21 Slaytlar ve Kod Örnekleri",
+      "Hafta 13: Prompt Mühendisliği - Slaytlar ve Ödevler",
+      "Hafta 14: Yapay Zekâda Etik ve Tarafsızlık Okuma: Norvig & Russell, Ch.27.3 Slaytlar ve Makaleler"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Yapay Zekaya Giriş\nDers Kodu: BMB214\nYarıyıl: 4. Yarıyıl\nKredi: 3\nAKTS Kredisi: 4\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 20.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/profil-bahargezici bahargezici@osmaniye.edu.tr\n\n--- DERS AMACI ---\nÖğrencilere yapay zekânın temel kavramlarını ve yöntemlerini öğretmek.\n\n--- DERS İÇERİĞİ ---\nBu ders kapsamında yapay zekânın temel kavramları, akıllı ajanlar, arama algoritmaları, sezgisel arama yöntemleri, oyun ağaçları, kısıt tatmin problemleri, mantıksal çıkarım, olasılık temelli yaklaşımlar, makine öğrenmesi, derin öğrenme, prompt mühendisliği ile yapay zekâda etik ve tarafsızlık konuları ele alınmaktadır.\n\nÖğretim Yöntemleri: Ders anlatımı, bireysel veya grup çalışması şeklinde gerçekleştirilen sınıf içi uygulama etkinlikleri.\n\n--- DERS KAYNAKLARI ---\n• Peter Norvig, Stuart Russell, 2021, Yapay Zekâ: Modern Yaklaşım, Global Edition (4th edition), Pearson\n• Dökümanlar https://repo.darmajaya.ac.id/5272/1/Artificial%20Intelligence-A%20Modern%20Approach%20(3rd%20Edition)%20(%20PDFDrive%20).pdf\n• Ders Notu: Peter Norvig ve Stuart Russell’ın Artificial Intelligence: A Modern Approach kitabı ile dersin öğretim elemanının farklı kaynakları harmanlayarak hazırladığı ders slaytları kullanılacaktır.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nKısa Sınav: 6 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Öğrenci, yapay zekânın temel bileşenlerini, ajan türlerini ve ajanların çevre ile etkileşim mekanizmalarını tanımlar.\n2. Öğrenci; BFS, DFS, Greedy, Uniform Cost ve A* gibi arama algoritmalarını kullanarak problem çözebilir.\n3. Öğrenci, problem temsilini yaparak uygun çözüm tekniklerini uygular.\n4. YZ etik ve sosyal etkilerini değerlendirir\n5. Öğrenci, büyük dil modelleri ile etkili iletişim kurmak amacıyla prompt mühendisliği tekniklerini kullanarak uygun istemler (promptlar) tasarlayabilir ve elde edilen çıktıları değerlendirebilir.\n6. Öğrenci, prompt mühendisliği tekniklerini kullanarak tasarladığı çıktıları değerlendirebilir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Yapay Zekâya Giriş Okuma: Norvig & Russell, Ch.1 Slaytlar\nHafta 2: Yapay Zekâ Temelleri Okuma: Norvig & Russell, Ch.2 Slaytlar\nHafta 3: Akıllı Ajanlar Okuma: Norvig & Russell, Ch.2 Slaytlar ve Örnekler\nHafta 4: Arama Yöntemleri Okuma: Norvig & Russell, Ch.3 Slaytlar ve Kod Örnekleri\nHafta 5: Sezgisel Aramalar (Greedy, UCS, A*) Okuma: Norvig & Russell, Ch.4 Slaytlar ve Ödevler\nHafta 6: Çekişmeli Arama Okuma: Norvig & Russell, Ch.5 Slaytlar ve Kod Örnekleri\nHafta 7: Oyun Ağaçları Okuma: Ders Slaytları Slaytlar ve Ödevler\nHafta 8: Kısıt Tatmin Problemleri Okuma: Norvig & Russell, Ch.6 Slaytlar ve Örnekler\nHafta 9: Mantıksal Ajanlar Okuma: Norvig & Russell, Ch.7 Slaytlar ve Kod Örnekleri\nHafta 10: Olasılık Okuma: Norvig & Russell, Ch.13 Slaytlar ve Kod Örnekleri\nHafta 11: Makine Öğrenmesine Giriş Okuma: Norvig & Russell, Ch.19 Slaytlar ve Örnekler\nHafta 12: Derin Öğrenmeye Giriş Okuma: Norvig & Russell, Ch.21 Slaytlar ve Kod Örnekleri\nHafta 13: Prompt Mühendisliği - Slaytlar ve Ödevler\nHafta 14: Yapay Zekâda Etik ve Tarafsızlık Okuma: Norvig & Russell, Ch.27.3 Slaytlar ve Makaleler\n",
+  "source_file": "BMB214_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

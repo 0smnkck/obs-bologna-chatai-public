@@ -1,0 +1,72 @@
+{
+  "title": "BMB422 - Derin Öğrenme Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB422",
+    "ders_adi": "Derin Öğrenme",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "08.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi ERHAN TURAN"
+  },
+  "sections": {
+    "amac": "Bu ders derin sinir ağı mimarilerini, öğrenme algoritmalarını ve uygulamalarını tanıtır.",
+    "icerik": "Yapay zeka, makine öğrenimi, derin öğrenme, sinir ağlarının matematiği, sınıflandırma, regresyon ve bilgisayarla görme.",
+    "yontemler": "Anlatım yöntemiyle öğretilir.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Deep Learning with Python, Sep 11, 2018, Francois Chollet, Mark Thomas, Manning Publications Co.",
+        "Deep Learning, Goodfellow, Ian, Mit Press, Cambridge, 2017",
+        "Deep Learning: Fundamentals, Methods and Applications, Porter, Julius, Nova Science Publishers, Inc., 2016"
+      ],
+      "ders_notlari": [
+        "Haftalık konular ve ön hazırlık çalışmaları ders kitabından alınır."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Derin sinir ağlarının kavram ve tekniklerini tanımlamak",
+      "Derin sinir ağlarının davranışının nedenini anlamak",
+      "Uygulama için uygun derin sinir ağı modelini değerlendirmek",
+      "Derin sinir ağı modellerini değerlendirmek",
+      "Derin sinir ağlarını belirli alanlara uygulamak",
+      "Derin sinir ağları geliştirme adımlarını belirlemek"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Yapay zeka, makine öğrenimi ve derin öğrenme Ünite 1 (ana ders kitabı) -",
+      "Hafta 2: Olasılıksal modelleme, Karar ağaçları, Rastgele ormanlar, Sinir ağları Böl. 1.2, Böl. 1.3 -",
+      "Hafta 3: Sinir ağları için veri gösterimleri Böl. 2.1, Böl. 2.2 -",
+      "Hafta 4: Tensör operasyonları I Böl. 2.3 -",
+      "Hafta 5: Tensör operasyonları II Böl. 2.3 -",
+      "Hafta 6: Gradyan tabanlı optimizasyon I Böl. 2.4 -",
+      "Hafta 7: Gradyan tabanlı optimizasyon II Böl. 2.5 -",
+      "Hafta 8: Derin Sinir Ağı Modeli, Katmanlar, Kayıp İşlevleri Böl. 3.1, 3.2, 3.3 -",
+      "Hafta 9: İkili sınıflandırma I Böl. 3.4 -",
+      "Hafta 10: İkili sınıflandırma II Böl. 3.4 -",
+      "Hafta 11: Çok sınıflı sınıflandırma Böl. 3.5 -",
+      "Hafta 12: Regresyon Böl. 3.6 -",
+      "Hafta 13: Model Değerlendirme, Veri ön işleme Böl. 4.1, 4.2, 4.3 -",
+      "Hafta 14: Aşırı Uyum ve Yetersiz Uyum, Evrensel iş akışı Böl. 4.4, 4.5 -"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Derin Öğrenme\nDers Kodu: BMB422\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 08.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Dr. Öğr. Üyesi Orhan ABAR https://akbis.osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr\nÖğretim Üyesi: Dr. Öğr. Üyesi ERHAN TURAN\n\n--- DERS AMACI ---\nBu ders derin sinir ağı mimarilerini, öğrenme algoritmalarını ve uygulamalarını tanıtır.\n\n--- DERS İÇERİĞİ ---\nYapay zeka, makine öğrenimi, derin öğrenme, sinir ağlarının matematiği, sınıflandırma, regresyon ve bilgisayarla görme.\n\nÖğretim Yöntemleri: Anlatım yöntemiyle öğretilir.\n\n--- DERS KAYNAKLARI ---\n• Deep Learning with Python, Sep 11, 2018, Francois Chollet, Mark Thomas, Manning Publications Co.\n• Deep Learning, Goodfellow, Ian, Mit Press, Cambridge, 2017\n• Deep Learning: Fundamentals, Methods and Applications, Porter, Julius, Nova Science Publishers, Inc., 2016\n• Ders Notu: Haftalık konular ve ön hazırlık çalışmaları ders kitabından alınır.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %30\nProje: 1 adet, katkı oranı %30\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Derin sinir ağlarının kavram ve tekniklerini tanımlamak\n2. Derin sinir ağlarının davranışının nedenini anlamak\n3. Uygulama için uygun derin sinir ağı modelini değerlendirmek\n4. Derin sinir ağı modellerini değerlendirmek\n5. Derin sinir ağlarını belirli alanlara uygulamak\n6. Derin sinir ağları geliştirme adımlarını belirlemek\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Yapay zeka, makine öğrenimi ve derin öğrenme Ünite 1 (ana ders kitabı) -\nHafta 2: Olasılıksal modelleme, Karar ağaçları, Rastgele ormanlar, Sinir ağları Böl. 1.2, Böl. 1.3 -\nHafta 3: Sinir ağları için veri gösterimleri Böl. 2.1, Böl. 2.2 -\nHafta 4: Tensör operasyonları I Böl. 2.3 -\nHafta 5: Tensör operasyonları II Böl. 2.3 -\nHafta 6: Gradyan tabanlı optimizasyon I Böl. 2.4 -\nHafta 7: Gradyan tabanlı optimizasyon II Böl. 2.5 -\nHafta 8: Derin Sinir Ağı Modeli, Katmanlar, Kayıp İşlevleri Böl. 3.1, 3.2, 3.3 -\nHafta 9: İkili sınıflandırma I Böl. 3.4 -\nHafta 10: İkili sınıflandırma II Böl. 3.4 -\nHafta 11: Çok sınıflı sınıflandırma Böl. 3.5 -\nHafta 12: Regresyon Böl. 3.6 -\nHafta 13: Model Değerlendirme, Veri ön işleme Böl. 4.1, 4.2, 4.3 -\nHafta 14: Aşırı Uyum ve Yetersiz Uyum, Evrensel iş akışı Böl. 4.4, 4.5 -\n",
+  "source_file": "BMB422_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

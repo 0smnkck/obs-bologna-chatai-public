@@ -1,0 +1,76 @@
+{
+  "title": "YDİ102 - Yabancı Dil II Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "YDİ102",
+    "ders_adi": "Yabancı Dil II",
+    "yariyil": "2",
+    "kredi": "2",
+    "akts": "2",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Öğr. Gör. Fatma AKÇA"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilerin Avrupa Dilleri Ortak Çerçeve Programı (CEFR) ölçütlerine uygun şekilde İngilizceyi temel düzeyde iletişim aracı olarak kullanabilmesini sağlamaktır. Dersin sonunda öğrencilerin A1–A2 düzeyi kazanımlara ulaşması hedeflenmektedir.",
+    "icerik": "Ders, Smart Choice 1 (Oxford University Press) kitabına dayalıdır ve CEFR A1–A2 düzeyi kazanımlarını kapsar. Dilbilgisi • This/That/These/Those, comparative adjectives • Present continuous for future arrangements (\"I’m meeting…\"), be going to • Comparatives & Superlatives • Countable / Uncountable nouns, some/any, would like • Past Simple (regular & irregular verbs) • be going to (future), future plans Kelime Bilgisi • Clothes, shopping expressions • Free-time activities, entertainment • Animals, environments • Food, drink, meals • Vacation activities, travel • Types of transport, travel expressions Konuşma Becerileri • Talking about shopping, asking for sizes • Talking about plans and arrangements • Talking about preferences and comparisons • Ordering in a café or restaurant • Talking about past vacations • Talking about travel plans Diğer Beceriler • Listening to shopping conversations, reading an article about shopping habits, writing about preferences • Listening to conversations about plans, reading an event schedule, writing about weekend plans • Listening to conversations about animals, reading about wildlife, writing about animals • Listening to food orders, reading menus, writing about favorite food • Listening to travel experiences, reading travel blogs, writing about a past trip • Listening to transport information, reading about city transport, writing travel notes",
+    "yontemler": "- İletişimsel yaklaşım: Gerçek yaşam iletişim uygulamaları. - Anlatım ve sunum: Dil bilgisi ve kelime öğretimi. - Soru-cevap ve grup çalışmaları: Role-play, ikili ve grup etkinlikleri. - Multimedya kullanımı: Ses, video ve dijital platformlar. - Okuma ve yazma etkinlikleri: Kısa metinler, epostalar, günlükler. - Ödev ve proje: Bireysel öğrenmeyi desteklemek için.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Sunular ve çalışma kağıtları",
+        "Press)",
+        "- Seviye: CEFR A1–A2",
+        "- Ek materyaller: Ses kayıtları, videolar,",
+        "çevrimiçi alıştırmalar, sunular, çalışma kağıtları",
+        "Dökümanlar PPTs (Sunular) & Handouts (Çalışma kağıtları)",
+        "Ödevler Online Tasks (Çevrimiçi ödevler)",
+        "Sınavlar Midterm (Ara Sınav) & Final Exam (Yarıyıl Sonu Sınavı)"
+      ],
+      "ders_notlari": [
+        "- Ders kitabı: Smart Choice 1 (Oxford University"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%35"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "2",
+        "katki": "%15"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Öğrenciler, kıyafetler ve alışveriş hakkında konuşabilir, beden ve fiyat sormak için doğru ifadeleri kullanabilir.",
+      "Öğrenciler, boş zaman aktiviteleri ve eğlence planlarını geleceğe yönelik ifadelerle anlatabilir.",
+      "Öğrenciler, hayvanlar ve doğal çevre hakkında konuşabilir, karşılaştırmalı ve üstünlük dereceleriyle cümle kurabilir.",
+      "Öğrenciler, yiyecek ve içecekler hakkında konuşabilir, kafede veya restoranda sipariş verebilir.",
+      "Öğrenciler, geçmiş tatillerini ve seyahat deneyimlerini geçmiş zaman yapıları ile anlatabilir ve ulaşım planlarını ifade edebilir"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Derse Giriş Ders izlencesi",
+      "Hafta 2: Ünite 7 – Which one is cheaper? Dilbilgisi Sunusu Ünite Testi (7)",
+      "Hafta 3: Ünite 7 – Which one is cheaper? Dilbilgisi Sunusu Ünite Testi (7)",
+      "Hafta 4: Ünite 8 – They are very friendly Dilbilgisi Sunusu Ünite Testi (8)",
+      "Hafta 5: Ünite 8 – They are very friendly Dilbilgisi Sunusu Ünite Testi (8)",
+      "Hafta 6: Ünite 9 – You can visit the zoo Dilbilgisi Sunusu Ünite Testi (9)",
+      "Hafta 7: Ünite 9 – You can visit the zoo Dilbilgisi Sunusu Ünite Testi (9)",
+      "Hafta 8: Ünite 10 – Is there a coffee shop? Dilbilgisi Sunusu Ünite Testi (10)",
+      "Hafta 9: Ünite 10 – Is there a coffee shop? Dilbilgisi Sunusu Ünite Testi (10)",
+      "Hafta 10: Ünite 11 – I had a good time Dilbilgisi Sunusu Ünite Testi (11)",
+      "Hafta 11: Ünite 11 – I had a good time Dilbilgisi Sunusu Ünite Testi (11)",
+      "Hafta 12: Ünite 12 – I’m going to go by a car Dilbilgisi Sunusu Ünite Testi (12)",
+      "Hafta 13: Ünite 12 – I’m going to go by a car Dilbilgisi Sunusu Ünite Testi (12)",
+      "Hafta 14: Genel tekrar Genel Tekrar Çalışma Kağıdı"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Yabancı Dil II\nDers Kodu: YDİ102\nYarıyıl: 2. Yarıyıl\nKredi: 2\nAKTS Kredisi: 2\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Öğr. Gör. Mehmet Durmaz\nÖğretim Üyesi: Öğr. Gör. Fatma AKÇA\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilerin Avrupa Dilleri Ortak Çerçeve Programı (CEFR) ölçütlerine uygun şekilde İngilizceyi temel düzeyde iletişim aracı olarak kullanabilmesini sağlamaktır. Dersin sonunda öğrencilerin A1–A2 düzeyi kazanımlara ulaşması hedeflenmektedir.\n\n--- DERS İÇERİĞİ ---\nDers, Smart Choice 1 (Oxford University Press) kitabına dayalıdır ve CEFR A1–A2 düzeyi kazanımlarını kapsar. Dilbilgisi • This/That/These/Those, comparative adjectives • Present continuous for future arrangements (\"I’m meeting…\"), be going to • Comparatives & Superlatives • Countable / Uncountable nouns, some/any, would like • Past Simple (regular & irregular verbs) • be going to (future), future plans Kelime Bilgisi • Clothes, shopping expressions • Free-time activities, entertainment • Animals, environments • Food, drink, meals • Vacation activities, travel • Types of transport, travel expressions Konuşma Becerileri • Talking about shopping, asking for sizes • Talking about plans and arrangements • Talking about preferences and comparisons • Ordering in a café or restaurant • Talking about past vacations • Talking about travel plans Diğer Beceriler • Listening to shopping conversations, reading an article about shopping habits, writing about preferences • Listening to conversations about plans, reading an event schedule, writing about weekend plans • Listening to conversations about animals, reading about wildlife, writing about animals • Listening to food orders, reading menus, writing about favorite food • Listening to travel experiences, reading travel blogs, writing about a past trip • Listening to transport information, reading about city transport, writing travel notes\n\nÖğretim Yöntemleri: - İletişimsel yaklaşım: Gerçek yaşam iletişim uygulamaları. - Anlatım ve sunum: Dil bilgisi ve kelime öğretimi. - Soru-cevap ve grup çalışmaları: Role-play, ikili ve grup etkinlikleri. - Multimedya kullanımı: Ses, video ve dijital platformlar. - Okuma ve yazma etkinlikleri: Kısa metinler, epostalar, günlükler. - Ödev ve proje: Bireysel öğrenmeyi desteklemek için.\n\n--- DERS KAYNAKLARI ---\n• Sunular ve çalışma kağıtları\n• Press)\n• - Seviye: CEFR A1–A2\n• - Ek materyaller: Ses kayıtları, videolar,\n• çevrimiçi alıştırmalar, sunular, çalışma kağıtları\n• Dökümanlar PPTs (Sunular) & Handouts (Çalışma kağıtları)\n• Ödevler Online Tasks (Çevrimiçi ödevler)\n• Sınavlar Midterm (Ara Sınav) & Final Exam (Yarıyıl Sonu Sınavı)\n• Ders Notu: - Ders kitabı: Smart Choice 1 (Oxford University\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %35\nÖdev: 2 adet, katkı oranı %15\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Öğrenciler, kıyafetler ve alışveriş hakkında konuşabilir, beden ve fiyat sormak için doğru ifadeleri kullanabilir.\n2. Öğrenciler, boş zaman aktiviteleri ve eğlence planlarını geleceğe yönelik ifadelerle anlatabilir.\n3. Öğrenciler, hayvanlar ve doğal çevre hakkında konuşabilir, karşılaştırmalı ve üstünlük dereceleriyle cümle kurabilir.\n4. Öğrenciler, yiyecek ve içecekler hakkında konuşabilir, kafede veya restoranda sipariş verebilir.\n5. Öğrenciler, geçmiş tatillerini ve seyahat deneyimlerini geçmiş zaman yapıları ile anlatabilir ve ulaşım planlarını ifade edebilir\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Derse Giriş Ders izlencesi\nHafta 2: Ünite 7 – Which one is cheaper? Dilbilgisi Sunusu Ünite Testi (7)\nHafta 3: Ünite 7 – Which one is cheaper? Dilbilgisi Sunusu Ünite Testi (7)\nHafta 4: Ünite 8 – They are very friendly Dilbilgisi Sunusu Ünite Testi (8)\nHafta 5: Ünite 8 – They are very friendly Dilbilgisi Sunusu Ünite Testi (8)\nHafta 6: Ünite 9 – You can visit the zoo Dilbilgisi Sunusu Ünite Testi (9)\nHafta 7: Ünite 9 – You can visit the zoo Dilbilgisi Sunusu Ünite Testi (9)\nHafta 8: Ünite 10 – Is there a coffee shop? Dilbilgisi Sunusu Ünite Testi (10)\nHafta 9: Ünite 10 – Is there a coffee shop? Dilbilgisi Sunusu Ünite Testi (10)\nHafta 10: Ünite 11 – I had a good time Dilbilgisi Sunusu Ünite Testi (11)\nHafta 11: Ünite 11 – I had a good time Dilbilgisi Sunusu Ünite Testi (11)\nHafta 12: Ünite 12 – I’m going to go by a car Dilbilgisi Sunusu Ünite Testi (12)\nHafta 13: Ünite 12 – I’m going to go by a car Dilbilgisi Sunusu Ünite Testi (12)\nHafta 14: Genel tekrar Genel Tekrar Çalışma Kağıdı\n",
+  "source_file": "YDİ102_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

@@ -1,0 +1,65 @@
+{
+  "title": "BMB426 - Kontrol Sistemleri Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB426",
+    "ders_adi": "Kontrol Sistemleri",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu ders öğrenciye kontrol sistemleri tanıtmayı, zaman alanında ve frekans alanında sistem analizini, bir sistemin geçici hal cevabı ve sürekli hal cevabını incelemeyi ve de kontrol sistemi tasarlanması öğretmeyi amaçlamaktadır.",
+    "icerik": "Açık-devre sistemler, kapalı devre sistemler, doğrusal sistemlerin dengesi, zaman alanında doğrusal sistem analizi, geçici hal yanıtı, kontrol sistem tasarımı, kök eğrisi kullanarak sistem inceleme, frekans alanında sistem cevabını inceleme.",
+    "yontemler": "Örgün Öğretim",
+    "kaynaklar": {
+      "kitaplar": [
+        "Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik"
+      ],
+      "ders_notlari": [
+        "Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Fiziksel bir sistemi modelleme",
+      "Kontrolcü kullanarak, modellediği sisteme kontrol düzeneği eklemek",
+      "Sistemin geçici cevabını inceleyebilmek",
+      "Sistemin kalıcı cevabını inceleyebilmek",
+      "Kök Eğrisi Kullanarak kontrolcüyü tekrar tasarlamak",
+      "Frekans alanında analiz ile kontrolcüyü tekrar tasarlamak"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Giriş, açık-devre sistemler, kapalı devre sistemler Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik",
+      "Hafta 2: Laplace Dönüşümü, ters Laplace Dönüşümü Matlab ve Simulink Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik",
+      "Hafta 3: Dürtü fonksiyon cevabı ve doğrusal sistemlerin transfer fonksiyonları Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik",
+      "Hafta 4: Blok Diyagramlar, Durum İşaret Akış Diyagramları ve Durum Diyagramları Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik",
+      "Hafta 5: Fiziksel Sistemlerin Modellenmesi, elektrik ağları modellenmesi, mekanik sistem modelleme, sensörler ve DA motorlar Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik",
+      "Hafta 6: Doğrusal Kontrol sistemlerinin Dengesi ve Kararlılık Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik",
+      "Hafta 7: Kontrol sistemlerinin zaman alanında analizi, devamlı veri sistemlerinde zaman cevabı, oturmuş sistem hatası Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik",
+      "Hafta 8: Geçici hal yanıtı, sönümlenme katsayısı ve faktörü, aşım, yerleşme zamanı, gecikme zamanı ve yükselme zamanı Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik",
+      "Hafta 9: Pozisyon Kontrol sistemlerinin zaman alanında analizi Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik",
+      "Hafta 10: Kontrol Sistemlerinin Tasarımı, P Kontrolcü, PD Kontrolcü ve PID Kontrolcü Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik",
+      "Hafta 11: Kök Eğrileri I. Kök eğrisi, kol sayısı, simetri ve asimptotlar Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik",
+      "Hafta 12: Kök Eğrileri II Kök Eğrisinde kesişme noktaları, giriş ve çıkış açıları, Sanal eksende kesişme noktaları ve kök eğrisi duyarlılığı Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik",
+      "Hafta 13: Frekans alanında analiz, kapalı sistemlerin frekans cevabı ve Nyquist kriteri Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik",
+      "Hafta 14: Matlab ve Simulink ile durum çalışmaları Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Kontrol Sistemleri\nDers Kodu: BMB426\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu ders öğrenciye kontrol sistemleri tanıtmayı, zaman alanında ve frekans alanında sistem analizini, bir sistemin geçici hal cevabı ve sürekli hal cevabını incelemeyi ve de kontrol sistemi tasarlanması öğretmeyi amaçlamaktadır.\n\n--- DERS İÇERİĞİ ---\nAçık-devre sistemler, kapalı devre sistemler, doğrusal sistemlerin dengesi, zaman alanında doğrusal sistem analizi, geçici hal yanıtı, kontrol sistem tasarımı, kök eğrisi kullanarak sistem inceleme, frekans alanında sistem cevabını inceleme.\n\nÖğretim Yöntemleri: Örgün Öğretim\n\n--- DERS KAYNAKLARI ---\n• Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\n• Ders Notu: Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Fiziksel bir sistemi modelleme\n2. Kontrolcü kullanarak, modellediği sisteme kontrol düzeneği eklemek\n3. Sistemin geçici cevabını inceleyebilmek\n4. Sistemin kalıcı cevabını inceleyebilmek\n5. Kök Eğrisi Kullanarak kontrolcüyü tekrar tasarlamak\n6. Frekans alanında analiz ile kontrolcüyü tekrar tasarlamak\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Giriş, açık-devre sistemler, kapalı devre sistemler Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\nHafta 2: Laplace Dönüşümü, ters Laplace Dönüşümü Matlab ve Simulink Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\nHafta 3: Dürtü fonksiyon cevabı ve doğrusal sistemlerin transfer fonksiyonları Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\nHafta 4: Blok Diyagramlar, Durum İşaret Akış Diyagramları ve Durum Diyagramları Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\nHafta 5: Fiziksel Sistemlerin Modellenmesi, elektrik ağları modellenmesi, mekanik sistem modelleme, sensörler ve DA motorlar Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\nHafta 6: Doğrusal Kontrol sistemlerinin Dengesi ve Kararlılık Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\nHafta 7: Kontrol sistemlerinin zaman alanında analizi, devamlı veri sistemlerinde zaman cevabı, oturmuş sistem hatası Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\nHafta 8: Geçici hal yanıtı, sönümlenme katsayısı ve faktörü, aşım, yerleşme zamanı, gecikme zamanı ve yükselme zamanı Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\nHafta 9: Pozisyon Kontrol sistemlerinin zaman alanında analizi Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\nHafta 10: Kontrol Sistemlerinin Tasarımı, P Kontrolcü, PD Kontrolcü ve PID Kontrolcü Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\nHafta 11: Kök Eğrileri I. Kök eğrisi, kol sayısı, simetri ve asimptotlar Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\nHafta 12: Kök Eğrileri II Kök Eğrisinde kesişme noktaları, giriş ve çıkış açıları, Sanal eksende kesişme noktaları ve kök eğrisi duyarlılığı Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\nHafta 13: Frekans alanında analiz, kapalı sistemlerin frekans cevabı ve Nyquist kriteri Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\nHafta 14: Matlab ve Simulink ile durum çalışmaları Matlab ve Simulink Otomatik Kontrol Sistemleri, Benjami C Kuo, Translation Atilla Bir, Literatur Yayincilik\n",
+  "source_file": "BMB426_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

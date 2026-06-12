@@ -1,0 +1,81 @@
+{
+  "title": "BMB434 - Doğal Dil İşleme Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB434",
+    "ders_adi": "Doğal Dil İşleme",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "06.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Erhan TURAN"
+  },
+  "sections": {
+    "amac": "Doğal dil işleme kavramları ve teknikleri hakkında yetkin bilgiye sahip olma ve bu teknikleri kullanarak yazılım geliştirme",
+    "icerik": "Doğal dil işlemeye giriş, Morfolojik analiz, Sözcük türlerinin etiketlenmesi, Ayrıştırma algoritmaları, Anlamsal analiz, Doğal dil işleme uygulama alanları",
+    "yontemler": "Anlatım, Tartışma, Uygulama",
+    "kaynaklar": {
+      "kitaplar": [
+        "Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems, Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, Harshit Surana",
+        "Foundations of Statistical Natural Language Processing, Chris Manning and Hinrich Schütze",
+        "Natural Language Understanding, James Allen",
+        "Natural Language Processing with Python, Steven Bird, Ewan Klein, and Edward Loper",
+        "Natural Language Processing in Action, Hobson Lane, Cole Howard, and Hannes Hapke"
+      ],
+      "ders_notlari": [
+        "Speech and Language Processing (3rd ed. draft), Dan Jurafsky and James H. Martin"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Uygulama",
+        "sayi": "2",
+        "katki": "%20"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Doğal dil metinleri üzerinde temel işlemleri uygulayabilme",
+      "Metin verisinden anlamsal içerik barındıran vektörel modeller geliştirme",
+      "Metin verisi üzerinde temizleme, yazım hatası düzeltme, ayıklama ve ayrıştırma ön işlemleri yapabilme",
+      "Metin sınıflandırma, duygu analizi, makine çevirisi, soru cevap sistemleri vb. ihtiyaçlar için yazılım geliştirme",
+      "Doğal dil işleme işlemleri için gerekli işlemler için hazır yazılım kütüphanelerinden faydalanma",
+      "Türkçe doğal diline özel doğal dil işleme süreçleri tasarlama ve yazılımı kodlama",
+      "Doğal dil çalışmaları için kullanılacak verinin toplanması, düzeltimesi ve hazırlanması sürecinde etik, sosyal ve hukuki sorumlulukların öğrenilmesi ve uygulanması",
+      "Ekip halinde nlp projesi tasarlama, geliştirme ve yürütme"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Doğal Dil İşlemeye Giriş - -",
+      "Hafta 2: Metin Ön İşleme - -",
+      "Hafta 3: Bilgi Çıkarımı - -",
+      "Hafta 4: Kelimeler ve Simgeler - -",
+      "Hafta 5: Bağımlılık Ayrıştırma - -",
+      "Hafta 6: Kelime Türleri ve Adlandırılmış Varlıklar için Dizi Etiketleme - -",
+      "Hafta 7: Duygu, Etki ve Çağrışım için Sözlükler - -",
+      "Hafta 8: Ara Sınav - -",
+      "Hafta 9: N-gram Dil Modelleri - -",
+      "Hafta 10: Gömmeler - -",
+      "Hafta 11: Sinir Ağları, RNN`ler ve LSTM`ler - -",
+      "Hafta 12: Dönüştürücüler - -",
+      "Hafta 13: Büyük Dil Modelleri - -",
+      "Hafta 14: Aktarım Öğrenmesi ve İnce Ayar - -"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Doğal Dil İşleme\nDers Kodu: BMB434\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 06.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Erhan TURAN\n\n--- DERS AMACI ---\nDoğal dil işleme kavramları ve teknikleri hakkında yetkin bilgiye sahip olma ve bu teknikleri kullanarak yazılım geliştirme\n\n--- DERS İÇERİĞİ ---\nDoğal dil işlemeye giriş, Morfolojik analiz, Sözcük türlerinin etiketlenmesi, Ayrıştırma algoritmaları, Anlamsal analiz, Doğal dil işleme uygulama alanları\n\nÖğretim Yöntemleri: Anlatım, Tartışma, Uygulama\n\n--- DERS KAYNAKLARI ---\n• Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems, Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, Harshit Surana\n• Foundations of Statistical Natural Language Processing, Chris Manning and Hinrich Schütze\n• Natural Language Understanding, James Allen\n• Natural Language Processing with Python, Steven Bird, Ewan Klein, and Edward Loper\n• Natural Language Processing in Action, Hobson Lane, Cole Howard, and Hannes Hapke\n• Ders Notu: Speech and Language Processing (3rd ed. draft), Dan Jurafsky and James H. Martin\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %20\nUygulama: 2 adet, katkı oranı %20\nProje: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Doğal dil metinleri üzerinde temel işlemleri uygulayabilme\n2. Metin verisinden anlamsal içerik barındıran vektörel modeller geliştirme\n3. Metin verisi üzerinde temizleme, yazım hatası düzeltme, ayıklama ve ayrıştırma ön işlemleri yapabilme\n4. Metin sınıflandırma, duygu analizi, makine çevirisi, soru cevap sistemleri vb. ihtiyaçlar için yazılım geliştirme\n5. Doğal dil işleme işlemleri için gerekli işlemler için hazır yazılım kütüphanelerinden faydalanma\n6. Türkçe doğal diline özel doğal dil işleme süreçleri tasarlama ve yazılımı kodlama\n7. Doğal dil çalışmaları için kullanılacak verinin toplanması, düzeltimesi ve hazırlanması sürecinde etik, sosyal ve hukuki sorumlulukların öğrenilmesi ve uygulanması\n8. Ekip halinde nlp projesi tasarlama, geliştirme ve yürütme\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Doğal Dil İşlemeye Giriş - -\nHafta 2: Metin Ön İşleme - -\nHafta 3: Bilgi Çıkarımı - -\nHafta 4: Kelimeler ve Simgeler - -\nHafta 5: Bağımlılık Ayrıştırma - -\nHafta 6: Kelime Türleri ve Adlandırılmış Varlıklar için Dizi Etiketleme - -\nHafta 7: Duygu, Etki ve Çağrışım için Sözlükler - -\nHafta 8: Ara Sınav - -\nHafta 9: N-gram Dil Modelleri - -\nHafta 10: Gömmeler - -\nHafta 11: Sinir Ağları, RNN`ler ve LSTM`ler - -\nHafta 12: Dönüştürücüler - -\nHafta 13: Büyük Dil Modelleri - -\nHafta 14: Aktarım Öğrenmesi ve İnce Ayar - -\n",
+  "source_file": "BMB434_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

@@ -1,0 +1,76 @@
+{
+  "title": "BMB107 - Bilgisayar Mühendisliğine Giriş Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB107",
+    "ders_adi": "Bilgisayar Mühendisliğine Giriş",
+    "yariyil": "1",
+    "kredi": "2",
+    "akts": "5",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilere bilgisayar mühendisliğinin temel kavramlarını, donanım–yazılım etkileşimini, algoritmik düşünmeyi ve sayısal sistemlerin temelini öğretmektir. Ayrıca bilgisayar mühendisliği kapsamına giren teknik konular hakkında temel bilgiler kazandırmaktır. Bu derste öğrencilere bilgisayar mühendisliği disiplini ve ilgi alanlarını tanıtmak, bölüm, fakülte ve üniversite hakkında bilgilendirmek, bilgisayar sistemlerinin hem mantıksal hem de fiziksel yapısını anlamalarını sağlamak, öğrencileri bilgisayar mühendisliğinin temel meslek derslerine hazırlamak hedeflenmektedir.",
+    "icerik": "Bilgisayar bilimlerine giriş, bilgisayar yazılımı ve donanım hakkında temel kavramlar, algoritma tasarımı, yüksek ve düşük seviyeli programlama dillerinin temel özellikleri, derleyici ve yorumlayıcılar, işletim sistemleri ve uygulama yazılımları, bilgisayar aritmetiği, mantık kapıları, Boolean cebri, lojik ifadelerin sadeleştirilmesi, Karnaugh haritaları, bilgisayar mimarisi, veri yapıları ve veri işleme konuları anlatılacaktır.",
+    "yontemler": "Anlatım, Alıştırma ve Problem Çözme, Soru-Cevap",
+    "kaynaklar": {
+      "kitaplar": [
+        "Brookshear, J. Glenn. Computer Science: An Overview.",
+        "Patterson, D. & Hennessy, J. Computer Organization and Design",
+        "Çölkesen, T. R., Sarıdoğan, E., Özcerit, T. , Arsan, T., \"Bilgisayar Mühendisliğine Giriş\" Papatya Bilim Yayınevi, 2020"
+      ],
+      "ders_notlari": [
+        "Öğretim Üyesi tarafından hazırlanan ders notları"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "3",
+        "katki": "%0"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Bilgisayarın temel yapısı ve işleyişi hakkında genel bilgi edinir.",
+      "Bilgisayar donanımı, yazılımı ve bilgi işleme sistemleri hakkında temel kavramları açıklar ve bilgisayar sistemlerinin işleyişini donanım–yazılım etkileşimi açısından yorumlar.",
+      "Algoritma ve programlama kavramlarını tanımlar.",
+      "Derleyici, yorumlayıcı ve işletim sistemlerinin temel işlevlerini açıklar.",
+      "Bilgisayar aritmetiği, mantık kapıları ve Boolean cebrinin temel ilkelerini kavrar.",
+      "Bilgisayar mimarisi ve veri yapılarının temel unsurlarını açıklar.",
+      "Basit algoritmalar tasarlayarak bunları uygun akış şemaları ile ifade eder.",
+      "Lojik ifadeleri Boolean cebri ve Karnaugh haritaları kullanarak sadeleştir ve doğruluk tablosunu oluşturur.",
+      "Problem çözümünde algoritmik ve sistematik düşünme becerisi geliştirir.",
+      "Bilgisayar mühendisliğinin diğer alt alanlarıyla ilişki kurar."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Üniversite ve bilgisayar mühendisliği bölümü hakkında genel bilgiler",
+      "Hafta 2: Bilgisayar mühendisliğine giriş ve temel kavramlar",
+      "Hafta 3: Bilgisayar donanımı ve temel bileşenlerinin özellikleri",
+      "Hafta 4: Algoritma kavramı ve akış diyagramları",
+      "Hafta 5: Programlama dillerinin temel özellikleri ve Yazılım Kavramı",
+      "Hafta 6: Derleyici, Yorumlayıcı, İşletim Sistemi Kavramları",
+      "Hafta 7: Temel Bilgisayar Ağları (Network) kavramları",
+      "Hafta 8: Sayı sistemleri, Bilgisayar aritmetiği ve Sistemler Arası Dönüşümler",
+      "Hafta 9: Mantık kapıları ve Boolean cebri",
+      "Hafta 10: Lojik ifadelerin sadeleştirilmesi",
+      "Hafta 11: Karnaugh haritalarıyla sadeleştirme",
+      "Hafta 12: Bilgisayar mimarisi ve işlemci yapısı",
+      "Hafta 13: Veri yapıları (dizi, yığın, kuyruk, ağaç kavramları)",
+      "Hafta 14: Veri işleme ve genel tekrar"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Bilgisayar Mühendisliğine Giriş\nDers Kodu: BMB107\nYarıyıl: 1. Yarıyıl\nKredi: 2\nAKTS Kredisi: 5\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilere bilgisayar mühendisliğinin temel kavramlarını, donanım–yazılım etkileşimini, algoritmik düşünmeyi ve sayısal sistemlerin temelini öğretmektir. Ayrıca bilgisayar mühendisliği kapsamına giren teknik konular hakkında temel bilgiler kazandırmaktır. Bu derste öğrencilere bilgisayar mühendisliği disiplini ve ilgi alanlarını tanıtmak, bölüm, fakülte ve üniversite hakkında bilgilendirmek, bilgisayar sistemlerinin hem mantıksal hem de fiziksel yapısını anlamalarını sağlamak, öğrencileri bilgisayar mühendisliğinin temel meslek derslerine hazırlamak hedeflenmektedir.\n\n--- DERS İÇERİĞİ ---\nBilgisayar bilimlerine giriş, bilgisayar yazılımı ve donanım hakkında temel kavramlar, algoritma tasarımı, yüksek ve düşük seviyeli programlama dillerinin temel özellikleri, derleyici ve yorumlayıcılar, işletim sistemleri ve uygulama yazılımları, bilgisayar aritmetiği, mantık kapıları, Boolean cebri, lojik ifadelerin sadeleştirilmesi, Karnaugh haritaları, bilgisayar mimarisi, veri yapıları ve veri işleme konuları anlatılacaktır.\n\nÖğretim Yöntemleri: Anlatım, Alıştırma ve Problem Çözme, Soru-Cevap\n\n--- DERS KAYNAKLARI ---\n• Brookshear, J. Glenn. Computer Science: An Overview.\n• Patterson, D. & Hennessy, J. Computer Organization and Design\n• Çölkesen, T. R., Sarıdoğan, E., Özcerit, T. , Arsan, T., \"Bilgisayar Mühendisliğine Giriş\" Papatya Bilim Yayınevi, 2020\n• Ders Notu: Öğretim Üyesi tarafından hazırlanan ders notları\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nÖdev: 3 adet, katkı oranı %0\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Bilgisayarın temel yapısı ve işleyişi hakkında genel bilgi edinir.\n2. Bilgisayar donanımı, yazılımı ve bilgi işleme sistemleri hakkında temel kavramları açıklar ve bilgisayar sistemlerinin işleyişini donanım–yazılım etkileşimi açısından yorumlar.\n3. Algoritma ve programlama kavramlarını tanımlar.\n4. Derleyici, yorumlayıcı ve işletim sistemlerinin temel işlevlerini açıklar.\n5. Bilgisayar aritmetiği, mantık kapıları ve Boolean cebrinin temel ilkelerini kavrar.\n6. Bilgisayar mimarisi ve veri yapılarının temel unsurlarını açıklar.\n7. Basit algoritmalar tasarlayarak bunları uygun akış şemaları ile ifade eder.\n8. Lojik ifadeleri Boolean cebri ve Karnaugh haritaları kullanarak sadeleştir ve doğruluk tablosunu oluşturur.\n9. Problem çözümünde algoritmik ve sistematik düşünme becerisi geliştirir.\n10. Bilgisayar mühendisliğinin diğer alt alanlarıyla ilişki kurar.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Üniversite ve bilgisayar mühendisliği bölümü hakkında genel bilgiler\nHafta 2: Bilgisayar mühendisliğine giriş ve temel kavramlar\nHafta 3: Bilgisayar donanımı ve temel bileşenlerinin özellikleri\nHafta 4: Algoritma kavramı ve akış diyagramları\nHafta 5: Programlama dillerinin temel özellikleri ve Yazılım Kavramı\nHafta 6: Derleyici, Yorumlayıcı, İşletim Sistemi Kavramları\nHafta 7: Temel Bilgisayar Ağları (Network) kavramları\nHafta 8: Sayı sistemleri, Bilgisayar aritmetiği ve Sistemler Arası Dönüşümler\nHafta 9: Mantık kapıları ve Boolean cebri\nHafta 10: Lojik ifadelerin sadeleştirilmesi\nHafta 11: Karnaugh haritalarıyla sadeleştirme\nHafta 12: Bilgisayar mimarisi ve işlemci yapısı\nHafta 13: Veri yapıları (dizi, yığın, kuyruk, ağaç kavramları)\nHafta 14: Veri işleme ve genel tekrar\n",
+  "source_file": "BMB107_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

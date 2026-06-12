@@ -1,0 +1,67 @@
+{
+  "title": "BMB308 - Mikroişlemciler Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB308",
+    "ders_adi": "Mikroişlemciler",
+    "yariyil": "6",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "21.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Erhan TURAN"
+  },
+  "sections": {
+    "amac": "Mikroişlemci tabanlı sistem tasarımları yapmak ve laboratuvarda çeşitli uygulamalar gerçekleştirmek.",
+    "icerik": "Sayı düzenleri. Bilgisayar yapısı: bellek, merkezi işlem birimi (MİB), Giriş/Çıkış Arabirimi (G/Ç). Bellek: fiziksel yapı, işlevsel yapı, tasarım. MİB: iç yapısı, adresleme yöntemleri ve komutlar. Yazılım teknikleri: simgesel dil, yazım kuralları, sözde komutlar, birleştirici, altprogram, kesme, yığın. G/Ç arabirimleri: paralel iletişim arabirimi (PIA), asenkron seri iletişim arabirimi (ASIA). Çevre birimler. Temel uygulama örnekleri. Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "Mikroişlemciler ve Assembly Dili",
+        "Mikroişleci sistemler, Eşref Adalı"
+      ],
+      "ders_notlari": [
+        "x86 PC: Assembly Language, Design, and Interfacing, The, 5/e Mazidi, Mazidi & Causey"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Mikroişlemci sistemlerinde kuramsal sistem tasarımı ve bu tasarıma dönük yazılım geliştirme",
+      "Temel bilimleri Bilgisayar Mühendisliği alanında kullanabilme becerisi.",
+      "Mikroişlemci mimarisi ve programlama kuramını anlamak.",
+      "İstenilen gereksinimleri karşılayacak mikroişlemci sistemleri tasarlayabilme becerisi.",
+      "Analitik düşünce ile mevcut sistemleri inceleme, iyileştirme ve geliştirmeye yönelik algoritmik çözümler üretebilme becerisi.",
+      "Mühendislik uygulamaları için gerekli teknikleri ve modern mühendislik araçlarını kullanabilme becerisi.",
+      "Takım çalışması yapabilme becerisi (laboratuvardan)."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Giriş, sayı düzenleri, temel lojik elemanları",
+      "Hafta 2: Merkezi işlem birimi yapısı",
+      "Hafta 3: 80x86 İşlemciler",
+      "Hafta 4: Assembly Dili Programlama",
+      "Hafta 5: Assembly ve C dillerinde BIOS ve BIOS programlama",
+      "Hafta 6: Makrolar ve Fare işlemleri",
+      "Hafta 7: İşaretli sayılar, Diziler, Tablolar",
+      "Hafta 8: Arasınav",
+      "Hafta 9: Bellek ve Bellek Arayüzü",
+      "Hafta 10: Giriş/ Çıkış birimleri",
+      "Hafta 11: Dijital/Analog Çeviriciler",
+      "Hafta 12: Temel Uygulama Örnekleri",
+      "Hafta 13: Temel Uygulama Örnekleri",
+      "Hafta 14: Final Sınavı"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Mikroişlemciler\nDers Kodu: BMB308\nYarıyıl: 6. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 21.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Erhan TURAN\n\n--- DERS AMACI ---\nMikroişlemci tabanlı sistem tasarımları yapmak ve laboratuvarda çeşitli uygulamalar gerçekleştirmek.\n\n--- DERS İÇERİĞİ ---\nSayı düzenleri. Bilgisayar yapısı: bellek, merkezi işlem birimi (MİB), Giriş/Çıkış Arabirimi (G/Ç). Bellek: fiziksel yapı, işlevsel yapı, tasarım. MİB: iç yapısı, adresleme yöntemleri ve komutlar. Yazılım teknikleri: simgesel dil, yazım kuralları, sözde komutlar, birleştirici, altprogram, kesme, yığın. G/Ç arabirimleri: paralel iletişim arabirimi (PIA), asenkron seri iletişim arabirimi (ASIA). Çevre birimler. Temel uygulama örnekleri. Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• Mikroişlemciler ve Assembly Dili\n• Mikroişleci sistemler, Eşref Adalı\n• Ders Notu: x86 PC: Assembly Language, Design, and Interfacing, The, 5/e Mazidi, Mazidi & Causey\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Mikroişlemci sistemlerinde kuramsal sistem tasarımı ve bu tasarıma dönük yazılım geliştirme\n2. Temel bilimleri Bilgisayar Mühendisliği alanında kullanabilme becerisi.\n3. Mikroişlemci mimarisi ve programlama kuramını anlamak.\n4. İstenilen gereksinimleri karşılayacak mikroişlemci sistemleri tasarlayabilme becerisi.\n5. Analitik düşünce ile mevcut sistemleri inceleme, iyileştirme ve geliştirmeye yönelik algoritmik çözümler üretebilme becerisi.\n6. Mühendislik uygulamaları için gerekli teknikleri ve modern mühendislik araçlarını kullanabilme becerisi.\n7. Takım çalışması yapabilme becerisi (laboratuvardan).\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Giriş, sayı düzenleri, temel lojik elemanları\nHafta 2: Merkezi işlem birimi yapısı\nHafta 3: 80x86 İşlemciler\nHafta 4: Assembly Dili Programlama\nHafta 5: Assembly ve C dillerinde BIOS ve BIOS programlama\nHafta 6: Makrolar ve Fare işlemleri\nHafta 7: İşaretli sayılar, Diziler, Tablolar\nHafta 8: Arasınav\nHafta 9: Bellek ve Bellek Arayüzü\nHafta 10: Giriş/ Çıkış birimleri\nHafta 11: Dijital/Analog Çeviriciler\nHafta 12: Temel Uygulama Örnekleri\nHafta 13: Temel Uygulama Örnekleri\nHafta 14: Final Sınavı\n",
+  "source_file": "BMB308_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

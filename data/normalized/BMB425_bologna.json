@@ -1,0 +1,69 @@
+{
+  "title": "BMB425 - Biyoinformatik Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB425",
+    "ders_adi": "Biyoinformatik",
+    "yariyil": "7",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Prof. Dr. S. Batuhan AKBEN https://akbis.osmaniye.edu.tr/@batuhanakben batuhanakben@osmaniye.edu.tr Dr. Öğr. Üyesi Orhan ABAR https://akbis.osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Biyoinformatik alanında kullanılan veri türlerini, temel hesaplama problemlerini ve yaygın algoritmaları anlamayı sağlamak. Öğrencilerin biyolojik verileri analiz edebilme ve bioinformatik yöntemleri uygulayabilme becerilerini geliştirmek.",
+    "icerik": "Ders, dinamik programlama, çift ve çoklu dizi hizalama, benzerlik matrisleri (PAM, BLOSUM), gen ekspresyon verilerinin analizi, protein-protein etkileşimleri ve büyük biyolojik ağların incelenmesi gibi konuları kapsar.",
+    "yontemler": "Anlatım, laboratuvar uygulamaları, vaka çalışmaları ve proje tabanlı öğrenme.",
+    "kaynaklar": {
+      "kitaplar": [
+        "1",
+        "3",
+        "2"
+      ],
+      "ders_notlari": [
+        "Öğretim elemanı notları, temel ders kitapları ve güncel makaleler."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Moleküler biyoloji ve genomikte temel hesaplama problemlerini tanımlar",
+      "Biyoinformatik için veri türlerini ve kaynaklarını anlar",
+      "Biyoinformatikte yaygın kullanılan algoritmaları uygular",
+      "Global, lokal ve yarı-global hizalamaları karşılaştırır",
+      "PAM ve BLOSUM skor matrislerini karşılaştırır",
+      "Protein-protein etkileşim ağlarını analiz eder"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Moleküler biyoloji ve bilgisayar bilimine giriş DNA, protein ve hücre yapısını inceleyin Lecture slides, notes",
+      "Hafta 2: Global dizi hizalaması Needleman-Wunsch algoritmasını gözden geçirin Lecture slides, examples",
+      "Hafta 3: Local ve yarı-global hizalamalar Smith-Waterman algoritmasını çalışın Lecture slides, examples",
+      "Hafta 4: Benzerlik arama: BLAST BLAST algoritması hakkında ön bilgi edinin Lecture slides, online tutorials",
+      "Hafta 5: Skor matrisleri: PAM ve BLOSUM PAM ve BLOSUM matrislerini inceleyin Lecture slides, examples",
+      "Hafta 6: Çoklu dizi hizalaması: Yöntemler İteratif ve yapı tabanlı yöntemleri okuyun Lecture slides, notes",
+      "Hafta 7: Çoklu hizalamaların skorlama yöntemleri Hizalama skorlamalarını gözden geçirin Lecture slides, examples",
+      "Hafta 8: Yüksek verimli biyolojik veri analizi: Gen ekspresyonu Mikroarray verilerini inceleyin Lecture slides, datasets",
+      "Hafta 9: Mikroarray verilerinde çoklu hipotez testleri False-discovery rate yöntemlerini okuyun Lecture slides, notes",
+      "Hafta 10: Gen ekspresyon verileri için kümeleme ve sınıflandırma Data kümeleme ve sınıflandırma tekniklerini gözden geçirin Lecture slides, examples",
+      "Hafta 11: Protein katlanması problemi: Simulated Annealing Simulated annealing algoritmasını çalışın Lecture slides, examples"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Biyoinformatik\nDers Kodu: BMB425\nYarıyıl: 7. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Prof. Dr. S. Batuhan AKBEN https://akbis.osmaniye.edu.tr/@batuhanakben batuhanakben@osmaniye.edu.tr Dr. Öğr. Üyesi Orhan ABAR https://akbis.osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBiyoinformatik alanında kullanılan veri türlerini, temel hesaplama problemlerini ve yaygın algoritmaları anlamayı sağlamak. Öğrencilerin biyolojik verileri analiz edebilme ve bioinformatik yöntemleri uygulayabilme becerilerini geliştirmek.\n\n--- DERS İÇERİĞİ ---\nDers, dinamik programlama, çift ve çoklu dizi hizalama, benzerlik matrisleri (PAM, BLOSUM), gen ekspresyon verilerinin analizi, protein-protein etkileşimleri ve büyük biyolojik ağların incelenmesi gibi konuları kapsar.\n\nÖğretim Yöntemleri: Anlatım, laboratuvar uygulamaları, vaka çalışmaları ve proje tabanlı öğrenme.\n\n--- DERS KAYNAKLARI ---\n• 1\n• 3\n• 2\n• Ders Notu: Öğretim elemanı notları, temel ders kitapları ve güncel makaleler.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %30\nProje: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Moleküler biyoloji ve genomikte temel hesaplama problemlerini tanımlar\n2. Biyoinformatik için veri türlerini ve kaynaklarını anlar\n3. Biyoinformatikte yaygın kullanılan algoritmaları uygular\n4. Global, lokal ve yarı-global hizalamaları karşılaştırır\n5. PAM ve BLOSUM skor matrislerini karşılaştırır\n6. Protein-protein etkileşim ağlarını analiz eder\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Moleküler biyoloji ve bilgisayar bilimine giriş DNA, protein ve hücre yapısını inceleyin Lecture slides, notes\nHafta 2: Global dizi hizalaması Needleman-Wunsch algoritmasını gözden geçirin Lecture slides, examples\nHafta 3: Local ve yarı-global hizalamalar Smith-Waterman algoritmasını çalışın Lecture slides, examples\nHafta 4: Benzerlik arama: BLAST BLAST algoritması hakkında ön bilgi edinin Lecture slides, online tutorials\nHafta 5: Skor matrisleri: PAM ve BLOSUM PAM ve BLOSUM matrislerini inceleyin Lecture slides, examples\nHafta 6: Çoklu dizi hizalaması: Yöntemler İteratif ve yapı tabanlı yöntemleri okuyun Lecture slides, notes\nHafta 7: Çoklu hizalamaların skorlama yöntemleri Hizalama skorlamalarını gözden geçirin Lecture slides, examples\nHafta 8: Yüksek verimli biyolojik veri analizi: Gen ekspresyonu Mikroarray verilerini inceleyin Lecture slides, datasets\nHafta 9: Mikroarray verilerinde çoklu hipotez testleri False-discovery rate yöntemlerini okuyun Lecture slides, notes\nHafta 10: Gen ekspresyon verileri için kümeleme ve sınıflandırma Data kümeleme ve sınıflandırma tekniklerini gözden geçirin Lecture slides, examples\nHafta 11: Protein katlanması problemi: Simulated Annealing Simulated annealing algoritmasını çalışın Lecture slides, examples\n",
+  "source_file": "BMB425_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

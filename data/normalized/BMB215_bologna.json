@@ -1,0 +1,73 @@
+{
+  "title": "BMB215 - Nesneye Dayalı Programlama Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB215",
+    "ders_adi": "Nesneye Dayalı Programlama",
+    "yariyil": "3",
+    "kredi": "3",
+    "akts": "4",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin temel amacı, öğrencilere Python programlama dili kullanılarak nesneye dayalı programlama (OOP) ilkelerini kapsamlı bir şekilde anlatmaktır. Dersin sonunda, öğrenciler OOP kavramlarını kullanarak etkili ve kullanışlı kodlar oluşturarak Python uygulamalarını tasarlayabilecek, geliştirebilecek ve test etme becerisine sahip olabileceklerdir. Ders ayrıca öğrencilere temel Python kütüphaneleri ve çerçevelerini tanıtarak yapay zekâ tabanlı uygulamalar geliştirebilmelerine olanak sağlayacak altlık oluşturmaları hedeflenmektedir.",
+    "icerik": "Python sözdizimi kavramları, nesne referansları ve kimliği, temel veri tipleri, karakter formatlama, operatörler, koşullu ifadeler ve döngü yapısı, sıralı-sırasız veri tipleri ve metotları, veri üreteçleri ve fonksiyon yapısı gibi dile özgü temeller ile OOP’de sınıf yapısı, nesne özellikleri ve metotları, farklı metot kullanımları, miras alma, kapsülleme, soyutlama, çok biçimlilik kavramları ve uygulamaları, modüller gibi temel nesneye dayalı programlama tekniklerinin gerçek dünya örnekleri temelinde Python dili ile anlatılması amaçlanmaktadır.",
+    "yontemler": "Anlatım, Soru–Cevap, Uygulamalı Gösterim, Problem Çözme ve Proje Tabanlı öğrenme",
+    "kaynaklar": {
+      "kitaplar": [
+        "Lott, S. F. & Phillips D., Python Object-Oriented Programming, 4th Edition, Packt Publishing, 2021",
+        "Lutz, Mark. Learning Python. O’Reilly Media, 2013",
+        "McKinney, Wes. Python for Data Analysis. O’Reilly Media, 2022"
+      ],
+      "ders_notlari": [
+        "Öğretim üyesi tarafından hazırlanan ders notları"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "2",
+        "katki": "%10"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Python dilinin sözdizimini ve temel veri yapılarını açıklar.",
+      "Nesneye dayalı programlamanın temel kavramlarını (sınıf, nesne, metot, özellik) tanımlar.",
+      "Kapsülleme, kalıtım, soyutlama ve çok biçimlilik kavramlarını örnekler üzerinden uygular.",
+      "Modüler yazılım yaklaşımıyla Python’da fonksiyonel ve nesneye dayalı kod geliştirir.",
+      "Python programlarını hata ayıklama ve test etme becerisi kazanır.",
+      "Gerçek dünya problemlerini nesne tabanlı yöntemlerle çözecek algoritmalar tasarlar.",
+      "Temel Python kütüphaneleriyle yapay zekâ uygulamaları için ön hazırlık yapar."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Python programlama diline giriş, sözdizimi ve çalışma ortamı kurulumu Öğretim üyesi ders notları",
+      "Hafta 2: Değişkenler, veri tipleri, giriş/çıkış işlemleri, karakter formatlama Öğretim üyesi ders notları",
+      "Hafta 3: Operatörler, koşullu ifadeler (if-elif-else) ve döngü yapıları (for, while) Öğretim üyesi ders notları",
+      "Hafta 4: Veri yapıları: list, tuple, set, dictionary tipleri ve temel metotları Öğretim üyesi ders notları",
+      "Hafta 5: Nesneye Dayalı Programlamaya giriş: sınıf (class) ve nesne (object) kavramı",
+      "Hafta 6: Yapıcı (constructor) ve yıkıcı (destructor) metotlar, self parametresi",
+      "Hafta 7: Özellik (attribute) ve metot (method) tanımlama, sınıf ve örnek değişkenleri Öğretim üyesi ders notları",
+      "Hafta 8: Kapsülleme (encapsulation) ve erişim belirleyiciler",
+      "Hafta 9: Kalıtım (inheritance) kavramı ve alt sınıf uygulamaları",
+      "Hafta 10: Çok biçimlilik (polymorphism) ve soyutlama (abstraction) kavramları",
+      "Hafta 11: Modül yapısı ve paket yönetimi (import, module, package) Öğretim üyesi ders notları",
+      "Hafta 12: Hata yönetimi (exception handling) ve dosya işlemleri",
+      "Hafta 13: Basit proje: OOP kavramlarını kullanarak uygulama geliştirme Öğretim üyesi ders notları",
+      "Hafta 14: Yapay zekâ uygulamalarına giriş ve genel tekrar Çevrim içi Python ve OOP kaynakları"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Nesneye Dayalı Programlama\nDers Kodu: BMB215\nYarıyıl: 3. Yarıyıl\nKredi: 3\nAKTS Kredisi: 4\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin temel amacı, öğrencilere Python programlama dili kullanılarak nesneye dayalı programlama (OOP) ilkelerini kapsamlı bir şekilde anlatmaktır. Dersin sonunda, öğrenciler OOP kavramlarını kullanarak etkili ve kullanışlı kodlar oluşturarak Python uygulamalarını tasarlayabilecek, geliştirebilecek ve test etme becerisine sahip olabileceklerdir. Ders ayrıca öğrencilere temel Python kütüphaneleri ve çerçevelerini tanıtarak yapay zekâ tabanlı uygulamalar geliştirebilmelerine olanak sağlayacak altlık oluşturmaları hedeflenmektedir.\n\n--- DERS İÇERİĞİ ---\nPython sözdizimi kavramları, nesne referansları ve kimliği, temel veri tipleri, karakter formatlama, operatörler, koşullu ifadeler ve döngü yapısı, sıralı-sırasız veri tipleri ve metotları, veri üreteçleri ve fonksiyon yapısı gibi dile özgü temeller ile OOP’de sınıf yapısı, nesne özellikleri ve metotları, farklı metot kullanımları, miras alma, kapsülleme, soyutlama, çok biçimlilik kavramları ve uygulamaları, modüller gibi temel nesneye dayalı programlama tekniklerinin gerçek dünya örnekleri temelinde Python dili ile anlatılması amaçlanmaktadır.\n\nÖğretim Yöntemleri: Anlatım, Soru–Cevap, Uygulamalı Gösterim, Problem Çözme ve Proje Tabanlı öğrenme\n\n--- DERS KAYNAKLARI ---\n• Lott, S. F. & Phillips D., Python Object-Oriented Programming, 4th Edition, Packt Publishing, 2021\n• Lutz, Mark. Learning Python. O’Reilly Media, 2013\n• McKinney, Wes. Python for Data Analysis. O’Reilly Media, 2022\n• Ders Notu: Öğretim üyesi tarafından hazırlanan ders notları\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nÖdev: 2 adet, katkı oranı %10\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Python dilinin sözdizimini ve temel veri yapılarını açıklar.\n2. Nesneye dayalı programlamanın temel kavramlarını (sınıf, nesne, metot, özellik) tanımlar.\n3. Kapsülleme, kalıtım, soyutlama ve çok biçimlilik kavramlarını örnekler üzerinden uygular.\n4. Modüler yazılım yaklaşımıyla Python’da fonksiyonel ve nesneye dayalı kod geliştirir.\n5. Python programlarını hata ayıklama ve test etme becerisi kazanır.\n6. Gerçek dünya problemlerini nesne tabanlı yöntemlerle çözecek algoritmalar tasarlar.\n7. Temel Python kütüphaneleriyle yapay zekâ uygulamaları için ön hazırlık yapar.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Python programlama diline giriş, sözdizimi ve çalışma ortamı kurulumu Öğretim üyesi ders notları\nHafta 2: Değişkenler, veri tipleri, giriş/çıkış işlemleri, karakter formatlama Öğretim üyesi ders notları\nHafta 3: Operatörler, koşullu ifadeler (if-elif-else) ve döngü yapıları (for, while) Öğretim üyesi ders notları\nHafta 4: Veri yapıları: list, tuple, set, dictionary tipleri ve temel metotları Öğretim üyesi ders notları\nHafta 5: Nesneye Dayalı Programlamaya giriş: sınıf (class) ve nesne (object) kavramı\nHafta 6: Yapıcı (constructor) ve yıkıcı (destructor) metotlar, self parametresi\nHafta 7: Özellik (attribute) ve metot (method) tanımlama, sınıf ve örnek değişkenleri Öğretim üyesi ders notları\nHafta 8: Kapsülleme (encapsulation) ve erişim belirleyiciler\nHafta 9: Kalıtım (inheritance) kavramı ve alt sınıf uygulamaları\nHafta 10: Çok biçimlilik (polymorphism) ve soyutlama (abstraction) kavramları\nHafta 11: Modül yapısı ve paket yönetimi (import, module, package) Öğretim üyesi ders notları\nHafta 12: Hata yönetimi (exception handling) ve dosya işlemleri\nHafta 13: Basit proje: OOP kavramlarını kullanarak uygulama geliştirme Öğretim üyesi ders notları\nHafta 14: Yapay zekâ uygulamalarına giriş ve genel tekrar Çevrim içi Python ve OOP kaynakları\n",
+  "source_file": "BMB215_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

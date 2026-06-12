@@ -1,0 +1,75 @@
+{
+  "title": "BMB205 - Mesleki İngilizce I Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB205",
+    "ders_adi": "Mesleki İngilizce I",
+    "yariyil": "3",
+    "kredi": "3",
+    "akts": "4",
+    "son_guncelleme": "28.11.2025",
+    "ogretim_uyesi": "Öğr. Gör. Fatma Neda Topuz"
+  },
+  "sections": {
+    "amac": "Dersin temel amacı öğrencilerin öğrenim gördükleri alanlarla ilgili terim ve terminoloji tanımalarını sağlamak ve literatürü takip etmelerini kolaylaştırmaktır. Ders okuma-anlama yeteneğini geliştirmeye yöneliktir. Amacı gerçekleştirebilmek için öğrencilerin eleştirel ve analitik düşünme yetenekleri geliştirilir. Konularına göre düzenlenmiş teknik okuma parçaları üzerinde çalışılarak, öğrencilerin parçalar içinde sunulan fikirleri değerlendirebilmesi, sentez yapabilmesi ve karşılık verebilmesi sağlanır.",
+    "icerik": "Mesleki terimler Referans biçimleri Teknik doküman türleri Resmi e-posta yazma Yabancı dilde özet Yabancı dilde doküman analizi CV Hazırlama",
+    "yontemler": "Yüzyüze eğitim Eşleştirme ve grup çalışmaları Dinleme ve konuşma aktiviteleri Okuma ve yazma çalışmaları",
+    "kaynaklar": {
+      "kitaplar": [
+        "English for Information Technology",
+        "Cambridge English for Engineering by Mark Ibbotson, Cambridge University, 2025",
+        "Dökümanlar Teams'de paylaşılacaktır",
+        "Ödevler 1 sunum ödevi vardır.",
+        "Sınavlar 1 arasınav ve 1 final sınavı vardır."
+      ],
+      "ders_notlari": [
+        "Basic English for Computing by Eric H. Glendinning, John McEwan, Oxford University Press, 2003"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%35"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "3",
+        "katki": "%15"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%10"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Dersin temel amacı öğrencilerin öğrenim gördükleri alanlarla ilgili terim ve terminoloji tanımalarını sağlamak ve literatürü takip etmelerini kolaylaştırmaktır.",
+      "Ders okuma-anlama yeteneğini geliştirmeye yöneliktir. Amacı gerçekleştirebilmek için öğrencilerin eleştirel ve analitik düşünme yetenekleri geliştirilir.",
+      "Konularına göre düzenlenmiş teknik okuma parçaları üzerinde çalışılarak, öğrencilerin parçalar içinde sunulan fikirleri değerlendirebilmesi, sentez yapabilmesi ve karşılık verebilmesi sağlanır."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Mesleki İngilizceye Giriş",
+      "Hafta 2: Mesleki Terimler",
+      "Hafta 3: Teknik doküman türleri",
+      "Hafta 4: Resmi e-posta yazma",
+      "Hafta 5: Yabancı dilde doküman analizi",
+      "Hafta 6: Yabancı dilde doküman analizi",
+      "Hafta 7: Ara Sınav",
+      "Hafta 8: Yabancı dilde özet",
+      "Hafta 9: Yabancı dilde özet",
+      "Hafta 11: CV Hazırlama",
+      "Hafta 12: Proje(Makale) Sunumu",
+      "Hafta 13: Proje(Makale) Sunumu",
+      "Hafta 14: Final Tekrar"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Mesleki İngilizce I\nDers Kodu: BMB205\nYarıyıl: 3. Yarıyıl\nKredi: 3\nAKTS Kredisi: 4\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 28.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Öğr. Gör. Fatma Neda Topuz\n\n--- DERS AMACI ---\nDersin temel amacı öğrencilerin öğrenim gördükleri alanlarla ilgili terim ve terminoloji tanımalarını sağlamak ve literatürü takip etmelerini kolaylaştırmaktır. Ders okuma-anlama yeteneğini geliştirmeye yöneliktir. Amacı gerçekleştirebilmek için öğrencilerin eleştirel ve analitik düşünme yetenekleri geliştirilir. Konularına göre düzenlenmiş teknik okuma parçaları üzerinde çalışılarak, öğrencilerin parçalar içinde sunulan fikirleri değerlendirebilmesi, sentez yapabilmesi ve karşılık verebilmesi sağlanır.\n\n--- DERS İÇERİĞİ ---\nMesleki terimler Referans biçimleri Teknik doküman türleri Resmi e-posta yazma Yabancı dilde özet Yabancı dilde doküman analizi CV Hazırlama\n\nÖğretim Yöntemleri: Yüzyüze eğitim Eşleştirme ve grup çalışmaları Dinleme ve konuşma aktiviteleri Okuma ve yazma çalışmaları\n\n--- DERS KAYNAKLARI ---\n• English for Information Technology\n• Cambridge English for Engineering by Mark Ibbotson, Cambridge University, 2025\n• Dökümanlar Teams'de paylaşılacaktır\n• Ödevler 1 sunum ödevi vardır.\n• Sınavlar 1 arasınav ve 1 final sınavı vardır.\n• Ders Notu: Basic English for Computing by Eric H. Glendinning, John McEwan, Oxford University Press, 2003\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %35\nÖdev: 3 adet, katkı oranı %15\nProje: 1 adet, katkı oranı %10\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Dersin temel amacı öğrencilerin öğrenim gördükleri alanlarla ilgili terim ve terminoloji tanımalarını sağlamak ve literatürü takip etmelerini kolaylaştırmaktır.\n2. Ders okuma-anlama yeteneğini geliştirmeye yöneliktir. Amacı gerçekleştirebilmek için öğrencilerin eleştirel ve analitik düşünme yetenekleri geliştirilir.\n3. Konularına göre düzenlenmiş teknik okuma parçaları üzerinde çalışılarak, öğrencilerin parçalar içinde sunulan fikirleri değerlendirebilmesi, sentez yapabilmesi ve karşılık verebilmesi sağlanır.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Mesleki İngilizceye Giriş\nHafta 2: Mesleki Terimler\nHafta 3: Teknik doküman türleri\nHafta 4: Resmi e-posta yazma\nHafta 5: Yabancı dilde doküman analizi\nHafta 6: Yabancı dilde doküman analizi\nHafta 7: Ara Sınav\nHafta 8: Yabancı dilde özet\nHafta 9: Yabancı dilde özet\nHafta 11: CV Hazırlama\nHafta 12: Proje(Makale) Sunumu\nHafta 13: Proje(Makale) Sunumu\nHafta 14: Final Tekrar\n",
+  "source_file": "BMB205_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

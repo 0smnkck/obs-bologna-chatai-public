@@ -1,0 +1,75 @@
+{
+  "title": "BMB444 - Yazılım Metrikleri Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB444",
+    "ders_adi": "Yazılım Metrikleri",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "01.12.2025",
+    "ogretim_uyesi": "Doç. Dr. MEHMET FATİH TEFEK"
+  },
+  "sections": {
+    "amac": "Kursun sonunda öğrencilerin, yazılım mühendisliğinde ölçüm ve tahmin konularında bilgi ve beceri kazanmaları beklenmektedir. Bu kapsamda, ölçümün önemi, farklı ölçüm modelleri ve ölçek türleri ile Amaç-Soru-Metrik (GQM) yaklaşımı ele alınacaktır. Ayrıca, iç ve dış ürün özellikleri, temel ve türetilmiş metrikler, veri toplama ve doğrulama teknikleri ile performans, maliyet ve çaba ölçüm yöntemleri hakkında bilgi sahibi olacaklardır. Buna ek olarak, kurs boyunca yazılım geliştirme yaşam döngüsünün farklı aşamalarına uygulanabilen çeşitli metrikler de incelenecektir.",
+    "icerik": "Yazılım ölçümünün gerekliliği ve kapsamı, Ölçüm teorisi, Hedef odaklı ölçüm, Ampirik araştırma, Veri toplama ve analiz ilkeleri, Ürün ölçümleri: Boyut ve Yapı, Ürün ölçümleri: Kalite ve Yazılım Güvenilirliği, Yazılım süreç ve kaynak ölçümleri, Ölçüm süreç modelleri, Ölçüm programları ve en iyi uygulamalar",
+    "yontemler": "Yüzyüze Eğitim",
+    "kaynaklar": {
+      "kitaplar": [
+        "Fenton, N.E., and Pfleeger, S.L., Yazılım Ölçümleri: Titiz ve Pratik Bir Yaklaşım, 3rd Ed., CRC Press, 2014.",
+        "Putnam, L. H., and Myers, W., Beş Temel Metrik, 2013.",
+        "1. Fenton, N.E., and Pfleeger, S.L., Software Metrics: A Rigorous and Practical Approach, 3rd Ed., CRC Press, 2014.",
+        "2. Putnam, L. H., and Myers, W., Five Core Metrics, 2013.",
+        "Dökümanlar Teams'de paylaşılacaktır.",
+        "Ödevler 1 adet proje vardır",
+        "Sınavlar 1 arasınav ve 1 final vardır."
+      ],
+      "ders_notlari": [
+        "Kaynak Kitaplar:"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Yazılım süreçleri, ürünleri ve kaynakları için uygun metrikleri belirlemek",
+      "Sınırlı kaynaklarla çalışırken yazılım projelerinde neyin ölçülmesinin en faydalı olacağını anlamak",
+      "Bu metrikleri sistem ve yazılım geliştirme projelerinde uygulamak",
+      "Yazılım projesinin büyüklüğünü, çaba gereksinimini ve zaman planını diğer ölçütlerle birlikte belirlemek",
+      "Yazılım projelerinde bir ölçüm projesi başlatmak ve sürdürmek"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Yazılım metriklerine genel bakış Kursa giriş. Yazılım ölçümü nedir? Yazılım metrikleri nelerdir?",
+      "Hafta 2: Ölçümün Temelleri Metroloji Özellik Odaklı Ölçüm Ölçümde Anlamlılık Ölçüm Kalitesi Ölçüm Süreci Ölçüm Ölçekleri Ölçüm Doğrulaması Nesne Odaklı Ölçüm Konu Alanı Odaklı Ölçüm",
+      "Hafta 3: Yazılım ölçümü için hedef tabanlı çerçeve Yazılım ölçümü sınıflandırması Hedef tabanlı paradigmalar: Hedef-Soru-Metrikler (GQM) ve diğerleri belirlenecek GQM'nin uygulamaları Vaka çalışmaları",
+      "Hafta 4: Deneysel araştırma Yazılım mühendisliği araştırması Araştırma ilkeleri Araştırma teknikleri Biçimsel deneylere genel bakış: Planlama, İlkeler, Türler ve Seçim Deneysel araştırma yönergeleri",
+      "Hafta 5: Dahili ürün niteliklerinin ölçülmesi: boyut Yazılım boyutu Yazılım Boyutu: Uzunluk (kod, özellik, tasarım) Yazılım Boyutu: Yeniden kullanım Yazılım Boyutu: İşlevsellik (işlev noktası, özellik noktası, nesne noktası, kullanım durumu noktası) Yazılım Boyutu: Karmaşıklık",
+      "Hafta 6: Dahili ürün niteliklerinin ölçülmesi: yapı Yazılım yapısal ölçümü Kontrol akış yapısı Siklik karmaşıklık Veri akışı ve veri yapısı nitelikleri Mimari ölçüm",
+      "Hafta 7: Maliyet ve çaba ölçümü Yazılım maliyet modelleri COCOMO ve COCOMO II Kısıtlama modeli Yazılım Yaşam Döngüsü Yönetimi (SLIM)",
+      "Hafta 8: Arasınav Haftası",
+      "Hafta 9: Dış ürün niteliklerinin ölçülmesi: kalite Yazılım kalitesi Yazılım kalite modelleri: Boehm modeli, McCall modeli, ISO 9126 modeli vb. Temel yazılım kalite metrikleri Kalite yönetim modelleri Müşteri memnuniyetinin ölçülmesi Yazılım Kalite Güvencesi (SQA)",
+      "Hafta 10: Yazılım güvenilirliğinin ölçülmesi Güvenilirlik kavramları ve tanımları Yazılım güvenilirlik modelleri ve metrikleri Yazılım güvenilirlik mühendisliğinin (SRE) temelleri Güvenilirlik yönetim modelleri",
+      "Hafta 11: Yazılım test metrikleri Test kavramları, tanımları ve teknikleri Test vakası sayısının tahmini Test sürelerinin tahsisi Teste dayalı kararlar Test kapsamı ölçümü Yazılım test edilebilirliği ölçümü Kalan kusurların ölçümü",
+      "Hafta 12: Nesne yönelimli metrikler Nesne yönelimli ölçüm kavramları OO sistemleri için temel metrikler OO analizi ve tasarım metrikleri Verimlilik ölçümü metrikleri OO yazılım kalitesi metrikleri Deneyim tabanlı yönergeler",
+      "Hafta 13: Çevik metrikler Ekstrem Programlama metrikleri Scrum metrikleri Çevik RUP, Diğerleri",
+      "Hafta 14: Kalite/Sahip Olma Maliyeti, Yatırım Getirisi (YG) metrikleri, Organizasyonel metrikler Genişletilmiş yaşam döngüsü maliyeti ve süreç olgunluğu metrikleri örneğin, CoSQ, COO, CMMI SWE Yaşam Döngüsü Modeli Hususları"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Yazılım Metrikleri\nDers Kodu: BMB444\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 01.12.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Öğretim Üyesi Dr.Bahar Gezici Geçer bahargezici@osmaniye.edu.tr\nÖğretim Üyesi: Doç. Dr. MEHMET FATİH TEFEK\n\n--- DERS AMACI ---\nKursun sonunda öğrencilerin, yazılım mühendisliğinde ölçüm ve tahmin konularında bilgi ve beceri kazanmaları beklenmektedir. Bu kapsamda, ölçümün önemi, farklı ölçüm modelleri ve ölçek türleri ile Amaç-Soru-Metrik (GQM) yaklaşımı ele alınacaktır. Ayrıca, iç ve dış ürün özellikleri, temel ve türetilmiş metrikler, veri toplama ve doğrulama teknikleri ile performans, maliyet ve çaba ölçüm yöntemleri hakkında bilgi sahibi olacaklardır. Buna ek olarak, kurs boyunca yazılım geliştirme yaşam döngüsünün farklı aşamalarına uygulanabilen çeşitli metrikler de incelenecektir.\n\n--- DERS İÇERİĞİ ---\nYazılım ölçümünün gerekliliği ve kapsamı, Ölçüm teorisi, Hedef odaklı ölçüm, Ampirik araştırma, Veri toplama ve analiz ilkeleri, Ürün ölçümleri: Boyut ve Yapı, Ürün ölçümleri: Kalite ve Yazılım Güvenilirliği, Yazılım süreç ve kaynak ölçümleri, Ölçüm süreç modelleri, Ölçüm programları ve en iyi uygulamalar\n\nÖğretim Yöntemleri: Yüzyüze Eğitim\n\n--- DERS KAYNAKLARI ---\n• Fenton, N.E., and Pfleeger, S.L., Yazılım Ölçümleri: Titiz ve Pratik Bir Yaklaşım, 3rd Ed., CRC Press, 2014.\n• Putnam, L. H., and Myers, W., Beş Temel Metrik, 2013.\n• 1. Fenton, N.E., and Pfleeger, S.L., Software Metrics: A Rigorous and Practical Approach, 3rd Ed., CRC Press, 2014.\n• 2. Putnam, L. H., and Myers, W., Five Core Metrics, 2013.\n• Dökümanlar Teams'de paylaşılacaktır.\n• Ödevler 1 adet proje vardır\n• Sınavlar 1 arasınav ve 1 final vardır.\n• Ders Notu: Kaynak Kitaplar:\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nProje: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Yazılım süreçleri, ürünleri ve kaynakları için uygun metrikleri belirlemek\n2. Sınırlı kaynaklarla çalışırken yazılım projelerinde neyin ölçülmesinin en faydalı olacağını anlamak\n3. Bu metrikleri sistem ve yazılım geliştirme projelerinde uygulamak\n4. Yazılım projesinin büyüklüğünü, çaba gereksinimini ve zaman planını diğer ölçütlerle birlikte belirlemek\n5. Yazılım projelerinde bir ölçüm projesi başlatmak ve sürdürmek\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Yazılım metriklerine genel bakış Kursa giriş. Yazılım ölçümü nedir? Yazılım metrikleri nelerdir?\nHafta 2: Ölçümün Temelleri Metroloji Özellik Odaklı Ölçüm Ölçümde Anlamlılık Ölçüm Kalitesi Ölçüm Süreci Ölçüm Ölçekleri Ölçüm Doğrulaması Nesne Odaklı Ölçüm Konu Alanı Odaklı Ölçüm\nHafta 3: Yazılım ölçümü için hedef tabanlı çerçeve Yazılım ölçümü sınıflandırması Hedef tabanlı paradigmalar: Hedef-Soru-Metrikler (GQM) ve diğerleri belirlenecek GQM'nin uygulamaları Vaka çalışmaları\nHafta 4: Deneysel araştırma Yazılım mühendisliği araştırması Araştırma ilkeleri Araştırma teknikleri Biçimsel deneylere genel bakış: Planlama, İlkeler, Türler ve Seçim Deneysel araştırma yönergeleri\nHafta 5: Dahili ürün niteliklerinin ölçülmesi: boyut Yazılım boyutu Yazılım Boyutu: Uzunluk (kod, özellik, tasarım) Yazılım Boyutu: Yeniden kullanım Yazılım Boyutu: İşlevsellik (işlev noktası, özellik noktası, nesne noktası, kullanım durumu noktası) Yazılım Boyutu: Karmaşıklık\nHafta 6: Dahili ürün niteliklerinin ölçülmesi: yapı Yazılım yapısal ölçümü Kontrol akış yapısı Siklik karmaşıklık Veri akışı ve veri yapısı nitelikleri Mimari ölçüm\nHafta 7: Maliyet ve çaba ölçümü Yazılım maliyet modelleri COCOMO ve COCOMO II Kısıtlama modeli Yazılım Yaşam Döngüsü Yönetimi (SLIM)\nHafta 8: Arasınav Haftası\nHafta 9: Dış ürün niteliklerinin ölçülmesi: kalite Yazılım kalitesi Yazılım kalite modelleri: Boehm modeli, McCall modeli, ISO 9126 modeli vb. Temel yazılım kalite metrikleri Kalite yönetim modelleri Müşteri memnuniyetinin ölçülmesi Yazılım Kalite Güvencesi (SQA)\nHafta 10: Yazılım güvenilirliğinin ölçülmesi Güvenilirlik kavramları ve tanımları Yazılım güvenilirlik modelleri ve metrikleri Yazılım güvenilirlik mühendisliğinin (SRE) temelleri Güvenilirlik yönetim modelleri\nHafta 11: Yazılım test metrikleri Test kavramları, tanımları ve teknikleri Test vakası sayısının tahmini Test sürelerinin tahsisi Teste dayalı kararlar Test kapsamı ölçümü Yazılım test edilebilirliği ölçümü Kalan kusurların ölçümü\nHafta 12: Nesne yönelimli metrikler Nesne yönelimli ölçüm kavramları OO sistemleri için temel metrikler OO analizi ve tasarım metrikleri Verimlilik ölçümü metrikleri OO yazılım kalitesi metrikleri Deneyim tabanlı yönergeler\nHafta 13: Çevik metrikler Ekstrem Programlama metrikleri Scrum metrikleri Çevik RUP, Diğerleri\nHafta 14: Kalite/Sahip Olma Maliyeti, Yatırım Getirisi (YG) metrikleri, Organizasyonel metrikler Genişletilmiş yaşam döngüsü maliyeti ve süreç olgunluğu metrikleri örneğin, CoSQ, COO, CMMI SWE Yaşam Döngüsü Modeli Hususları\n",
+  "source_file": "BMB444_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

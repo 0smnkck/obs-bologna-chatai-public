@@ -1,0 +1,63 @@
+{
+  "title": "BMB321 - Oyun Programlama Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB321",
+    "ders_adi": "Oyun Programlama",
+    "yariyil": "5",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "27.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Erhan TURAN"
+  },
+  "sections": {
+    "amac": "Modern grafik teknolojileri ve oyun motorları kullanarak eğlence, eğitim, sunum vb. alanlarda 2 boyutlu veya 3 boyutlu oyun ve interaktif çokluortam yazılımları geliştirmek",
+    "icerik": "Bilgisayar tabanlı oyun kavramı ve türleri, bilgisayar grafikleri ve oyun tasarımı, Unity tabanlı 2 ve 3 boyutlu oyun geliştirme, oyun dinamikleri, oyuncu, ortam ve düşman karakter etkileşimi, klavye, fare, gamepad vb. giriş cihazlarını oyunda kullanımı.",
+    "yontemler": "Anlatım,Tartışma,Proje",
+    "kaynaklar": {
+      "kitaplar": [
+        "Unity 6 Shaders and Effects Cookbook: Over 50 recipes for creating captivating visual effects in Unity and enhancing your game`s visual impact, John P. Doran",
+        "Rules of Play: Game Design Fundamentals, Katie Salen Tekinbas, Eric Zimmerman"
+      ],
+      "ders_notlari": [
+        "Unity 6 Game Development with C# Scripting: Leverage C# scripting in Unity to create immersive games and VR experiences, Lem Apperson and Jonathan Weinberger"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Bilgisayar oyunları tasarımı hakkında temel kavramları öğrenme",
+      "Oyun dinamiklerini planlama ve oynanabilirliği iyileştirebilme",
+      "Unity destekli 2 ve 3 boyutlu oyun tasarlama"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Temel Kavramlar ve Unity - -",
+      "Hafta 2: Oyun Nesneleri ve Bileşenleri, Unity arayüzüne genel bakış, Unity Editörünü Keşfetme - -",
+      "Hafta 3: Sahneler ve Varlıklarda Uzmanlaşma, Varlıkları içe aktarma ve yönetme, Temel Oyun Nesnesi işleme - -",
+      "Hafta 4: Unity`de C# Temelleri - Değişkenler, Döngüler ve Sorun Giderme Teknikleri - -",
+      "Hafta 5: MonoBehaviour`ı Anlama, Unity`nin betik yaşam döngüsünü ve olay sırasını keşfetme, Oyuncu girdisine yanıt verme - -",
+      "Hafta 6: Unity API`sinde Uzmanlaşma - Fizik, Çarpışmalar ve Ortam Etkileşim Teknikleri - -",
+      "Hafta 7: Ara Sınav - -",
+      "Hafta 8: Unity`de Veri Yapıları - Diziler, Listeler, Sözlükler, HashSet`ler ve Oyun Mantığı - -",
+      "Hafta 9: Etkileşimli Kullanıcı Arayüzü Öğeleri Tasarlama - Unity`de Menüler ve Oyuncu Etkileşimleri - -",
+      "Hafta 10: Unity Oyun Geliştirmede Fizik ve Animasyonda Uzmanlaşma - -",
+      "Hafta 11: Unity`de Yapay Zeka Uygulama - -",
+      "Hafta 12: Çok Oyunculu ve Ağ - Eşleştirme, Güvenlik ve Etkileşimli Oyun - -",
+      "Hafta 13: Unity`de Oyun Performansını Optimize Etme - Profil Oluşturma ve Analiz Teknikler - -",
+      "Hafta 14: Gerçek Dünya Uygulamaları ve Vaka Çalışmaları - -"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Oyun Programlama\nDers Kodu: BMB321\nYarıyıl: 5. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 27.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Erhan TURAN\n\n--- DERS AMACI ---\nModern grafik teknolojileri ve oyun motorları kullanarak eğlence, eğitim, sunum vb. alanlarda 2 boyutlu veya 3 boyutlu oyun ve interaktif çokluortam yazılımları geliştirmek\n\n--- DERS İÇERİĞİ ---\nBilgisayar tabanlı oyun kavramı ve türleri, bilgisayar grafikleri ve oyun tasarımı, Unity tabanlı 2 ve 3 boyutlu oyun geliştirme, oyun dinamikleri, oyuncu, ortam ve düşman karakter etkileşimi, klavye, fare, gamepad vb. giriş cihazlarını oyunda kullanımı.\n\nÖğretim Yöntemleri: Anlatım,Tartışma,Proje\n\n--- DERS KAYNAKLARI ---\n• Unity 6 Shaders and Effects Cookbook: Over 50 recipes for creating captivating visual effects in Unity and enhancing your game`s visual impact, John P. Doran\n• Rules of Play: Game Design Fundamentals, Katie Salen Tekinbas, Eric Zimmerman\n• Ders Notu: Unity 6 Game Development with C# Scripting: Leverage C# scripting in Unity to create immersive games and VR experiences, Lem Apperson and Jonathan Weinberger\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nProje: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Bilgisayar oyunları tasarımı hakkında temel kavramları öğrenme\n2. Oyun dinamiklerini planlama ve oynanabilirliği iyileştirebilme\n3. Unity destekli 2 ve 3 boyutlu oyun tasarlama\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Temel Kavramlar ve Unity - -\nHafta 2: Oyun Nesneleri ve Bileşenleri, Unity arayüzüne genel bakış, Unity Editörünü Keşfetme - -\nHafta 3: Sahneler ve Varlıklarda Uzmanlaşma, Varlıkları içe aktarma ve yönetme, Temel Oyun Nesnesi işleme - -\nHafta 4: Unity`de C# Temelleri - Değişkenler, Döngüler ve Sorun Giderme Teknikleri - -\nHafta 5: MonoBehaviour`ı Anlama, Unity`nin betik yaşam döngüsünü ve olay sırasını keşfetme, Oyuncu girdisine yanıt verme - -\nHafta 6: Unity API`sinde Uzmanlaşma - Fizik, Çarpışmalar ve Ortam Etkileşim Teknikleri - -\nHafta 7: Ara Sınav - -\nHafta 8: Unity`de Veri Yapıları - Diziler, Listeler, Sözlükler, HashSet`ler ve Oyun Mantığı - -\nHafta 9: Etkileşimli Kullanıcı Arayüzü Öğeleri Tasarlama - Unity`de Menüler ve Oyuncu Etkileşimleri - -\nHafta 10: Unity Oyun Geliştirmede Fizik ve Animasyonda Uzmanlaşma - -\nHafta 11: Unity`de Yapay Zeka Uygulama - -\nHafta 12: Çok Oyunculu ve Ağ - Eşleştirme, Güvenlik ve Etkileşimli Oyun - -\nHafta 13: Unity`de Oyun Performansını Optimize Etme - Profil Oluşturma ve Analiz Teknikler - -\nHafta 14: Gerçek Dünya Uygulamaları ve Vaka Çalışmaları - -\n",
+  "source_file": "BMB321_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

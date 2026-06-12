@@ -1,0 +1,78 @@
+{
+  "title": "BMB206 - Mesleki İngilizce II Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB206",
+    "ders_adi": "Mesleki İngilizce II",
+    "yariyil": "4",
+    "kredi": "3",
+    "akts": "4",
+    "son_guncelleme": "05.04.2026",
+    "ogretim_uyesi": "Öğr. Gör. Fatma Neda Topuz fatmaneda@gmail.com"
+  },
+  "sections": {
+    "amac": "Öğrencilerin, yabancı dili kullanarak akademik araştırma, yazmada ve eleştriel okuma becerilerini geliştirmek amaçlanmaktadır.",
+    "icerik": "Öğrencilerin yazılı olarak sunması gereken dönem ödevleri ve raporlar için gerekli olan yazma teknikleri en çok kullanılan formatlarıyla birlikte uygulamalı olarak verilir. Derste ingilizce teknik bir metnin nasıl yazılacağı anlatılır. Ayrıca bu dersi desteklemek için sorun yaratan ileri düzey gramer konuları da işlenir.",
+    "yontemler": "Yüzyüze eğitim Eşleştirme ve grup çalışmaları Dinleme ve konuşma aktiviteleri Okuma ve yazma çalışmaları",
+    "kaynaklar": {
+      "kitaplar": [
+        "Longman Academic Writing Series 5: Essays to Research Papers",
+        "Scientific Papers and Presentations - Effective Scientific Communication 3rd Ed. M. Davis, K. Davis and M. Dunagan",
+        "Longman Academic Writing Series 5: Essays to Papers by A.Mayers, Pearson Education ESL, 2013",
+        "Dökümanlar Teams'de paylaşılacaktır.",
+        "Ödevler 3 adet ders içi ödev vardır.",
+        "Sınavlar 1 arasınav ve 1 final vardır."
+      ],
+      "ders_notlari": [
+        "Longman Academic Writing Series 4: Essays(5th Edition) by A.Oshima, A. Hogue, Pearson Education ESL, 2013"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "3",
+        "katki": "%15"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%45"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Bilişim alanına özgü İngilizce teknik terminolojiyi doğru ve etkin biçimde kullanır.",
+      "Bilgisayar mühendisliği ile ilgili İngilizce metinleri okuyup analiz eder.",
+      "Mesleki konularda İngilizce yazılı iletişim kurar (e-posta, rapor vb.).",
+      "Mesleki bağlamda uygun iletişim stratejilerini ve dil yapılarını kullanır.",
+      "Resmi ve yarı resmi yazışma formatlarını doğru şekilde uygular.",
+      "Teknik içerikleri İngilizce-Türkçe ve Türkçe-İngilizce temel düzeyde çevirir.",
+      "Kendi mesleki İngilizce düzeyini değerlendirir ve geliştirme alanlarını belirler.",
+      "Mesleki gelişimi için İngilizce kaynakları takip eder ve güncel bilgileri sürekli olarak öğrenme sürecine entegre eder.",
+      "Mesleki problemlerin çözümünde İngilizce kaynakları etkin biçimde kullanarak karar verme sürecine katkı sağlar."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Akademik Yazı, Akademik Yazı Türleri",
+      "Hafta 2: Paragraf Yapısı",
+      "Hafta 3: Paragraf Yapısı",
+      "Hafta 4: Paragrafta Birlik(Unity) ve Tutarlılık(Coherence)",
+      "Hafta 5: Kaynak Gösterme, İntihal",
+      "Hafta 6: Kaynak Gösterme, İntihal",
+      "Hafta 7: Arasınav",
+      "Hafta 8: Paragraf Türleri, Denemeler",
+      "Hafta 9: Deneme Türleri - Süreç Denemeleri",
+      "Hafta 10: Deneme Türleri - Sebep/Sonuç Denemeleri",
+      "Hafta 11: Deneme Türleri - Karşılaştırma/Kontrast Denemeleri",
+      "Hafta 12: Deneme Türleri - Tartışmacı Denemeler",
+      "Hafta 13: Cümle Yapıları",
+      "Hafta 14: Cümle Yapıları"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Mesleki İngilizce II\nDers Kodu: BMB206\nYarıyıl: 4. Yarıyıl\nKredi: 3\nAKTS Kredisi: 4\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 05.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Öğr. Gör. Fatma Neda Topuz fatmaneda@gmail.com\n\n--- DERS AMACI ---\nÖğrencilerin, yabancı dili kullanarak akademik araştırma, yazmada ve eleştriel okuma becerilerini geliştirmek amaçlanmaktadır.\n\n--- DERS İÇERİĞİ ---\nÖğrencilerin yazılı olarak sunması gereken dönem ödevleri ve raporlar için gerekli olan yazma teknikleri en çok kullanılan formatlarıyla birlikte uygulamalı olarak verilir. Derste ingilizce teknik bir metnin nasıl yazılacağı anlatılır. Ayrıca bu dersi desteklemek için sorun yaratan ileri düzey gramer konuları da işlenir.\n\nÖğretim Yöntemleri: Yüzyüze eğitim Eşleştirme ve grup çalışmaları Dinleme ve konuşma aktiviteleri Okuma ve yazma çalışmaları\n\n--- DERS KAYNAKLARI ---\n• Longman Academic Writing Series 5: Essays to Research Papers\n• Scientific Papers and Presentations - Effective Scientific Communication 3rd Ed. M. Davis, K. Davis and M. Dunagan\n• Longman Academic Writing Series 5: Essays to Papers by A.Mayers, Pearson Education ESL, 2013\n• Dökümanlar Teams'de paylaşılacaktır.\n• Ödevler 3 adet ders içi ödev vardır.\n• Sınavlar 1 arasınav ve 1 final vardır.\n• Ders Notu: Longman Academic Writing Series 4: Essays(5th Edition) by A.Oshima, A. Hogue, Pearson Education ESL, 2013\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nÖdev: 3 adet, katkı oranı %15\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %45\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Bilişim alanına özgü İngilizce teknik terminolojiyi doğru ve etkin biçimde kullanır.\n2. Bilgisayar mühendisliği ile ilgili İngilizce metinleri okuyup analiz eder.\n3. Mesleki konularda İngilizce yazılı iletişim kurar (e-posta, rapor vb.).\n4. Mesleki bağlamda uygun iletişim stratejilerini ve dil yapılarını kullanır.\n5. Resmi ve yarı resmi yazışma formatlarını doğru şekilde uygular.\n6. Teknik içerikleri İngilizce-Türkçe ve Türkçe-İngilizce temel düzeyde çevirir.\n7. Kendi mesleki İngilizce düzeyini değerlendirir ve geliştirme alanlarını belirler.\n8. Mesleki gelişimi için İngilizce kaynakları takip eder ve güncel bilgileri sürekli olarak öğrenme sürecine entegre eder.\n9. Mesleki problemlerin çözümünde İngilizce kaynakları etkin biçimde kullanarak karar verme sürecine katkı sağlar.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Akademik Yazı, Akademik Yazı Türleri\nHafta 2: Paragraf Yapısı\nHafta 3: Paragraf Yapısı\nHafta 4: Paragrafta Birlik(Unity) ve Tutarlılık(Coherence)\nHafta 5: Kaynak Gösterme, İntihal\nHafta 6: Kaynak Gösterme, İntihal\nHafta 7: Arasınav\nHafta 8: Paragraf Türleri, Denemeler\nHafta 9: Deneme Türleri - Süreç Denemeleri\nHafta 10: Deneme Türleri - Sebep/Sonuç Denemeleri\nHafta 11: Deneme Türleri - Karşılaştırma/Kontrast Denemeleri\nHafta 12: Deneme Türleri - Tartışmacı Denemeler\nHafta 13: Cümle Yapıları\nHafta 14: Cümle Yapıları\n",
+  "source_file": "BMB206_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

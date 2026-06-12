@@ -1,0 +1,67 @@
+{
+  "title": "BMB 307 - Veri Bilimine Giriş Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB307",
+    "ders_adi": "Veri Bilimine Giriş",
+    "yariyil": "5",
+    "kredi": "2",
+    "akts": "2",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Orhan ABAR https://akbis.osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Öğrencilere veribiliminin temel kavramlarını ve veri analizi sürecini öğretmek.",
+    "icerik": "Veri toplama, temizleme, analiz ve görselleştirme konularını kapsar.",
+    "yontemler": "Anlatım, örnek uygulamalar ve proje tabanlı öğrenme.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Python for Data Analysis – Wes McKinney",
+        "Doing Data Science – Cathy O’Neil & Rachel Schutt",
+        "Eğitmenin Paylaştığı Ders Notları ve Uygulama Belgeleri"
+      ],
+      "ders_notlari": [
+        "Ders notları ve örnekler öğretim elemanı tarafından sağlanacaktır."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Veri toplama ve analiz süreçlerini kavrar.",
+      "Python ile temel veri analizi tekniklerini uygular.",
+      "Veri temizleme ve ön işleme adımlarını gerçekleştirir.",
+      "Veri görselleştirme araçlarını kullanarak sonuçları sunar.",
+      "Veri etiği ve gizlilik konularında farkındalık geliştirir.",
+      "Gerçek veri setleriyle proje bazlı analiz yapar."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Veribilimine Giriş – Kavramlar, süreç, uygulama alanları Veribilimi üzerine temel okuma Ders slaytları, örnek makale",
+      "Hafta 2: Python ile Veri İşleme – NumPy, Pandas tekrar Python temel tekrar Uygulama defteri",
+      "Hafta 3: Veri Toplama – API, web kazıma, veri formatları API örneklerine göz atma Örnek veri seti",
+      "Hafta 4: Veri Temizleme ve Ön İşleme Eksik veri yönetimi örnekleri Pandas uygulama notları",
+      "Hafta 5: Keşifsel Veri Analizi (EDA) Örnek analiz incelemesi Jupyter not defteri",
+      "Hafta 6: Veri Görselleştirme I – Matplotlib, Seaborn Görselleştirme örnekleri Kod örnekleri",
+      "Hafta 7: Veri Görselleştirme II – Plotly, ileri görselleştirme Etkileşimli grafik örnekleri Uygulama defteri",
+      "Hafta 8: Mini Proje: Veri Seti Seçimi ve Analiz Planı Proje konusu belirleme Proje yönergesi",
+      "Hafta 9: Veri Kaynakları ve Açık Veri Platformları Kaggle ve data.gov incelenmesi Örnek veri bağlantıları",
+      "Hafta 10: Temel İstatistiksel Çıkarım İstatistik tekrarı",
+      "Hafta 11: Öznitelik Mühendisliği Kodlama ve ölçekleme örnekleri Uygulama notları",
+      "Hafta 12: Veri Etiği ve Yanlılık Okuma: Veri etiği Okuma dökümanı",
+      "Hafta 13: Proje Sunumu Hazırlığı Sunum planı oluşturma Sunum şablonu",
+      "Hafta 14: Proje Sunumları ve Genel Değerlendirme Proje raporu tamamlanması Proje raporu"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Veri Bilimine Giriş\nDers Kodu: BMB 307\nYarıyıl: 5. Yarıyıl\nKredi: 2\nAKTS Kredisi: 2\nDers Saati: Teori=0, Uygulama=2, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Orhan ABAR https://akbis.osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr\n\n--- DERS AMACI ---\nÖğrencilere veribiliminin temel kavramlarını ve veri analizi sürecini öğretmek.\n\n--- DERS İÇERİĞİ ---\nVeri toplama, temizleme, analiz ve görselleştirme konularını kapsar.\n\nÖğretim Yöntemleri: Anlatım, örnek uygulamalar ve proje tabanlı öğrenme.\n\n--- DERS KAYNAKLARI ---\n• Python for Data Analysis – Wes McKinney\n• Doing Data Science – Cathy O’Neil & Rachel Schutt\n• Eğitmenin Paylaştığı Ders Notları ve Uygulama Belgeleri\n• Ders Notu: Ders notları ve örnekler öğretim elemanı tarafından sağlanacaktır.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Veri toplama ve analiz süreçlerini kavrar.\n2. Python ile temel veri analizi tekniklerini uygular.\n3. Veri temizleme ve ön işleme adımlarını gerçekleştirir.\n4. Veri görselleştirme araçlarını kullanarak sonuçları sunar.\n5. Veri etiği ve gizlilik konularında farkındalık geliştirir.\n6. Gerçek veri setleriyle proje bazlı analiz yapar.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Veribilimine Giriş – Kavramlar, süreç, uygulama alanları Veribilimi üzerine temel okuma Ders slaytları, örnek makale\nHafta 2: Python ile Veri İşleme – NumPy, Pandas tekrar Python temel tekrar Uygulama defteri\nHafta 3: Veri Toplama – API, web kazıma, veri formatları API örneklerine göz atma Örnek veri seti\nHafta 4: Veri Temizleme ve Ön İşleme Eksik veri yönetimi örnekleri Pandas uygulama notları\nHafta 5: Keşifsel Veri Analizi (EDA) Örnek analiz incelemesi Jupyter not defteri\nHafta 6: Veri Görselleştirme I – Matplotlib, Seaborn Görselleştirme örnekleri Kod örnekleri\nHafta 7: Veri Görselleştirme II – Plotly, ileri görselleştirme Etkileşimli grafik örnekleri Uygulama defteri\nHafta 8: Mini Proje: Veri Seti Seçimi ve Analiz Planı Proje konusu belirleme Proje yönergesi\nHafta 9: Veri Kaynakları ve Açık Veri Platformları Kaggle ve data.gov incelenmesi Örnek veri bağlantıları\nHafta 10: Temel İstatistiksel Çıkarım İstatistik tekrarı\nHafta 11: Öznitelik Mühendisliği Kodlama ve ölçekleme örnekleri Uygulama notları\nHafta 12: Veri Etiği ve Yanlılık Okuma: Veri etiği Okuma dökümanı\nHafta 13: Proje Sunumu Hazırlığı Sunum planı oluşturma Sunum şablonu\nHafta 14: Proje Sunumları ve Genel Değerlendirme Proje raporu tamamlanması Proje raporu\n",
+  "source_file": "BMB 307_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

@@ -1,0 +1,72 @@
+{
+  "title": "BMB438 - Yönetim Bilişim Sistemleri Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB438",
+    "ders_adi": "Yönetim Bilişim Sistemleri",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "28.11.2025",
+    "ogretim_uyesi": "Öğr. Gör. FATMA NEDA TOPUZ"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, bilgi sistemlerinin işletmelerdeki stratejik ve operasyonel rollerini kavrayarak, öğrencilerin bilgi sistemlerini etkin şekilde değerlendirme, kullanma ve yönetme becerilerini geliştirmektir. Öğrenciler, iş süreçlerinin iyileştirilmesi, karar destek sistemlerinin kullanımı, rekabet avantajı sağlama, bilgi güvenliği, etik ve sosyal sorumluluk gibi konularla birlikte bilgi sistemlerinin kurulması ve yönetilmesi süreçlerine dair kapsamlı bir anlayış kazanırlar.",
+    "icerik": "Yönetim Bilişim Sistemleri işletme yöneticilerinin operasyonel mükemmelliğe ulaşma, karar almayı geliştirme ve rekabet avantajı elde etmek için önemli araçlardan biridir. Bu ders kapsamında; günümüz işletmelerinde bilgi Sistemlerinin rolü, bilgi sistemlerine yaklaşımlar, iş süreçleri ve bilgi sistemleri, bilişim sistemlerinde etik ve sosyal konular, bilgi sistemleri altyapısı, bilgi sistemlerinin güvenliği, operasyonel mükemmelliğe ulaşmada kurumsal uygulamalar, bilgi yönetimi ve bilgi sistemlerini kurma konuları.",
+    "yontemler": "Yüz yüze eğitim",
+    "kaynaklar": {
+      "kitaplar": [
+        "Kenneth C. Laudon; Jane P. Laudon, Yönetim Bilgi Sistemleri: Dijital Firmayı Yönetmek, On İkinci Baskı, Prentice Hall, 2010.",
+        "Dökümanlar Teams'de paylaşılacaktır.",
+        "Ödevler 1 adet proje verilecektir.",
+        "Sınavlar 1 adet arasınav ve 1 adet final sınavı vardır."
+      ],
+      "ders_notlari": [
+        "Kaynak Kitap: Kenneth C. Laudon; Jane P. Laudon, Yönetim Bilgi Sistemleri: Dijital Firmayı Yönetmek, On İkinci Baskı, Prentice Hall, 2010."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Bilgi sistemlerinin yönetimiyle ilgili farklı yönleri keşfedebilir ve yorumlayabilir.",
+      "Bilgi sistemlerinin karar verme süreçlerine nasıl katkı sağladığını anlayabilir.",
+      "Kuruluşların bilgi sistemlerini nasıl tasarlayıp geliştirdiğini ve hayata geçirdiğini açıklayabilir.",
+      "Bilgi sistemlerinin temel yapı ve ilgili kavramları tanımlayabilir ve açıklayabilir.",
+      "Bilgi sistemlerinde güvenlik, etik ve bilişim suçları gibi konulara dair farkındalık gösterebilir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Günümüz işletmelerinde bilgi sistemlerinin yeri ve önemi",
+      "Hafta 2: Bilgi sistemlerine dair farklı yaklaşımlar",
+      "Hafta 3: E-işletme kavramı ve bilgi sistemlerinin iş süreçlerine katkısı; işletme sistemlerine işlevsel açıdan bakış",
+      "Hafta 4: Bilgi teknolojileriyle ilgili etik ve toplumsal sorunlar",
+      "Hafta 5: Bilgi sistemlerinin teknik altyapısı",
+      "Hafta 6: İş zekâsına giriş: Veri tabanları ve bilgi yönetiminin temelleri",
+      "Hafta 7: Bilgi sistemlerinin güvenlik boyutu",
+      "Hafta 8: Arasınav Haftası",
+      "Hafta 9: İş süreçlerinin verimliliği için kurumsal uygulamalar: ERP, tedarik zinciri ve müşteri ilişkileri sistemleri",
+      "Hafta 10: Dijital pazarlarda e-ticaret uygulamaları",
+      "Hafta 11: Bilgi yönetimi kavramı ve uygulamaları",
+      "Hafta 12: Bilgi sistemlerinin kurulması süreci",
+      "Hafta 13: Proje yönetiminin temel ilkeleri",
+      "Hafta 14: Öğrenci proje sunumları"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Yönetim Bilişim Sistemleri\nDers Kodu: BMB438\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 28.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Öğretim Üyesi Mehmet Fatih Tefek\nÖğretim Üyesi: Öğr. Gör. FATMA NEDA TOPUZ\n\n--- DERS AMACI ---\nBu dersin amacı, bilgi sistemlerinin işletmelerdeki stratejik ve operasyonel rollerini kavrayarak, öğrencilerin bilgi sistemlerini etkin şekilde değerlendirme, kullanma ve yönetme becerilerini geliştirmektir. Öğrenciler, iş süreçlerinin iyileştirilmesi, karar destek sistemlerinin kullanımı, rekabet avantajı sağlama, bilgi güvenliği, etik ve sosyal sorumluluk gibi konularla birlikte bilgi sistemlerinin kurulması ve yönetilmesi süreçlerine dair kapsamlı bir anlayış kazanırlar.\n\n--- DERS İÇERİĞİ ---\nYönetim Bilişim Sistemleri işletme yöneticilerinin operasyonel mükemmelliğe ulaşma, karar almayı geliştirme ve rekabet avantajı elde etmek için önemli araçlardan biridir. Bu ders kapsamında; günümüz işletmelerinde bilgi Sistemlerinin rolü, bilgi sistemlerine yaklaşımlar, iş süreçleri ve bilgi sistemleri, bilişim sistemlerinde etik ve sosyal konular, bilgi sistemleri altyapısı, bilgi sistemlerinin güvenliği, operasyonel mükemmelliğe ulaşmada kurumsal uygulamalar, bilgi yönetimi ve bilgi sistemlerini kurma konuları.\n\nÖğretim Yöntemleri: Yüz yüze eğitim\n\n--- DERS KAYNAKLARI ---\n• Kenneth C. Laudon; Jane P. Laudon, Yönetim Bilgi Sistemleri: Dijital Firmayı Yönetmek, On İkinci Baskı, Prentice Hall, 2010.\n• Dökümanlar Teams'de paylaşılacaktır.\n• Ödevler 1 adet proje verilecektir.\n• Sınavlar 1 adet arasınav ve 1 adet final sınavı vardır.\n• Ders Notu: Kaynak Kitap: Kenneth C. Laudon; Jane P. Laudon, Yönetim Bilgi Sistemleri: Dijital Firmayı Yönetmek, On İkinci Baskı, Prentice Hall, 2010.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nProje: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Bilgi sistemlerinin yönetimiyle ilgili farklı yönleri keşfedebilir ve yorumlayabilir.\n2. Bilgi sistemlerinin karar verme süreçlerine nasıl katkı sağladığını anlayabilir.\n3. Kuruluşların bilgi sistemlerini nasıl tasarlayıp geliştirdiğini ve hayata geçirdiğini açıklayabilir.\n4. Bilgi sistemlerinin temel yapı ve ilgili kavramları tanımlayabilir ve açıklayabilir.\n5. Bilgi sistemlerinde güvenlik, etik ve bilişim suçları gibi konulara dair farkındalık gösterebilir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Günümüz işletmelerinde bilgi sistemlerinin yeri ve önemi\nHafta 2: Bilgi sistemlerine dair farklı yaklaşımlar\nHafta 3: E-işletme kavramı ve bilgi sistemlerinin iş süreçlerine katkısı; işletme sistemlerine işlevsel açıdan bakış\nHafta 4: Bilgi teknolojileriyle ilgili etik ve toplumsal sorunlar\nHafta 5: Bilgi sistemlerinin teknik altyapısı\nHafta 6: İş zekâsına giriş: Veri tabanları ve bilgi yönetiminin temelleri\nHafta 7: Bilgi sistemlerinin güvenlik boyutu\nHafta 8: Arasınav Haftası\nHafta 9: İş süreçlerinin verimliliği için kurumsal uygulamalar: ERP, tedarik zinciri ve müşteri ilişkileri sistemleri\nHafta 10: Dijital pazarlarda e-ticaret uygulamaları\nHafta 11: Bilgi yönetimi kavramı ve uygulamaları\nHafta 12: Bilgi sistemlerinin kurulması süreci\nHafta 13: Proje yönetiminin temel ilkeleri\nHafta 14: Öğrenci proje sunumları\n",
+  "source_file": "BMB438_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

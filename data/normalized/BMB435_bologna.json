@@ -1,0 +1,71 @@
+{
+  "title": "BMB435 - Açıklanabilir ve Yorumlanabilir Yapay Zekâ: Teknikler ve Uygulamalar Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB435",
+    "ders_adi": "Açıklanabilir ve Yorumlanabilir Yapay Zekâ: Teknikler ve Uygulamalar",
+    "yariyil": "7",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "23.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/@bahargezici bahargezici@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, yapay zekâ sistemlerinin karar verme süreçlerini şeffaf, anlaşılabilir ve güvenilir hale getiren açıklanabilirlik (explainability) ve yorumlanabilirlik (interpretability) kavramlarını öğretmektir. Öğrenciler, farklı açıklanabilir yapay zekâ (XAI) tekniklerini öğrenerek bu yöntemleri makine öğrenmesi ve derin öğrenme modellerine uygulayabilecek bilgi ve becerileri kazanır.",
+    "icerik": "Yapay zekâ ve makine öğrenmesinde açıklanabilirlik kavramı; model şeffaflığı, yorumlanabilirlik düzeyleri; açıklanabilir yapay zekâ (XAI) yöntemleri (LIME, SHAP, Grad-CAM, Anchors vb.); kara kutu modellerin açıklanması; etik ve yasal boyutlar; XAI araçları ve kütüphaneleri; farklı sektörlerde XAI uygulamaları (sağlık, finans, üretim, otonom sistemler); vaka çalışmaları ve proje uygulamaları.",
+    "yontemler": "Anlatım, uygulamalı laboratuvar çalışmaları, proje tabanlı öğrenme, örnek olay (case study) analizi ve araştırma odaklı sunum teknikleri kullanılmaktadır. Ders, teorik kavramlarla birlikte pratik kodlama uygulamalarını da içerir.",
+    "kaynaklar": {
+      "kitaplar": [
+        "https://christophm.github.io/interpretable-ml-book/",
+        "Dökümanlar https://drive.google.com/file/d/10ioYJppmVV5V-1lobP8Jyvhx-7IadhzX/view?usp=drive_link"
+      ],
+      "ders_notlari": [
+        "Ders notları öğretim elemanı tarafından hazırlanan haftalık slaytlar, örnek kodlar ve uygulama yönergelerinden oluşur. Yardımcı kaynak olarak güncel XAI araştırma makaleleri, Python tabanlı XAI kütüphaneleri (ör. SHAP, LIME, Captum) ve sektör raporları kullanılır."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Açıklanabilir ve yorumlanabilir yapay zekâ kavramlarını, temel ilkelerini ve etik boyutlarını açıklar",
+      "XAI yöntemlerini (LIME, SHAP, Grad-CAM vb.) ve farklı model türlerinde nasıl uygulandıklarını kavrar.",
+      "Makine öğrenmesi ve derin öğrenme modellerine uygun açıklanabilirlik tekniklerini uygular.",
+      "Farklı XAI araç ve kütüphanelerini (ör. LIME, SHAP, Captum) kullanarak model çıktılarının yorumlanabilirliğini artırır.",
+      "Yapay zekâ modellerinin şeffaflığını artırmaya yönelik bağımsız analiz ve proje çalışmaları yürütür.",
+      "Model açıklamalarını teknik ve teknik olmayan paydaşlara anlaşılır biçimde sunar."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Yapay zekâda açıklanabilirlik ve yorumlanabilirlik kavramlarına giriş Temel yapay zekâ ve makine öğrenmesi kavramlarını gözden geçiriniz. Ders sunumu (PDF), okuma listesi, “Explainable AI Overview” makalesi",
+      "Hafta 2: Model şeffaflığı, yorumlanabilirlik düzeyleri, kara kutu modeller Basit ve karmaşık modelleri karşılaştırın. Ders slaytları, Jupyter örnek defteri, “Black Box Models” video",
+      "Hafta 3: Açıklanabilir yapay zekâ (XAI) yaklaşımlarının sınıflandırılması XAI’nin tarihsel gelişimini ve kullanım alanlarını inceleyiniz. Makale özeti (Doshi-Velez & Kim, 2017), kavram haritası",
+      "Hafta 4: Model tabanlı açıklama yöntemleri (Decision Trees, Linear Models) Açıklanabilir modellerin yapısının analiz edilmesi",
+      "Hafta 5: Modelden bağımsız açıklama teknikleri (LIME, SHAP) – Teori LIME ve SHAP üzerine temel kaynakları okunması",
+      "Hafta 6: Modelden bağımsız açıklama teknikleri – Uygulama Python ortamında SHAP veya LIME uygulaması hazırlanması",
+      "Hafta 7: Derin öğrenme modellerinde açıklanabilirlik (Grad-CAM, LRP, Integrated Gradients) Görüntü tabanlı ağlarda açıklanabilirlik örneklerinin araştırılması",
+      "Hafta 8: Ara Sınav",
+      "Hafta 9: Açıklanabilirlik araçları ve kütüphaneleri (Captum, Alibi, ELI5 vb.) Belirli bir araç seçip kısa bir uygulama hazırlanması",
+      "Hafta 10: XAI’nin etik, yasal ve güven konuları Yapay zekâda etik ilke ve regülasyonları okunması",
+      "Hafta 11: Açıklanabilir yapay zekâ uygulamaları: sağlık, finans, üretim Gerçek veri seti örneklerinin incelenmesi",
+      "Hafta 12: Açıklanabilirlik ölçütleri ve değerlendirme metrikleri Açıklanabilirlik ve doğruluk ilişkisini tartışılması",
+      "Hafta 13: Proje sunumları ve vaka analizleri Grup projesi veya bireysel uygulama sunumlarının hazırlanması.",
+      "Hafta 14: Genel değerlendirme, gelecek yönelimler ve kapanış XAI’nin geleceği ve yeni araştırma yönlerinin tartışılması"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Açıklanabilir ve Yorumlanabilir Yapay Zekâ: Teknikler ve Uygulamalar\nDers Kodu: BMB435\nYarıyıl: 7. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 23.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/@bahargezici bahargezici@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, yapay zekâ sistemlerinin karar verme süreçlerini şeffaf, anlaşılabilir ve güvenilir hale getiren açıklanabilirlik (explainability) ve yorumlanabilirlik (interpretability) kavramlarını öğretmektir. Öğrenciler, farklı açıklanabilir yapay zekâ (XAI) tekniklerini öğrenerek bu yöntemleri makine öğrenmesi ve derin öğrenme modellerine uygulayabilecek bilgi ve becerileri kazanır.\n\n--- DERS İÇERİĞİ ---\nYapay zekâ ve makine öğrenmesinde açıklanabilirlik kavramı; model şeffaflığı, yorumlanabilirlik düzeyleri; açıklanabilir yapay zekâ (XAI) yöntemleri (LIME, SHAP, Grad-CAM, Anchors vb.); kara kutu modellerin açıklanması; etik ve yasal boyutlar; XAI araçları ve kütüphaneleri; farklı sektörlerde XAI uygulamaları (sağlık, finans, üretim, otonom sistemler); vaka çalışmaları ve proje uygulamaları.\n\nÖğretim Yöntemleri: Anlatım, uygulamalı laboratuvar çalışmaları, proje tabanlı öğrenme, örnek olay (case study) analizi ve araştırma odaklı sunum teknikleri kullanılmaktadır. Ders, teorik kavramlarla birlikte pratik kodlama uygulamalarını da içerir.\n\n--- DERS KAYNAKLARI ---\n• https://christophm.github.io/interpretable-ml-book/\n• Dökümanlar https://drive.google.com/file/d/10ioYJppmVV5V-1lobP8Jyvhx-7IadhzX/view?usp=drive_link\n• Ders Notu: Ders notları öğretim elemanı tarafından hazırlanan haftalık slaytlar, örnek kodlar ve uygulama yönergelerinden oluşur. Yardımcı kaynak olarak güncel XAI araştırma makaleleri, Python tabanlı XAI kütüphaneleri (ör. SHAP, LIME, Captum) ve sektör raporları kullanılır.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nÖdev: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Açıklanabilir ve yorumlanabilir yapay zekâ kavramlarını, temel ilkelerini ve etik boyutlarını açıklar\n2. XAI yöntemlerini (LIME, SHAP, Grad-CAM vb.) ve farklı model türlerinde nasıl uygulandıklarını kavrar.\n3. Makine öğrenmesi ve derin öğrenme modellerine uygun açıklanabilirlik tekniklerini uygular.\n4. Farklı XAI araç ve kütüphanelerini (ör. LIME, SHAP, Captum) kullanarak model çıktılarının yorumlanabilirliğini artırır.\n5. Yapay zekâ modellerinin şeffaflığını artırmaya yönelik bağımsız analiz ve proje çalışmaları yürütür.\n6. Model açıklamalarını teknik ve teknik olmayan paydaşlara anlaşılır biçimde sunar.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Yapay zekâda açıklanabilirlik ve yorumlanabilirlik kavramlarına giriş Temel yapay zekâ ve makine öğrenmesi kavramlarını gözden geçiriniz. Ders sunumu (PDF), okuma listesi, “Explainable AI Overview” makalesi\nHafta 2: Model şeffaflığı, yorumlanabilirlik düzeyleri, kara kutu modeller Basit ve karmaşık modelleri karşılaştırın. Ders slaytları, Jupyter örnek defteri, “Black Box Models” video\nHafta 3: Açıklanabilir yapay zekâ (XAI) yaklaşımlarının sınıflandırılması XAI’nin tarihsel gelişimini ve kullanım alanlarını inceleyiniz. Makale özeti (Doshi-Velez & Kim, 2017), kavram haritası\nHafta 4: Model tabanlı açıklama yöntemleri (Decision Trees, Linear Models) Açıklanabilir modellerin yapısının analiz edilmesi\nHafta 5: Modelden bağımsız açıklama teknikleri (LIME, SHAP) – Teori LIME ve SHAP üzerine temel kaynakları okunması\nHafta 6: Modelden bağımsız açıklama teknikleri – Uygulama Python ortamında SHAP veya LIME uygulaması hazırlanması\nHafta 7: Derin öğrenme modellerinde açıklanabilirlik (Grad-CAM, LRP, Integrated Gradients) Görüntü tabanlı ağlarda açıklanabilirlik örneklerinin araştırılması\nHafta 8: Ara Sınav\nHafta 9: Açıklanabilirlik araçları ve kütüphaneleri (Captum, Alibi, ELI5 vb.) Belirli bir araç seçip kısa bir uygulama hazırlanması\nHafta 10: XAI’nin etik, yasal ve güven konuları Yapay zekâda etik ilke ve regülasyonları okunması\nHafta 11: Açıklanabilir yapay zekâ uygulamaları: sağlık, finans, üretim Gerçek veri seti örneklerinin incelenmesi\nHafta 12: Açıklanabilirlik ölçütleri ve değerlendirme metrikleri Açıklanabilirlik ve doğruluk ilişkisini tartışılması\nHafta 13: Proje sunumları ve vaka analizleri Grup projesi veya bireysel uygulama sunumlarının hazırlanması.\nHafta 14: Genel değerlendirme, gelecek yönelimler ve kapanış XAI’nin geleceği ve yeni araştırma yönlerinin tartışılması\n",
+  "source_file": "BMB435_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

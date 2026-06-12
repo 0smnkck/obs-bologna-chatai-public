@@ -1,0 +1,71 @@
+{
+  "title": "BMB416 - Hesaplama Teorisi Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB416",
+    "ders_adi": "Hesaplama Teorisi",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "28.11.2025",
+    "ogretim_uyesi": "Arş.Gör. Derman Keskinkılıç dermanakgol@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Öğrencilere hesaplama teorisinin temel kavramlarını kazandırmak; hangi problemlerin algoritmik olarak çözülebilir olduğunu ve bu problemlerin ne kadar kaynak gerektirdiğini analiz etme becerisi kazandırmak. Hesaplanabilirlik ve hesaplamasal karmaşıklık kuramlarını kullanarak, problemlerin çözülüp çözülemeyeceğini ve çözümün verimliliğini değerlendirmeyi öğretmek. Ayrıca, indirgeme yöntemleri ve P, NP, NP-tam problemleri gibi kavramlar aracılığıyla karar problemlerinin sınıflandırılmasını anlamalarını sağlamak.",
+    "icerik": "Hesaplama Teorisinin Temel Kavramları, Çözülebilir Problemlerin Sınıflandırılması, Hesaplanabilirlik, Hesaplamasal Karmaşıklık, Hesaplanabilir Problemlere İndirgeme, P ve NP-tamlık, Cook-Levin Teoremi",
+    "yontemler": "Yüz yüze eğitim",
+    "kaynaklar": {
+      "kitaplar": [
+        "Michael Sipser, Hesaplama Teorisine Giriş",
+        "Algoritma Tasarımı, Jon Kleinberg ve Eva Tardos.",
+        "Otomata Teorisi, Diller ve Hesaplamaya Giriş, John E. Hopfcroft, Rajeev Motwani ve Jeffrey D. Ullman",
+        "1: Hesaplama Teorisine Giriş, Michael Sipser",
+        "2: Algoritma Tasarımı, Jon Kleinberg ve Eva Tardos",
+        "3: Otomata Teorisi, Diller ve Hesaplamaya Giriş, John E. Hopfcroft, Rajeev Motwani ve Jeffrey D. Ullman.",
+        "Dökümanlar Teams'de paylaşılacaktır",
+        "Sınavlar 1 adet arasınav ve 1 adet final sınavı vardır."
+      ],
+      "ders_notlari": [
+        "Kaynak Kitaplar"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Bir problemin deterministik olarak polinom zamanda çözülebilir olup olmadığını belirleyebilme",
+      "Hesaplama teorisinin temel kavramlarını kavrayabilme",
+      "Biçimsel dilleri sınıflandırma yetisine sahip olma",
+      "Deterministik ve deterministik olmayan sonlu durum makinelerini kavramsal olarak tasarlayabilme",
+      "Farklı makine türleri arasında dönüşüm yapabilme veya bunların eşdeğerliğini kanıtlayabilme"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Matematiksel Temeller ve İndirgeme",
+      "Hafta 2: Hesaplanabilirlik Teorisi",
+      "Hafta 3: Hesaplamalar ve Hesaplanabilir Fonksiyonlar",
+      "Hafta 4: Kleene’nin Iterasyon Teoremi",
+      "Hafta 5: Özyineleme Teoremi",
+      "Hafta 6: Deterministik Sonlu Otomatlar ve Düzenli Diller",
+      "Hafta 7: Deterministik Olmayan Sonlu Otomatlar",
+      "Hafta 8: Ara sınav haftası",
+      "Hafta 9: Yığıtlı Otomatlar",
+      "Hafta 10: Bağlamdan Bağımsız Diller",
+      "Hafta 11: Turing Makineleri",
+      "Hafta 12: Hesaplamasal Karmaşıklık",
+      "Hafta 13: Problem Sınıfları ve Hesaplanabilirlik",
+      "Hafta 14: Pratik Problemler üzerine inceleme"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Hesaplama Teorisi\nDers Kodu: BMB416\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 28.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Arş.Gör. Derman Keskinkılıç dermanakgol@osmaniye.edu.tr\n\n--- DERS AMACI ---\nÖğrencilere hesaplama teorisinin temel kavramlarını kazandırmak; hangi problemlerin algoritmik olarak çözülebilir olduğunu ve bu problemlerin ne kadar kaynak gerektirdiğini analiz etme becerisi kazandırmak. Hesaplanabilirlik ve hesaplamasal karmaşıklık kuramlarını kullanarak, problemlerin çözülüp çözülemeyeceğini ve çözümün verimliliğini değerlendirmeyi öğretmek. Ayrıca, indirgeme yöntemleri ve P, NP, NP-tam problemleri gibi kavramlar aracılığıyla karar problemlerinin sınıflandırılmasını anlamalarını sağlamak.\n\n--- DERS İÇERİĞİ ---\nHesaplama Teorisinin Temel Kavramları, Çözülebilir Problemlerin Sınıflandırılması, Hesaplanabilirlik, Hesaplamasal Karmaşıklık, Hesaplanabilir Problemlere İndirgeme, P ve NP-tamlık, Cook-Levin Teoremi\n\nÖğretim Yöntemleri: Yüz yüze eğitim\n\n--- DERS KAYNAKLARI ---\n• Michael Sipser, Hesaplama Teorisine Giriş\n• Algoritma Tasarımı, Jon Kleinberg ve Eva Tardos.\n• Otomata Teorisi, Diller ve Hesaplamaya Giriş, John E. Hopfcroft, Rajeev Motwani ve Jeffrey D. Ullman\n• 1: Hesaplama Teorisine Giriş, Michael Sipser\n• 2: Algoritma Tasarımı, Jon Kleinberg ve Eva Tardos\n• 3: Otomata Teorisi, Diller ve Hesaplamaya Giriş, John E. Hopfcroft, Rajeev Motwani ve Jeffrey D. Ullman.\n• Dökümanlar Teams'de paylaşılacaktır\n• Sınavlar 1 adet arasınav ve 1 adet final sınavı vardır.\n• Ders Notu: Kaynak Kitaplar\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Bir problemin deterministik olarak polinom zamanda çözülebilir olup olmadığını belirleyebilme\n2. Hesaplama teorisinin temel kavramlarını kavrayabilme\n3. Biçimsel dilleri sınıflandırma yetisine sahip olma\n4. Deterministik ve deterministik olmayan sonlu durum makinelerini kavramsal olarak tasarlayabilme\n5. Farklı makine türleri arasında dönüşüm yapabilme veya bunların eşdeğerliğini kanıtlayabilme\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Matematiksel Temeller ve İndirgeme\nHafta 2: Hesaplanabilirlik Teorisi\nHafta 3: Hesaplamalar ve Hesaplanabilir Fonksiyonlar\nHafta 4: Kleene’nin Iterasyon Teoremi\nHafta 5: Özyineleme Teoremi\nHafta 6: Deterministik Sonlu Otomatlar ve Düzenli Diller\nHafta 7: Deterministik Olmayan Sonlu Otomatlar\nHafta 8: Ara sınav haftası\nHafta 9: Yığıtlı Otomatlar\nHafta 10: Bağlamdan Bağımsız Diller\nHafta 11: Turing Makineleri\nHafta 12: Hesaplamasal Karmaşıklık\nHafta 13: Problem Sınıfları ve Hesaplanabilirlik\nHafta 14: Pratik Problemler üzerine inceleme\n",
+  "source_file": "BMB416_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

@@ -1,0 +1,67 @@
+{
+  "title": "BMB418 - Bilgisayar Oyunları için Yapay Zekâ Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB418",
+    "ders_adi": "Bilgisayar Oyunları için Yapay Zekâ",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "27.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Erhan TURAN"
+  },
+  "sections": {
+    "amac": "Unity tabanlı oyun geliştirme esnasında ihtiyaç duyulan yapay zeka tekniklerinin öğrenilmesi ve uygulanması",
+    "icerik": "Oyunlardaki nesnelerin ve karakterlerin davranışlarını ya da arkaplanın durumunu tanımlamada yapay zeka temelli algoritmaların kullanımı, oyuncu olamadan kontrol edilebilen karakterleri geliştirme (Non-Player Characters (NPCs)), ticari oyun geliştirmede kullanıcıdan bağımsız davranan video oyunları için gelişmiş algoritmalar.",
+    "yontemler": "Anlatım,Tartışma,Proje",
+    "kaynaklar": {
+      "kitaplar": [
+        "AI for Games, Third Ed., Ian Millington",
+        "Game AI Uncovered, Paul Roberts"
+      ],
+      "ders_notlari": [
+        "Unity Artificial Intelligence Programming: Add powerful, believable, and fun AI entities in your game with the power of Unity, 5th Ed., Dr. Davide Aversa"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Oyun tasarımında yapay zekanın temellerini anlamak ve C# programlama ile daha akıllı oyun dünyaları ve karakterler oluşturmak",
+      "Yol bulma algoritması davranışlarını kullanarak otomatik karakter hareketi uygulamak",
+      "Davranış ağaçları kullanarak karakter karar alma algoritmaları uygulamak",
+      "İnandırıcı ve son derece verimli yapay sürüler ve kalabalıklar oluşturmak",
+      "Yapay zeka dünya için duyusal sistemler oluşturmak",
+      "Prosedürel içerik üretiminin temellerini öğrenmek",
+      "Unity`de makine öğrenimi uygulamak"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Yapay Zeka`ya Giriş - -",
+      "Hafta 2: Sonlu Durum Makineleri - -",
+      "Hafta 3: Rastgelelik ve Olasılık - -",
+      "Hafta 4: Sensörlerin Uygulanması - -",
+      "Hafta 5: Sürü Oluşturma - -",
+      "Hafta 6: Yol Takip ve Yönlendirme Davranışları - -",
+      "Hafta 7: Ara Sınav - -",
+      "Hafta 8: A* Yol Bulma - -",
+      "Hafta 9: Navigasyon Ağı - -",
+      "Hafta 10: Davranış Ağaçları - -",
+      "Hafta 11: Prosedürel İçerik Oluşturma - -",
+      "Hafta 12: Unity`de ML-Agents Araç Seti - -",
+      "Hafta 13: Her Şeyi Bir Araya Getirme - -",
+      "Hafta 14: Genel İnceleme - -"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Bilgisayar Oyunları için Yapay Zekâ\nDers Kodu: BMB418\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 27.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Erhan TURAN\n\n--- DERS AMACI ---\nUnity tabanlı oyun geliştirme esnasında ihtiyaç duyulan yapay zeka tekniklerinin öğrenilmesi ve uygulanması\n\n--- DERS İÇERİĞİ ---\nOyunlardaki nesnelerin ve karakterlerin davranışlarını ya da arkaplanın durumunu tanımlamada yapay zeka temelli algoritmaların kullanımı, oyuncu olamadan kontrol edilebilen karakterleri geliştirme (Non-Player Characters (NPCs)), ticari oyun geliştirmede kullanıcıdan bağımsız davranan video oyunları için gelişmiş algoritmalar.\n\nÖğretim Yöntemleri: Anlatım,Tartışma,Proje\n\n--- DERS KAYNAKLARI ---\n• AI for Games, Third Ed., Ian Millington\n• Game AI Uncovered, Paul Roberts\n• Ders Notu: Unity Artificial Intelligence Programming: Add powerful, believable, and fun AI entities in your game with the power of Unity, 5th Ed., Dr. Davide Aversa\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nProje: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Oyun tasarımında yapay zekanın temellerini anlamak ve C# programlama ile daha akıllı oyun dünyaları ve karakterler oluşturmak\n2. Yol bulma algoritması davranışlarını kullanarak otomatik karakter hareketi uygulamak\n3. Davranış ağaçları kullanarak karakter karar alma algoritmaları uygulamak\n4. İnandırıcı ve son derece verimli yapay sürüler ve kalabalıklar oluşturmak\n5. Yapay zeka dünya için duyusal sistemler oluşturmak\n6. Prosedürel içerik üretiminin temellerini öğrenmek\n7. Unity`de makine öğrenimi uygulamak\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Yapay Zeka`ya Giriş - -\nHafta 2: Sonlu Durum Makineleri - -\nHafta 3: Rastgelelik ve Olasılık - -\nHafta 4: Sensörlerin Uygulanması - -\nHafta 5: Sürü Oluşturma - -\nHafta 6: Yol Takip ve Yönlendirme Davranışları - -\nHafta 7: Ara Sınav - -\nHafta 8: A* Yol Bulma - -\nHafta 9: Navigasyon Ağı - -\nHafta 10: Davranış Ağaçları - -\nHafta 11: Prosedürel İçerik Oluşturma - -\nHafta 12: Unity`de ML-Agents Araç Seti - -\nHafta 13: Her Şeyi Bir Araya Getirme - -\nHafta 14: Genel İnceleme - -\n",
+  "source_file": "BMB418_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

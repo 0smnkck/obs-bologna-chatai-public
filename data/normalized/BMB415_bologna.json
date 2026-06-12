@@ -1,0 +1,69 @@
+{
+  "title": "BMB415 - Bağımlılık ve Bağımlılıkla Mücadele Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB415",
+    "ders_adi": "Bağımlılık ve Bağımlılıkla Mücadele",
+    "yariyil": "7",
+    "kredi": "2",
+    "akts": "3",
+    "son_guncelleme": "22.10.2025",
+    "ogretim_uyesi": "Doç. Dr. Mehmet Fatih Tefek"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilerin bağımlılık kavramının tanımını, türlerini, nedenlerini, bağımlılığı olan bireylerle nasıl iletişim kurulabileceğini, bağımlılıkla ilgili literatürdeki kavramsal çerçeveleri, bağımlılığın olumsuz sonuçlarını ve bağımlılıkla başa çıkmayı öğrenmeleridir",
+    "icerik": "Temel kavramlar ve tanımlar; bağımlılık türleri madde (alkol, sigara, uyuşturucu) bağımlılığı, teknoloji bağımlılığı, oyun bağımlılığı vb.); bağımlılığın nedenleri; kişiyi madde bağımlılığı sürecine hazırlayan aile, akran grubu ve toplumsal bağlamda risk etmenleri; bağımlı çocuk, ergen ve yetişkinlerde iletişim becerileri; bağımlılıkta ortaya çıkan sağlık sorunları; bağımlılık ile ilgili modeller; bağımlılığı önleme çabası; bağımlılığın sonuçları; bağımlılık ile mücadelede ulusal politika ve strateji yöntemleri; yeniden uyum süreci.",
+    "yontemler": "Öğretim şekli: Teorik (anlatım) + Uygulamalı Yöntem ve teknikler: Sunumlar, tartışmalar, vaka analizleri Grup çalışmaları, rol oynama (örnek olay canlandırmaları) Farkındalık atölyeleri, proje hazırlıkları Eğitim ortamı: Yüz yüze Ölçme ve Değerlendirme: Sınav, ödev, sunum veya proje ile yapılması öngörülmekte olup değerlendirme OKÜ ders geçme yönetmeliğine bağlı olacaktır.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Arıkan, Z. & Güler, M. (2019). Bağımlılık: Kavramlar, Türler ve Mücadele Yöntemleri. Ankara: Nobel Akademik Yayıncılık.",
+        "Yeşilay (2022). Bağımlılık ve Bağımlılıkla Mücadele Eğitimi El Kitabı. İstanbul: Türkiye Yeşilay Cemiyeti.",
+        "Kitabı. Ed:N.Kum,Vehbi Koç Yayınları, İstanbul, 1996.",
+        "Öztürk, O., Uluşahin A., Ruh Sağlığı ve Bozuklukları I, II, Yenilenmiş 11.Basım, Tuna Matbaacılık San. Ve Tic. A.Ş.,Ankara,",
+        "2008"
+      ],
+      "ders_notlari": [
+        "Kum, N.,Pektekin, Ç., Özcan, A., Terakye, G., Özaltın, G., Yurt, V., Öz, F.,Doğan, S., Buldukoğlu, K: Psikiyatri Hemşireliği El"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Bağımlılık kavramını tanımlar",
+      "Bağımlılık türlerini sıralar",
+      "Bağımlılığın nedenlerini açıklar",
+      "Bağımlılığın aile, akran grubu ve toplum ilişkili temellerini açıklar",
+      "Bağımlılığın olumsuz sonuçlarını açıklar",
+      "Bağımlılık ile başa çıkma yollarını açıklar"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Bağımlılık kavramına giriş: Tanım, türler ve toplumsal etkiler",
+      "Hafta 2: Bağımlılığın biyolojik, psikolojik ve sosyal temelleri",
+      "Hafta 3: Madde bağımlılığı türleri: Alkol, tütün, uyuşturucu maddeler",
+      "Hafta 4: Davranışsal bağımlılıklar: Teknoloji, oyun, alışveriş, kumar",
+      "Hafta 5: Bağımlılık döngüsü ve bağımlılığın aşamaları",
+      "Hafta 6: Risk faktörleri, korunma ve erken uyarı işaretleri",
+      "Hafta 7: Aile, okul ve çevrenin bağımlılık üzerindeki etkisi",
+      "Hafta 8: Bağımlılıkla mücadelede bireysel baş etme stratejileri",
+      "Hafta 9: Toplum temelli önleme yaklaşımları ve farkındalık kampanyaları",
+      "Hafta 10: Tedavi ve rehabilitasyon yaklaşımları",
+      "Hafta 11: Bağımlılıkla mücadelede devlet politikaları ve kurumların rolü",
+      "Hafta 12: Bağımlılıkla mücadelede medya, eğitim ve sivil toplumun rolü",
+      "Hafta 13: Gençlerde bağımlılık ve dijital çağda yeni bağımlılık türleri",
+      "Hafta 14: Bağımlılıkla mücadelede etik, mahremiyet ve insan hakları"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Bağımlılık ve Bağımlılıkla Mücadele\nDers Kodu: BMB415\nYarıyıl: 7. Yarıyıl\nKredi: 2\nAKTS Kredisi: 3\nDers Saati: Teori=2, Uygulama=0, Lab=2\nSon Güncelleme: 22.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Doç. Dr. Mehmet Fatih Tefek\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilerin bağımlılık kavramının tanımını, türlerini, nedenlerini, bağımlılığı olan bireylerle nasıl iletişim kurulabileceğini, bağımlılıkla ilgili literatürdeki kavramsal çerçeveleri, bağımlılığın olumsuz sonuçlarını ve bağımlılıkla başa çıkmayı öğrenmeleridir\n\n--- DERS İÇERİĞİ ---\nTemel kavramlar ve tanımlar; bağımlılık türleri madde (alkol, sigara, uyuşturucu) bağımlılığı, teknoloji bağımlılığı, oyun bağımlılığı vb.); bağımlılığın nedenleri; kişiyi madde bağımlılığı sürecine hazırlayan aile, akran grubu ve toplumsal bağlamda risk etmenleri; bağımlı çocuk, ergen ve yetişkinlerde iletişim becerileri; bağımlılıkta ortaya çıkan sağlık sorunları; bağımlılık ile ilgili modeller; bağımlılığı önleme çabası; bağımlılığın sonuçları; bağımlılık ile mücadelede ulusal politika ve strateji yöntemleri; yeniden uyum süreci.\n\nÖğretim Yöntemleri: Öğretim şekli: Teorik (anlatım) + Uygulamalı Yöntem ve teknikler: Sunumlar, tartışmalar, vaka analizleri Grup çalışmaları, rol oynama (örnek olay canlandırmaları) Farkındalık atölyeleri, proje hazırlıkları Eğitim ortamı: Yüz yüze Ölçme ve Değerlendirme: Sınav, ödev, sunum veya proje ile yapılması öngörülmekte olup değerlendirme OKÜ ders geçme yönetmeliğine bağlı olacaktır.\n\n--- DERS KAYNAKLARI ---\n• Arıkan, Z. & Güler, M. (2019). Bağımlılık: Kavramlar, Türler ve Mücadele Yöntemleri. Ankara: Nobel Akademik Yayıncılık.\n• Yeşilay (2022). Bağımlılık ve Bağımlılıkla Mücadele Eğitimi El Kitabı. İstanbul: Türkiye Yeşilay Cemiyeti.\n• Kitabı. Ed:N.Kum,Vehbi Koç Yayınları, İstanbul, 1996.\n• Öztürk, O., Uluşahin A., Ruh Sağlığı ve Bozuklukları I, II, Yenilenmiş 11.Basım, Tuna Matbaacılık San. Ve Tic. A.Ş.,Ankara,\n• 2008\n• Ders Notu: Kum, N.,Pektekin, Ç., Özcan, A., Terakye, G., Özaltın, G., Yurt, V., Öz, F.,Doğan, S., Buldukoğlu, K: Psikiyatri Hemşireliği El\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Bağımlılık kavramını tanımlar\n2. Bağımlılık türlerini sıralar\n3. Bağımlılığın nedenlerini açıklar\n4. Bağımlılığın aile, akran grubu ve toplum ilişkili temellerini açıklar\n5. Bağımlılığın olumsuz sonuçlarını açıklar\n6. Bağımlılık ile başa çıkma yollarını açıklar\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Bağımlılık kavramına giriş: Tanım, türler ve toplumsal etkiler\nHafta 2: Bağımlılığın biyolojik, psikolojik ve sosyal temelleri\nHafta 3: Madde bağımlılığı türleri: Alkol, tütün, uyuşturucu maddeler\nHafta 4: Davranışsal bağımlılıklar: Teknoloji, oyun, alışveriş, kumar\nHafta 5: Bağımlılık döngüsü ve bağımlılığın aşamaları\nHafta 6: Risk faktörleri, korunma ve erken uyarı işaretleri\nHafta 7: Aile, okul ve çevrenin bağımlılık üzerindeki etkisi\nHafta 8: Bağımlılıkla mücadelede bireysel baş etme stratejileri\nHafta 9: Toplum temelli önleme yaklaşımları ve farkındalık kampanyaları\nHafta 10: Tedavi ve rehabilitasyon yaklaşımları\nHafta 11: Bağımlılıkla mücadelede devlet politikaları ve kurumların rolü\nHafta 12: Bağımlılıkla mücadelede medya, eğitim ve sivil toplumun rolü\nHafta 13: Gençlerde bağımlılık ve dijital çağda yeni bağımlılık türleri\nHafta 14: Bağımlılıkla mücadelede etik, mahremiyet ve insan hakları\n",
+  "source_file": "BMB415_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

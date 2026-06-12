@@ -1,0 +1,62 @@
+{
+  "title": "DOY101 - Dijital Okuryazarlık Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "DOY101",
+    "ders_adi": "Dijital Okuryazarlık",
+    "yariyil": "1",
+    "kredi": "2",
+    "akts": "3",
+    "son_guncelleme": "27.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Erhan TURAN"
+  },
+  "sections": {
+    "amac": "Dersin amacı öğrencilerin dijital teknolojileri, dijital ortam ve araçları tanımasını ve yetkin bir şekilde kullanabilmelerini sağlamaktır.",
+    "icerik": "Dijital teknolojileri kullanarak bilgiyi bulma, işleme, düzenleme, paylaşma, değerlendirme ve analiz Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "Handley, A. – Chapman, C.C. (2012), Dijital Çağda İçerik Yönetiminin Kuralları, İstanbul: Mediacat Yayıncılık.",
+        "Hall, F. (2014). Dijital Yayıncılık. İstanbul: Profil Yayıncılık"
+      ],
+      "ders_notlari": [
+        "1) Handley, A. – Chapman, C.C. (2012), Dijital Çağda İçerik Yönetiminin Kuralları, İstanbul: Mediacat Yayıncılık. 2) Hall, F. (2014). Dijital Yayıncılık. İstanbul: Profil Yayıncılık. 3) Türkoğlu, T. (2013). Dijital Tefekkür, İstanbul: Beyaz Yayınları. 4) Palfrey, J. and Gasser, U. (2016), Doğuştan Dijital, İstanbul: İKÜ Yayınları. 5) Chatfield, T. (2013). Dijital Çağa Nasıl Uyum Sağlarız. İstanbul: Sel Yayıncılık."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Dijital kültür, platformlar ve teknolojilere ilişkin kavram ve terimleri bilir.",
+      "Dijital platformları ve dijital medyayı etkin ve bilinçli olarak kullanabilme becerisi edinir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Dijital okuryazarlık kavramı ve kapsamı Sunum",
+      "Hafta 2: Dijital kültür, kuşaklar ve kimlikler Sunum",
+      "Hafta 3: Dijtal teknolojiler ve dijital tabanlı platformlar Sunum",
+      "Hafta 4: Dijtal çağda bilgiye erişim ve araştırma Sunum",
+      "Hafta 5: Dijital çağda gizlilik, güvenlik ve mahremiyet Sunum",
+      "Hafta 6: Korsanlık ve hack kültürü Sunum",
+      "Hafta 7: Dijital vatandaşlık vize",
+      "Hafta 8: Dijital platformda bilgi: paylaşım, kalite ve doğruluk Sunum",
+      "Hafta 9: Dijital doğrulama araçları ve platformlar Sunum",
+      "Hafta 10: Dijtal içerikler: Türleri okuma ve analiz Sunum",
+      "Hafta 11: Dijital platformlarda temel düzey içerik üretimi I Sunum",
+      "Hafta 12: Dijital platformlarda temel düzey içerik üretimi II Sunum",
+      "Hafta 13: Dijital alışveriş ve tüketim kültürü Sunum",
+      "Hafta 14: Final Final"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Dijital Okuryazarlık\nDers Kodu: DOY101\nYarıyıl: 1. Yarıyıl\nKredi: 2\nAKTS Kredisi: 3\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 27.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Erhan TURAN\n\n--- DERS AMACI ---\nDersin amacı öğrencilerin dijital teknolojileri, dijital ortam ve araçları tanımasını ve yetkin bir şekilde kullanabilmelerini sağlamaktır.\n\n--- DERS İÇERİĞİ ---\nDijital teknolojileri kullanarak bilgiyi bulma, işleme, düzenleme, paylaşma, değerlendirme ve analiz Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• Handley, A. – Chapman, C.C. (2012), Dijital Çağda İçerik Yönetiminin Kuralları, İstanbul: Mediacat Yayıncılık.\n• Hall, F. (2014). Dijital Yayıncılık. İstanbul: Profil Yayıncılık\n• Ders Notu: 1) Handley, A. – Chapman, C.C. (2012), Dijital Çağda İçerik Yönetiminin Kuralları, İstanbul: Mediacat Yayıncılık. 2) Hall, F. (2014). Dijital Yayıncılık. İstanbul: Profil Yayıncılık. 3) Türkoğlu, T. (2013). Dijital Tefekkür, İstanbul: Beyaz Yayınları. 4) Palfrey, J. and Gasser, U. (2016), Doğuştan Dijital, İstanbul: İKÜ Yayınları. 5) Chatfield, T. (2013). Dijital Çağa Nasıl Uyum Sağlarız. İstanbul: Sel Yayıncılık.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Dijital kültür, platformlar ve teknolojilere ilişkin kavram ve terimleri bilir.\n2. Dijital platformları ve dijital medyayı etkin ve bilinçli olarak kullanabilme becerisi edinir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Dijital okuryazarlık kavramı ve kapsamı Sunum\nHafta 2: Dijital kültür, kuşaklar ve kimlikler Sunum\nHafta 3: Dijtal teknolojiler ve dijital tabanlı platformlar Sunum\nHafta 4: Dijtal çağda bilgiye erişim ve araştırma Sunum\nHafta 5: Dijital çağda gizlilik, güvenlik ve mahremiyet Sunum\nHafta 6: Korsanlık ve hack kültürü Sunum\nHafta 7: Dijital vatandaşlık vize\nHafta 8: Dijital platformda bilgi: paylaşım, kalite ve doğruluk Sunum\nHafta 9: Dijital doğrulama araçları ve platformlar Sunum\nHafta 10: Dijtal içerikler: Türleri okuma ve analiz Sunum\nHafta 11: Dijital platformlarda temel düzey içerik üretimi I Sunum\nHafta 12: Dijital platformlarda temel düzey içerik üretimi II Sunum\nHafta 13: Dijital alışveriş ve tüketim kültürü Sunum\nHafta 14: Final Final\n",
+  "source_file": "DOY101_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

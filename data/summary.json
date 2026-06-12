@@ -1,0 +1,629 @@
+{
+  "toplam_ders": 104,
+  "dersler": [
+    {
+      "kod": "ATA101",
+      "ad": "Atatürk İlk. ve İnk. Tarihi- I",
+      "akts": "2",
+      "hoca": "Doç. Dr. Ebru GÜHER"
+    },
+    {
+      "kod": "ATA102",
+      "ad": "Atatürk İlk. ve İnk. Tarihi- II",
+      "akts": "2",
+      "hoca": "Doç. Dr. EBRU GÜHER"
+    },
+    {
+      "kod": "BMB 301",
+      "ad": "Yaz Stajı – I",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi ÖKKEŞ GÖKALP SÖKMEN"
+    },
+    {
+      "kod": "BMB 303",
+      "ad": "Veritabanı Yönetim Sistemleri",
+      "akts": "3",
+      "hoca": "Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB 305",
+      "ad": "Veritabanı Yönetim Sistemleri Laboratuvarı",
+      "akts": "2",
+      "hoca": "Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB 307",
+      "ad": "Veri Bilimine Giriş",
+      "akts": "2",
+      "hoca": "Dr. Öğr. Üyesi Orhan ABAR https://akbis.osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB 401",
+      "ad": "Yaz Stajı - II",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi ÖKKEŞ GÖKALP SÖKMEN"
+    },
+    {
+      "kod": "BMB 409",
+      "ad": "Bilgisayar Mühendisliğinde Araştırma Yöntemleri",
+      "akts": "3",
+      "hoca": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER"
+    },
+    {
+      "kod": "BMB 423",
+      "ad": "İnsan Bilgisayar Etkileşimi",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi ERHAN TURAN"
+    },
+    {
+      "kod": "BMB 431",
+      "ad": "Metasezgisel Yöntemler",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB 433",
+      "ad": "Çizge Tabanlı Makine Öğrenme",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB101",
+      "ad": "Matematik - I",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Özcan YIRTICI"
+    },
+    {
+      "kod": "BMB102",
+      "ad": "Matematik- II",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Özcan YIRTICI"
+    },
+    {
+      "kod": "BMB103",
+      "ad": "Mühendislik Fiziği",
+      "akts": "4",
+      "hoca": "Dr. Öğr. Üyesi Özcan YIRTICI"
+    },
+    {
+      "kod": "BMB104",
+      "ad": "İş Sağlığı ve Güvenliği",
+      "akts": "3",
+      "hoca": "Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB106",
+      "ad": "Lineer Cebir",
+      "akts": "4",
+      "hoca": "Dr. Öğr. Üyesi Özcan YIRTICI"
+    },
+    {
+      "kod": "BMB107",
+      "ad": "Bilgisayar Mühendisliğine Giriş",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB108",
+      "ad": "Algoritma ve Programlama II",
+      "akts": "5",
+      "hoca": "Doç. Dr. Mehmet Fatih Tefek"
+    },
+    {
+      "kod": "BMB109",
+      "ad": "Algoritma ve Programlama I",
+      "akts": "5",
+      "hoca": "Doç. Dr. Mehmet Fatih TEFEK"
+    },
+    {
+      "kod": "BMB110",
+      "ad": "Algoritma ve Programlama Laboratuvarı II",
+      "akts": "4",
+      "hoca": "Doç. Dr. Mehmet Fatih Tefek"
+    },
+    {
+      "kod": "BMB111",
+      "ad": "Algoritma ve Programlama Laboratuvarı I",
+      "akts": "2",
+      "hoca": "Doç. Dr. Mehmet Fatih TEFEK"
+    },
+    {
+      "kod": "BMB112",
+      "ad": "Elektrik Devrelerinin Temelleri",
+      "akts": "3",
+      "hoca": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+    },
+    {
+      "kod": "BMB201",
+      "ad": "Diferansiyel Denklemler",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Özcan YIRTICI"
+    },
+    {
+      "kod": "BMB202",
+      "ad": "Sayısal Yöntemler",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Özcan YIRTICI"
+    },
+    {
+      "kod": "BMB203",
+      "ad": "Ayrık Matematik",
+      "akts": "4",
+      "hoca": "Öğr. Gör. Fatma Neda Topuz"
+    },
+    {
+      "kod": "BMB204",
+      "ad": "Mühendisler için Olasılık ve İstatistik",
+      "akts": "4",
+      "hoca": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB205",
+      "ad": "Mesleki İngilizce I",
+      "akts": "4",
+      "hoca": "Öğr. Gör. Fatma Neda Topuz"
+    },
+    {
+      "kod": "BMB206",
+      "ad": "Mesleki İngilizce II",
+      "akts": "4",
+      "hoca": "Öğr. Gör. Fatma Neda Topuz fatmaneda@gmail.com"
+    },
+    {
+      "kod": "BMB207",
+      "ad": "Elektronik Devreler",
+      "akts": "4",
+      "hoca": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+    },
+    {
+      "kod": "BMB208",
+      "ad": "Algoritma Analizi",
+      "akts": "4",
+      "hoca": "Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB209",
+      "ad": "Elektronik Devreler Laboratuvarı",
+      "akts": "2",
+      "hoca": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+    },
+    {
+      "kod": "BMB210",
+      "ad": "Lojik tasarım",
+      "akts": "3",
+      "hoca": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+    },
+    {
+      "kod": "BMB211",
+      "ad": "Veri Yapıları",
+      "akts": "3",
+      "hoca": "Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB212",
+      "ad": "Lojik tasarım Laboratuvarı",
+      "akts": "2",
+      "hoca": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+    },
+    {
+      "kod": "BMB213",
+      "ad": "Veri Yapıları Laboratuvarı",
+      "akts": "2",
+      "hoca": "Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB214",
+      "ad": "Yapay Zekaya Giriş",
+      "akts": "4",
+      "hoca": "Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/profil-bahargezici bahargezici@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB215",
+      "ad": "Nesneye Dayalı Programlama",
+      "akts": "4",
+      "hoca": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB217",
+      "ad": "Nesneye Dayalı Programlama Laboratuvarı",
+      "akts": "2",
+      "hoca": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB218",
+      "ad": "Programlama Dilleri",
+      "akts": "4",
+      "hoca": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB302",
+      "ad": "Makine Öğrenmesi",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB304",
+      "ad": "Otomata Teorisi",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Erhan TURAN erhanturan@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB306",
+      "ad": "Yazılım Mühendisliği",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/@bahargezici bahargezici@osmaniye.edu.tr Öğr. Gör. Dr. Fatma Neda TOPUZ"
+    },
+    {
+      "kod": "BMB308",
+      "ad": "Mikroişlemciler",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Erhan TURAN"
+    },
+    {
+      "kod": "BMB309",
+      "ad": "İşletim Sistemleri",
+      "akts": "4",
+      "hoca": "Dr. Öğr. Üyesi Orhan ABAR https://akbis.osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB310",
+      "ad": "Bilgisayar Mühendisliği Projesi-1",
+      "akts": "2",
+      "hoca": "Dr. Öğr. Üyesi Erhan TURAN"
+    },
+    {
+      "kod": "BMB311",
+      "ad": "Bilgisayar Ağları",
+      "akts": "3",
+      "hoca": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB312",
+      "ad": "Gönüllülük Çalışmaları",
+      "akts": "3",
+      "hoca": "Dr. Öğr. Üyesi Özcan YIRTICI"
+    },
+    {
+      "kod": "BMB313",
+      "ad": "Bilgisayar Ağları Laboratuvarı",
+      "akts": "2",
+      "hoca": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB315",
+      "ad": "Bilgisayar Organizasyonu ve Tasarımı",
+      "akts": "4",
+      "hoca": "Öğr. Gör. Fatma Neda Topuz fatmanedatopuz@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB317",
+      "ad": "Görsel Programlama",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB318",
+      "ad": "Mobil Programlama",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Orhan ABAR https://akbis.osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB319",
+      "ad": "Web programlama",
+      "akts": "5",
+      "hoca": "Doç. Dr. Mehmet Fatih TEFEK"
+    },
+    {
+      "kod": "BMB320",
+      "ad": "Çizge Kuramı ve Algoritmalar",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Erhan TURAN"
+    },
+    {
+      "kod": "BMB321",
+      "ad": "Oyun Programlama",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Erhan TURAN"
+    },
+    {
+      "kod": "BMB322",
+      "ad": "Bilgisayar ve Ağ Güvenliği",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB324",
+      "ad": "Sinyaller ve Sistemler",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+    },
+    {
+      "kod": "BMB326",
+      "ad": "Bilgisayar Grafikleri",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Erhan TURAN"
+    },
+    {
+      "kod": "BMB328",
+      "ad": "Gömülü Sistemler",
+      "akts": "5",
+      "hoca": "Doç. Dr. Mehmet Fatih Tefek"
+    },
+    {
+      "kod": "BMB402",
+      "ad": "Bilişim Hukuku",
+      "akts": "2",
+      "hoca": "Doç. Dr. Mehmet Fatih TEFEK"
+    },
+    {
+      "kod": "BMB403",
+      "ad": "Bilgisayar Mühendisliği Projesi-2",
+      "akts": "2",
+      "hoca": "Dr. Öğr. Üyesi Erhan TURAN"
+    },
+    {
+      "kod": "BMB404",
+      "ad": "Ar-Ge ve Teknoloji",
+      "akts": "2",
+      "hoca": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER"
+    },
+    {
+      "kod": "BMB405",
+      "ad": "İşletme Ekonomisi",
+      "akts": "3",
+      "hoca": "Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/@bahargezici bahargezici@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB406",
+      "ad": "Mühendislik Ekonomisi",
+      "akts": "2",
+      "hoca": "Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/@bahargezici bahargezici@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB407",
+      "ad": "Girişimcilik",
+      "akts": "3",
+      "hoca": "Doç. Dr. Mehmet Fatih Tefek mftefek@hotmail.com"
+    },
+    {
+      "kod": "BMB408",
+      "ad": "Bilişimde Kariyerler",
+      "akts": "2",
+      "hoca": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER"
+    },
+    {
+      "kod": "BMB411",
+      "ad": "Kompleks Analize Giriş",
+      "akts": "3",
+      "hoca": "Dr. Öğr. Üyesi Özcan YIRTICI"
+    },
+    {
+      "kod": "BMB413",
+      "ad": "Yenilenebilir Enerji Kaynakları",
+      "akts": "3",
+      "hoca": "Dr. Öğr. Üyesi Özcan YIRTICI"
+    },
+    {
+      "kod": "BMB415",
+      "ad": "Bağımlılık ve Bağımlılıkla Mücadele",
+      "akts": "3",
+      "hoca": "Doç. Dr. Mehmet Fatih Tefek"
+    },
+    {
+      "kod": "BMB416",
+      "ad": "Hesaplama Teorisi",
+      "akts": "5",
+      "hoca": "Arş.Gör. Derman Keskinkılıç dermanakgol@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB418",
+      "ad": "Bilgisayar Oyunları için Yapay Zekâ",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Erhan TURAN"
+    },
+    {
+      "kod": "BMB420",
+      "ad": "Kriptoloji ve Uygulamaları",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB422",
+      "ad": "Derin Öğrenme",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi ERHAN TURAN"
+    },
+    {
+      "kod": "BMB424",
+      "ad": "Biyomedikal Sinyal İşleme",
+      "akts": "5",
+      "hoca": "Prof. Dr. Ufuk Bal"
+    },
+    {
+      "kod": "BMB425",
+      "ad": "Biyoinformatik",
+      "akts": "5",
+      "hoca": "Prof. Dr. S. Batuhan AKBEN https://akbis.osmaniye.edu.tr/@batuhanakben batuhanakben@osmaniye.edu.tr Dr. Öğr. Üyesi Orhan ABAR https://akbis.osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB426",
+      "ad": "Kontrol Sistemleri",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB427",
+      "ad": "Robotiğe Giriş",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB428",
+      "ad": "Programlanabilir Mantık Denetleyicileri",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB429",
+      "ad": "Yapay Sinir Ağları",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Orhan ABAR https://akbis. osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB430",
+      "ad": "Derleyici Tasarımı",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi ÖKKEŞ GÖKALP SÖKMEN"
+    },
+    {
+      "kod": "BMB432",
+      "ad": "VLSI Tasarımı",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+    },
+    {
+      "kod": "BMB434",
+      "ad": "Doğal Dil İşleme",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Erhan TURAN"
+    },
+    {
+      "kod": "BMB435",
+      "ad": "Açıklanabilir ve Yorumlanabilir Yapay Zekâ: Teknikler ve Uygulamalar",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/@bahargezici bahargezici@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB436",
+      "ad": "FPGA Programlama",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB437",
+      "ad": "Tasarım Kalıpları",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB438",
+      "ad": "Yönetim Bilişim Sistemleri",
+      "akts": "5",
+      "hoca": "Öğr. Gör. FATMA NEDA TOPUZ"
+    },
+    {
+      "kod": "BMB439",
+      "ad": "Yazılım Testi ve Kalite Güvencesi",
+      "akts": "5",
+      "hoca": "Öğretim Üyesi Fatma Neda TOPUZ"
+    },
+    {
+      "kod": "BMB440",
+      "ad": "Dağıtık Sistemler",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB441",
+      "ad": "Bilgi Sistemleri",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB442",
+      "ad": "Paralel Hesaplama",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+    },
+    {
+      "kod": "BMB443",
+      "ad": "Görüntü İşleme",
+      "akts": "5",
+      "hoca": "Doç. Dr. Mehmet Fatih TEFEK"
+    },
+    {
+      "kod": "BMB444",
+      "ad": "Yazılım Metrikleri",
+      "akts": "5",
+      "hoca": "Doç. Dr. MEHMET FATİH TEFEK"
+    },
+    {
+      "kod": "BMB445",
+      "ad": "Otomasyon Sistemleri",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB446",
+      "ad": "Kuantum Hesaplama Uygulamaları",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB447",
+      "ad": "Sistem Analizi ve Tasarımı",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB449",
+      "ad": "Dosya Yapıları",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi ORHAN ABAR"
+    },
+    {
+      "kod": "BMB451",
+      "ad": "Siber Güvenlik",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB453",
+      "ad": "Nesnelerin İnterneti ve Uygulamaları",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB455",
+      "ad": "Kuantum Hesaplamaya Giriş",
+      "akts": "5",
+      "hoca": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+    },
+    {
+      "kod": "BMB490",
+      "ad": "Bitirme Tezi",
+      "akts": "8",
+      "hoca": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr"
+    },
+    {
+      "kod": "DOY101",
+      "ad": "Dijital Okuryazarlık",
+      "akts": "3",
+      "hoca": "Dr. Öğr. Üyesi Erhan TURAN"
+    },
+    {
+      "kod": "TDL101",
+      "ad": "Türk Dili – I",
+      "akts": "2",
+      "hoca": "Öğr. Gör. Dr. FUNDA YILDIRIM ÖZKAN"
+    },
+    {
+      "kod": "TDL102",
+      "ad": "Türk Dili- II",
+      "akts": "2",
+      "hoca": "Öğr. Gör. Dr. FUNDA YILDIRIM ÖZKAN"
+    },
+    {
+      "kod": "YDİ101",
+      "ad": "Yabancı Dil I",
+      "akts": "2",
+      "hoca": "Öğr. Gör. Fatma AKÇA"
+    },
+    {
+      "kod": "YDİ102",
+      "ad": "Yabancı Dil II",
+      "akts": "2",
+      "hoca": "Öğr. Gör. Fatma AKÇA"
+    }
+  ]
+}

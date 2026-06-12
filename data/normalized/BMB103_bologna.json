@@ -1,0 +1,65 @@
+{
+  "title": "BMB103 - Mühendislik Fiziği Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB103",
+    "ders_adi": "Mühendislik Fiziği",
+    "yariyil": "1",
+    "kredi": "2",
+    "akts": "4",
+    "son_guncelleme": "21.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Özcan YIRTICI"
+  },
+  "sections": {
+    "amac": "Öğrencilere fizik eğitiminde gerekli olan temel mekanik, statik ve dinamik alt yapısının kazandırılması",
+    "icerik": "Ölçme ve birim sistemleri, statik, kinematik, dinamik. Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "Classical and Modern Physics, Keller, Gettys, Scove"
+      ],
+      "ders_notlari": [
+        "[1] Fen ve Mühendisler için Fizik: (SERWAY); Editör: Kemal ÇOLAKOĞLU [2] Temel Fizik :(FISBANE, GASIROROWICZ, THORNTON); Editör:Prof. Dr. Cengiz YALÇIN [3] Fen ve Mühendisler için Fizik:(GIANCOLI); Editör:Prof. Dr. Gülsen ÖNENGÜT [4] Universite Fiziği, YOUNG AND FREEDMAN [5] Classical and Modern Physics, Keller, Gettys, Scove"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Mekanik fiziğinin konuları hakkında kuramsal bilginin temeli oluşur",
+      "Mekanik fiziği ile ilgili kavramları yorumlayabilir ve analiz edebilir",
+      "Mekanik konularını temel alan diğer dersleri kolaylıkla kavrayabilecek bilgiye ve analitik düşünmeye sahip olur",
+      "Konu ile ilgili kaynakları araştırabilecek ve kullanabilecek bilgi donanımını edinebilir"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Birimler ve Fiziksel Nicelikler",
+      "Hafta 2: Vektörler",
+      "Hafta 3: Bir Boyutta Hareket",
+      "Hafta 4: İki ve Üç Boyutta Hareket",
+      "Hafta 5: Newton'un Hareket Kanunları",
+      "Hafta 6: Dairesel Hareket ve Newton Kanunlarının Uygulamaları",
+      "Hafta 7: İş ve Kinetik Enerji",
+      "Hafta 8: Ara Sınav",
+      "Hafta 9: Potansiyel Enerji ve Enerjinin Korunumu",
+      "Hafta 10: Momentum ve İmpuls",
+      "Hafta 11: Momentumun Korunumu",
+      "Hafta 12: Momentum Korunumu ve Çarpışmalar",
+      "Hafta 13: Açısal Hız ve İvme",
+      "Hafta 14: Sabit Açısal İvme ile Dönme",
+      "Hafta 15: Katı Bir Cisim İçin Tork ve Açısal İvme",
+      "Hafta 16: Dönem Sonu Sınavı"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Mühendislik Fiziği\nDers Kodu: BMB103\nYarıyıl: 1. Yarıyıl\nKredi: 2\nAKTS Kredisi: 4\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 21.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Özcan YIRTICI\n\n--- DERS AMACI ---\nÖğrencilere fizik eğitiminde gerekli olan temel mekanik, statik ve dinamik alt yapısının kazandırılması\n\n--- DERS İÇERİĞİ ---\nÖlçme ve birim sistemleri, statik, kinematik, dinamik. Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• Classical and Modern Physics, Keller, Gettys, Scove\n• Ders Notu: [1] Fen ve Mühendisler için Fizik: (SERWAY); Editör: Kemal ÇOLAKOĞLU [2] Temel Fizik :(FISBANE, GASIROROWICZ, THORNTON); Editör:Prof. Dr. Cengiz YALÇIN [3] Fen ve Mühendisler için Fizik:(GIANCOLI); Editör:Prof. Dr. Gülsen ÖNENGÜT [4] Universite Fiziği, YOUNG AND FREEDMAN [5] Classical and Modern Physics, Keller, Gettys, Scove\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Mekanik fiziğinin konuları hakkında kuramsal bilginin temeli oluşur\n2. Mekanik fiziği ile ilgili kavramları yorumlayabilir ve analiz edebilir\n3. Mekanik konularını temel alan diğer dersleri kolaylıkla kavrayabilecek bilgiye ve analitik düşünmeye sahip olur\n4. Konu ile ilgili kaynakları araştırabilecek ve kullanabilecek bilgi donanımını edinebilir\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Birimler ve Fiziksel Nicelikler\nHafta 2: Vektörler\nHafta 3: Bir Boyutta Hareket\nHafta 4: İki ve Üç Boyutta Hareket\nHafta 5: Newton'un Hareket Kanunları\nHafta 6: Dairesel Hareket ve Newton Kanunlarının Uygulamaları\nHafta 7: İş ve Kinetik Enerji\nHafta 8: Ara Sınav\nHafta 9: Potansiyel Enerji ve Enerjinin Korunumu\nHafta 10: Momentum ve İmpuls\nHafta 11: Momentumun Korunumu\nHafta 12: Momentum Korunumu ve Çarpışmalar\nHafta 13: Açısal Hız ve İvme\nHafta 14: Sabit Açısal İvme ile Dönme\nHafta 15: Katı Bir Cisim İçin Tork ve Açısal İvme\nHafta 16: Dönem Sonu Sınavı\n",
+  "source_file": "BMB103_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

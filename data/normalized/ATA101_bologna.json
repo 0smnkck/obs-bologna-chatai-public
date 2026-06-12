@@ -1,0 +1,69 @@
+{
+  "title": "ATA101 - Atatürk İlk. ve İnk. Tarihi- I Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "ATA101",
+    "ders_adi": "Atatürk İlk. ve İnk. Tarihi- I",
+    "yariyil": "1",
+    "kredi": "2",
+    "akts": "2",
+    "son_guncelleme": "28.11.2025",
+    "ogretim_uyesi": "Doç. Dr. Ebru GÜHER"
+  },
+  "sections": {
+    "amac": "Dersin amacı, Atatürkçü düşünceyi gerçek yönüyle tanıtmak ve güncelleştirerek yaşatmaya katkıda bulunmaktır.",
+    "icerik": "Cumhuriyet Öncesi: -Atatürk İlkeleri ve İnkılâp Tarihi dersini okumanın gerekliliği, -İnkılâp kavramı ve Atatürk Türk İnkılâbı öncesi gelişmeler: -Avrupa´daki gelişmeler; -Osmanlı Devleti ve yenilik hareketleri; -Tanzimat ve Meşrutiyet denemeleri; -Fikir Hareketleri. Devleti Yıkan Savaşlar: -Trablusgarp ve Balkan Savaşları; -Birinci Dünya Savaşı. Mondros Mütarekesi: -Mütareke bahanesiyle yapılan işgâller; -İşgâller karşısında tutum Mustafa Kemal Atatürk ve Türk Milleti´ni Teşkilâtlandırması; -Mustafa Kemal Atatürk´ün kişilik özellikleri; -Mustafa Kemal Atatürk´ün görevleri; -Mustafa Kemal Atatürk´ün Samsun´a çıkışı; -Amasya Genelgesi; -Kongreler. Misâk-ı Millî Türkiye Büyük Millet Meclisi; Millî Mücâdele´ye karşı hareketler Kuvâ-yı Millîye ve cepheleri. Sevr dayatması: -Sevr´e karşı Türk Milleti´nin varlık mücâdelesi. Düzenli Ordu Dönemi: -İnönü Savaşları; -Londra Konferansı. Sakarya Muharebesi; İnönü Savaşları Millî Mücâdele Dönemi Türk Dış Politikası. Antlaşmalar Dönemi: -Mudanya Ateşkes Antlaşması; -Lozan Barış Antlaşması. Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "5)      Bernard Lewis, Modern Türkiye’nin Doğuşu, Çev.M.Kıratlı, T.T.K., Ankara, 1970.",
+        "6) Ahmet Mumcu, Tarih Açısından Türk Devriminin Temelleri ve Gelişimi, Ankara, 1976",
+        "1)      Mustafa Kemal Atatürk, Nutuk (Söylev), C.I-II, T.T.K. Ankara, 1986.",
+        "3)      Enver Ziya Karal, Atatürk ve Devrim (Konferanslar ve Makaleler), T.T.K., Ankara,1980",
+        "2)      Niyazi Berkes, Türkiye’de Çağdaşlaşma, İstanbul, 1978.",
+        "4)      Enver Ziya Karal, Atatürk’ten Düşünceler, M.E.B. Yay., Ankara, 1981."
+      ],
+      "ders_notlari": [
+        "1) Mustafa Kemal Atatürk, Nutuk (Söylev), C.I-II, T.T.K. Ankara, 1986."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Türk İnkılabının tarihi köklerine inerek, Atatürk İnkılaplarına bilinçli bir şekilde sahip çıkar.",
+      "Türk tarihinden ve Türk Milli Mücadelesinden aldığı güçle; devletine ve milletine sahip çıkar.",
+      "Cumhuriyete, laikliğe ve Türk Milletine yönelik iç ve dış tehditleri doğru bir şekilde tanıyarak, bu tehditler karşısında uyanık olur",
+      "Ülkesini, vatanını ve milletini tanıyarak onlara uygun politikalar üreten bir şuura sahip olur."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: İnkılâp ve İnkılâpla ilgili Kavramlar. Devlet ve Unsurları , Tekâmül, Islahat, Hükümet Darbesi, İhtilâl, İnkılâp",
+      "Hafta 2: Osmanlı Devleti’nin jeopolitik durumu nedeniyle karşılaştığı tehditler",
+      "Hafta 3: Osmanlı Devleti’nde yenilik hareketleri. Tanzimat öncesi ıslahatlar",
+      "Hafta 4: Tanzimat Fermanı , Islahat",
+      "Hafta 5: Osmanlı Devleti’nin son döneminde fikir Akımları ( Osmanlıcılık, İslamcılık, Batıcılık,Türkçülük.) İttihat ve Terakki Partisi’nin iktidara gelmesi. 31 Mart olayı",
+      "Hafta 6: Trablusgarp Savaşı, Balkan Savaşları, Birinci Dünya Savaşı’nın nedenleri ve  Savaşın başlaması",
+      "Hafta 7: Osmanlı Devleti’nin Savaşa katılması ve Savaştığı Cepheler, Cepheler ve Sonuçları",
+      "Hafta 8: ARASINAV",
+      "Hafta 9: Osmanlı Devleti’ni Paylaşım antlaşmaları (Boğazlar Ant, Londra Ant, Sykes Picot Ant, St. Jean de Maurienne Ant.) I. Dünya Savaşı’nın sona Ermasi, Ermeni olayları, Mondros Ateşkes Antlaşması.",
+      "Hafta 10: Ulusal Mücadele dönemi, İşgaller karşısında Ulusun ve Ülkenin durumu Cemiyetler ve Faaliyetleri.",
+      "Hafta 11: Mustafa Kemal Paşa’nın İstanbul’a gelişi ve duruma bakışı, Mustafa Kemal  Paşa’nın  Samsun’a çıkışı.  Mustafa Kemal Paşa’nın Havza’daki Faaliyetleri, Amasya Genelgesi.",
+      "Hafta 12: Erzurum Kongresi ve önemi, Balıkesir ve Alaşehir Kongreleri. Sivas Kongresi ve önemi, Ulusal Mücadele döneminde diğar kongreler.",
+      "Hafta 13: Amasya Görüşmeleri, Sivas’ta komutanlarla yapılan toplantı. Temsil Heyeti’nin Ankara’ya gelişi.  Son Osmanlı Mebuslar Meclisi’nin toplanması, Misak-ı Milli",
+      "Hafta 14: T.B.M.M’ye karşı ayaklanmalar. Türkiye’yi paylaşma tasarıları.",
+      "Hafta 15: Final Sınavı"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Atatürk İlk. ve İnk. Tarihi- I\nDers Kodu: ATA101\nYarıyıl: 1. Yarıyıl\nKredi: 2\nAKTS Kredisi: 2\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 28.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Doç. Dr. Ebru GÜHER\n\n--- DERS AMACI ---\nDersin amacı, Atatürkçü düşünceyi gerçek yönüyle tanıtmak ve güncelleştirerek yaşatmaya katkıda bulunmaktır.\n\n--- DERS İÇERİĞİ ---\nCumhuriyet Öncesi: -Atatürk İlkeleri ve İnkılâp Tarihi dersini okumanın gerekliliği, -İnkılâp kavramı ve Atatürk Türk İnkılâbı öncesi gelişmeler: -Avrupa´daki gelişmeler; -Osmanlı Devleti ve yenilik hareketleri; -Tanzimat ve Meşrutiyet denemeleri; -Fikir Hareketleri. Devleti Yıkan Savaşlar: -Trablusgarp ve Balkan Savaşları; -Birinci Dünya Savaşı. Mondros Mütarekesi: -Mütareke bahanesiyle yapılan işgâller; -İşgâller karşısında tutum Mustafa Kemal Atatürk ve Türk Milleti´ni Teşkilâtlandırması; -Mustafa Kemal Atatürk´ün kişilik özellikleri; -Mustafa Kemal Atatürk´ün görevleri; -Mustafa Kemal Atatürk´ün Samsun´a çıkışı; -Amasya Genelgesi; -Kongreler. Misâk-ı Millî Türkiye Büyük Millet Meclisi; Millî Mücâdele´ye karşı hareketler Kuvâ-yı Millîye ve cepheleri. Sevr dayatması: -Sevr´e karşı Türk Milleti´nin varlık mücâdelesi. Düzenli Ordu Dönemi: -İnönü Savaşları; -Londra Konferansı. Sakarya Muharebesi; İnönü Savaşları Millî Mücâdele Dönemi Türk Dış Politikası. Antlaşmalar Dönemi: -Mudanya Ateşkes Antlaşması; -Lozan Barış Antlaşması. Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• 5)      Bernard Lewis, Modern Türkiye’nin Doğuşu, Çev.M.Kıratlı, T.T.K., Ankara, 1970.\n• 6) Ahmet Mumcu, Tarih Açısından Türk Devriminin Temelleri ve Gelişimi, Ankara, 1976\n• 1)      Mustafa Kemal Atatürk, Nutuk (Söylev), C.I-II, T.T.K. Ankara, 1986.\n• 3)      Enver Ziya Karal, Atatürk ve Devrim (Konferanslar ve Makaleler), T.T.K., Ankara,1980\n• 2)      Niyazi Berkes, Türkiye’de Çağdaşlaşma, İstanbul, 1978.\n• 4)      Enver Ziya Karal, Atatürk’ten Düşünceler, M.E.B. Yay., Ankara, 1981.\n• Ders Notu: 1) Mustafa Kemal Atatürk, Nutuk (Söylev), C.I-II, T.T.K. Ankara, 1986.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Türk İnkılabının tarihi köklerine inerek, Atatürk İnkılaplarına bilinçli bir şekilde sahip çıkar.\n2. Türk tarihinden ve Türk Milli Mücadelesinden aldığı güçle; devletine ve milletine sahip çıkar.\n3. Cumhuriyete, laikliğe ve Türk Milletine yönelik iç ve dış tehditleri doğru bir şekilde tanıyarak, bu tehditler karşısında uyanık olur\n4. Ülkesini, vatanını ve milletini tanıyarak onlara uygun politikalar üreten bir şuura sahip olur.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: İnkılâp ve İnkılâpla ilgili Kavramlar. Devlet ve Unsurları , Tekâmül, Islahat, Hükümet Darbesi, İhtilâl, İnkılâp\nHafta 2: Osmanlı Devleti’nin jeopolitik durumu nedeniyle karşılaştığı tehditler\nHafta 3: Osmanlı Devleti’nde yenilik hareketleri. Tanzimat öncesi ıslahatlar\nHafta 4: Tanzimat Fermanı , Islahat\nHafta 5: Osmanlı Devleti’nin son döneminde fikir Akımları ( Osmanlıcılık, İslamcılık, Batıcılık,Türkçülük.) İttihat ve Terakki Partisi’nin iktidara gelmesi. 31 Mart olayı\nHafta 6: Trablusgarp Savaşı, Balkan Savaşları, Birinci Dünya Savaşı’nın nedenleri ve  Savaşın başlaması\nHafta 7: Osmanlı Devleti’nin Savaşa katılması ve Savaştığı Cepheler, Cepheler ve Sonuçları\nHafta 8: ARASINAV\nHafta 9: Osmanlı Devleti’ni Paylaşım antlaşmaları (Boğazlar Ant, Londra Ant, Sykes Picot Ant, St. Jean de Maurienne Ant.) I. Dünya Savaşı’nın sona Ermasi, Ermeni olayları, Mondros Ateşkes Antlaşması.\nHafta 10: Ulusal Mücadele dönemi, İşgaller karşısında Ulusun ve Ülkenin durumu Cemiyetler ve Faaliyetleri.\nHafta 11: Mustafa Kemal Paşa’nın İstanbul’a gelişi ve duruma bakışı, Mustafa Kemal  Paşa’nın  Samsun’a çıkışı.  Mustafa Kemal Paşa’nın Havza’daki Faaliyetleri, Amasya Genelgesi.\nHafta 12: Erzurum Kongresi ve önemi, Balıkesir ve Alaşehir Kongreleri. Sivas Kongresi ve önemi, Ulusal Mücadele döneminde diğar kongreler.\nHafta 13: Amasya Görüşmeleri, Sivas’ta komutanlarla yapılan toplantı. Temsil Heyeti’nin Ankara’ya gelişi.  Son Osmanlı Mebuslar Meclisi’nin toplanması, Misak-ı Milli\nHafta 14: T.B.M.M’ye karşı ayaklanmalar. Türkiye’yi paylaşma tasarıları.\nHafta 15: Final Sınavı\n",
+  "source_file": "ATA101_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

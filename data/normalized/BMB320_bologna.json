@@ -1,0 +1,67 @@
+{
+  "title": "BMB320 - Çizge Kuramı ve Algoritmalar Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB320",
+    "ders_adi": "Çizge Kuramı ve Algoritmalar",
+    "yariyil": "6",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "27.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Erhan TURAN"
+  },
+  "sections": {
+    "amac": "Bu ders, bilgisayar kullanarak graf teorisi ile ilişkili problemleri çözmek için graf algoritmalarını öğretecektir. Grafik algoritmaları, bir grafta düğümler ve kenarlar olarak temsil edilen varlıklar arasındaki ilişki ve bağlantılarla ilgili problemleri çözmek için tasarlanmıştır. Navigasyon sistemlerinde en kısa yolu bulma, sosyal ağları analiz etme ve lojistiği optimize etme gibi çeşitli uygulamalarda yaygın olarak kullanılırlar.",
+    "icerik": "Grafikler, İkili Grafikler, Bağlantı, En Kısa Yol Analizi, Grafik Veritabanları, Grafik Analiz Kütüphaneleri, Grafik Görselleştirme, Bilgi Tabanlı Grafikler, Sosyal Ağlar",
+    "yontemler": "Anlatım,Tartışma,Proje",
+    "kaynaklar": {
+      "kitaplar": [
+        "Modern Graph Theory Algorithms with Python: Harness the power of graph algorithms and real-world network applications using Python, Colleen M. Farrelly, Franck Kalala Mutombo, Michael Giske",
+        "Algorithms in C, Parts 1-5: Fundamentals, Data Structures, Sorting, Searching, and Graph Algorithms, Robert Sedgewick"
+      ],
+      "ders_notlari": [
+        "Graph Machine Learning: Learn about the latest advancements in graph data to build robust machine learning models, Second Ed., Aldo Marzullo, Enrico Deusebio, Claudio Stamile"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Graf teorisi hakkında temel kavramları öğrenme ve graf verisi tasarlama ve analiz edebilme",
+      "Graf veritabanları ve yazılım kütüphanelerinden faydalanarak tabular olmayan veri ile çalışma"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Graflara Giriş - -",
+      "Hafta 2: Yollar ve Devreler - -",
+      "Hafta 3: Yol Analizi için Graf Algoritmaları - -",
+      "Hafta 4: Ağaçlar ve Bağlantılılık - -",
+      "Hafta 5: Boyama, Kaplama ve Bölümleme - -",
+      "Hafta 6: Ara Sınav - -",
+      "Hafta 7: Yönlü Grafikler - -",
+      "Hafta 8: Grafik Veritabanları - -",
+      "Hafta 9: Grafik Analiz Kütüphaneleri - -",
+      "Hafta 10: Grafik Görselleştirme - -",
+      "Hafta 11: Bilgi Tabanlı Graflar - -",
+      "Hafta 12: Sosyal Ağ Analizi - -",
+      "Hafta 13: Graf Algoritmaları için Optimizasyon - -",
+      "Hafta 14: Genel Tekrar - -"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Çizge Kuramı ve Algoritmalar\nDers Kodu: BMB320\nYarıyıl: 6. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 27.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Erhan TURAN\n\n--- DERS AMACI ---\nBu ders, bilgisayar kullanarak graf teorisi ile ilişkili problemleri çözmek için graf algoritmalarını öğretecektir. Grafik algoritmaları, bir grafta düğümler ve kenarlar olarak temsil edilen varlıklar arasındaki ilişki ve bağlantılarla ilgili problemleri çözmek için tasarlanmıştır. Navigasyon sistemlerinde en kısa yolu bulma, sosyal ağları analiz etme ve lojistiği optimize etme gibi çeşitli uygulamalarda yaygın olarak kullanılırlar.\n\n--- DERS İÇERİĞİ ---\nGrafikler, İkili Grafikler, Bağlantı, En Kısa Yol Analizi, Grafik Veritabanları, Grafik Analiz Kütüphaneleri, Grafik Görselleştirme, Bilgi Tabanlı Grafikler, Sosyal Ağlar\n\nÖğretim Yöntemleri: Anlatım,Tartışma,Proje\n\n--- DERS KAYNAKLARI ---\n• Modern Graph Theory Algorithms with Python: Harness the power of graph algorithms and real-world network applications using Python, Colleen M. Farrelly, Franck Kalala Mutombo, Michael Giske\n• Algorithms in C, Parts 1-5: Fundamentals, Data Structures, Sorting, Searching, and Graph Algorithms, Robert Sedgewick\n• Ders Notu: Graph Machine Learning: Learn about the latest advancements in graph data to build robust machine learning models, Second Ed., Aldo Marzullo, Enrico Deusebio, Claudio Stamile\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %20\nProje: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Graf teorisi hakkında temel kavramları öğrenme ve graf verisi tasarlama ve analiz edebilme\n2. Graf veritabanları ve yazılım kütüphanelerinden faydalanarak tabular olmayan veri ile çalışma\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Graflara Giriş - -\nHafta 2: Yollar ve Devreler - -\nHafta 3: Yol Analizi için Graf Algoritmaları - -\nHafta 4: Ağaçlar ve Bağlantılılık - -\nHafta 5: Boyama, Kaplama ve Bölümleme - -\nHafta 6: Ara Sınav - -\nHafta 7: Yönlü Grafikler - -\nHafta 8: Grafik Veritabanları - -\nHafta 9: Grafik Analiz Kütüphaneleri - -\nHafta 10: Grafik Görselleştirme - -\nHafta 11: Bilgi Tabanlı Graflar - -\nHafta 12: Sosyal Ağ Analizi - -\nHafta 13: Graf Algoritmaları için Optimizasyon - -\nHafta 14: Genel Tekrar - -\n",
+  "source_file": "BMB320_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

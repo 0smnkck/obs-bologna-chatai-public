@@ -1,0 +1,72 @@
+{
+  "title": "BMB318 - Mobil Programlama Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB318",
+    "ders_adi": "Mobil Programlama",
+    "yariyil": "6",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "15.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Orhan ABAR https://akbis.osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "React Native kullanarak Mobil uygulama geliştirmeyi öğretmek.",
+    "icerik": "React Native ile mobil uygulama geliştirme temelleri, bileşen yapısı, navigasyon, API entegrasyonu, durum yönetimi, cihaz özellikleri, test ve yayınlama konuları ele alınır.",
+    "yontemler": "Anlatım, uygulamalı proje geliştirme, örnek çözümü ve tartışma yöntemleri kullanılacaktır.",
+    "kaynaklar": {
+      "kitaplar": [
+        "React Native for Mobile Development: Harness the Power of React Native to Create Stunning iOS and Android Applications (2nd Edition)",
+        "React Native Resmi Dokümantasyon",
+        "React Navigation Kütüphanesi Dokümantasyonu"
+      ],
+      "ders_notlari": [
+        "React Native dokümantasyonu, ders sunumları ve örnek projeler kullanılacaktır."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "HTML ve CSS kullanarak temel web sayfası yapısı ve stil oluşturur.",
+      "JavaScript’te dizi işlemleri, temel programlama yapıları ve fonksiyonları kullanır ve test süreçlerini uygular.",
+      "React’te bileşen yapısı, props ve state (useState) kullanımını açıklar ve uygular.",
+      "React hook’larını (özellikle useEffect ve useState) ve modern JS yapılarını analiz eder.",
+      "React Native bileşenleri ve stil yönetimi (StyleSheet) hakkında bilgi sahibidir.",
+      "API entegrasyonu yaparak veri alışverişi sağlar, navigation yapısını kullanarak çok ekranlı uygulamalar oluşturur."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: React Native’e Giriş React ve JavaScript temel tekrarı Ders Sunumu",
+      "Hafta 2: Ortam Kurulumu ve İlk Uygulama Node.js ve Expo kurulumu React Native Dokümantasyonu",
+      "Hafta 3: Bileşenler, Props ve State JSX yapısını inceleme Örnek Kodlar",
+      "Hafta 4: Stil ve Flexbox Yapısı StyleSheet kullanımı araştırması Stil Kılavuzu",
+      "Hafta 5: Navigasyonun Temelleri React Navigation kurulumu React Navigation Dokümantasyonu",
+      "Hafta 6: Stack ve Tab Navigasyonu Ekran yapılarının analizi Örnek Proje",
+      "Hafta 7: Formlar ve Kullanıcı Girdisi TextInput ve form yönetimi araştırması Ödev Dokümanı",
+      "Hafta 8: API Entegrasyonu ve Veri Çekme Fetch ve Axios araştırması API Kılavuzu",
+      "Hafta 9: Durum Yönetimi ve Context API useContext yapısını inceleme React Context Dokümanı",
+      "Hafta 10: Redux ile Global Durum Yönetimi Redux temelleri Redux Resmi Dokümanı",
+      "Hafta 11: Cihaz Özelliklerine Erişim Firebase ve cihaz izinleri araştırması React Native Firebase Docs",
+      "Hafta 12: Animasyonlar ve Temalandırma Animated API inceleme Animasyon Örnekleri",
+      "Hafta 13: Performans ve Hata Ayıklama React Native Debugger kurulumu Performans Raporu",
+      "Hafta 14: Uygulama Yayına Hazırlık Google Play yönergeleri araştırması Yayınlama Kılavuzu"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Mobil Programlama\nDers Kodu: BMB318\nYarıyıl: 6. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 15.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Orhan ABAR https://akbis.osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr\n\n--- DERS AMACI ---\nReact Native kullanarak Mobil uygulama geliştirmeyi öğretmek.\n\n--- DERS İÇERİĞİ ---\nReact Native ile mobil uygulama geliştirme temelleri, bileşen yapısı, navigasyon, API entegrasyonu, durum yönetimi, cihaz özellikleri, test ve yayınlama konuları ele alınır.\n\nÖğretim Yöntemleri: Anlatım, uygulamalı proje geliştirme, örnek çözümü ve tartışma yöntemleri kullanılacaktır.\n\n--- DERS KAYNAKLARI ---\n• React Native for Mobile Development: Harness the Power of React Native to Create Stunning iOS and Android Applications (2nd Edition)\n• React Native Resmi Dokümantasyon\n• React Navigation Kütüphanesi Dokümantasyonu\n• Ders Notu: React Native dokümantasyonu, ders sunumları ve örnek projeler kullanılacaktır.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %30\nÖdev: 1 adet, katkı oranı %20\nProje: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. HTML ve CSS kullanarak temel web sayfası yapısı ve stil oluşturur.\n2. JavaScript’te dizi işlemleri, temel programlama yapıları ve fonksiyonları kullanır ve test süreçlerini uygular.\n3. React’te bileşen yapısı, props ve state (useState) kullanımını açıklar ve uygular.\n4. React hook’larını (özellikle useEffect ve useState) ve modern JS yapılarını analiz eder.\n5. React Native bileşenleri ve stil yönetimi (StyleSheet) hakkında bilgi sahibidir.\n6. API entegrasyonu yaparak veri alışverişi sağlar, navigation yapısını kullanarak çok ekranlı uygulamalar oluşturur.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: React Native’e Giriş React ve JavaScript temel tekrarı Ders Sunumu\nHafta 2: Ortam Kurulumu ve İlk Uygulama Node.js ve Expo kurulumu React Native Dokümantasyonu\nHafta 3: Bileşenler, Props ve State JSX yapısını inceleme Örnek Kodlar\nHafta 4: Stil ve Flexbox Yapısı StyleSheet kullanımı araştırması Stil Kılavuzu\nHafta 5: Navigasyonun Temelleri React Navigation kurulumu React Navigation Dokümantasyonu\nHafta 6: Stack ve Tab Navigasyonu Ekran yapılarının analizi Örnek Proje\nHafta 7: Formlar ve Kullanıcı Girdisi TextInput ve form yönetimi araştırması Ödev Dokümanı\nHafta 8: API Entegrasyonu ve Veri Çekme Fetch ve Axios araştırması API Kılavuzu\nHafta 9: Durum Yönetimi ve Context API useContext yapısını inceleme React Context Dokümanı\nHafta 10: Redux ile Global Durum Yönetimi Redux temelleri Redux Resmi Dokümanı\nHafta 11: Cihaz Özelliklerine Erişim Firebase ve cihaz izinleri araştırması React Native Firebase Docs\nHafta 12: Animasyonlar ve Temalandırma Animated API inceleme Animasyon Örnekleri\nHafta 13: Performans ve Hata Ayıklama React Native Debugger kurulumu Performans Raporu\nHafta 14: Uygulama Yayına Hazırlık Google Play yönergeleri araştırması Yayınlama Kılavuzu\n",
+  "source_file": "BMB318_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

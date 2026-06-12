@@ -1,0 +1,71 @@
+{
+  "title": "BMB413 - Yenilenebilir Enerji Kaynakları Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB413",
+    "ders_adi": "Yenilenebilir Enerji Kaynakları",
+    "yariyil": "7",
+    "kredi": "2",
+    "akts": "3",
+    "son_guncelleme": "22.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Özcan YIRTICI"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı Yenilenebilir enerji kaynaklarının önemini, özelliklerini ve verimli bir şekilde yararlanma yollarını, enerji problemlerinin çözümünde gelecekteki rolünün ekonomik, sosyal ve çevresel boyutlarda etkileri neler olacağını öğretmektir.",
+    "icerik": "Bu derste Temel enerji birimleri, Temel enerji kaynakları ve potansiyelleri, Enerji kullanım alanları, Enerji ölçüm aletleri ve teknikleri, Enerji kaynaklarının verimliliği, Enerjinin verimli kullanımı, Enerji Kaynaklarının yönetimi, Enerji ile ilgili problemleri çözümü, Enerji verimliliği, Enerji üreten sistemler, Enerji dönüştürme sistemleri, Enerji tasarrufunun önemi, Ekonomik analiz yöntemleri, Enerji kaynaklarının çevresel etkileri, Enerji ve çevre Yönetimi işlenmektedir. Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "Nesnelerin İnterneti ile Sürdürülebilir Akıllı Evler ve Binalar, Pramod Singh Rathore, Abhishek Kumar, Surbhi Bhatia, Arwa Mashat, Thippa Reddy Gadekallu, Wiley, 2024."
+      ],
+      "ders_notlari": [
+        "Yenilenebilir Enerji: Kısa Bir Giriş, Nick Jelley (2024)"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Temel enerji (SI) birimlerini ve enerji ölçümünü yapar",
+      "Enerji korunum yasalarını açıklar",
+      "Küresel enerji kaynaklarını ve fiziksel özelliklerini kavrar",
+      "Yenilenebilir enerji kaynaklarını (ör. Hidro, güneş, rüzgar, jeotermal, biyokütle, gelgit) tanımlar.",
+      "Modern akıllı evler hakkında bilgi ve donanıma sahip olur"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Giriş: Temel Enerji SI Birimleri ve Ölçme",
+      "Hafta 2: Enerji Fiziği (Enerjinin Korunumu)",
+      "Hafta 3: Enerji Dönüşümleri",
+      "Hafta 4: Enerji Termodinamiği",
+      "Hafta 5: Küresel Enerji Kaynakları",
+      "Hafta 6: Yenilenebilir Enerji Kaynakları (Hidro, Güneş, Rüzgar, Jeotermal, Biyokütle, Gelgit)",
+      "Hafta 7: Hidroelektrik Güç Üretimi",
+      "Hafta 8: Ara Sınav",
+      "Hafta 9: Fotovoltaik Güç Üretimi",
+      "Hafta 10: Rüzgar Enerjisi ile Güç Üretimi",
+      "Hafta 11: Jeotermal ve Biyokütle Enerjisi İle Güç Üretimi",
+      "Hafta 12: Gelgit, Okyanus ve Dalgaları İle Güç Üretimi",
+      "Hafta 13: Yenilenebilir Enerji Kaynakları İle Çoklu Güç Üretim Sistemlerinin Enerji ve Ekserji Analizleri",
+      "Hafta 14: Yenilenebilir Enerji Kaynaklarının ve Sürdürülebilir Çevre",
+      "Hafta 15: Yenilenebilir Enerji Kaynaklarının Küresel Etkileri",
+      "Hafta 16: Final sınavı"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Yenilenebilir Enerji Kaynakları\nDers Kodu: BMB413\nYarıyıl: 7. Yarıyıl\nKredi: 2\nAKTS Kredisi: 3\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 22.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Özcan YIRTICI\n\n--- DERS AMACI ---\nBu dersin amacı Yenilenebilir enerji kaynaklarının önemini, özelliklerini ve verimli bir şekilde yararlanma yollarını, enerji problemlerinin çözümünde gelecekteki rolünün ekonomik, sosyal ve çevresel boyutlarda etkileri neler olacağını öğretmektir.\n\n--- DERS İÇERİĞİ ---\nBu derste Temel enerji birimleri, Temel enerji kaynakları ve potansiyelleri, Enerji kullanım alanları, Enerji ölçüm aletleri ve teknikleri, Enerji kaynaklarının verimliliği, Enerjinin verimli kullanımı, Enerji Kaynaklarının yönetimi, Enerji ile ilgili problemleri çözümü, Enerji verimliliği, Enerji üreten sistemler, Enerji dönüştürme sistemleri, Enerji tasarrufunun önemi, Ekonomik analiz yöntemleri, Enerji kaynaklarının çevresel etkileri, Enerji ve çevre Yönetimi işlenmektedir. Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• Nesnelerin İnterneti ile Sürdürülebilir Akıllı Evler ve Binalar, Pramod Singh Rathore, Abhishek Kumar, Surbhi Bhatia, Arwa Mashat, Thippa Reddy Gadekallu, Wiley, 2024.\n• Ders Notu: Yenilenebilir Enerji: Kısa Bir Giriş, Nick Jelley (2024)\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %30\nProje: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Temel enerji (SI) birimlerini ve enerji ölçümünü yapar\n2. Enerji korunum yasalarını açıklar\n3. Küresel enerji kaynaklarını ve fiziksel özelliklerini kavrar\n4. Yenilenebilir enerji kaynaklarını (ör. Hidro, güneş, rüzgar, jeotermal, biyokütle, gelgit) tanımlar.\n5. Modern akıllı evler hakkında bilgi ve donanıma sahip olur\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Giriş: Temel Enerji SI Birimleri ve Ölçme\nHafta 2: Enerji Fiziği (Enerjinin Korunumu)\nHafta 3: Enerji Dönüşümleri\nHafta 4: Enerji Termodinamiği\nHafta 5: Küresel Enerji Kaynakları\nHafta 6: Yenilenebilir Enerji Kaynakları (Hidro, Güneş, Rüzgar, Jeotermal, Biyokütle, Gelgit)\nHafta 7: Hidroelektrik Güç Üretimi\nHafta 8: Ara Sınav\nHafta 9: Fotovoltaik Güç Üretimi\nHafta 10: Rüzgar Enerjisi ile Güç Üretimi\nHafta 11: Jeotermal ve Biyokütle Enerjisi İle Güç Üretimi\nHafta 12: Gelgit, Okyanus ve Dalgaları İle Güç Üretimi\nHafta 13: Yenilenebilir Enerji Kaynakları İle Çoklu Güç Üretim Sistemlerinin Enerji ve Ekserji Analizleri\nHafta 14: Yenilenebilir Enerji Kaynaklarının ve Sürdürülebilir Çevre\nHafta 15: Yenilenebilir Enerji Kaynaklarının Küresel Etkileri\nHafta 16: Final sınavı\n",
+  "source_file": "BMB413_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

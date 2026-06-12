@@ -1,0 +1,62 @@
+{
+  "title": "BMB403 - Bilgisayar Mühendisliği Projesi-2 Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB403",
+    "ders_adi": "Bilgisayar Mühendisliği Projesi-2",
+    "yariyil": "7",
+    "kredi": "1",
+    "akts": "2",
+    "son_guncelleme": "27.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Erhan TURAN"
+  },
+  "sections": {
+    "amac": "Bu proje dersinin amacı; öğrencilerin bireysel veya grup olarak bir sistematik içerisinde verilen bir konuyu araştırma, kavram geliştirme, gerekirse uygulamaya dönüştürme, raporlama ve sunma becerilerini geliştirmek, karşılaşılabilecek olumsuzlukları/riskleri azaltma ve en önemlisi alınan ödevi belirli bir proje planı kapsamında takip ederek zamanında bitirme alışkanlıklarının güçlenmesini sağlamaktır.",
+    "icerik": "Bu ders ile öğrencinin mühendislik çerçevesinde proje geliştirmesi amaçlanır. Projeler; yazılım, donanım, bilgisayar bilimleri, iletişim ve kontrol gibi alanları kapsar.",
+    "yontemler": "Tartışma, Proje",
+    "kaynaklar": {
+      "kitaplar": [
+        "Kaliteli Yazılım Nasıl Geliştirilir? Zeynep Nur Aktaş"
+      ],
+      "ders_notlari": [
+        "Yazılım Proje Yönetimi, Dr. Ali Nizam"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Uygulama",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Öğrencilerin bireysel veya grup olarak bir sistematik içerisinde verilen bir konuyu araştırma, kavram geliştirme, gerekirse uygulamaya dönüştürme, raporlama ve sunma becerilerini geliştirmek",
+      "Öğrencilerin karşılaşılabilecek olumsuzlukları/riskleri azaltmak",
+      "Öğrencilerin görev aldıkları projede, belirli bir proje planı kapsamında takip ederek zamanında bitirme alışkanlıklarının güçlendirmek"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Yazılım Projesi Geliştimenin Temelleri - -",
+      "Hafta 2: 2209-A TÜBİTAK Projeleri Sürdürülebilir Kalkınma Amaçları doğrultusunda Proje Fikri ve Proje Ekiplerinin Oluşturulması - -",
+      "Hafta 3: Projenin 2209-A Başvuru Forlarının Doldurulması ve Başvuru Tarihlerinde Başvurunun Gerçekleştirilmesi - -",
+      "Hafta 4: Projenin temel altyapı planlarının yapılması ve tasarımına geçilmesi - -",
+      "Hafta 5: Proje Süreci için Tartışma ve Danışma Dersi - -",
+      "Hafta 6: Proje Süreci için Tartışma ve Danışma Dersi - -",
+      "Hafta 7: Geliştirme Sürecinin Konrolü ve Uygulama Notlandırılması - -",
+      "Hafta 8: Proje Süreci için Tartışma ve Danışma Dersi - -",
+      "Hafta 9: Proje Süreci için Tartışma ve Danışma Dersi - -",
+      "Hafta 10: Proje Süreci için Tartışma ve Danışma Dersi - -",
+      "Hafta 11: Geliştirme Sürecinin Konrolü ve Uygulama Notlandırılması - -",
+      "Hafta 12: Proje Süreci için Tartışma ve Danışma Dersi - -",
+      "Hafta 13: Proje Süreci için Tartışma ve Danışma Dersi - -",
+      "Hafta 14: Projenin seminer ile sunulması - -"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Bilgisayar Mühendisliği Projesi-2\nDers Kodu: BMB403\nYarıyıl: 7. Yarıyıl\nKredi: 1\nAKTS Kredisi: 2\nDers Saati: Teori=0, Uygulama=2, Lab=0\nSon Güncelleme: 27.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Doç. Dr. Mehmet Fatih TEFEK\nÖğretim Üyesi: Dr. Öğr. Üyesi Erhan TURAN\n\n--- DERS AMACI ---\nBu proje dersinin amacı; öğrencilerin bireysel veya grup olarak bir sistematik içerisinde verilen bir konuyu araştırma, kavram geliştirme, gerekirse uygulamaya dönüştürme, raporlama ve sunma becerilerini geliştirmek, karşılaşılabilecek olumsuzlukları/riskleri azaltma ve en önemlisi alınan ödevi belirli bir proje planı kapsamında takip ederek zamanında bitirme alışkanlıklarının güçlenmesini sağlamaktır.\n\n--- DERS İÇERİĞİ ---\nBu ders ile öğrencinin mühendislik çerçevesinde proje geliştirmesi amaçlanır. Projeler; yazılım, donanım, bilgisayar bilimleri, iletişim ve kontrol gibi alanları kapsar.\n\nÖğretim Yöntemleri: Tartışma, Proje\n\n--- DERS KAYNAKLARI ---\n• Kaliteli Yazılım Nasıl Geliştirilir? Zeynep Nur Aktaş\n• Ders Notu: Yazılım Proje Yönetimi, Dr. Ali Nizam\n\n--- DEĞERLENDİRME ---\nUygulama: 1 adet, katkı oranı %40\nProje: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Öğrencilerin bireysel veya grup olarak bir sistematik içerisinde verilen bir konuyu araştırma, kavram geliştirme, gerekirse uygulamaya dönüştürme, raporlama ve sunma becerilerini geliştirmek\n2. Öğrencilerin karşılaşılabilecek olumsuzlukları/riskleri azaltmak\n3. Öğrencilerin görev aldıkları projede, belirli bir proje planı kapsamında takip ederek zamanında bitirme alışkanlıklarının güçlendirmek\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Yazılım Projesi Geliştimenin Temelleri - -\nHafta 2: 2209-A TÜBİTAK Projeleri Sürdürülebilir Kalkınma Amaçları doğrultusunda Proje Fikri ve Proje Ekiplerinin Oluşturulması - -\nHafta 3: Projenin 2209-A Başvuru Forlarının Doldurulması ve Başvuru Tarihlerinde Başvurunun Gerçekleştirilmesi - -\nHafta 4: Projenin temel altyapı planlarının yapılması ve tasarımına geçilmesi - -\nHafta 5: Proje Süreci için Tartışma ve Danışma Dersi - -\nHafta 6: Proje Süreci için Tartışma ve Danışma Dersi - -\nHafta 7: Geliştirme Sürecinin Konrolü ve Uygulama Notlandırılması - -\nHafta 8: Proje Süreci için Tartışma ve Danışma Dersi - -\nHafta 9: Proje Süreci için Tartışma ve Danışma Dersi - -\nHafta 10: Proje Süreci için Tartışma ve Danışma Dersi - -\nHafta 11: Geliştirme Sürecinin Konrolü ve Uygulama Notlandırılması - -\nHafta 12: Proje Süreci için Tartışma ve Danışma Dersi - -\nHafta 13: Proje Süreci için Tartışma ve Danışma Dersi - -\nHafta 14: Projenin seminer ile sunulması - -\n",
+  "source_file": "BMB403_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

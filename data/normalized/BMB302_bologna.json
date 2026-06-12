@@ -1,0 +1,72 @@
+{
+  "title": "BMB302 - Makine Öğrenmesi Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB302",
+    "ders_adi": "Makine Öğrenmesi",
+    "yariyil": "6",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilere makine öğrenmesi kavramını ve farklı öğrenme metotlarını öğretmektir. Ders sonunda öğrenciler, gerçek hayatta karşılaşılan bir probleme uygun makine öğrenmesi yöntemini seçebilecek, geliştirdiği modelin yapısına göre hata ve performans metriklerini analiz edebilecek bilgi ve beceriye sahip olacaklardır.",
+    "icerik": "Öğrenmenin tanımı, sık kullanılan öğrenme paradigmaları, veri türleri, makine öğrenmesinin tanımı ve temel özellikleri, tarihsel gelişimi, makine öğrenmesinde kullanılan programlama dilleri, Anaconda kurulumu, Python tabanlı ML kütüphaneleri, makine öğrenmesinde temel kavramlar ve süreçler, öğrenme türleri (denetimli, denetimsiz, yarı denetimli), temel istatistik bilgisi, olasılık kavramları, Bayes teoremi, veri ön işleme süreçleri, Scikit-learn kütüphanesi, regresyon ve sınıflandırma modellemeleri, değerlendirme metrikleri ve uygulama örnekleri.",
+    "yontemler": "Anlatım, Uygulamalı Gösterim, Proje / Ödev",
+    "kaynaklar": {
+      "kitaplar": [
+        "Müller, A.C., Introduction to Machine Learning with Python: A Guide for Data Scientists, O'Reilly Media, pp. 398, 2016."
+      ],
+      "ders_notlari": [
+        "Öğretim üyesi tarafından hazırlanan ders notları"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "2",
+        "katki": "%10"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Makine öğrenmesinin temel kavramlarını ve çalışma mantığını açıklar.",
+      "Öğrenme türlerini tanımlar ve örnekler üzerinde uygular.",
+      "Makine öğrenmesinde kullanılan temel istatistik ve olasılık kavramlarını açıklar.",
+      "Veri ön işleme tekniklerini uygular.",
+      "Regresyon ve sınıflandırma modelleri geliştirir.",
+      "Farklı makine öğrenme algoritmalarını problem türüne göre seçer.",
+      "Model performansını hata ve doğruluk metrikleriyle değerlendirir.",
+      "Python ve Scikit-learn kullanarak ML projeleri geliştirir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Makine öğrenmesine giriş ve tarihçesi, öğrenmenin tanımı",
+      "Hafta 2: Öğrenme paradigmaları ve veri türleri Introduction to Machine Learning with Python: A Guide for Data Scientists",
+      "Hafta 3: Makine öğrenmesinde kullanılan diller, Anaconda kurulumu",
+      "Hafta 4: Python tabanlı ML kütüphaneleri (NumPy, Pandas, Matplotlib, Scikit-learn) Çevrim içi dokümantasyon",
+      "Hafta 5: ML’de temel kavramlar, öğrenme süreçleri ve veri setleri Introduction to Machine Learning with Python: A Guide for Data Scientists",
+      "Hafta 6: Temel istatistik: konum, dağılım ve şekil ölçüleri",
+      "Hafta 7: Olasılık teorisi, Bayes teoremi ve ML ile ilişkisi",
+      "Hafta 8: Veri ön işleme teknikleri (normalizasyon, eksik veri, kategorik dönüşüm) Introduction to Machine Learning with Python: A Guide for Data Scientists",
+      "Hafta 9: Regresyon algoritmaları (Doğrusal, Polinom, Çoklu Regresyon) Introduction to Machine Learning with Python: A Guide for Data Scientists",
+      "Hafta 10: Sınıflandırma algoritmaları (Karar Ağaçları, K En Yakın Komşu, Destek Vektör Makineleri) Introduction to Machine Learning with Python: A Guide for Data Scientists",
+      "Hafta 11: Model değerlendirme metrikleri (hata oranı, doğruluk, F1, ROC)",
+      "Hafta 12: Denetimsiz öğrenme ve kümeleme yöntemleri Introduction to Machine Learning with Python: A Guide for Data Scientists",
+      "Hafta 13: Model seçimi, çapraz doğrulama ve performans analizi",
+      "Hafta 14: ML proje örnekleri ve genel değerlendirme Öğretim üyesi değerlendirmesi"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Makine Öğrenmesi\nDers Kodu: BMB302\nYarıyıl: 6. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilere makine öğrenmesi kavramını ve farklı öğrenme metotlarını öğretmektir. Ders sonunda öğrenciler, gerçek hayatta karşılaşılan bir probleme uygun makine öğrenmesi yöntemini seçebilecek, geliştirdiği modelin yapısına göre hata ve performans metriklerini analiz edebilecek bilgi ve beceriye sahip olacaklardır.\n\n--- DERS İÇERİĞİ ---\nÖğrenmenin tanımı, sık kullanılan öğrenme paradigmaları, veri türleri, makine öğrenmesinin tanımı ve temel özellikleri, tarihsel gelişimi, makine öğrenmesinde kullanılan programlama dilleri, Anaconda kurulumu, Python tabanlı ML kütüphaneleri, makine öğrenmesinde temel kavramlar ve süreçler, öğrenme türleri (denetimli, denetimsiz, yarı denetimli), temel istatistik bilgisi, olasılık kavramları, Bayes teoremi, veri ön işleme süreçleri, Scikit-learn kütüphanesi, regresyon ve sınıflandırma modellemeleri, değerlendirme metrikleri ve uygulama örnekleri.\n\nÖğretim Yöntemleri: Anlatım, Uygulamalı Gösterim, Proje / Ödev\n\n--- DERS KAYNAKLARI ---\n• Müller, A.C., Introduction to Machine Learning with Python: A Guide for Data Scientists, O'Reilly Media, pp. 398, 2016.\n• Ders Notu: Öğretim üyesi tarafından hazırlanan ders notları\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nÖdev: 2 adet, katkı oranı %10\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Makine öğrenmesinin temel kavramlarını ve çalışma mantığını açıklar.\n2. Öğrenme türlerini tanımlar ve örnekler üzerinde uygular.\n3. Makine öğrenmesinde kullanılan temel istatistik ve olasılık kavramlarını açıklar.\n4. Veri ön işleme tekniklerini uygular.\n5. Regresyon ve sınıflandırma modelleri geliştirir.\n6. Farklı makine öğrenme algoritmalarını problem türüne göre seçer.\n7. Model performansını hata ve doğruluk metrikleriyle değerlendirir.\n8. Python ve Scikit-learn kullanarak ML projeleri geliştirir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Makine öğrenmesine giriş ve tarihçesi, öğrenmenin tanımı\nHafta 2: Öğrenme paradigmaları ve veri türleri Introduction to Machine Learning with Python: A Guide for Data Scientists\nHafta 3: Makine öğrenmesinde kullanılan diller, Anaconda kurulumu\nHafta 4: Python tabanlı ML kütüphaneleri (NumPy, Pandas, Matplotlib, Scikit-learn) Çevrim içi dokümantasyon\nHafta 5: ML’de temel kavramlar, öğrenme süreçleri ve veri setleri Introduction to Machine Learning with Python: A Guide for Data Scientists\nHafta 6: Temel istatistik: konum, dağılım ve şekil ölçüleri\nHafta 7: Olasılık teorisi, Bayes teoremi ve ML ile ilişkisi\nHafta 8: Veri ön işleme teknikleri (normalizasyon, eksik veri, kategorik dönüşüm) Introduction to Machine Learning with Python: A Guide for Data Scientists\nHafta 9: Regresyon algoritmaları (Doğrusal, Polinom, Çoklu Regresyon) Introduction to Machine Learning with Python: A Guide for Data Scientists\nHafta 10: Sınıflandırma algoritmaları (Karar Ağaçları, K En Yakın Komşu, Destek Vektör Makineleri) Introduction to Machine Learning with Python: A Guide for Data Scientists\nHafta 11: Model değerlendirme metrikleri (hata oranı, doğruluk, F1, ROC)\nHafta 12: Denetimsiz öğrenme ve kümeleme yöntemleri Introduction to Machine Learning with Python: A Guide for Data Scientists\nHafta 13: Model seçimi, çapraz doğrulama ve performans analizi\nHafta 14: ML proje örnekleri ve genel değerlendirme Öğretim üyesi değerlendirmesi\n",
+  "source_file": "BMB302_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

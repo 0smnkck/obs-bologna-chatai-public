@@ -1,0 +1,66 @@
+{
+  "title": "BMB209 - Elektronik Devreler Laboratuvarı Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB209",
+    "ders_adi": "Elektronik Devreler Laboratuvarı",
+    "yariyil": "3",
+    "kredi": "1",
+    "akts": "2",
+    "son_guncelleme": "28.11.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+  },
+  "sections": {
+    "amac": "Analog devrelerin analiz ve tasarımı ile iligli teorik bilgilerin deneysel olarak gözlemlenmesi",
+    "icerik": "Diyot, BJT, FET ve op-amp gibi elektronik elemanların pratik uygulamalrı Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "Kaynaklar",
+        "Thomas L. Floyd, Electronic devices, Pearson, 2018.",
+        "J. David Irwin & R. Mark Nelms, Basic Engineering Circuit Analysis, Wiley, 2010.",
+        "M. Alçı, S. Kara, Op Amp ve Lineer Tümdevreler, Ufuk Kitabevi, 2000.",
+        "Robert L. Boylestad & Louis Nashelsky,Electronic Devices and Circuit Theory, Pearson Education, 2008"
+      ],
+      "ders_notlari": [
+        "Deneylere ait dökümanlar her hafta öğrenciler ile paylaşılmaktadır."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%50"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Akım, gerilim ve direnç ölçümü yapabilme",
+      "Diyot, BJT, FET ve Op-amp'lı devreleri tasarlayıp test edebilme yeteneği",
+      "Multimetre, deney bordu, işaret üreteci, osiloskop gibi temel laboratuvar cihazlarını kullanabilme"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Temel laboratuvar kurallarının ve cihazlarının tanıtımı",
+      "Hafta 2: Direnç, gerilim ve akım ölçme",
+      "Hafta 3: Paralel ve seri bağlı dirençlerde akım ve gerilim bölünmesi kuralları",
+      "Hafta 4: Diyot sağlamlık testi ve diyotun I-V karakteristiğinin elde edilmesi",
+      "Hafta 5: Diyot uygulamaları",
+      "Hafta 6: BJT'li Kuvvetlendiriciler (Ortak emiterli)",
+      "Hafta 7: BJT'li Kuvvetlendiriciler (Ortak kollektörlü ve ortak beyzli)",
+      "Hafta 8: Ara Sınav",
+      "Hafta 9: FET'li Kuvvetlendiriciler (Ortak Kaynaklı)",
+      "Hafta 10: FET'li Kuvvetlendiriciler (Ortak Geçitli ve Ortak Akıtıcılı)",
+      "Hafta 11: Op-Amp Parametreleri",
+      "Hafta 12: Eviren Kuvvetlendirici, Evirmeyen KUvvetlendirici, Fark Kuvvetlendiricisi, Voltaj Takipçisi Devre",
+      "Hafta 13: Türev Alıcı ve İntegral Alıcı Devreler",
+      "Hafta 14: Karşılaştırıcı Devreler"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Elektronik Devreler Laboratuvarı\nDers Kodu: BMB209\nYarıyıl: 3. Yarıyıl\nKredi: 1\nAKTS Kredisi: 2\nDers Saati: Teori=0, Uygulama=0, Lab=2\nSon Güncelleme: 28.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\nÖğretim Üyesi: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\n\n--- DERS AMACI ---\nAnalog devrelerin analiz ve tasarımı ile iligli teorik bilgilerin deneysel olarak gözlemlenmesi\n\n--- DERS İÇERİĞİ ---\nDiyot, BJT, FET ve op-amp gibi elektronik elemanların pratik uygulamalrı Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• Kaynaklar\n• Thomas L. Floyd, Electronic devices, Pearson, 2018.\n• J. David Irwin & R. Mark Nelms, Basic Engineering Circuit Analysis, Wiley, 2010.\n• M. Alçı, S. Kara, Op Amp ve Lineer Tümdevreler, Ufuk Kitabevi, 2000.\n• Robert L. Boylestad & Louis Nashelsky,Electronic Devices and Circuit Theory, Pearson Education, 2008\n• Ders Notu: Deneylere ait dökümanlar her hafta öğrenciler ile paylaşılmaktadır.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %50\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Akım, gerilim ve direnç ölçümü yapabilme\n2. Diyot, BJT, FET ve Op-amp'lı devreleri tasarlayıp test edebilme yeteneği\n3. Multimetre, deney bordu, işaret üreteci, osiloskop gibi temel laboratuvar cihazlarını kullanabilme\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Temel laboratuvar kurallarının ve cihazlarının tanıtımı\nHafta 2: Direnç, gerilim ve akım ölçme\nHafta 3: Paralel ve seri bağlı dirençlerde akım ve gerilim bölünmesi kuralları\nHafta 4: Diyot sağlamlık testi ve diyotun I-V karakteristiğinin elde edilmesi\nHafta 5: Diyot uygulamaları\nHafta 6: BJT'li Kuvvetlendiriciler (Ortak emiterli)\nHafta 7: BJT'li Kuvvetlendiriciler (Ortak kollektörlü ve ortak beyzli)\nHafta 8: Ara Sınav\nHafta 9: FET'li Kuvvetlendiriciler (Ortak Kaynaklı)\nHafta 10: FET'li Kuvvetlendiriciler (Ortak Geçitli ve Ortak Akıtıcılı)\nHafta 11: Op-Amp Parametreleri\nHafta 12: Eviren Kuvvetlendirici, Evirmeyen KUvvetlendirici, Fark Kuvvetlendiricisi, Voltaj Takipçisi Devre\nHafta 13: Türev Alıcı ve İntegral Alıcı Devreler\nHafta 14: Karşılaştırıcı Devreler\n",
+  "source_file": "BMB209_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

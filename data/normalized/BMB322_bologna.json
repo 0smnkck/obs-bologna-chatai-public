@@ -1,0 +1,65 @@
+{
+  "title": "BMB322 - Bilgisayar ve Ağ Güvenliği Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB322",
+    "ders_adi": "Bilgisayar ve Ağ Güvenliği",
+    "yariyil": "6",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "07.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilerin bilgi güvenliği ve kriptografi ilkelerini anlamalarını, şifreleme algoritmalarını uygulayabilmelerini ve ağ güvenliğini sağlamaya yönelik mekanizmaları öğrenmelerini sağlamaktır.",
+    "icerik": "Ders içeriği; bilgi ve ağ güvenliği kavramları, DES, AES, RSA ve diğer açık anahtarlı algoritmalar, hash fonksiyonları, mesaj kimlik doğrulama, dijital imzalar, anahtar yönetimi, taşıma katmanı güvenliği, kablosuz ağ güvenliği, e-posta ve IP güvenliği ile bulut ve IoT güvenliğini kapsamaktadır.",
+    "yontemler": "Ders anlatımı, uygulamalı çalışmaları grup tartışmaları ve proje tabanlı öğrenme yöntemleri kullanılır.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Stallings, W. (2017). Kriptografi ve ağ güvenliği: İlkeler ve uygulamalar (Küresel baskı, 7. baskı). Pearson Education Limited."
+      ],
+      "ders_notlari": [
+        "William Stallings, Kriptografi ve Ağ Güvenliği: İlkeler ve Uygulamalar, Pearson Education. Ders slaytları ve laboratuvar uygulama dokümanları."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Temel bilgi güvenliği kavramlarını ve kriptografik sistemlerin yapı taşlarını açıklar.",
+      "Açık anahtar kriptografisi sistemlerini ve algoritmalarını analiz eder.",
+      "Hash fonksiyonları, mesaj kimlik doğrulama kodları ve dijital imzaların güvenlikteki rollerini değerlendirir.",
+      "Anahtar yönetimi, dağıtımı ve güvenliği için geliştirilmiş protokolleri uygular.",
+      "Ağ ve taşıma katmanlarında uygulanan güvenlik mekanizmalarını ve kullanıcı kimlik doğrulama yöntemlerini karşılaştırır.",
+      "Email, Bulut ve IoT ortamlarında güvenlik tehditlerini analiz eder ve uygun koruma yöntemleri önerir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Bilgi ve Ag Güvenligi Kavramlari Temel güvenlik kavramlarini gözden geçir Ders notlari ve giris slaytlari",
+      "Hafta 2: DES, AES, Triple-DES Symetrik sifreleme algoritmalarini incele DES/AES yapilandirma dokümani",
+      "Hafta 3: Açik Anahtarli Sifreleme ve RSA RSA algoritmasinin adimlarini ögren RSA örnek uygulamalari",
+      "Hafta 4: Diger Açik Anahtarli Kriptosistemler ElGamal, ECC gibi algoritmalari incele Açik anahtar algoritma notlari",
+      "Hafta 5: Kriptografik Hash Fonksiyonlari Hash fonksiyonlarinin güvenlik özelliklerini incele Hash fonksiyonu örnekleri",
+      "Hafta 6: Mesaj Kimlik Dogrulama Kodlari MAC algoritmalarini gözden geçir MAC dokümani ve örnekleri",
+      "Hafta 7: Dijital Imzalar Dijital imza algoritmalarini incele Dijital imza notlari",
+      "Hafta 8: Kriptografik Anahtar Yönetimi ve Dagitimi Anahtar degisim protokollerini incele Anahtar yönetimi rehberi",
+      "Hafta 9: Tasima Katmani Güvenligi SSL/TLS protokollerini arastir Transport güvenligi dökümani",
+      "Hafta 10: Kablosuz Ag Güvenligi WEP, WPA, WPA2 protokollerini incele Kablosuz güvenlik notlari",
+      "Hafta 11: E-posta Güvenligi PGP ve S/MIME protokollerini arastir E-posta güvenligi dökümani",
+      "Hafta 12: IP Güvenligi IPSec mimarisini ve protokollerini incele IPSec yapilandirma kilavuzu",
+      "Hafta 13: Ag Uç Noktasi Güvenligi Uç nokta güvenlik mekanizmalarini incele Uç nokta güvenligi notlari",
+      "Hafta 14: Bulut ve IoT Güvenligi Bulut güvenligi ve IoT tehditlerini arastir Bulut/IoT güvenligi dokümani"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Bilgisayar ve Ağ Güvenliği\nDers Kodu: BMB322\nYarıyıl: 6. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 07.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilerin bilgi güvenliği ve kriptografi ilkelerini anlamalarını, şifreleme algoritmalarını uygulayabilmelerini ve ağ güvenliğini sağlamaya yönelik mekanizmaları öğrenmelerini sağlamaktır.\n\n--- DERS İÇERİĞİ ---\nDers içeriği; bilgi ve ağ güvenliği kavramları, DES, AES, RSA ve diğer açık anahtarlı algoritmalar, hash fonksiyonları, mesaj kimlik doğrulama, dijital imzalar, anahtar yönetimi, taşıma katmanı güvenliği, kablosuz ağ güvenliği, e-posta ve IP güvenliği ile bulut ve IoT güvenliğini kapsamaktadır.\n\nÖğretim Yöntemleri: Ders anlatımı, uygulamalı çalışmaları grup tartışmaları ve proje tabanlı öğrenme yöntemleri kullanılır.\n\n--- DERS KAYNAKLARI ---\n• Stallings, W. (2017). Kriptografi ve ağ güvenliği: İlkeler ve uygulamalar (Küresel baskı, 7. baskı). Pearson Education Limited.\n• Ders Notu: William Stallings, Kriptografi ve Ağ Güvenliği: İlkeler ve Uygulamalar, Pearson Education. Ders slaytları ve laboratuvar uygulama dokümanları.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Temel bilgi güvenliği kavramlarını ve kriptografik sistemlerin yapı taşlarını açıklar.\n2. Açık anahtar kriptografisi sistemlerini ve algoritmalarını analiz eder.\n3. Hash fonksiyonları, mesaj kimlik doğrulama kodları ve dijital imzaların güvenlikteki rollerini değerlendirir.\n4. Anahtar yönetimi, dağıtımı ve güvenliği için geliştirilmiş protokolleri uygular.\n5. Ağ ve taşıma katmanlarında uygulanan güvenlik mekanizmalarını ve kullanıcı kimlik doğrulama yöntemlerini karşılaştırır.\n6. Email, Bulut ve IoT ortamlarında güvenlik tehditlerini analiz eder ve uygun koruma yöntemleri önerir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Bilgi ve Ag Güvenligi Kavramlari Temel güvenlik kavramlarini gözden geçir Ders notlari ve giris slaytlari\nHafta 2: DES, AES, Triple-DES Symetrik sifreleme algoritmalarini incele DES/AES yapilandirma dokümani\nHafta 3: Açik Anahtarli Sifreleme ve RSA RSA algoritmasinin adimlarini ögren RSA örnek uygulamalari\nHafta 4: Diger Açik Anahtarli Kriptosistemler ElGamal, ECC gibi algoritmalari incele Açik anahtar algoritma notlari\nHafta 5: Kriptografik Hash Fonksiyonlari Hash fonksiyonlarinin güvenlik özelliklerini incele Hash fonksiyonu örnekleri\nHafta 6: Mesaj Kimlik Dogrulama Kodlari MAC algoritmalarini gözden geçir MAC dokümani ve örnekleri\nHafta 7: Dijital Imzalar Dijital imza algoritmalarini incele Dijital imza notlari\nHafta 8: Kriptografik Anahtar Yönetimi ve Dagitimi Anahtar degisim protokollerini incele Anahtar yönetimi rehberi\nHafta 9: Tasima Katmani Güvenligi SSL/TLS protokollerini arastir Transport güvenligi dökümani\nHafta 10: Kablosuz Ag Güvenligi WEP, WPA, WPA2 protokollerini incele Kablosuz güvenlik notlari\nHafta 11: E-posta Güvenligi PGP ve S/MIME protokollerini arastir E-posta güvenligi dökümani\nHafta 12: IP Güvenligi IPSec mimarisini ve protokollerini incele IPSec yapilandirma kilavuzu\nHafta 13: Ag Uç Noktasi Güvenligi Uç nokta güvenlik mekanizmalarini incele Uç nokta güvenligi notlari\nHafta 14: Bulut ve IoT Güvenligi Bulut güvenligi ve IoT tehditlerini arastir Bulut/IoT güvenligi dokümani\n",
+  "source_file": "BMB322_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

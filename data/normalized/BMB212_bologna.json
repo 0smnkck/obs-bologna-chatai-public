@@ -1,0 +1,64 @@
+{
+  "title": "BMB212 - Lojik tasarım Laboratuvarı Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB212",
+    "ders_adi": "Lojik tasarım Laboratuvarı",
+    "yariyil": "4",
+    "kredi": "1",
+    "akts": "2",
+    "son_guncelleme": "02.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+  },
+  "sections": {
+    "amac": "Lojik devrelerin tasarımında kullanılan tümdevrelerin tanıtılması, lojik devreleri tasarlama ve devre kurma becerisi kazandırmak",
+    "icerik": "Lojik kapıların transistörlerle gerçekleştirilmesi, Lojik kapılar için lojik gerilim seviyelerinin belirlenmesi, Kapı elemanlarıyla kombinasyonel devrelerin tasarlanması, decoder ve multiplexerler ile devre tasaımı, ardışıl lojik devrelerinin tasarımı, Sayıcı devrelerinin tasarlanması Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "Morris Mano, Sayısal Tasarım, Literatür Yayınları, 2018"
+      ],
+      "ders_notlari": [
+        "Deneylere ait dökümanlar her hafta öğrenciler ile paylaşılmaktadır."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%50"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Lojik devre tasarımında kullanılan tümdevreler hakkında bilgi sahibi olma",
+      "lojik kapı entegrelerinin giriş ve çıkış gerilim eşik değerlerini tanımlayabilme, bu değerler arasındaki farktan doğan gürültü marjını hesaplayabilme ve devre tasarımında sinyal bütünlüğünü korumak için uygun gerilim seviyelerini seçebilme konusunda bilgi sahibi olma",
+      "Lojik kapı devrelerinin çalışma mantığı hakkında bilgi sahibi olma",
+      "Kombinasyonel lojik devreleri tasarlayabilme becerisi",
+      "Ardışıl lojik devreleri tasarlayabilme becerisi"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Lojik kapıların transistörlerle gerçekleştirilmesi",
+      "Hafta 2: Lojik kapıların lojik gerilim seviyelerinin belirlenmesi",
+      "Hafta 3: Kombinasyonel devre tasarımı",
+      "Hafta 4: Lojik devrelerin sadece NAND ve Sadece NOR kapılarıyla tasarım",
+      "Hafta 5: Decoder kullanılarak lojik devrelerin tasarlanması",
+      "Hafta 6: Yarı toplayıcı ve tam toplayıcı devreler",
+      "Hafta 7: Multiplexer kullanılarak lojik devrelerin tasarımı",
+      "Hafta 8: Ara sınav",
+      "Hafta 9: Ardışıl Devre Tasarımı",
+      "Hafta 10: Sayıcılar",
+      "Hafta 11: Sayıcı Entegreleri ile 00-99 sayıcı",
+      "Hafta 12: Registerlar",
+      "Hafta 13: Analog dijital dönüştürücüler",
+      "Hafta 14: Dijital analog dönüştürücüler"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Lojik tasarım Laboratuvarı\nDers Kodu: BMB212\nYarıyıl: 4. Yarıyıl\nKredi: 1\nAKTS Kredisi: 2\nDers Saati: Teori=0, Uygulama=2, Lab=0\nSon Güncelleme: 02.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\nÖğretim Üyesi: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\n\n--- DERS AMACI ---\nLojik devrelerin tasarımında kullanılan tümdevrelerin tanıtılması, lojik devreleri tasarlama ve devre kurma becerisi kazandırmak\n\n--- DERS İÇERİĞİ ---\nLojik kapıların transistörlerle gerçekleştirilmesi, Lojik kapılar için lojik gerilim seviyelerinin belirlenmesi, Kapı elemanlarıyla kombinasyonel devrelerin tasarlanması, decoder ve multiplexerler ile devre tasaımı, ardışıl lojik devrelerinin tasarımı, Sayıcı devrelerinin tasarlanması Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• Morris Mano, Sayısal Tasarım, Literatür Yayınları, 2018\n• Ders Notu: Deneylere ait dökümanlar her hafta öğrenciler ile paylaşılmaktadır.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %50\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Lojik devre tasarımında kullanılan tümdevreler hakkında bilgi sahibi olma\n2. lojik kapı entegrelerinin giriş ve çıkış gerilim eşik değerlerini tanımlayabilme, bu değerler arasındaki farktan doğan gürültü marjını hesaplayabilme ve devre tasarımında sinyal bütünlüğünü korumak için uygun gerilim seviyelerini seçebilme konusunda bilgi sahibi olma\n3. Lojik kapı devrelerinin çalışma mantığı hakkında bilgi sahibi olma\n4. Kombinasyonel lojik devreleri tasarlayabilme becerisi\n5. Ardışıl lojik devreleri tasarlayabilme becerisi\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Lojik kapıların transistörlerle gerçekleştirilmesi\nHafta 2: Lojik kapıların lojik gerilim seviyelerinin belirlenmesi\nHafta 3: Kombinasyonel devre tasarımı\nHafta 4: Lojik devrelerin sadece NAND ve Sadece NOR kapılarıyla tasarım\nHafta 5: Decoder kullanılarak lojik devrelerin tasarlanması\nHafta 6: Yarı toplayıcı ve tam toplayıcı devreler\nHafta 7: Multiplexer kullanılarak lojik devrelerin tasarımı\nHafta 8: Ara sınav\nHafta 9: Ardışıl Devre Tasarımı\nHafta 10: Sayıcılar\nHafta 11: Sayıcı Entegreleri ile 00-99 sayıcı\nHafta 12: Registerlar\nHafta 13: Analog dijital dönüştürücüler\nHafta 14: Dijital analog dönüştürücüler\n",
+  "source_file": "BMB212_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

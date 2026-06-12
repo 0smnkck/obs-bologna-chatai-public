@@ -1,0 +1,64 @@
+{
+  "title": "BMB440 - Dağıtık Sistemler Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB440",
+    "ders_adi": "Dağıtık Sistemler",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "25.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, dağıtık sistem ve uygulamarda temel kavramları tanıtmak, bu sistemlerin belirleyici özelliklerini tanımlamak, dağıtık sistem tasarımı yapma becerisi kazandırmak",
+    "icerik": "Dağıtık Sistem amaçları ve nitelikleri. Ağda kaynak paylaşımı. Dağıtık Sistem Türleri. Mimari Yapılar. Katmanlı Yapı. Ortakatman. Threadler ve Görevler. İstemciler. Sunucular. Görevler arası iletişim. Uzak Program Çağırma. İsimlendirme ve ağ servisleri. Dağıtık sistemlerde güvenlik. Dosya sistem mimarisi. Mantıksal zaman ve mantıksal saat",
+    "yontemler": "Anlatım,Soru-Cevap,Tartışma,Alıştırma ve Uygulama,Gösterip Yaptırma,Proje Temelli Öğrenme",
+    "kaynaklar": {
+      "kitaplar": [
+        "Distributed File system and logical clock • A. S. Tanenbaum and M. V Steen, Distributed Systems: Principles and Paradigms, 2nd Ed., Pearson Edu. Int’l, 2007 • George Coulouris, Jean Dollimore and Tim Kindberg, Distributed Systems:Concepts and Design, Fourth Edition, Pearson Edu. Ltd., 2005"
+      ],
+      "ders_notlari": [
+        "Distributed File system and logical clock • A. S. Tanenbaum and M. V Steen, Distributed Systems: Principles and Paradigms, 2nd Ed., Pearson Edu. Int’l, 2007 • George Coulouris, Jean Dollimore and Tim Kindberg, Distributed Systems:Concepts and Design, Fourth Edition, Pearson Edu. Ltd., 2005"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Öğrenciler, dağıtık sistemler için mimari yapı seçeneklerini açıklayabilir",
+      "Farklı görevleri oluşturabilir ve görevlerarası iletişim için soket mekanizmalarını kullanabilir",
+      "Remote Procedure Call ve Remote Method Invocation yapısını ve adımlarını açıklayabilir",
+      "İsimlendirme hizmetinin fonksiyonel yapısını anlar, bir isim servisi tasarım ve gerçekleştirimini yapabilir",
+      "Dağıtık Dosya Sistemleri için basit işlemleri tasarlar"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Dağıtık Sistemlere Giriş: Tanım, Hedefler ve Zorluklar \"Dağıtık sistem\" tanımı araştırılmalıdır. İşletim sistemleri ve temel bilgisayar ağları (TCP/IP, Client-Server) bilgisi gözden geçirilmelidir. Distributed File system and logical clock • A. S.",
+      "Hafta 2: Sistem Mimarileri: İstemci-Sunucu, P2P ve Mikroservisler Monolitik (monolithic) ve mikroservis mimarileri arasındaki temel farklar incelenmelidir. Merkezi (centralized) ve merkezi olmayan (decentralized) sistemlerin avantaj/dezavantajları okunmalıdır. Distributed File system and logical clock • A. S.",
+      "Hafta 3: İletişim: RPC, RMI ve Mesaj Odaklı Ara Katman Yazılımı (MOM) Soket (Socket) programlamanın temelleri tekrar edilmelidir. Senkron (synchronous) ve asenkron (asynchronous) iletişimin ne anlama geldiği araştırılmalıdır. Distributed File system and logical clock • A. S.",
+      "Hafta 4: Zaman ve Koordinasyon: Mantıksal Saatler (Lamport & Vector) Fiziksel saatlerin dağıtık sistemlerde neden yeterli olamayacağı problemi üzerine düşünülmelidir. \"Happened-before\" (önce-oldu) ilişkisi kavramı öğrenilmelidir. Distributed File system and logical clock • A. S.",
+      "Hafta 5: Koordinasyon: Karşılıklı Dışlama (Mutual Exclusion) ve Seçim Algoritmaları Tek bir sistemdeki \"mutex\" (mutual exclusion) ve \"semaphore\" kavramları tekrar edilmelidir. Bir \"lider\" (leader) seçimine neden ihtiyaç duyulacağı araştırılmalıdır. Distributed File system and logical clock • A. S.",
+      "Hafta 6: Tutarlılık ve Replikasyon: CAP Teoremi Veri replikasyonunun (çoğaltma) hata toleransı (fault tolerance) için neden gerekli olduğu anlaşılmalıdır. CAP Teoremi'nin (Consistency, Availability, Partition Tolerance) üç bileşeni de tanımlanmalıdır. Distributed File system and logical clock • A. S.",
+      "Hafta 7: Tutarlılık Modelleri (Veri Merkezli) Güçlü (Strong) tutarlılık ve Nihai (Eventual) tutarlılık arasındaki farklar incelenmelidir. Sıralı (Sequential) ve Nedensel (Causal) tutarlılık modelleri okunmalıdır. Distributed File system and logical clock • A. S.",
+      "Hafta 8: Ara Sınav İlk 7 haftada işlenen tüm temel kavramlar (iletişim, zaman, CAP, tutarlılık modelleri) tekrar edilmeli ve örnek problemler çözülmelidir. Distributed File system and logical clock • A. S.",
+      "Hafta 9: Hata Toleransı (Fault Tolerance) Olası hata modelleri (çökme, ihmal, Bizans) araştırılmalıdır. Yedeklilik (redundancy) ve hata maskeleme (fault masking) teknikleri incelenmelidir. Distributed File system and logical clock • A. S.",
+      "Hafta 10: Mutabakat (Consensus): Paxos ve Raft Algoritmaları \"Mutabakat problemi\"nin (tüm düğümlerin aynı kararı vermesi) tanımı öğrenilmelidir. Bizans Generalleri Problemi (Byzantine Generals Problem) okunmalıdır. Distributed File system and logical clock • A. S.",
+      "Hafta 11: Dağıtık İşlemler (Distributed Transactions) Veritabanlarındaki ACID (Atomicity, Consistency, Isolation, Durability) özelliklerinin ne anlama geldiği tekrar edilmelidir. İki Aşamalı Kilitleme (Two-Phase Commit - 2PC) protokolü incelenmelidir. Distributed File system and logical clock • A. S.",
+      "Hafta 12: Dağıtık Dosya Sistemleri (DFS): NFS ve HDFS Örnekleri Geleneksel yerel dosya sistemlerinin (NTFS, ext4) nasıl çalıştığı gözden geçirilmelidir. Google File System (GFS) makalesinin temel mimarisi incelenmelidir. Distributed File system and logical clock • A. S.",
+      "Hafta 13: Örnek Olay İncelemesi: MapReduce ve Blockchain Büyük veri işlemenin (Big Data) zorlukları araştırılmalıdır. Blockchain'in \"dağıtık defter\" (distributed ledger) teknolojisi olarak nasıl çalıştığına dair temel bir makale okunmalıdır. Distributed File system and logical clock • A. S.",
+      "Hafta 14: Proje Sunumları ve Genel Değerlendirme Proje raporu ve kod dokümantasyonu tamamlanmış olmalıdır. Sunumlar için hazırlık yapılmalı ve teslim edilecek materyaller son haline getirilmelidir. Distributed File system and logical clock • A. S."
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Dağıtık Sistemler\nDers Kodu: BMB440\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 25.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, dağıtık sistem ve uygulamarda temel kavramları tanıtmak, bu sistemlerin belirleyici özelliklerini tanımlamak, dağıtık sistem tasarımı yapma becerisi kazandırmak\n\n--- DERS İÇERİĞİ ---\nDağıtık Sistem amaçları ve nitelikleri. Ağda kaynak paylaşımı. Dağıtık Sistem Türleri. Mimari Yapılar. Katmanlı Yapı. Ortakatman. Threadler ve Görevler. İstemciler. Sunucular. Görevler arası iletişim. Uzak Program Çağırma. İsimlendirme ve ağ servisleri. Dağıtık sistemlerde güvenlik. Dosya sistem mimarisi. Mantıksal zaman ve mantıksal saat\n\nÖğretim Yöntemleri: Anlatım,Soru-Cevap,Tartışma,Alıştırma ve Uygulama,Gösterip Yaptırma,Proje Temelli Öğrenme\n\n--- DERS KAYNAKLARI ---\n• Distributed File system and logical clock • A. S. Tanenbaum and M. V Steen, Distributed Systems: Principles and Paradigms, 2nd Ed., Pearson Edu. Int’l, 2007 • George Coulouris, Jean Dollimore and Tim Kindberg, Distributed Systems:Concepts and Design, Fourth Edition, Pearson Edu. Ltd., 2005\n• Ders Notu: Distributed File system and logical clock • A. S. Tanenbaum and M. V Steen, Distributed Systems: Principles and Paradigms, 2nd Ed., Pearson Edu. Int’l, 2007 • George Coulouris, Jean Dollimore and Tim Kindberg, Distributed Systems:Concepts and Design, Fourth Edition, Pearson Edu. Ltd., 2005\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Öğrenciler, dağıtık sistemler için mimari yapı seçeneklerini açıklayabilir\n2. Farklı görevleri oluşturabilir ve görevlerarası iletişim için soket mekanizmalarını kullanabilir\n3. Remote Procedure Call ve Remote Method Invocation yapısını ve adımlarını açıklayabilir\n4. İsimlendirme hizmetinin fonksiyonel yapısını anlar, bir isim servisi tasarım ve gerçekleştirimini yapabilir\n5. Dağıtık Dosya Sistemleri için basit işlemleri tasarlar\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Dağıtık Sistemlere Giriş: Tanım, Hedefler ve Zorluklar \"Dağıtık sistem\" tanımı araştırılmalıdır. İşletim sistemleri ve temel bilgisayar ağları (TCP/IP, Client-Server) bilgisi gözden geçirilmelidir. Distributed File system and logical clock • A. S.\nHafta 2: Sistem Mimarileri: İstemci-Sunucu, P2P ve Mikroservisler Monolitik (monolithic) ve mikroservis mimarileri arasındaki temel farklar incelenmelidir. Merkezi (centralized) ve merkezi olmayan (decentralized) sistemlerin avantaj/dezavantajları okunmalıdır. Distributed File system and logical clock • A. S.\nHafta 3: İletişim: RPC, RMI ve Mesaj Odaklı Ara Katman Yazılımı (MOM) Soket (Socket) programlamanın temelleri tekrar edilmelidir. Senkron (synchronous) ve asenkron (asynchronous) iletişimin ne anlama geldiği araştırılmalıdır. Distributed File system and logical clock • A. S.\nHafta 4: Zaman ve Koordinasyon: Mantıksal Saatler (Lamport & Vector) Fiziksel saatlerin dağıtık sistemlerde neden yeterli olamayacağı problemi üzerine düşünülmelidir. \"Happened-before\" (önce-oldu) ilişkisi kavramı öğrenilmelidir. Distributed File system and logical clock • A. S.\nHafta 5: Koordinasyon: Karşılıklı Dışlama (Mutual Exclusion) ve Seçim Algoritmaları Tek bir sistemdeki \"mutex\" (mutual exclusion) ve \"semaphore\" kavramları tekrar edilmelidir. Bir \"lider\" (leader) seçimine neden ihtiyaç duyulacağı araştırılmalıdır. Distributed File system and logical clock • A. S.\nHafta 6: Tutarlılık ve Replikasyon: CAP Teoremi Veri replikasyonunun (çoğaltma) hata toleransı (fault tolerance) için neden gerekli olduğu anlaşılmalıdır. CAP Teoremi'nin (Consistency, Availability, Partition Tolerance) üç bileşeni de tanımlanmalıdır. Distributed File system and logical clock • A. S.\nHafta 7: Tutarlılık Modelleri (Veri Merkezli) Güçlü (Strong) tutarlılık ve Nihai (Eventual) tutarlılık arasındaki farklar incelenmelidir. Sıralı (Sequential) ve Nedensel (Causal) tutarlılık modelleri okunmalıdır. Distributed File system and logical clock • A. S.\nHafta 8: Ara Sınav İlk 7 haftada işlenen tüm temel kavramlar (iletişim, zaman, CAP, tutarlılık modelleri) tekrar edilmeli ve örnek problemler çözülmelidir. Distributed File system and logical clock • A. S.\nHafta 9: Hata Toleransı (Fault Tolerance) Olası hata modelleri (çökme, ihmal, Bizans) araştırılmalıdır. Yedeklilik (redundancy) ve hata maskeleme (fault masking) teknikleri incelenmelidir. Distributed File system and logical clock • A. S.\nHafta 10: Mutabakat (Consensus): Paxos ve Raft Algoritmaları \"Mutabakat problemi\"nin (tüm düğümlerin aynı kararı vermesi) tanımı öğrenilmelidir. Bizans Generalleri Problemi (Byzantine Generals Problem) okunmalıdır. Distributed File system and logical clock • A. S.\nHafta 11: Dağıtık İşlemler (Distributed Transactions) Veritabanlarındaki ACID (Atomicity, Consistency, Isolation, Durability) özelliklerinin ne anlama geldiği tekrar edilmelidir. İki Aşamalı Kilitleme (Two-Phase Commit - 2PC) protokolü incelenmelidir. Distributed File system and logical clock • A. S.\nHafta 12: Dağıtık Dosya Sistemleri (DFS): NFS ve HDFS Örnekleri Geleneksel yerel dosya sistemlerinin (NTFS, ext4) nasıl çalıştığı gözden geçirilmelidir. Google File System (GFS) makalesinin temel mimarisi incelenmelidir. Distributed File system and logical clock • A. S.\nHafta 13: Örnek Olay İncelemesi: MapReduce ve Blockchain Büyük veri işlemenin (Big Data) zorlukları araştırılmalıdır. Blockchain'in \"dağıtık defter\" (distributed ledger) teknolojisi olarak nasıl çalıştığına dair temel bir makale okunmalıdır. Distributed File system and logical clock • A. S.\nHafta 14: Proje Sunumları ve Genel Değerlendirme Proje raporu ve kod dokümantasyonu tamamlanmış olmalıdır. Sunumlar için hazırlık yapılmalı ve teslim edilecek materyaller son haline getirilmelidir. Distributed File system and logical clock • A. S.\n",
+  "source_file": "BMB440_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

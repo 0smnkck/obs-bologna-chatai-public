@@ -1,0 +1,67 @@
+{
+  "title": "BMB112 - Elektrik Devrelerinin Temelleri Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB112",
+    "ders_adi": "Elektrik Devrelerinin Temelleri",
+    "yariyil": "2",
+    "kredi": "2",
+    "akts": "3",
+    "son_guncelleme": "28.11.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+  },
+  "sections": {
+    "amac": "Temel elektrik devre elemanlarının tanıtılması ve temel devre analizi yöntemlerinin verilmesi",
+    "icerik": "Elektriksel yük, akım, gerilim, direnç ve güç gibi temel kavramlarıjn açıklanması, Temel elektrik devre elemanlarının tanıtılması, DC devre analizi yöntemleri Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "* James Nilsson & Susan Riedel, Electric Circuits, Pearson Education, 2014.",
+        "* J. David Irwin & R. Mark Nelms, Basic Engineering Circuit Analysis, Wiley, 2010.",
+        "Prof. Dr. Müştak Erhan Yalçın, Elektrik Devre Temelleri, ITU Yayınevi, 2023.",
+        "Dökümanlar",
+        "Ödevler",
+        "Sınavlar"
+      ],
+      "ders_notlari": [
+        "* J. David Irwin & R. Mark Nelms, Basic Engineering Circuit Analysis, Wiley, 2010."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Elektrik yükü, akım, gerilim, güç, enerji kavramlarının öğrenilmesi.",
+      "Devre analizi tekniklerinin öğrenilmesi",
+      "Dirençli devrelerin analiz edilebilmesi"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Elektriksel yük, akım, gerilim ve güç gibi temel kavramların açıklanması",
+      "Hafta 2: Seri bağlı devrelerin analizi ve gerilim bölünme kanunu",
+      "Hafta 3: Paralel bağlı devreler ve akım bölünme kanunu",
+      "Hafta 4: Paralel ve seri bağlı dirençi devrelerin analizi",
+      "Hafta 5: Yıldız Üçgen dönüşümü",
+      "Hafta 6: Düğüm analizi tekniği",
+      "Hafta 7: Çevre analizi tekniği",
+      "Hafta 8: Ara sınav",
+      "Hafta 9: Lineerlik Teoremi",
+      "Hafta 10: Süperpozisyon Teoremi",
+      "Hafta 11: Kaynak Dönüşümü Teoremi",
+      "Hafta 12: Thevenin ve Norton Teoremleri",
+      "Hafta 13: Temel RC ve RL devrelerinin analizi",
+      "Hafta 14: Temel RL ve RC devrelerinin analizi"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Elektrik Devrelerinin Temelleri\nDers Kodu: BMB112\nYarıyıl: 2. Yarıyıl\nKredi: 2\nAKTS Kredisi: 3\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 28.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\nÖğretim Üyesi: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\n\n--- DERS AMACI ---\nTemel elektrik devre elemanlarının tanıtılması ve temel devre analizi yöntemlerinin verilmesi\n\n--- DERS İÇERİĞİ ---\nElektriksel yük, akım, gerilim, direnç ve güç gibi temel kavramlarıjn açıklanması, Temel elektrik devre elemanlarının tanıtılması, DC devre analizi yöntemleri Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• * James Nilsson & Susan Riedel, Electric Circuits, Pearson Education, 2014.\n• * J. David Irwin & R. Mark Nelms, Basic Engineering Circuit Analysis, Wiley, 2010.\n• Prof. Dr. Müştak Erhan Yalçın, Elektrik Devre Temelleri, ITU Yayınevi, 2023.\n• Dökümanlar\n• Ödevler\n• Sınavlar\n• Ders Notu: * J. David Irwin & R. Mark Nelms, Basic Engineering Circuit Analysis, Wiley, 2010.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Elektrik yükü, akım, gerilim, güç, enerji kavramlarının öğrenilmesi.\n2. Devre analizi tekniklerinin öğrenilmesi\n3. Dirençli devrelerin analiz edilebilmesi\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Elektriksel yük, akım, gerilim ve güç gibi temel kavramların açıklanması\nHafta 2: Seri bağlı devrelerin analizi ve gerilim bölünme kanunu\nHafta 3: Paralel bağlı devreler ve akım bölünme kanunu\nHafta 4: Paralel ve seri bağlı dirençi devrelerin analizi\nHafta 5: Yıldız Üçgen dönüşümü\nHafta 6: Düğüm analizi tekniği\nHafta 7: Çevre analizi tekniği\nHafta 8: Ara sınav\nHafta 9: Lineerlik Teoremi\nHafta 10: Süperpozisyon Teoremi\nHafta 11: Kaynak Dönüşümü Teoremi\nHafta 12: Thevenin ve Norton Teoremleri\nHafta 13: Temel RC ve RL devrelerinin analizi\nHafta 14: Temel RL ve RC devrelerinin analizi\n",
+  "source_file": "BMB112_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

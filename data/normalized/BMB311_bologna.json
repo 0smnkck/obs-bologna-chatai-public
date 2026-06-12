@@ -1,0 +1,65 @@
+{
+  "title": "BMB311 - Bilgisayar Ağları Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB311",
+    "ders_adi": "Bilgisayar Ağları",
+    "yariyil": "5",
+    "kredi": "3",
+    "akts": "3",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, bilgisayar ağlarının temel prensiplerini öğretmek, ağ katmanlarını bütünsel bir yaklaşımla anlamayı sağlamak ve öğrencilerin modern ağ yapıları, protokoller ve güvenlik konularında yetkinlik kazanmalarını sağlamaktır.",
+    "icerik": "Bilgisayar ağlarının ve internetin temelleri, uygulama katmanı protokolleri, taşıma katmanı (TCP/UDP), veri düzlemi ve kontrol düzlemiyle ağ katmanı, bağlantı katmanı ve yerel ağlar, kablosuz ve mobil ağlar, bilgisayar ağlarında güvenlik",
+    "yontemler": "Ders anlatımı, tartışma, uygulamalı laboratuvar çalışmaları, ağ simülasyonları (ör. Wireshark, Packet Tracer) ve proje tabanlı öğrenme yöntemleriyle yürütülür.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Kurose, J. F. ve Ross, K. W. (2021). Computer Networking: A Top-Down Approach (8. baskı). Pearson Education. ISBN: 978-0-13-668155-7"
+      ],
+      "ders_notlari": [
+        "Temel ders kitabı, RFC raporları, İnternet kaynakları"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Temel ağ kavramlarını, internet mimarisini ve katmanlı yapıyı açıklar.",
+      "Uygulama, taşıma, ağ ve bağlantı katmanlarının işlevlerini ayırt eder.",
+      "Veri iletim süreçlerini ve yönlendirme mekanizmalarını analiz eder.",
+      "Kablosuz ve mobil ağların temel prensiplerini tanımlar.",
+      "Ağ güvenliği tehditlerini ve savunma mekanizmalarını değerlendirir.",
+      "Ağ protokollerini ve performans ölçütlerini kullanarak ağ tasarımı yapar."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Bilgisayar Ağları ve İnternet – Giriş Temel ağ kavramlarını gözden geçirme Bölüm Bir",
+      "Hafta 2: İnternet mimarisi ve protokoller Katmanlı mimari kavramını inceleme Bölüm Bir",
+      "Hafta 3: Uygulama Katmanı – Web, DNS, Email HTTP, FTP ve DNS kavramlarını okuma Bölüm İki",
+      "Hafta 4: Uygulama Katmanı – Soket Programlama İstemci-sunucu modeli üzerine çalışma Bölüm İki",
+      "Hafta 5: Taşıma Katmanı – TCP ve UDP Temelleri TCP/UDP farklarını inceleme Bölüm Üç",
+      "Hafta 6: Taşıma Katmanı – Güvenilir Veri Aktarımı Akış kontrolü ve hata kontrolü konularını araştırma Bölüm Üç",
+      "Hafta 7: Ağ Katmanı: Veri Düzlemi IP ve yönlendirme kavramlarını gözden geçirme Bölüm Dört",
+      "Hafta 8: Ağ Katmanı: Kontrol Düzlemi Routing algoritmalarını araştırma Bölüm Beş",
+      "Hafta 9: İnternet Yönlendirme Protokolleri OSPF ve BGP protokollerini okuma Bölüm Beş",
+      "Hafta 10: Veri Bağı Katmanı ve LANs – Temeller Ethernet ve çerçeveleme kavramlarını gözden geçirme Bölüm Altı",
+      "Hafta 11: Veri Bağı Katmanı ve LANs – Anahtarlama Switching mekanizmalarını inceleme Bölüm Altı",
+      "Hafta 12: Kablosuz ve Mobil Ağlar – Temeller Kablosuz ağ türlerini araştırma Bölüm Yedi",
+      "Hafta 13: Bilgisayar Ağlarında Güvenlik – Temeller Güvenlik protokollerini inceleme Bölüm Sekiz",
+      "Hafta 14: Bilgisayar Ağlarında Güvenlik – Uygulama Şifreleme ve kimlik doğrulama uygulamaları hazırlama Bölüm Sekiz"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Bilgisayar Ağları\nDers Kodu: BMB311\nYarıyıl: 5. Yarıyıl\nKredi: 3\nAKTS Kredisi: 3\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, bilgisayar ağlarının temel prensiplerini öğretmek, ağ katmanlarını bütünsel bir yaklaşımla anlamayı sağlamak ve öğrencilerin modern ağ yapıları, protokoller ve güvenlik konularında yetkinlik kazanmalarını sağlamaktır.\n\n--- DERS İÇERİĞİ ---\nBilgisayar ağlarının ve internetin temelleri, uygulama katmanı protokolleri, taşıma katmanı (TCP/UDP), veri düzlemi ve kontrol düzlemiyle ağ katmanı, bağlantı katmanı ve yerel ağlar, kablosuz ve mobil ağlar, bilgisayar ağlarında güvenlik\n\nÖğretim Yöntemleri: Ders anlatımı, tartışma, uygulamalı laboratuvar çalışmaları, ağ simülasyonları (ör. Wireshark, Packet Tracer) ve proje tabanlı öğrenme yöntemleriyle yürütülür.\n\n--- DERS KAYNAKLARI ---\n• Kurose, J. F. ve Ross, K. W. (2021). Computer Networking: A Top-Down Approach (8. baskı). Pearson Education. ISBN: 978-0-13-668155-7\n• Ders Notu: Temel ders kitabı, RFC raporları, İnternet kaynakları\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Temel ağ kavramlarını, internet mimarisini ve katmanlı yapıyı açıklar.\n2. Uygulama, taşıma, ağ ve bağlantı katmanlarının işlevlerini ayırt eder.\n3. Veri iletim süreçlerini ve yönlendirme mekanizmalarını analiz eder.\n4. Kablosuz ve mobil ağların temel prensiplerini tanımlar.\n5. Ağ güvenliği tehditlerini ve savunma mekanizmalarını değerlendirir.\n6. Ağ protokollerini ve performans ölçütlerini kullanarak ağ tasarımı yapar.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Bilgisayar Ağları ve İnternet – Giriş Temel ağ kavramlarını gözden geçirme Bölüm Bir\nHafta 2: İnternet mimarisi ve protokoller Katmanlı mimari kavramını inceleme Bölüm Bir\nHafta 3: Uygulama Katmanı – Web, DNS, Email HTTP, FTP ve DNS kavramlarını okuma Bölüm İki\nHafta 4: Uygulama Katmanı – Soket Programlama İstemci-sunucu modeli üzerine çalışma Bölüm İki\nHafta 5: Taşıma Katmanı – TCP ve UDP Temelleri TCP/UDP farklarını inceleme Bölüm Üç\nHafta 6: Taşıma Katmanı – Güvenilir Veri Aktarımı Akış kontrolü ve hata kontrolü konularını araştırma Bölüm Üç\nHafta 7: Ağ Katmanı: Veri Düzlemi IP ve yönlendirme kavramlarını gözden geçirme Bölüm Dört\nHafta 8: Ağ Katmanı: Kontrol Düzlemi Routing algoritmalarını araştırma Bölüm Beş\nHafta 9: İnternet Yönlendirme Protokolleri OSPF ve BGP protokollerini okuma Bölüm Beş\nHafta 10: Veri Bağı Katmanı ve LANs – Temeller Ethernet ve çerçeveleme kavramlarını gözden geçirme Bölüm Altı\nHafta 11: Veri Bağı Katmanı ve LANs – Anahtarlama Switching mekanizmalarını inceleme Bölüm Altı\nHafta 12: Kablosuz ve Mobil Ağlar – Temeller Kablosuz ağ türlerini araştırma Bölüm Yedi\nHafta 13: Bilgisayar Ağlarında Güvenlik – Temeller Güvenlik protokollerini inceleme Bölüm Sekiz\nHafta 14: Bilgisayar Ağlarında Güvenlik – Uygulama Şifreleme ve kimlik doğrulama uygulamaları hazırlama Bölüm Sekiz\n",
+  "source_file": "BMB311_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

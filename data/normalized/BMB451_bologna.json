@@ -1,0 +1,65 @@
+{
+  "title": "BMB451 - Siber Güvenlik Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB451",
+    "ders_adi": "Siber Güvenlik",
+    "yariyil": "7",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "26.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı öğrencilere bilgi güvenliği ilkelerini, siber saldırı tekniklerini ve savunma yöntemlerini uygulamalı olarak öğretmek; penetrasyon testi süreçlerini planlayıp uygulayabilecek yetkinliği kazandırmaktır.",
+    "icerik": "Ders içeriği; siber güvenliğe giriş, saldırı türleri ve teknikleri, veri gizliliği ve organizasyonel güvenlik, penetrasyon testi metodolojileri, bilgi toplama ve zaafiyet tarama, sosyal mühendislik, kablolu/kablosuz ağ ve uygulama istismarları, bulut/mobil/IoT güvenliği, sömürü sonrası teknikler, raporlama, araç ve kod analizlerini kapsar.",
+    "yontemler": "Anlatım + uygulamalı laboratuvar; vaka çalışmaları, simülasyon ve sanal ortamda etik saldırı/pratikler; grup projeleri ve rapor hazırlama.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Cisco Networking Academy. (t.y.). Ethical Hacker [Çevrimiçi kurs]. Cisco Systems. Erisim adresi: https://www.netacad.com/courses/ethical-hacker"
+      ],
+      "ders_notlari": [
+        "Ders notları: ders slaytları, laboratuvar el kitapçıkları, örnek penetrasyon raporları ve ilgili araç dokümantasyonları (Metasploit, Nmap, Burp Suite, Wireshark vb.)."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Siber güvenlik temel kavramlarini ve tehdit modellemelerini açiklar.",
+      "Farkli saldiri türlerini ve saldiri tekniklerini tanir ve analiz eder.",
+      "Veri gizliligi, erisim kontrolü ve organizasyonel güvenlik önlemlerini uygular.",
+      "Penetrasyon testi süreçlerini planlar, bilgi toplama ve zaafiyet tarama yapar.",
+      "Sosyal mühendislik, ag ve uygulama tabanli istismarlari gerçeklestirir ve sömürü sonrasi teknikleri uygular.",
+      "Sonuçlari raporlar, güvenlik iyilestirme önerileri gelistirir ve güvenlik araçlarini/kod analizini kullanir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Siber Güvenlige Giris Temel kavramlar ve tehdit actorlerini oku Ders slaytlari, giris notlari",
+      "Hafta 2: Saldirilar, Kavramlar ve Teknikler Saldiri siniflandirmalarini arastir Saldiri örnekleri dokümani",
+      "Hafta 3: Veriyi, Gizliligi ve Organizasyonu Korumak Gizlilik ilkeleri ve erisim kontrolünü incele Veri koruma kilavuzu",
+      "Hafta 4: Penetrasyon Testine Giris Pentest yasam döngüsünü oku Pentest metodoloji notlari",
+      "Hafta 5: Penetrasyon Testi Metodolojileri OSSTMM/PTES/PTES adimlarini karsilastir Metodoloji karsilastirma dokümani",
+      "Hafta 6: Penetrasyon Testinin Planlanmasi ve Kapsamin Belirlenmesi Test sözlesmeleri ve Rules of Engagement örneklerini incele Penetest planlama rehberi",
+      "Hafta 7: Bilgi Toplama ve Zaafiyet Tarama OSINT teknikleri ve tarama araçlarini ögren Nmap, Shodan ve OSINT notlari",
+      "Hafta 8: Sosyal Mühendislik Saldirilari Sosyal mühendislik senaryolarini incele Sosyal mühendislik vaka çalismalari",
+      "Hafta 9: Kablolu ve Kablosuz Aglari Istismar Yöntemleri Ag saldiri tekniklerini ve WPA/WPA2 zafiyetlerini gözden geçir Wireshark, Aircrack örnekleri",
+      "Hafta 10: Uygulama Tabanli Zaafiyetleri Istismar Yöntemleri Web uygulama güvenligi ve OWASP Top10`i oku Burp Suite ve web exploit notlari",
+      "Hafta 11: Bulut, Mobil ve IoT Güvenligi Bulut servis modelleri ve IoT tehditlerini incele Bulut/IoT güvenlik rehberi",
+      "Hafta 12: Sömürü Sonrasi Tekniklerin Uygulanmasi Sömürü sonrasi kalicilik ve lateral hareketi arastir Metasploit ve post-exploit notlari",
+      "Hafta 13: Raporlama ve Iletisim Penetest raporu sablonlarini incele Rapor örnekleri ve iletisim kilavuzu",
+      "Hafta 14: Araçlar ve Kod Analizleri Güvenlik araçlari ve basit kod denetimi yap Statik/dinamik analiz dokümanlari"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Siber Güvenlik\nDers Kodu: BMB451\nYarıyıl: 7. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 26.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı öğrencilere bilgi güvenliği ilkelerini, siber saldırı tekniklerini ve savunma yöntemlerini uygulamalı olarak öğretmek; penetrasyon testi süreçlerini planlayıp uygulayabilecek yetkinliği kazandırmaktır.\n\n--- DERS İÇERİĞİ ---\nDers içeriği; siber güvenliğe giriş, saldırı türleri ve teknikleri, veri gizliliği ve organizasyonel güvenlik, penetrasyon testi metodolojileri, bilgi toplama ve zaafiyet tarama, sosyal mühendislik, kablolu/kablosuz ağ ve uygulama istismarları, bulut/mobil/IoT güvenliği, sömürü sonrası teknikler, raporlama, araç ve kod analizlerini kapsar.\n\nÖğretim Yöntemleri: Anlatım + uygulamalı laboratuvar; vaka çalışmaları, simülasyon ve sanal ortamda etik saldırı/pratikler; grup projeleri ve rapor hazırlama.\n\n--- DERS KAYNAKLARI ---\n• Cisco Networking Academy. (t.y.). Ethical Hacker [Çevrimiçi kurs]. Cisco Systems. Erisim adresi: https://www.netacad.com/courses/ethical-hacker\n• Ders Notu: Ders notları: ders slaytları, laboratuvar el kitapçıkları, örnek penetrasyon raporları ve ilgili araç dokümantasyonları (Metasploit, Nmap, Burp Suite, Wireshark vb.).\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Siber güvenlik temel kavramlarini ve tehdit modellemelerini açiklar.\n2. Farkli saldiri türlerini ve saldiri tekniklerini tanir ve analiz eder.\n3. Veri gizliligi, erisim kontrolü ve organizasyonel güvenlik önlemlerini uygular.\n4. Penetrasyon testi süreçlerini planlar, bilgi toplama ve zaafiyet tarama yapar.\n5. Sosyal mühendislik, ag ve uygulama tabanli istismarlari gerçeklestirir ve sömürü sonrasi teknikleri uygular.\n6. Sonuçlari raporlar, güvenlik iyilestirme önerileri gelistirir ve güvenlik araçlarini/kod analizini kullanir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Siber Güvenlige Giris Temel kavramlar ve tehdit actorlerini oku Ders slaytlari, giris notlari\nHafta 2: Saldirilar, Kavramlar ve Teknikler Saldiri siniflandirmalarini arastir Saldiri örnekleri dokümani\nHafta 3: Veriyi, Gizliligi ve Organizasyonu Korumak Gizlilik ilkeleri ve erisim kontrolünü incele Veri koruma kilavuzu\nHafta 4: Penetrasyon Testine Giris Pentest yasam döngüsünü oku Pentest metodoloji notlari\nHafta 5: Penetrasyon Testi Metodolojileri OSSTMM/PTES/PTES adimlarini karsilastir Metodoloji karsilastirma dokümani\nHafta 6: Penetrasyon Testinin Planlanmasi ve Kapsamin Belirlenmesi Test sözlesmeleri ve Rules of Engagement örneklerini incele Penetest planlama rehberi\nHafta 7: Bilgi Toplama ve Zaafiyet Tarama OSINT teknikleri ve tarama araçlarini ögren Nmap, Shodan ve OSINT notlari\nHafta 8: Sosyal Mühendislik Saldirilari Sosyal mühendislik senaryolarini incele Sosyal mühendislik vaka çalismalari\nHafta 9: Kablolu ve Kablosuz Aglari Istismar Yöntemleri Ag saldiri tekniklerini ve WPA/WPA2 zafiyetlerini gözden geçir Wireshark, Aircrack örnekleri\nHafta 10: Uygulama Tabanli Zaafiyetleri Istismar Yöntemleri Web uygulama güvenligi ve OWASP Top10`i oku Burp Suite ve web exploit notlari\nHafta 11: Bulut, Mobil ve IoT Güvenligi Bulut servis modelleri ve IoT tehditlerini incele Bulut/IoT güvenlik rehberi\nHafta 12: Sömürü Sonrasi Tekniklerin Uygulanmasi Sömürü sonrasi kalicilik ve lateral hareketi arastir Metasploit ve post-exploit notlari\nHafta 13: Raporlama ve Iletisim Penetest raporu sablonlarini incele Rapor örnekleri ve iletisim kilavuzu\nHafta 14: Araçlar ve Kod Analizleri Güvenlik araçlari ve basit kod denetimi yap Statik/dinamik analiz dokümanlari\n",
+  "source_file": "BMB451_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

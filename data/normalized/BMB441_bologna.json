@@ -1,0 +1,57 @@
+{
+  "title": "BMB441 - Bilgi Sistemleri Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB441",
+    "ders_adi": "Bilgi Sistemleri",
+    "yariyil": "7",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "BS/BT kullanarak bilgi sistemleri, bilgi teknolojileri ve karar vermenin temellerini öğretmek",
+    "icerik": "BS/BT tanımı, farklı sistem türleri, insanlar, donanım, yazılım, veritabanları, e-ticaret, e-iş ve tüm bu bileşenler arasındaki etkileşim",
+    "yontemler": "Yöneylem Araştırması ve İşletmecilik Uygulamaları, Mehpare Timor Yöneylem Araştırması, Ahmet Öztürk, Ekin Yayıncılık",
+    "kaynaklar": {
+      "kitaplar": [
+        "Heizer, J., Render, B., Munson, C. (2020). Operations Management: Sustainability and Supply Chain Management. United Kingdom: Pearson."
+      ],
+      "ders_notlari": [
+        "Yöneylem Araştırması, Hamdy A.Taha; (Çevirenler: Ş. Alp Baray, Şakir Esnaf), Literatür Yayınları."
+      ]
+    },
+    "degerlendirme": [],
+    "ogrenme_cikti": [
+      "Disiplinindeki temel kavramları ve kuramları bilir.",
+      "Disiplinindeki sorunları analiz edip bu sorunlara çözüm önerileri sunacak analitik düşünme becerilerine sahiptir.",
+      "Girişimci kişilik özelliklerini tanır ve girişimci kişilik özelliklerini geliştirme fırsatlarını izler.",
+      "Girişimci ve iç girişimci davranışları tanır, bu davranışları iş fırsatlarını değerlendirmede ve görev yaptığı kurumlarda yeniliği teşvik etmede sergileyebilir.",
+      "Bilgi teknolojisinin kavramsal bilgisine ve pratik uygulamalarına hâkimdir.",
+      "Alanına yönelik bilgi teknolojilerini kullanabilir.",
+      "Meslek yaşamında insanların ve ekonomilerin gelişimini ve çevrenin iyileştirilmesini sağlayan faaliyetleri tasarlayabilir.",
+      "İş yaşamında etik sorunların ve bu sorunların toplumsal ve kurumsal etkilerinin farkında olur.",
+      "Sorun çözme süreçlerinde etik sorumluluklarını bilir ve bu süreçlerde etik ilkelere riayet eder."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Bilgi Sistemleri tanımı ve kısa tarihçesi Ders Notlarını Okuma Bölüm 1",
+      "Hafta 2: Veri-Bilgi Sistemi-Bilgi Ders Notlarını Okuma Bölüm 2",
+      "Hafta 3: Bir bilgi sisteminin bileşenleri Ders Notlarını Okuma Bölüm 7",
+      "Hafta 4: Bilgi Sistemi türleri (hiyerarşiye göre) Ders Notlarını Okuma Bölüm 4",
+      "Hafta 5: Bilgi Sistemi türleri (işlevlere göre) Ders Notlarını Okuma Bölüm 5",
+      "Hafta 6: Karar alma süreci ve bilgi sistemleri Ders Notlarını Okuma Bölüm 6",
+      "Hafta 7: Bilgi Sistemleri Alanında Etik ve Sosyal Konular Ders Notlarını Okuma Bölüm 7",
+      "Hafta 8: VİZE sınav sınav",
+      "Hafta 9: Yazılım Ders Notlarını Okuma Bölüm 8",
+      "Hafta 10: Veritabanları ve Veritabanı Yönetim Sistemleri Ders Notlarını Okuma Bölüm 9",
+      "Hafta 11: Sistem Analizi ve Tasarımı Ders Notlarını Okuma Bölüm 10",
+      "Hafta 12: E-Ticaret, E-İşletme Ders Notlarını Okuma Bölüm 11",
+      "Hafta 13: Telekomünikasyon ve Ağlar Ders Notlarını Okuma Bölüm 12",
+      "Hafta 14: FİNAL sınav sınav"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Bilgi Sistemleri\nDers Kodu: BMB441\nYarıyıl: 7. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBS/BT kullanarak bilgi sistemleri, bilgi teknolojileri ve karar vermenin temellerini öğretmek\n\n--- DERS İÇERİĞİ ---\nBS/BT tanımı, farklı sistem türleri, insanlar, donanım, yazılım, veritabanları, e-ticaret, e-iş ve tüm bu bileşenler arasındaki etkileşim\n\nÖğretim Yöntemleri: Yöneylem Araştırması ve İşletmecilik Uygulamaları, Mehpare Timor Yöneylem Araştırması, Ahmet Öztürk, Ekin Yayıncılık\n\n--- DERS KAYNAKLARI ---\n• Heizer, J., Render, B., Munson, C. (2020). Operations Management: Sustainability and Supply Chain Management. United Kingdom: Pearson.\n• Ders Notu: Yöneylem Araştırması, Hamdy A.Taha; (Çevirenler: Ş. Alp Baray, Şakir Esnaf), Literatür Yayınları.\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Disiplinindeki temel kavramları ve kuramları bilir.\n2. Disiplinindeki sorunları analiz edip bu sorunlara çözüm önerileri sunacak analitik düşünme becerilerine sahiptir.\n3. Girişimci kişilik özelliklerini tanır ve girişimci kişilik özelliklerini geliştirme fırsatlarını izler.\n4. Girişimci ve iç girişimci davranışları tanır, bu davranışları iş fırsatlarını değerlendirmede ve görev yaptığı kurumlarda yeniliği teşvik etmede sergileyebilir.\n5. Bilgi teknolojisinin kavramsal bilgisine ve pratik uygulamalarına hâkimdir.\n6. Alanına yönelik bilgi teknolojilerini kullanabilir.\n7. Meslek yaşamında insanların ve ekonomilerin gelişimini ve çevrenin iyileştirilmesini sağlayan faaliyetleri tasarlayabilir.\n8. İş yaşamında etik sorunların ve bu sorunların toplumsal ve kurumsal etkilerinin farkında olur.\n9. Sorun çözme süreçlerinde etik sorumluluklarını bilir ve bu süreçlerde etik ilkelere riayet eder.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Bilgi Sistemleri tanımı ve kısa tarihçesi Ders Notlarını Okuma Bölüm 1\nHafta 2: Veri-Bilgi Sistemi-Bilgi Ders Notlarını Okuma Bölüm 2\nHafta 3: Bir bilgi sisteminin bileşenleri Ders Notlarını Okuma Bölüm 7\nHafta 4: Bilgi Sistemi türleri (hiyerarşiye göre) Ders Notlarını Okuma Bölüm 4\nHafta 5: Bilgi Sistemi türleri (işlevlere göre) Ders Notlarını Okuma Bölüm 5\nHafta 6: Karar alma süreci ve bilgi sistemleri Ders Notlarını Okuma Bölüm 6\nHafta 7: Bilgi Sistemleri Alanında Etik ve Sosyal Konular Ders Notlarını Okuma Bölüm 7\nHafta 8: VİZE sınav sınav\nHafta 9: Yazılım Ders Notlarını Okuma Bölüm 8\nHafta 10: Veritabanları ve Veritabanı Yönetim Sistemleri Ders Notlarını Okuma Bölüm 9\nHafta 11: Sistem Analizi ve Tasarımı Ders Notlarını Okuma Bölüm 10\nHafta 12: E-Ticaret, E-İşletme Ders Notlarını Okuma Bölüm 11\nHafta 13: Telekomünikasyon ve Ağlar Ders Notlarını Okuma Bölüm 12\nHafta 14: FİNAL sınav sınav\n",
+  "source_file": "BMB441_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

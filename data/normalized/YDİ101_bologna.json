@@ -1,0 +1,76 @@
+{
+  "title": "YDİ101 - Yabancı Dil I Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "YDİ101",
+    "ders_adi": "Yabancı Dil I",
+    "yariyil": "1",
+    "kredi": "2",
+    "akts": "2",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Öğr. Gör. Fatma AKÇA"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilerin Avrupa Dilleri Ortak Çerçeve Programı (CEFR) ölçütlerine uygun şekilde İngilizceyi temel düzeyde iletişim aracı olarak kullanabilmesini sağlamaktır. Dersin sonunda öğrencilerin A1–A2 düzeyi kazanımlara ulaşması hedeflenmektedir.",
+    "icerik": "Ders, Smart Choice 1 (Oxford University Press) kitabına dayalıdır ve CEFR A1–A2 düzeyi kazanımlarını kapsar. Dil Bilgisi • The verb be (affirmative, negative, questions) • The verb be in questions and short answers • a / an, some / any • Present Simple (I play, I don’t play, Do you play?) • Present Simple (affirmative, negative, questions) • Past Simple of be (was/were) Kelime Bilgisi • Key classroom phrases, countries • Jobs, workplaces • Food items, meals • Sports and activities • Daily routines, activities • Common problems (e.g., being late, feeling sick) Konuşma Becerileri • Introducing yourself and a partner • Talking about jobs • Ordering food and drink • Talking about sports you like • Talking about everyday life and routines • Talking about problems and situations in the past Diğer Beceriler • Listening to introductions, reading student profiles, writing a short paragraph about yourself • Listening to people talk about their jobs, reading a survey about jobs, writing sentences about jobs • Listening to restaurant conversations, reading about international food, writing about what you eat and drink • Listening to people talk about sports, reading a sports article, writing about sports you do • Listening to people’s daily routines, reading about daily life, writing about your day • Listening to conversations about problems, reading a text about problems, writing about something that happened yesterday",
+    "yontemler": "İletişimsel yaklaşım: Gerçek yaşam iletişim uygulamaları. - Anlatım ve sunum: Dil bilgisi ve kelime öğretimi. - Soru-cevap ve grup çalışmaları: Role-play, ikili ve grup etkinlikleri. - Multimedya kullanımı: Ses, video ve dijital platformlar. - Okuma ve yazma etkinlikleri: Kısa metinler, epostalar, günlükler. - Ödev ve proje: Bireysel öğrenmeyi desteklemek için.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Sunular ve çalışma kağıtları",
+        "Press)",
+        "- Seviye: CEFR A1–A2",
+        "- Ek materyaller: Ses kayıtları, videolar, çevrimiçi",
+        "alıştırmalar, sunular, çalışma kağıtları",
+        "Dökümanlar :PPTs (Sunular) & Handouts (Çalışma kağıtları)",
+        "Ödevler Online Tasks (Çevrimiçi ödevler)",
+        "Sınavlar : Midterm (Ara Sınav) & Final Exam (Yarıyıl Sonu Sınavı)"
+      ],
+      "ders_notlari": [
+        "Ders kitabı: Smart Choice 1 (Oxford University"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%35"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "1",
+        "katki": "%15"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Öğrenciler kendilerini ve başkalarını tanıtabilir,sınıf içi temel ifadeleri doğru kullanabilir.",
+      "öğrenciler meslekler ve çalışma yerleri hakkında basit sorular sorabilir ve cevap verebilir.",
+      "Öğrenciler yiyecek ve içecek hakkında konuşabilir, restoranda sipariş verebilir.",
+      "Öğrenciler günlük rutin ve spor aktivitelerini geniş zaman yapıları ile ifade edebilir.",
+      "Öğrenciler geçmişte yaşadıkları olayları ( ör. sorunlar, dün ne yaptıkları) basit geçmiş zaman kullanarak ifade edebilir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: derse giriş ders izlencesi",
+      "Hafta 2: Ünite :1: Nice to meet you dilbilgisi sunusu ünite testi 1",
+      "Hafta 3: ünite 1: Nice to meet you dilbilgisi sunusu Ünite testi :1",
+      "Hafta 4: Ünite : 2 What do you do ? dilbilgisi sunusu Ünite testi 2",
+      "Hafta 5: Ünite : 2 What do you do ? Dilbilgisi sunusu Ünite testi :2",
+      "Hafta 6: unıte 3: Do you lıke noodles dilbilgisi sunusu Ünite testi 3",
+      "Hafta 7: Ünite :3: Do you lıke noodles Dilbilgisi Sunusu Ünite testi :3",
+      "Hafta 8: Ünite 4: how often do you exercise Dilbilgisi sunusu Ünite testi 4",
+      "Hafta 9: Ünite 4: How often do you exercise Dilbilgisi sunusu Ünite testi : 4",
+      "Hafta 10: Ünite :5: I am listening to music Dilbilgisi sunusu Ünite testi :5",
+      "Hafta 11: Ünite :5: I am listening to music Dilbilgisi sunusu Ünite testi 5",
+      "Hafta 12: Ünite :6: where were you yesterday Dilbilgisi sunusu Ünite testi : 6",
+      "Hafta 13: Ünite testi:6 where were you yesterday? Dilbilgisi sunusu Ünite testi: 6",
+      "Hafta 14: genel tekrar genel tekrar çalışma kağıdı"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Yabancı Dil I\nDers Kodu: YDİ101\nYarıyıl: 1. Yarıyıl\nKredi: 2\nAKTS Kredisi: 2\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Öğr. Gör. Fatma AKÇA\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilerin Avrupa Dilleri Ortak Çerçeve Programı (CEFR) ölçütlerine uygun şekilde İngilizceyi temel düzeyde iletişim aracı olarak kullanabilmesini sağlamaktır. Dersin sonunda öğrencilerin A1–A2 düzeyi kazanımlara ulaşması hedeflenmektedir.\n\n--- DERS İÇERİĞİ ---\nDers, Smart Choice 1 (Oxford University Press) kitabına dayalıdır ve CEFR A1–A2 düzeyi kazanımlarını kapsar. Dil Bilgisi • The verb be (affirmative, negative, questions) • The verb be in questions and short answers • a / an, some / any • Present Simple (I play, I don’t play, Do you play?) • Present Simple (affirmative, negative, questions) • Past Simple of be (was/were) Kelime Bilgisi • Key classroom phrases, countries • Jobs, workplaces • Food items, meals • Sports and activities • Daily routines, activities • Common problems (e.g., being late, feeling sick) Konuşma Becerileri • Introducing yourself and a partner • Talking about jobs • Ordering food and drink • Talking about sports you like • Talking about everyday life and routines • Talking about problems and situations in the past Diğer Beceriler • Listening to introductions, reading student profiles, writing a short paragraph about yourself • Listening to people talk about their jobs, reading a survey about jobs, writing sentences about jobs • Listening to restaurant conversations, reading about international food, writing about what you eat and drink • Listening to people talk about sports, reading a sports article, writing about sports you do • Listening to people’s daily routines, reading about daily life, writing about your day • Listening to conversations about problems, reading a text about problems, writing about something that happened yesterday\n\nÖğretim Yöntemleri: İletişimsel yaklaşım: Gerçek yaşam iletişim uygulamaları. - Anlatım ve sunum: Dil bilgisi ve kelime öğretimi. - Soru-cevap ve grup çalışmaları: Role-play, ikili ve grup etkinlikleri. - Multimedya kullanımı: Ses, video ve dijital platformlar. - Okuma ve yazma etkinlikleri: Kısa metinler, epostalar, günlükler. - Ödev ve proje: Bireysel öğrenmeyi desteklemek için.\n\n--- DERS KAYNAKLARI ---\n• Sunular ve çalışma kağıtları\n• Press)\n• - Seviye: CEFR A1–A2\n• - Ek materyaller: Ses kayıtları, videolar, çevrimiçi\n• alıştırmalar, sunular, çalışma kağıtları\n• Dökümanlar :PPTs (Sunular) & Handouts (Çalışma kağıtları)\n• Ödevler Online Tasks (Çevrimiçi ödevler)\n• Sınavlar : Midterm (Ara Sınav) & Final Exam (Yarıyıl Sonu Sınavı)\n• Ders Notu: Ders kitabı: Smart Choice 1 (Oxford University\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %35\nÖdev: 1 adet, katkı oranı %15\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Öğrenciler kendilerini ve başkalarını tanıtabilir,sınıf içi temel ifadeleri doğru kullanabilir.\n2. öğrenciler meslekler ve çalışma yerleri hakkında basit sorular sorabilir ve cevap verebilir.\n3. Öğrenciler yiyecek ve içecek hakkında konuşabilir, restoranda sipariş verebilir.\n4. Öğrenciler günlük rutin ve spor aktivitelerini geniş zaman yapıları ile ifade edebilir.\n5. Öğrenciler geçmişte yaşadıkları olayları ( ör. sorunlar, dün ne yaptıkları) basit geçmiş zaman kullanarak ifade edebilir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: derse giriş ders izlencesi\nHafta 2: Ünite :1: Nice to meet you dilbilgisi sunusu ünite testi 1\nHafta 3: ünite 1: Nice to meet you dilbilgisi sunusu Ünite testi :1\nHafta 4: Ünite : 2 What do you do ? dilbilgisi sunusu Ünite testi 2\nHafta 5: Ünite : 2 What do you do ? Dilbilgisi sunusu Ünite testi :2\nHafta 6: unıte 3: Do you lıke noodles dilbilgisi sunusu Ünite testi 3\nHafta 7: Ünite :3: Do you lıke noodles Dilbilgisi Sunusu Ünite testi :3\nHafta 8: Ünite 4: how often do you exercise Dilbilgisi sunusu Ünite testi 4\nHafta 9: Ünite 4: How often do you exercise Dilbilgisi sunusu Ünite testi : 4\nHafta 10: Ünite :5: I am listening to music Dilbilgisi sunusu Ünite testi :5\nHafta 11: Ünite :5: I am listening to music Dilbilgisi sunusu Ünite testi 5\nHafta 12: Ünite :6: where were you yesterday Dilbilgisi sunusu Ünite testi : 6\nHafta 13: Ünite testi:6 where were you yesterday? Dilbilgisi sunusu Ünite testi: 6\nHafta 14: genel tekrar genel tekrar çalışma kağıdı\n",
+  "source_file": "YDİ101_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

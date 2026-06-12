@@ -1,0 +1,65 @@
+{
+  "title": "BMB455 - Kuantum Hesaplamaya Giriş Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB455",
+    "ders_adi": "Kuantum Hesaplamaya Giriş",
+    "yariyil": "7",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Öğrencilerin klasik ve kuantum bilgi kuramı kavramlarını öğrenmeleri, kuantum bitleri ve çoklu kuantum bit sistemlerini anlamaları, kuantum programlama ve algoritmaları geliştirebilmeleri, ayrıca kuantum dolanıklık ve protokollerini kavramaları amaçlanmaktadır.",
+    "icerik": "Klasik bilgi ve hesaplama, tek kuantum bitler ve temsil yöntemleri, lineer cebir temelleri, çoklu kuantum bit sistemleri, kuantum programlama, kuantum dolanıklık ve protokoller, temel kuantum algoritmaları.",
+    "yontemler": "Ders anlatımı, tartışmalar, örnek çözümler ve laboratuvar uygulamaları ile desteklenir.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Wong, T. G. (2022). Klasik ve Quantum Hesaplamaya Giriş. Rooted Grove."
+      ],
+      "ders_notlari": [
+        "Ders notları, her bölüm için örnekler, açıklamalar ve temel algoritmaların detaylı anlatımı ile kuantum hesaplama konularını kapsar."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Classical ve quantum bilgi kavramlarını tanımlar ve farklarını açıklar",
+      "Temel kuantum bit (qubit) yapılarını ve temsil yöntemlerini açıklar",
+      "Lineer cebir kavramlarını kuantum hesaplamaya uygulayabilir",
+      "Çoklu kuantum bit sistemlerini modelleyebilir ve hesaplamalarda kullanabilir",
+      "Kuantum programlama ve temel algoritmaları yazabilir ve simüle edebilir",
+      "Kuantum dolanıklık ve protokollerini açıklayabilir ve uygulama örnekleri gösterebilir"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Klasik Bilgi ve Hesaplama Temel bilgi kuramı ve sayısal sistemler Bölüm 1 notları",
+      "Hafta 2: Bir Kuantum Bit Qubit kavramı ve temel özellikler Bölüm 2 notları",
+      "Hafta 3: Bir Kuantum Bit (devam) Qubit temsilleri ve ölçüm yöntemleri Bölüm 2 notları",
+      "Hafta 4: Lineer Cebir Vektörler, matrisler ve temel cebir işlemleri Bölüm 3 notları",
+      "Hafta 5: Lineer Cebir (devam) Kuantum kapıları ve lineer cebir ilişkisi Bölüm 3 notları",
+      "Hafta 6: Çoklu Kuantum Bitleri Çoklu qubit sistemleri ve durum vektörleri Bölüm 4 notları",
+      "Hafta 7: Çoklu Kuantum Bitleri (devam) Qubit dizilimleri ve birleşik durumların analizi Bölüm 4 notları",
+      "Hafta 8: Kuantum Programlama Quantum programlama araçları ve temel örnekler Bölüm 5 notları",
+      "Hafta 9: Kuantum Programlama (devam) Algoritma geliştirme ve simülasyon Bölüm 5 notları",
+      "Hafta 10: Dolanıklık ve Kuantum Protokolleri Kuantum dolanıklık ve iletişim protokolleri Bölüm 6 notları",
+      "Hafta 11: Dolanıklık ve Kuantum Protokolleri (devam) Teleportasyon ve kuantum anahtarlama Bölüm 6 notları",
+      "Hafta 12: Kuantum Algoritmaları Grover ve Shor gibi temel algoritmalar Bölüm 7 notları",
+      "Hafta 13: Kuantum Algoritmaları (devam) Algoritma simülasyonları ve analizleri Bölüm 7 notları",
+      "Hafta 14: Gözden Geçirme Dersin genel tekrarı ve proje çalışmaları Tüm ders notları"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Kuantum Hesaplamaya Giriş\nDers Kodu: BMB455\nYarıyıl: 7. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr\n\n--- DERS AMACI ---\nÖğrencilerin klasik ve kuantum bilgi kuramı kavramlarını öğrenmeleri, kuantum bitleri ve çoklu kuantum bit sistemlerini anlamaları, kuantum programlama ve algoritmaları geliştirebilmeleri, ayrıca kuantum dolanıklık ve protokollerini kavramaları amaçlanmaktadır.\n\n--- DERS İÇERİĞİ ---\nKlasik bilgi ve hesaplama, tek kuantum bitler ve temsil yöntemleri, lineer cebir temelleri, çoklu kuantum bit sistemleri, kuantum programlama, kuantum dolanıklık ve protokoller, temel kuantum algoritmaları.\n\nÖğretim Yöntemleri: Ders anlatımı, tartışmalar, örnek çözümler ve laboratuvar uygulamaları ile desteklenir.\n\n--- DERS KAYNAKLARI ---\n• Wong, T. G. (2022). Klasik ve Quantum Hesaplamaya Giriş. Rooted Grove.\n• Ders Notu: Ders notları, her bölüm için örnekler, açıklamalar ve temel algoritmaların detaylı anlatımı ile kuantum hesaplama konularını kapsar.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Classical ve quantum bilgi kavramlarını tanımlar ve farklarını açıklar\n2. Temel kuantum bit (qubit) yapılarını ve temsil yöntemlerini açıklar\n3. Lineer cebir kavramlarını kuantum hesaplamaya uygulayabilir\n4. Çoklu kuantum bit sistemlerini modelleyebilir ve hesaplamalarda kullanabilir\n5. Kuantum programlama ve temel algoritmaları yazabilir ve simüle edebilir\n6. Kuantum dolanıklık ve protokollerini açıklayabilir ve uygulama örnekleri gösterebilir\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Klasik Bilgi ve Hesaplama Temel bilgi kuramı ve sayısal sistemler Bölüm 1 notları\nHafta 2: Bir Kuantum Bit Qubit kavramı ve temel özellikler Bölüm 2 notları\nHafta 3: Bir Kuantum Bit (devam) Qubit temsilleri ve ölçüm yöntemleri Bölüm 2 notları\nHafta 4: Lineer Cebir Vektörler, matrisler ve temel cebir işlemleri Bölüm 3 notları\nHafta 5: Lineer Cebir (devam) Kuantum kapıları ve lineer cebir ilişkisi Bölüm 3 notları\nHafta 6: Çoklu Kuantum Bitleri Çoklu qubit sistemleri ve durum vektörleri Bölüm 4 notları\nHafta 7: Çoklu Kuantum Bitleri (devam) Qubit dizilimleri ve birleşik durumların analizi Bölüm 4 notları\nHafta 8: Kuantum Programlama Quantum programlama araçları ve temel örnekler Bölüm 5 notları\nHafta 9: Kuantum Programlama (devam) Algoritma geliştirme ve simülasyon Bölüm 5 notları\nHafta 10: Dolanıklık ve Kuantum Protokolleri Kuantum dolanıklık ve iletişim protokolleri Bölüm 6 notları\nHafta 11: Dolanıklık ve Kuantum Protokolleri (devam) Teleportasyon ve kuantum anahtarlama Bölüm 6 notları\nHafta 12: Kuantum Algoritmaları Grover ve Shor gibi temel algoritmalar Bölüm 7 notları\nHafta 13: Kuantum Algoritmaları (devam) Algoritma simülasyonları ve analizleri Bölüm 7 notları\nHafta 14: Gözden Geçirme Dersin genel tekrarı ve proje çalışmaları Tüm ders notları\n",
+  "source_file": "BMB455_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

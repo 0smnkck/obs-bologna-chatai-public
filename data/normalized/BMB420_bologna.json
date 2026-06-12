@@ -1,0 +1,64 @@
+{
+  "title": "BMB420 - Kriptoloji ve Uygulamaları Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB420",
+    "ders_adi": "Kriptoloji ve Uygulamaları",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilere kriptografinin temel ilkelerini öğretmek ve klasik gizli anahtarlı şifreleme sistemlerini tanıtmaktır. Ayrıca kriptografi alanında araştırma yapmak isteyen öğrenciler için bir başlangıç niteliği taşır. Dersin sonunda öğrenciler, günümüzde hâlâ kullanılmakta olan bazı klasik kriptografi sistemleri hakkında genel bir bakış kazanacaklardır.",
+    "icerik": "Dersin İçeriği Kriptoloji dersi, güvenli iletişim ve veri koruma alanında temel kavramları ve yöntemleri kapsamaktadır. İçeriğinde, kriptografinin tarihçesi, şifreleme sisteminin temel kavramları, sayılar teorisi, simetrik ve asimetrik şifreleme algoritmaları, blok şifreleme yöntemleri, anahtar yönetimi, özetleme algoritmaları (hash fonksiyonları), dijital imzalar, güvenli haberleşme protokolleri ve kriptoanaliz teknikleri gibi konular ele alınır. Ayrıca, açık anahtarlı kripto sistemleri, Diffie-Hellman anahtar değişimi, El Gamal şifreleme ve eliptik eğri kriptosistemleri gibi ileri düzey konular da dersin kapsamındadır.",
+    "yontemler": "Teorik anlatım, Grup ve bireysel çalışmalar, Ev ödevleri, Projeler",
+    "kaynaklar": {
+      "kitaplar": [
+        "Stallings, W. (2017). Kriptografi ve Ağ Güvenliği: İlkeler ve Uygulamalar (7. baskı). Pearson Education."
+      ],
+      "ders_notlari": [
+        "Öğretim elemanı notları, Temel ders kitapları, Güncel makaleler"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%35"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Kriptolojinin temel kavramlarını ve mantığını tanır.",
+      "Kriptoanaliz için algoritmaları kullanabilir.",
+      "Programlama dilleri kullanarak algoritmaları gerçekleyebilir.",
+      "Kriptoloji uygulamalarını yapabilir.",
+      "Kripto matematiği ve sayılar kuramını öğrenir, şifreleme algoritmalarındaki önemlerini ve nasıl uygulanacağını anlar."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Giris, Kriptoloji ile ilgili genel kavramlar Kriptoloji tarihini ve temel kavramlari arastir Ders slaytlari ve giris notlari",
+      "Hafta 2: Sayi Teorisine Giris Asal sayilar ve modüler aritmetik konularini tekrar et Ders notlari ve örnek problemler",
+      "Hafta 3: Klasik Sifreleme Teknikleri Caesar, Vigenère ve Permütasyon sifrelerini incele Sifreleme teknikleri dokümani",
+      "Hafta 4: Blok Sifreleme, DES DES algoritmasinin yapisini arastir DES sifreleme notlari",
+      "Hafta 5: Sonlu Alanlar Galois alani kavramini gözden geçir Matematiksel altyapi notlari",
+      "Hafta 6: Blok Sifreleme Islemleri CBC, CFB ve CTR modlarini incele Sifreleme modlari dokümani",
+      "Hafta 7: AES, Simetrik Sifreleme Anahtar Dagilimi AES algoritmasini ve anahtar dagitimini incele AES yapilandirma rehberi",
+      "Hafta 8: Vize Haftasi Sinav hazirligi yap Vize notlari ve örnek sorular",
+      "Hafta 9: Rastgele Bit Olusturma ve Akis Sifreleme Rastgele sayi üretim tekniklerini arastir Akis sifreleme notlari",
+      "Hafta 10: Açik Anahtarli Sifreleme, RSA RSA algoritmasinin adimlarini gözden geçir RSA uygulama dökümani",
+      "Hafta 11: Hash Fonksiyonlari Hash fonksiyonlarinin güvenlik özelliklerini incele Hash fonksiyonlari dokümani",
+      "Hafta 12: Dijital Imzalar Dijital imza algoritmalarini arastir Dijital imza örnekleri",
+      "Hafta 13: Erisim Kontrolü, Protokoller Erisim kontrol modellerini incele Protokol analiz notlari",
+      "Hafta 14: Proje Sunumlari Proje raporunu hazirla ve sunum provasi yap Proje yönergesi ve degerlendirme formu"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Kriptoloji ve Uygulamaları\nDers Kodu: BMB420\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilere kriptografinin temel ilkelerini öğretmek ve klasik gizli anahtarlı şifreleme sistemlerini tanıtmaktır. Ayrıca kriptografi alanında araştırma yapmak isteyen öğrenciler için bir başlangıç niteliği taşır. Dersin sonunda öğrenciler, günümüzde hâlâ kullanılmakta olan bazı klasik kriptografi sistemleri hakkında genel bir bakış kazanacaklardır.\n\n--- DERS İÇERİĞİ ---\nDersin İçeriği Kriptoloji dersi, güvenli iletişim ve veri koruma alanında temel kavramları ve yöntemleri kapsamaktadır. İçeriğinde, kriptografinin tarihçesi, şifreleme sisteminin temel kavramları, sayılar teorisi, simetrik ve asimetrik şifreleme algoritmaları, blok şifreleme yöntemleri, anahtar yönetimi, özetleme algoritmaları (hash fonksiyonları), dijital imzalar, güvenli haberleşme protokolleri ve kriptoanaliz teknikleri gibi konular ele alınır. Ayrıca, açık anahtarlı kripto sistemleri, Diffie-Hellman anahtar değişimi, El Gamal şifreleme ve eliptik eğri kriptosistemleri gibi ileri düzey konular da dersin kapsamındadır.\n\nÖğretim Yöntemleri: Teorik anlatım, Grup ve bireysel çalışmalar, Ev ödevleri, Projeler\n\n--- DERS KAYNAKLARI ---\n• Stallings, W. (2017). Kriptografi ve Ağ Güvenliği: İlkeler ve Uygulamalar (7. baskı). Pearson Education.\n• Ders Notu: Öğretim elemanı notları, Temel ders kitapları, Güncel makaleler\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %35\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Kriptolojinin temel kavramlarını ve mantığını tanır.\n2. Kriptoanaliz için algoritmaları kullanabilir.\n3. Programlama dilleri kullanarak algoritmaları gerçekleyebilir.\n4. Kriptoloji uygulamalarını yapabilir.\n5. Kripto matematiği ve sayılar kuramını öğrenir, şifreleme algoritmalarındaki önemlerini ve nasıl uygulanacağını anlar.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Giris, Kriptoloji ile ilgili genel kavramlar Kriptoloji tarihini ve temel kavramlari arastir Ders slaytlari ve giris notlari\nHafta 2: Sayi Teorisine Giris Asal sayilar ve modüler aritmetik konularini tekrar et Ders notlari ve örnek problemler\nHafta 3: Klasik Sifreleme Teknikleri Caesar, Vigenère ve Permütasyon sifrelerini incele Sifreleme teknikleri dokümani\nHafta 4: Blok Sifreleme, DES DES algoritmasinin yapisini arastir DES sifreleme notlari\nHafta 5: Sonlu Alanlar Galois alani kavramini gözden geçir Matematiksel altyapi notlari\nHafta 6: Blok Sifreleme Islemleri CBC, CFB ve CTR modlarini incele Sifreleme modlari dokümani\nHafta 7: AES, Simetrik Sifreleme Anahtar Dagilimi AES algoritmasini ve anahtar dagitimini incele AES yapilandirma rehberi\nHafta 8: Vize Haftasi Sinav hazirligi yap Vize notlari ve örnek sorular\nHafta 9: Rastgele Bit Olusturma ve Akis Sifreleme Rastgele sayi üretim tekniklerini arastir Akis sifreleme notlari\nHafta 10: Açik Anahtarli Sifreleme, RSA RSA algoritmasinin adimlarini gözden geçir RSA uygulama dökümani\nHafta 11: Hash Fonksiyonlari Hash fonksiyonlarinin güvenlik özelliklerini incele Hash fonksiyonlari dokümani\nHafta 12: Dijital Imzalar Dijital imza algoritmalarini arastir Dijital imza örnekleri\nHafta 13: Erisim Kontrolü, Protokoller Erisim kontrol modellerini incele Protokol analiz notlari\nHafta 14: Proje Sunumlari Proje raporunu hazirla ve sunum provasi yap Proje yönergesi ve degerlendirme formu\n",
+  "source_file": "BMB420_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

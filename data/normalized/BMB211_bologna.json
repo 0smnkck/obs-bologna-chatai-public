@@ -1,0 +1,52 @@
+{
+  "title": "BMB211 - Veri Yapıları Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB211",
+    "ders_adi": "Veri Yapıları",
+    "yariyil": "3",
+    "kredi": "2",
+    "akts": "3",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Veri organizasyonu ve manipülasyonu için soyut kavramları tanıtmak, bu kavramların problem çözmede nasıl yararlı olduğunu ve soyutlamaların nesne yönelimli programlama dili ile nasıl gerçekleştirilebileceğini göstermek.",
+    "icerik": "Algoritma analizi, sıralama, yığın, sıra, bağlantılı liste, ağaç, karma tablosu, öncelik sırası, grafik veri yapıları ve grafik algoritmaları",
+    "yontemler": "yüz yüze",
+    "kaynaklar": {
+      "kitaplar": [
+        "Lafore, Robert. Data Structures & Algorithms in Java. 2nd ed., Sams, 2003."
+      ],
+      "ders_notlari": [
+        "İnternet Kaynakları"
+      ]
+    },
+    "degerlendirme": [],
+    "ogrenme_cikti": [
+      "Veri yapısı işleminin hesaplama karmaşıklığını analiz eder.",
+      "Ortak veri yapı tiplerini geliştirmek ve verimli kullanmak",
+      "İyi bilinen veri yapılarını kullanarak programlama problemlerini çözme",
+      "Problem çözme konusunda yeni veri yapılarının tasarlanması ve geliştirilmesi"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Giriş: Veri Yapıları Ders Notlarını Okuma Bölüm 1",
+      "Hafta 2: Algoritmik Karmaşıklığı ve İlgili Gösterimleri Ölçme Ders Notlarını Okuma Bölüm 2",
+      "Hafta 3: Sıralama Ders Notlarını Okuma Bölüm 7",
+      "Hafta 4: Yığınlar ve sıralar Ders Notlarını Okuma Bölüm 4",
+      "Hafta 5: Bağlı Listeler Ders Notlarını Okuma Bölüm 5",
+      "Hafta 6: Ağaçlar ve İlgili Konseptler Ders Notlarını Okuma Bölüm 6",
+      "Hafta 7: Tekrar Ders Notlarını Okuma Bölüm 7",
+      "Hafta 8: VİZE sınav sınav",
+      "Hafta 9: İkili Ağaçlar Ders Notlarını Okuma Bölüm 8",
+      "Hafta 10: Ağaç Geçişi Algoritmaları Ders Notlarını Okuma Bölüm 9",
+      "Hafta 11: Anahtarlı Tablolar Ders Notlarını Okuma Bölüm 10",
+      "Hafta 12: Öncelikli Sıra Ders Notlarını Okuma Bölüm 11",
+      "Hafta 13: Grafikler ve İlgili Konseptler Ders Notlarını Okuma Bölüm 12",
+      "Hafta 14: FİNAL sınav sınav"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Veri Yapıları\nDers Kodu: BMB211\nYarıyıl: 3. Yarıyıl\nKredi: 2\nAKTS Kredisi: 3\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr\n\n--- DERS AMACI ---\nVeri organizasyonu ve manipülasyonu için soyut kavramları tanıtmak, bu kavramların problem çözmede nasıl yararlı olduğunu ve soyutlamaların nesne yönelimli programlama dili ile nasıl gerçekleştirilebileceğini göstermek.\n\n--- DERS İÇERİĞİ ---\nAlgoritma analizi, sıralama, yığın, sıra, bağlantılı liste, ağaç, karma tablosu, öncelik sırası, grafik veri yapıları ve grafik algoritmaları\n\nÖğretim Yöntemleri: yüz yüze\n\n--- DERS KAYNAKLARI ---\n• Lafore, Robert. Data Structures & Algorithms in Java. 2nd ed., Sams, 2003.\n• Ders Notu: İnternet Kaynakları\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Veri yapısı işleminin hesaplama karmaşıklığını analiz eder.\n2. Ortak veri yapı tiplerini geliştirmek ve verimli kullanmak\n3. İyi bilinen veri yapılarını kullanarak programlama problemlerini çözme\n4. Problem çözme konusunda yeni veri yapılarının tasarlanması ve geliştirilmesi\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Giriş: Veri Yapıları Ders Notlarını Okuma Bölüm 1\nHafta 2: Algoritmik Karmaşıklığı ve İlgili Gösterimleri Ölçme Ders Notlarını Okuma Bölüm 2\nHafta 3: Sıralama Ders Notlarını Okuma Bölüm 7\nHafta 4: Yığınlar ve sıralar Ders Notlarını Okuma Bölüm 4\nHafta 5: Bağlı Listeler Ders Notlarını Okuma Bölüm 5\nHafta 6: Ağaçlar ve İlgili Konseptler Ders Notlarını Okuma Bölüm 6\nHafta 7: Tekrar Ders Notlarını Okuma Bölüm 7\nHafta 8: VİZE sınav sınav\nHafta 9: İkili Ağaçlar Ders Notlarını Okuma Bölüm 8\nHafta 10: Ağaç Geçişi Algoritmaları Ders Notlarını Okuma Bölüm 9\nHafta 11: Anahtarlı Tablolar Ders Notlarını Okuma Bölüm 10\nHafta 12: Öncelikli Sıra Ders Notlarını Okuma Bölüm 11\nHafta 13: Grafikler ve İlgili Konseptler Ders Notlarını Okuma Bölüm 12\nHafta 14: FİNAL sınav sınav\n",
+  "source_file": "BMB211_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

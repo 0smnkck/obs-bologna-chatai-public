@@ -1,0 +1,73 @@
+{
+  "title": "BMB312 - Gönüllülük Çalışmaları Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB312",
+    "ders_adi": "Gönüllülük Çalışmaları",
+    "yariyil": "6",
+    "kredi": "2",
+    "akts": "3",
+    "son_guncelleme": "21.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Özcan YIRTICI"
+  },
+  "sections": {
+    "amac": "Öğrencilerin; bilgi, birikim ve yaratıcılıklarını kullanarak üniversite ile toplum arasındaki bağların güçlendirilmesi konusunda öz değerlendirme becerilerinin geliştirilmesinin sağlamak ve bu amaç doğrultusunda toplumda engelli yaşamı, göç ve afet gibi toplumsal hassasiyetin yüksek olduğu konularda görünürlüğü artırmaktır.",
+    "icerik": "Yönetim ve Organizasyon Kavramları; Gönüllülük Kavramı ve Gönüllü Yönetimi; Temel Gönüllülük Alanları (Afet ve Acil Durum, Çevre, Eğitim ve Kültür, Spor, Sağlık ve Sosyal Hizmetler vb.); Gönüllü Çalışmalarla İlgili Proje Geliştirme ve Sahada Gönüllü Çalışmalara Katılım; Gönüllü Çalışmalarda Etik, Ahlaki, Dini, Geleneksel Değerler ve İlkeler; Kamu Kurumları, Yerel Yönetimler ve Sivil Toplum Kuruluşlarında (STK) Gönüllü Çalışmalara Katılım; Toplumda Risk Grupları ve Gönüllülük; Göçmenler ve Gönüllülük. Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "Aksoy, B., Çetin, T. ve Sönmez, Ö.F (2009). Topluma hizmet uygulamaları. Ankara: Pegem Akademi. Kuzucu, K. ve Kamer S. T. (2009). Topluma hizmet uygulamaları, Ankara: Pegem Akademi.",
+        "Erdoğan, E., Uyan-Semerci,s P. Yentürk, N. ve Yurttagüler, L. (Eds.). (2020). Türkiye’de Gönüllülük, Deneyimler, Sınırlılıklar ve Yeni Açılımlar. İstanbul: Bilgi Üniversitesi Yayınları.",
+        "Özmete, E. (2010). Sosyal kapitali yapılandırmak: Sosyal iletişim ağı ve yardımseverlik-gönüllülük. Aile ve Toplum, 11(6), 83-104."
+      ],
+      "ders_notlari": [
+        "Dictus, R. (2013). Türkiye’de gönüllülük: Gönüllülüğün Rolünün ve Katkılarının Keşfedilmesi. Çev. E. Erdem. Birleşmiş Milletler Gönüllüleri (UNV) programı Türkiye"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Toplumun güncel sorunlarına ilişkin bilgi ve beceriler kazanır.",
+      "Toplumun güncel sorunlarına duyarlı olup bunlara çözüm önerileri getirir.",
+      "Yerel ve evrensel sorunlara karşı yeni projelerde aktif olarak rol alır/ işbirliği içinde çalışır.",
+      "Projeleri yürütürken hem proje içinde hem de proje dışında etkili iletişim kurar.",
+      "İnsani, sosyal ve ahlaki değerlerin kazanılmasına ilişkin farkındalık kazanır."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Gönüllülük ve Gönüllü Yönetimi Gönüllülük ve Etik İlkelerin Önemi İletişim Stratejileri STK’lara Katılım ve Gönüllü Çalışmalar",
+      "Hafta 2: Toplumda Risk Grupları ve Gönüllülük",
+      "Hafta 3: Göçmenler ve Gönüllülük",
+      "Hafta 4: Temel Gönüllülük Alanları (Afet ve Acil Durum, Çevre, Eğitim ve Kültür, Sağlık ve Sosyal Hizmetler, Spor vb.)",
+      "Hafta 5: Sahada gönüllü çalışmalar (Kamu kurumları, yerel yönetimler ve gönüllü sivil toplum kuruluşu ile çalışmak)",
+      "Hafta 6: Sahada gönüllü çalışmalar",
+      "Hafta 7: Sahada gönüllü çalışmalar",
+      "Hafta 8: Ara Sınav",
+      "Hafta 9: Sahada gönüllü çalışmalar",
+      "Hafta 10: Sahada gönüllü çalışmalar",
+      "Hafta 11: Sahada gönüllü çalışmalar",
+      "Hafta 12: Sahada gönüllü çalışmalar",
+      "Hafta 13: Örnek proje hazırlama ve gönüllü çalışmalar",
+      "Hafta 14: Ders süresince gerçekleştirilen çalışmaların paylaşılması ve değerlendirilmesi (Proje Sunumları)",
+      "Hafta 15: Ders süresince gerçekleştirilen çalışmaların paylaşılması ve değerlendirilmesi (Proje Sunumları)",
+      "Hafta 16: Final"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Gönüllülük Çalışmaları\nDers Kodu: BMB312\nYarıyıl: 6. Yarıyıl\nKredi: 2\nAKTS Kredisi: 3\nDers Saati: Teori=1, Uygulama=2, Lab=0\nSon Güncelleme: 21.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Özcan YIRTICI\n\n--- DERS AMACI ---\nÖğrencilerin; bilgi, birikim ve yaratıcılıklarını kullanarak üniversite ile toplum arasındaki bağların güçlendirilmesi konusunda öz değerlendirme becerilerinin geliştirilmesinin sağlamak ve bu amaç doğrultusunda toplumda engelli yaşamı, göç ve afet gibi toplumsal hassasiyetin yüksek olduğu konularda görünürlüğü artırmaktır.\n\n--- DERS İÇERİĞİ ---\nYönetim ve Organizasyon Kavramları; Gönüllülük Kavramı ve Gönüllü Yönetimi; Temel Gönüllülük Alanları (Afet ve Acil Durum, Çevre, Eğitim ve Kültür, Spor, Sağlık ve Sosyal Hizmetler vb.); Gönüllü Çalışmalarla İlgili Proje Geliştirme ve Sahada Gönüllü Çalışmalara Katılım; Gönüllü Çalışmalarda Etik, Ahlaki, Dini, Geleneksel Değerler ve İlkeler; Kamu Kurumları, Yerel Yönetimler ve Sivil Toplum Kuruluşlarında (STK) Gönüllü Çalışmalara Katılım; Toplumda Risk Grupları ve Gönüllülük; Göçmenler ve Gönüllülük. Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• Aksoy, B., Çetin, T. ve Sönmez, Ö.F (2009). Topluma hizmet uygulamaları. Ankara: Pegem Akademi. Kuzucu, K. ve Kamer S. T. (2009). Topluma hizmet uygulamaları, Ankara: Pegem Akademi.\n• Erdoğan, E., Uyan-Semerci,s P. Yentürk, N. ve Yurttagüler, L. (Eds.). (2020). Türkiye’de Gönüllülük, Deneyimler, Sınırlılıklar ve Yeni Açılımlar. İstanbul: Bilgi Üniversitesi Yayınları.\n• Özmete, E. (2010). Sosyal kapitali yapılandırmak: Sosyal iletişim ağı ve yardımseverlik-gönüllülük. Aile ve Toplum, 11(6), 83-104.\n• Ders Notu: Dictus, R. (2013). Türkiye’de gönüllülük: Gönüllülüğün Rolünün ve Katkılarının Keşfedilmesi. Çev. E. Erdem. Birleşmiş Milletler Gönüllüleri (UNV) programı Türkiye\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %30\nProje: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Toplumun güncel sorunlarına ilişkin bilgi ve beceriler kazanır.\n2. Toplumun güncel sorunlarına duyarlı olup bunlara çözüm önerileri getirir.\n3. Yerel ve evrensel sorunlara karşı yeni projelerde aktif olarak rol alır/ işbirliği içinde çalışır.\n4. Projeleri yürütürken hem proje içinde hem de proje dışında etkili iletişim kurar.\n5. İnsani, sosyal ve ahlaki değerlerin kazanılmasına ilişkin farkındalık kazanır.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Gönüllülük ve Gönüllü Yönetimi Gönüllülük ve Etik İlkelerin Önemi İletişim Stratejileri STK’lara Katılım ve Gönüllü Çalışmalar\nHafta 2: Toplumda Risk Grupları ve Gönüllülük\nHafta 3: Göçmenler ve Gönüllülük\nHafta 4: Temel Gönüllülük Alanları (Afet ve Acil Durum, Çevre, Eğitim ve Kültür, Sağlık ve Sosyal Hizmetler, Spor vb.)\nHafta 5: Sahada gönüllü çalışmalar (Kamu kurumları, yerel yönetimler ve gönüllü sivil toplum kuruluşu ile çalışmak)\nHafta 6: Sahada gönüllü çalışmalar\nHafta 7: Sahada gönüllü çalışmalar\nHafta 8: Ara Sınav\nHafta 9: Sahada gönüllü çalışmalar\nHafta 10: Sahada gönüllü çalışmalar\nHafta 11: Sahada gönüllü çalışmalar\nHafta 12: Sahada gönüllü çalışmalar\nHafta 13: Örnek proje hazırlama ve gönüllü çalışmalar\nHafta 14: Ders süresince gerçekleştirilen çalışmaların paylaşılması ve değerlendirilmesi (Proje Sunumları)\nHafta 15: Ders süresince gerçekleştirilen çalışmaların paylaşılması ve değerlendirilmesi (Proje Sunumları)\nHafta 16: Final\n",
+  "source_file": "BMB312_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

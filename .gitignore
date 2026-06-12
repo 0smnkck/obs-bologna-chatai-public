@@ -1,0 +1,61 @@
+__pycache__/
+.gradio/
+.tmp.driveupload/
+.tmp.drivedownload/
+*.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Secrets and Configs
+.env
+.env.local
+
+# Logs and Databases
+*.log
+*.sqlite3
+data/raw/
+data/processed/
+data/metrics/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Agent Contexts
+.agents/
+
+# Scratch & Tmp Files
+scratch/
+.tmp
+temp_reports_content.txt
+
+# ===== PUBLIC RELEASE EXCLUSIONS =====
+
+# Reports (Tez, Sunum, Kişisel Belgeler)
+reports/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python Build Artifacts
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Pytest Cache
+.pytest_cache/
+
+# Antigravity Agent
+.antigravityignore
+
+# Notebook Checkpoints
+.ipynb_checkpoints/

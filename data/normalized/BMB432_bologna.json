@@ -1,0 +1,61 @@
+{
+  "title": "BMB432 - VLSI Tasarımı Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB432",
+    "ders_adi": "VLSI Tasarımı",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "28.11.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+  },
+  "sections": {
+    "amac": "CMOS tabanlı VLSI tasarım tekniklerini öğrenmek ve proje kapsamında uygulamaları olarak hayata geçirmek.",
+    "icerik": "Verilog HDL'e giriş. MOSFET transistörlerin ileri düzeyde modellemesi. CMOS üretim teknolojileri. Çok büyük ölçekli tümleşik (VLSI) devre benzetim ve eniyileme teknikleri. VLSI devre tasarım teknikleri ve araçları. VLSI devre tasarımlarının testi ve doğrulanması. Karmaşık devre tasarım. Çizim ve doğrulama projesi.",
+    "yontemler": "Bilgisayar ortamında benzetim ve uygulamaya dayalı anlatım",
+    "kaynaklar": {
+      "kitaplar": [
+        "Digital VLSI Chip Design with Cadence and Synopsys CAD Tools, Erik Brunvand Solid-State Electronic Devices, Ben G. Streetman"
+      ],
+      "ders_notlari": [
+        "CMOS VLSI Design: A Circuits and Systems Perspective (3rd Ed.), Neil Weste, David Harris"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Temel CMOS VLSI tasarım ortamları ve tekniklerinin kullanımını",
+      "CMOS devrelerin tasarım yöntemleri hakkında bilgi sahibi olmak"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: VSLI tasarımına giriş",
+      "Hafta 2: Verilog",
+      "Hafta 3: CMOS VLSI tasarım ortamları ve teknikleri, teknoloji kütüphaneleri",
+      "Hafta 4: CMOS devreleri, tasarım, modelleme ve üretim",
+      "Hafta 5: Mantıksal Çaba, Bağlantı Mühendisliği",
+      "Hafta 6: Kombine Devreler",
+      "Hafta 7: Sıralı Devreler",
+      "Hafta 8: Veri Yolu Fonksiyonel Birimleri",
+      "Hafta 9: Bellekler ve dizi devreleri",
+      "Hafta 10: Test için Tasarım, Düşük Güç için Tasarım",
+      "Hafta 11: Paketleme, Güç, G/Ç",
+      "Hafta 12: Ölçekleme ve Ekonomi",
+      "Hafta 13: CMOS'a Alternatif Teknolojiler",
+      "Hafta 14: CMOS'a Alternatif Teknolojiler"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: VLSI Tasarımı\nDers Kodu: BMB432\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 28.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\n\n--- DERS AMACI ---\nCMOS tabanlı VLSI tasarım tekniklerini öğrenmek ve proje kapsamında uygulamaları olarak hayata geçirmek.\n\n--- DERS İÇERİĞİ ---\nVerilog HDL'e giriş. MOSFET transistörlerin ileri düzeyde modellemesi. CMOS üretim teknolojileri. Çok büyük ölçekli tümleşik (VLSI) devre benzetim ve eniyileme teknikleri. VLSI devre tasarım teknikleri ve araçları. VLSI devre tasarımlarının testi ve doğrulanması. Karmaşık devre tasarım. Çizim ve doğrulama projesi.\n\nÖğretim Yöntemleri: Bilgisayar ortamında benzetim ve uygulamaya dayalı anlatım\n\n--- DERS KAYNAKLARI ---\n• Digital VLSI Chip Design with Cadence and Synopsys CAD Tools, Erik Brunvand Solid-State Electronic Devices, Ben G. Streetman\n• Ders Notu: CMOS VLSI Design: A Circuits and Systems Perspective (3rd Ed.), Neil Weste, David Harris\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Temel CMOS VLSI tasarım ortamları ve tekniklerinin kullanımını\n2. CMOS devrelerin tasarım yöntemleri hakkında bilgi sahibi olmak\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: VSLI tasarımına giriş\nHafta 2: Verilog\nHafta 3: CMOS VLSI tasarım ortamları ve teknikleri, teknoloji kütüphaneleri\nHafta 4: CMOS devreleri, tasarım, modelleme ve üretim\nHafta 5: Mantıksal Çaba, Bağlantı Mühendisliği\nHafta 6: Kombine Devreler\nHafta 7: Sıralı Devreler\nHafta 8: Veri Yolu Fonksiyonel Birimleri\nHafta 9: Bellekler ve dizi devreleri\nHafta 10: Test için Tasarım, Düşük Güç için Tasarım\nHafta 11: Paketleme, Güç, G/Ç\nHafta 12: Ölçekleme ve Ekonomi\nHafta 13: CMOS'a Alternatif Teknolojiler\nHafta 14: CMOS'a Alternatif Teknolojiler\n",
+  "source_file": "BMB432_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

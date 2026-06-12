@@ -1,0 +1,68 @@
+{
+  "title": "BMB442 - Paralel Hesaplama Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB442",
+    "ders_adi": "Paralel Hesaplama",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "02.12.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilerin paralel ve dağıtık hesaplama kavramlarını anlamalarını sağlamak, paralel algoritma tasarımı ve performans analizini öğretmek, farklı paralel programlama modellerini ve araçlarını kullanabilme becerisi kazandırmaktır.",
+    "icerik": "Paralel ve dağıtık sistemler temel kavramları Paralel hesaplama modelleri: Shared Memory ve Message Passing Çok çekirdekli ve GPU tabanlı paralel programlama Paralel algoritmalar ve performans ölçütleri Senkronizasyon ve kritik bölge problemleri Veri bölümlendirme ve iş yükü dağıtımı Paralel programlama araçları ve kütüphaneleri (MPI, OpenMP, CUDA) Büyük veri ve paralel işleme Proje uygulamaları ve vaka çalışmaları",
+    "yontemler": "Ders anlatımı, laboratuvar uygulamaları, vaka çalışmaları ve proje tabanlı öğrenme yöntemleri kullanılır. Öğrenciler hem teorik bilgiyi hem de pratik kodlama ve paralel uygulama becerilerini kazanır.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Peter S. Pacheco – An Introduction to Parallel Programming"
+      ],
+      "ders_notlari": [
+        "Ders notları öğretim elemanı tarafından hazırlanan slaytlar, paralel algoritma örnekleri ve laboratuvar uygulama yönergelerini içerir. Ayrıca öğrenciler için MPI, OpenMP ve CUDA örnek kodları sağlanır."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Paralel ve dağıtık hesaplama kavramlarını, paralel programlama modellerini ve performans analizini açıklar.",
+      "MPI, OpenMP veya CUDA kullanarak paralel algoritmalar tasarlar ve uygular.",
+      "Paralel hesaplama problemlerini bağımsız olarak çözebilir ve sonuçları teknik ve teknik olmayan paydaşlara açıklayabilir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Paralel hesaplamaya giriş ve temel kavramlar, Paralel hesaplamanın motivasyonu, Moore yasası, performans sınırları, Seri vs paralel programlama farkları, Temel kavramlar: speedup, efficiency, scalability",
+      "Hafta 2: Paralel Sistem Mimarileri, SISD – SIMD – MISD – MIMD, Çok çekirdekli işlemciler, Paylaşımlı bellek ve dağıtık bellek sistemleri, Paralel donanım trendleri Okuma materyali: sistem mimarileri ve paralel işlem modelleri",
+      "Hafta 3: Paralel Programlama Temelleri Paralel programların özellikleri İş parçacığı (thread) kavramı Task & data parallelism Amdahl ve Gustafson yasaları Örnek kodlar, MPI ve OpenMP dokümanları",
+      "Hafta 4: OpenMP’ye Giriş (Paylaşımlı Bellek Modeli) OpenMP temel direktifleri Paralel bloklar, work-sharing Paralel döngüler Senkronizasyon temel kavramlar CUDA / OpenCL örnekleri, uygulama yönergeleri",
+      "Hafta 5: OpenMP İleri Konular Atomik işlemler, critical bölgeler Reduction, scheduling stratejileri Performans ölçümü ve iyileştirme",
+      "Hafta 6: Dağıtık Bellek Modeli ve MPI’ye Giriş MPI mimarisi point-to-point iletişim MPI program yapısı Paralel toplama, broadcast Mutex, semafor ve barrier örnekleri, laboratuvar uygulamaları",
+      "Hafta 7: MPI Toplu Haberleşme ve İleri Seviye Collective operations MPI scatter/gather Non-blocking iletişim Veri dağıtımı stratejileri Örnek uygulamalar ve problem setleri",
+      "Hafta 8: Ara sınav Önceki haftaların örnekleri ve uygulamalar tekrar edilir",
+      "Hafta 9: GPU Mimarisi ve CUDA’ya Giriş GPU vs CPU farkları CUDA programlama modeli Kernel fonksiyonları Thread block, grid, warps",
+      "Hafta 10: CUDA İleri Düzey Programlama Paylaşımlı bellek Bank conflicts Bellek erişim optimizasyonu CUDA performans analizleri",
+      "Hafta 11: Heterojen Sistemler CPU+GPU birlikte kullanım OpenACC’ye giriş Çoklu GPU programlama kavramları",
+      "Hafta 12: Paralel Algoritmalar: Diziler ve Matris İşlemleri Paralel sıralama algoritmaları Paralel matris çarpımı Veri bölme stratejileri Load balancing",
+      "Hafta 13: Paralel Algoritmalar: Graf ve Veri Yoğun İşlem Paralel BFS & DFS Map-Reduce modeli Büyük veri için paralel işlem konseptleri",
+      "Hafta 14: Performans Analizi ve Optimizasyon Profiling araçları Speedup & Efficiency ölçümleri Hotspot analizi Donanım farklarının etkisi (CPU architecture, cache, NUMA)",
+      "Hafta 15: Final Projesi Sunumları / Genel Tekrar Büyük ölçekli paralel programlama projesi teslimi Her öğrencinin OpenMP/MPI/CUDA tabanlı proje sunumları Dönem değerlendirmesi ve kapanış"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Paralel Hesaplama\nDers Kodu: BMB442\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 02.12.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilerin paralel ve dağıtık hesaplama kavramlarını anlamalarını sağlamak, paralel algoritma tasarımı ve performans analizini öğretmek, farklı paralel programlama modellerini ve araçlarını kullanabilme becerisi kazandırmaktır.\n\n--- DERS İÇERİĞİ ---\nParalel ve dağıtık sistemler temel kavramları Paralel hesaplama modelleri: Shared Memory ve Message Passing Çok çekirdekli ve GPU tabanlı paralel programlama Paralel algoritmalar ve performans ölçütleri Senkronizasyon ve kritik bölge problemleri Veri bölümlendirme ve iş yükü dağıtımı Paralel programlama araçları ve kütüphaneleri (MPI, OpenMP, CUDA) Büyük veri ve paralel işleme Proje uygulamaları ve vaka çalışmaları\n\nÖğretim Yöntemleri: Ders anlatımı, laboratuvar uygulamaları, vaka çalışmaları ve proje tabanlı öğrenme yöntemleri kullanılır. Öğrenciler hem teorik bilgiyi hem de pratik kodlama ve paralel uygulama becerilerini kazanır.\n\n--- DERS KAYNAKLARI ---\n• Peter S. Pacheco – An Introduction to Parallel Programming\n• Ders Notu: Ders notları öğretim elemanı tarafından hazırlanan slaytlar, paralel algoritma örnekleri ve laboratuvar uygulama yönergelerini içerir. Ayrıca öğrenciler için MPI, OpenMP ve CUDA örnek kodları sağlanır.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nProje: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Paralel ve dağıtık hesaplama kavramlarını, paralel programlama modellerini ve performans analizini açıklar.\n2. MPI, OpenMP veya CUDA kullanarak paralel algoritmalar tasarlar ve uygular.\n3. Paralel hesaplama problemlerini bağımsız olarak çözebilir ve sonuçları teknik ve teknik olmayan paydaşlara açıklayabilir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Paralel hesaplamaya giriş ve temel kavramlar, Paralel hesaplamanın motivasyonu, Moore yasası, performans sınırları, Seri vs paralel programlama farkları, Temel kavramlar: speedup, efficiency, scalability\nHafta 2: Paralel Sistem Mimarileri, SISD – SIMD – MISD – MIMD, Çok çekirdekli işlemciler, Paylaşımlı bellek ve dağıtık bellek sistemleri, Paralel donanım trendleri Okuma materyali: sistem mimarileri ve paralel işlem modelleri\nHafta 3: Paralel Programlama Temelleri Paralel programların özellikleri İş parçacığı (thread) kavramı Task & data parallelism Amdahl ve Gustafson yasaları Örnek kodlar, MPI ve OpenMP dokümanları\nHafta 4: OpenMP’ye Giriş (Paylaşımlı Bellek Modeli) OpenMP temel direktifleri Paralel bloklar, work-sharing Paralel döngüler Senkronizasyon temel kavramlar CUDA / OpenCL örnekleri, uygulama yönergeleri\nHafta 5: OpenMP İleri Konular Atomik işlemler, critical bölgeler Reduction, scheduling stratejileri Performans ölçümü ve iyileştirme\nHafta 6: Dağıtık Bellek Modeli ve MPI’ye Giriş MPI mimarisi point-to-point iletişim MPI program yapısı Paralel toplama, broadcast Mutex, semafor ve barrier örnekleri, laboratuvar uygulamaları\nHafta 7: MPI Toplu Haberleşme ve İleri Seviye Collective operations MPI scatter/gather Non-blocking iletişim Veri dağıtımı stratejileri Örnek uygulamalar ve problem setleri\nHafta 8: Ara sınav Önceki haftaların örnekleri ve uygulamalar tekrar edilir\nHafta 9: GPU Mimarisi ve CUDA’ya Giriş GPU vs CPU farkları CUDA programlama modeli Kernel fonksiyonları Thread block, grid, warps\nHafta 10: CUDA İleri Düzey Programlama Paylaşımlı bellek Bank conflicts Bellek erişim optimizasyonu CUDA performans analizleri\nHafta 11: Heterojen Sistemler CPU+GPU birlikte kullanım OpenACC’ye giriş Çoklu GPU programlama kavramları\nHafta 12: Paralel Algoritmalar: Diziler ve Matris İşlemleri Paralel sıralama algoritmaları Paralel matris çarpımı Veri bölme stratejileri Load balancing\nHafta 13: Paralel Algoritmalar: Graf ve Veri Yoğun İşlem Paralel BFS & DFS Map-Reduce modeli Büyük veri için paralel işlem konseptleri\nHafta 14: Performans Analizi ve Optimizasyon Profiling araçları Speedup & Efficiency ölçümleri Hotspot analizi Donanım farklarının etkisi (CPU architecture, cache, NUMA)\nHafta 15: Final Projesi Sunumları / Genel Tekrar Büyük ölçekli paralel programlama projesi teslimi Her öğrencinin OpenMP/MPI/CUDA tabanlı proje sunumları Dönem değerlendirmesi ve kapanış\n",
+  "source_file": "BMB442_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

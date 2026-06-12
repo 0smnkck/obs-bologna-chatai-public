@@ -1,0 +1,66 @@
+{
+  "title": "BMB424 - Biyomedikal Sinyal İşleme Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB424",
+    "ders_adi": "Biyomedikal Sinyal İşleme",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "28.11.2025",
+    "ogretim_uyesi": "Prof. Dr. Ufuk Bal"
+  },
+  "sections": {
+    "amac": "Temel sinyal işleme teknik ve bilgilerinin biyomedikal alanda uygulanması ve bunların biyolojik ve tıbbi alanlarda karşılaşılabilecek örneklerle geliştirilmesi. Fizyolojik süreçlerin matematiksel modeller kullanılarak yorumlanması. Biyomedikal veri analizinde algoritmik çözümlerin uygulanması. Elektrik mühendisliğinde kullanılan yöntemlerin biyomedikal kaynaklı verilerin değerlendirilmesinde kullanılması.",
+    "icerik": "Biyomedikal işaretler, türleri ve kaynakları;eylem potansiyelleri; Fourier analizi; Gürültü filtreleme; Dalgacık dönüşümü; Temel bileşen analizi; Bağımsız bileşen analizi",
+    "yontemler": "Anlatım, sunum",
+    "kaynaklar": {
+      "kitaplar": [
+        "Biomedical Signal Analysis, Rangayyan, R.M",
+        "Biosignal and Medical Image Processing JOHN L. SEMMLOW, BENJAMIN GRIFFEL",
+        "2. Biomedical Signal Analysis, Rangayyan, R.M"
+      ],
+      "ders_notlari": [
+        "1. Biosignal and Medical Image Processing JOHN L. SEMMLOW, BENJAMIN GRIFFEL"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Dersi başarıyla bitiren bir öğrenci biyomedikal çalışmalarda kullanılabilen sinyal işleme kuramının temellerini bilir.",
+      "Biyomedikal sinyallerin sınıflandırılmasını ve sistem modelleme yaklaşımlarını kavrar.",
+      "Biyomedikal alan problemleri için temel sinyal işleme araçlarına sahiptir.",
+      "Problem çözümleri geliştirirken uygun bilgisayar programlama araçlarını yetkin bir şekilde kullanır.",
+      "Sinyal işleme ve biyomedikal uygulamalarında yapay zeka yöntemlerinin olası kullanımlarını öğrenir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Biyomedikal Sinyallere Giriş",
+      "Hafta 2: Biyoelektrik Sinyallerin Kökeni",
+      "Hafta 3: Biyosinyal Ölçümleri",
+      "Hafta 4: Korelasyon Tabanlı Analiz",
+      "Hafta 5: Evrişim ve Dürtü Yanıtı",
+      "Hafta 6: Spektral Analiz: Klasik Yöntemler",
+      "Hafta 7: Fourier Serisi Analizi",
+      "Hafta 8: Güç Spektrumu",
+      "Hafta 9: Gürültü Azaltma ve Dijital Filtreler",
+      "Hafta 10: Ara Sınav",
+      "Hafta 11: Parametrik Yöntemler",
+      "Hafta 12: Dalgacık Analizi",
+      "Hafta 13: Wiener Filtreleri",
+      "Hafta 14: Temel Bileşenler Analizi"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Biyomedikal Sinyal İşleme\nDers Kodu: BMB424\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 28.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Prof. Dr. Ufuk Bal\n\n--- DERS AMACI ---\nTemel sinyal işleme teknik ve bilgilerinin biyomedikal alanda uygulanması ve bunların biyolojik ve tıbbi alanlarda karşılaşılabilecek örneklerle geliştirilmesi. Fizyolojik süreçlerin matematiksel modeller kullanılarak yorumlanması. Biyomedikal veri analizinde algoritmik çözümlerin uygulanması. Elektrik mühendisliğinde kullanılan yöntemlerin biyomedikal kaynaklı verilerin değerlendirilmesinde kullanılması.\n\n--- DERS İÇERİĞİ ---\nBiyomedikal işaretler, türleri ve kaynakları;eylem potansiyelleri; Fourier analizi; Gürültü filtreleme; Dalgacık dönüşümü; Temel bileşen analizi; Bağımsız bileşen analizi\n\nÖğretim Yöntemleri: Anlatım, sunum\n\n--- DERS KAYNAKLARI ---\n• Biomedical Signal Analysis, Rangayyan, R.M\n• Biosignal and Medical Image Processing JOHN L. SEMMLOW, BENJAMIN GRIFFEL\n• 2. Biomedical Signal Analysis, Rangayyan, R.M\n• Ders Notu: 1. Biosignal and Medical Image Processing JOHN L. SEMMLOW, BENJAMIN GRIFFEL\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Dersi başarıyla bitiren bir öğrenci biyomedikal çalışmalarda kullanılabilen sinyal işleme kuramının temellerini bilir.\n2. Biyomedikal sinyallerin sınıflandırılmasını ve sistem modelleme yaklaşımlarını kavrar.\n3. Biyomedikal alan problemleri için temel sinyal işleme araçlarına sahiptir.\n4. Problem çözümleri geliştirirken uygun bilgisayar programlama araçlarını yetkin bir şekilde kullanır.\n5. Sinyal işleme ve biyomedikal uygulamalarında yapay zeka yöntemlerinin olası kullanımlarını öğrenir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Biyomedikal Sinyallere Giriş\nHafta 2: Biyoelektrik Sinyallerin Kökeni\nHafta 3: Biyosinyal Ölçümleri\nHafta 4: Korelasyon Tabanlı Analiz\nHafta 5: Evrişim ve Dürtü Yanıtı\nHafta 6: Spektral Analiz: Klasik Yöntemler\nHafta 7: Fourier Serisi Analizi\nHafta 8: Güç Spektrumu\nHafta 9: Gürültü Azaltma ve Dijital Filtreler\nHafta 10: Ara Sınav\nHafta 11: Parametrik Yöntemler\nHafta 12: Dalgacık Analizi\nHafta 13: Wiener Filtreleri\nHafta 14: Temel Bileşenler Analizi\n",
+  "source_file": "BMB424_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

@@ -1,0 +1,65 @@
+{
+  "title": "BMB204 - Mühendisler için Olasılık ve İstatistik Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB204",
+    "ders_adi": "Mühendisler için Olasılık ve İstatistik",
+    "yariyil": "4",
+    "kredi": "3",
+    "akts": "4",
+    "son_guncelleme": "09.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Mühendislik ve fen bilimleri problemlerinde belirsizliği anlamak, olasılık modelleri kurmak ve istatistiksel yöntemlerle karar verebilme yeteneği kazandırmak.",
+    "icerik": "Olasılık kavramları, rassal değişkenler ve dağılımlar (ayrık ve sürekli), çok değişkenli dağılımlar, örnekleme dağılımları, tahmin teorisi, hipotez testleri, regresyon ve korelasyon analizi, varyans analizi ve mühendislik uygulamalarına yönelik istatistiksel karar verme teknikleri.",
+    "yontemler": "Ders, teorik anlatım, grup ve bireysel çalışmalar ile işlenir.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Walpole, R. E., Myers, R. H., Myers, S. L., & Ye, K. (2012). Mühendisler ve Bilim İnsanları için Olasılık ve İstatistik (9. Baskı). Pearson Education, Inc."
+      ],
+      "ders_notlari": [
+        "Öğretim elemanı notları, temel ders kitapları, güncel makaleler"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Olasılık aksiyomlarını, koşullu olasılık ve Bayes teoremini kullanarak mühendislik sistemlerindeki belirsizlikleri modelleyebilir.",
+      "Kesikli ve sürekli rastgele değişkenlere ait olasılık dağılıflarını (Binom, Poisson, Normal, Üstel vb.) problemlere uygulayabilir.",
+      "Beklenen değer, varyans, moment çıkaran fonksiyon gibi matematiksel beklenti kavramlarını kullanarak rastgele değişkenlerin karakteristiklerini hesaplayabilir ve bu kavramları tahmin problemlerinde uygulayabilir.",
+      "Veri türlerini ayırt edebilir, veriyi tanımlayıcı istatistikler ve grafik yöntemlerle özetleyebilir ve temel örnekleme dağılımlarını (t, ki-kare, F) kullanarak veriden anlamlı çıkarımlar yapabilir.",
+      "Tek ve iki örneklem durumları için parametrik hipotez testleri (z, t, F testleri) ve güven aralıkları oluşturabilir; test sonuçlarını yorumlayarak mühendislik karar süreçlerinde kullanabilir.",
+      "Basit ve çoklu doğrusal regresyon modelleri kurabilir, model parametrelerini tahmin edebilir, model uygunluğunu değerlendirebilme (determinasyon katsayısı, artık analizi) ve korelasyon kavramını açıklayabilir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Temel Olasılık Kavramları, Kümeler Cebri, Olasılıksal Modeller 1. Bölümün okunması Kitap Bölüm 1",
+      "Hafta 2: Toplam Olasılık Teoremi, Bayes Kuralı, Koşullu Olasılık, Olayların Bağımsızlığı, Sayma Teknikleri 2. Bölümün okunması Kitap Bölüm 2",
+      "Hafta 3: Ayrık Rastgele Değişkenler, Olasılık Kütle Fonksiyonları, Rastgele Değişken Fonksiyonları, Beklenen Değer/Ortalama, Varyans, Standart Sapma 3. Bölümün okunması Kitap Bölüm 3",
+      "Hafta 4: Çoklu Rastgele Değişkenlerin, Ortak Olasılık Kütle Fonksiyonları, Koşullu Olasılık Kütle Fonksiyonları 4. Bölümün okunması Kitap Bölüm 4",
+      "Hafta 5: Bağımsız Olasılık Kütle Fonksiyonları, Sürekli Rastgele Değişkenler, Kümülatif Dağılım Fonksiyonu 5. Bölümün okunması Kitap Bölüm 5",
+      "Hafta 6: Çoklu Rastgele Değişkenlerin Ortak OYF’leri, Koşullu OYF, Normal Rastgele Değişkenler 6. Bölümün okunması Kitap Bölüm 6",
+      "Hafta 7: Koşullu Olasılık Yoğunluk Fonksiyonu 7–8. Bölümlerin okunması Kitap Bölüm 7–8",
+      "Hafta 8: Örnekleme dağılımları ve veri tanımlamaları Sekizinci Bölümün okunması Kitap Bölüm Sekiz",
+      "Hafta 9: Tahmin problemleri (tek ve çift örneklem) 9. Bölümün okunması Kitap Bölüm 9",
+      "Hafta 10: Hipotez testleri (tek ve çift örneklem) 10. Bölümün okunması Kitap Bölüm 10",
+      "Hafta 11: Basit doğrusal regresyon ve korelasyon 11. Bölümün okunması Kitap Bölüm 11",
+      "Hafta 12: Çoklu regresyon ve doğrusal olmayan modeller 12. Bölümün okunması Kitap Bölüm 12",
+      "Hafta 13: Deney tasarımı: tek faktör ve faktöriyel deneyler 13–14–15. Bölümlerin okunması Kitap Bölüm 13–15",
+      "Hafta 14: Parametrik olmayan istatistik, kalite kontrol ve Bayes istatistiği 16–18. Bölümlerin okunması Kitap Bölüm 16–18"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Mühendisler için Olasılık ve İstatistik\nDers Kodu: BMB204\nYarıyıl: 4. Yarıyıl\nKredi: 3\nAKTS Kredisi: 4\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 09.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr\n\n--- DERS AMACI ---\nMühendislik ve fen bilimleri problemlerinde belirsizliği anlamak, olasılık modelleri kurmak ve istatistiksel yöntemlerle karar verebilme yeteneği kazandırmak.\n\n--- DERS İÇERİĞİ ---\nOlasılık kavramları, rassal değişkenler ve dağılımlar (ayrık ve sürekli), çok değişkenli dağılımlar, örnekleme dağılımları, tahmin teorisi, hipotez testleri, regresyon ve korelasyon analizi, varyans analizi ve mühendislik uygulamalarına yönelik istatistiksel karar verme teknikleri.\n\nÖğretim Yöntemleri: Ders, teorik anlatım, grup ve bireysel çalışmalar ile işlenir.\n\n--- DERS KAYNAKLARI ---\n• Walpole, R. E., Myers, R. H., Myers, S. L., & Ye, K. (2012). Mühendisler ve Bilim İnsanları için Olasılık ve İstatistik (9. Baskı). Pearson Education, Inc.\n• Ders Notu: Öğretim elemanı notları, temel ders kitapları, güncel makaleler\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Olasılık aksiyomlarını, koşullu olasılık ve Bayes teoremini kullanarak mühendislik sistemlerindeki belirsizlikleri modelleyebilir.\n2. Kesikli ve sürekli rastgele değişkenlere ait olasılık dağılıflarını (Binom, Poisson, Normal, Üstel vb.) problemlere uygulayabilir.\n3. Beklenen değer, varyans, moment çıkaran fonksiyon gibi matematiksel beklenti kavramlarını kullanarak rastgele değişkenlerin karakteristiklerini hesaplayabilir ve bu kavramları tahmin problemlerinde uygulayabilir.\n4. Veri türlerini ayırt edebilir, veriyi tanımlayıcı istatistikler ve grafik yöntemlerle özetleyebilir ve temel örnekleme dağılımlarını (t, ki-kare, F) kullanarak veriden anlamlı çıkarımlar yapabilir.\n5. Tek ve iki örneklem durumları için parametrik hipotez testleri (z, t, F testleri) ve güven aralıkları oluşturabilir; test sonuçlarını yorumlayarak mühendislik karar süreçlerinde kullanabilir.\n6. Basit ve çoklu doğrusal regresyon modelleri kurabilir, model parametrelerini tahmin edebilir, model uygunluğunu değerlendirebilme (determinasyon katsayısı, artık analizi) ve korelasyon kavramını açıklayabilir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Temel Olasılık Kavramları, Kümeler Cebri, Olasılıksal Modeller 1. Bölümün okunması Kitap Bölüm 1\nHafta 2: Toplam Olasılık Teoremi, Bayes Kuralı, Koşullu Olasılık, Olayların Bağımsızlığı, Sayma Teknikleri 2. Bölümün okunması Kitap Bölüm 2\nHafta 3: Ayrık Rastgele Değişkenler, Olasılık Kütle Fonksiyonları, Rastgele Değişken Fonksiyonları, Beklenen Değer/Ortalama, Varyans, Standart Sapma 3. Bölümün okunması Kitap Bölüm 3\nHafta 4: Çoklu Rastgele Değişkenlerin, Ortak Olasılık Kütle Fonksiyonları, Koşullu Olasılık Kütle Fonksiyonları 4. Bölümün okunması Kitap Bölüm 4\nHafta 5: Bağımsız Olasılık Kütle Fonksiyonları, Sürekli Rastgele Değişkenler, Kümülatif Dağılım Fonksiyonu 5. Bölümün okunması Kitap Bölüm 5\nHafta 6: Çoklu Rastgele Değişkenlerin Ortak OYF’leri, Koşullu OYF, Normal Rastgele Değişkenler 6. Bölümün okunması Kitap Bölüm 6\nHafta 7: Koşullu Olasılık Yoğunluk Fonksiyonu 7–8. Bölümlerin okunması Kitap Bölüm 7–8\nHafta 8: Örnekleme dağılımları ve veri tanımlamaları Sekizinci Bölümün okunması Kitap Bölüm Sekiz\nHafta 9: Tahmin problemleri (tek ve çift örneklem) 9. Bölümün okunması Kitap Bölüm 9\nHafta 10: Hipotez testleri (tek ve çift örneklem) 10. Bölümün okunması Kitap Bölüm 10\nHafta 11: Basit doğrusal regresyon ve korelasyon 11. Bölümün okunması Kitap Bölüm 11\nHafta 12: Çoklu regresyon ve doğrusal olmayan modeller 12. Bölümün okunması Kitap Bölüm 12\nHafta 13: Deney tasarımı: tek faktör ve faktöriyel deneyler 13–14–15. Bölümlerin okunması Kitap Bölüm 13–15\nHafta 14: Parametrik olmayan istatistik, kalite kontrol ve Bayes istatistiği 16–18. Bölümlerin okunması Kitap Bölüm 16–18\n",
+  "source_file": "BMB204_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

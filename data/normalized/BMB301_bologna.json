@@ -1,0 +1,49 @@
+{
+  "title": "BMB 301 - Yaz Stajı – I Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB301",
+    "ders_adi": "Yaz Stajı – I",
+    "yariyil": "5",
+    "kredi": "0",
+    "akts": "5",
+    "son_guncelleme": "22.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi ÖKKEŞ GÖKALP SÖKMEN"
+  },
+  "sections": {
+    "amac": "Öğrencilerin akademik çalışmalarını sektör deneyimi ile güçlendirmeleri ve kariyere yönelik ilgilerini netleştirmelerini sağlamak",
+    "icerik": "Staj herhangi bir iş yerinde (kamu ya da özel sektör) 4 haftalık (20 işgünü) bir saha deneyimi kazanılmasını öngörmektedir. Öğrencilerin stajlarını başarıyla tamamlayabilmeleri için OKÜ Staj Yönergesi’ndeki prosedürü izlemeleri gerekmektedir. Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "yok"
+      ],
+      "ders_notlari": [
+        "Yok"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%100"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Eğitim sürecinde elde edilen teorik bilginin sektörde ne şekilde kullanıldığı bilgisini kazanır.",
+      "Edindiği bilgileri resmi bir rapor halinde sunma becerisi kazanır.",
+      "Uygulamada karşılaştığı sorunları çözmek için tek başına ya da takım olarak seçenekler üretme becerisi kazanır.",
+      "Staj yapılan kurum/şirkette birimler arasındaki ilişkileri tanımlama becerisi kazanır",
+      "Staj süresi boyunca üniversite eğitiminde verilmemiş yeni mesleki bilgi/beceri edinir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Mesleki deneyim",
+      "Hafta 2: Mesleki deneyim",
+      "Hafta 3: Mesleki deneyim",
+      "Hafta 4: Mesleki deneyim"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Yaz Stajı – I\nDers Kodu: BMB 301\nYarıyıl: 5. Yarıyıl\nKredi: 0\nAKTS Kredisi: 5\nDers Saati: Teori=0, Uygulama=0, Lab=0\nSon Güncelleme: 22.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\nÖğretim Üyesi: Dr. Öğr. Üyesi ÖKKEŞ GÖKALP SÖKMEN\nStaj Durumu: Var\n\n--- DERS AMACI ---\nÖğrencilerin akademik çalışmalarını sektör deneyimi ile güçlendirmeleri ve kariyere yönelik ilgilerini netleştirmelerini sağlamak\n\n--- DERS İÇERİĞİ ---\nStaj herhangi bir iş yerinde (kamu ya da özel sektör) 4 haftalık (20 işgünü) bir saha deneyimi kazanılmasını öngörmektedir. Öğrencilerin stajlarını başarıyla tamamlayabilmeleri için OKÜ Staj Yönergesi’ndeki prosedürü izlemeleri gerekmektedir. Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• yok\n• Ders Notu: Yok\n\n--- DEĞERLENDİRME ---\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %100\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Eğitim sürecinde elde edilen teorik bilginin sektörde ne şekilde kullanıldığı bilgisini kazanır.\n2. Edindiği bilgileri resmi bir rapor halinde sunma becerisi kazanır.\n3. Uygulamada karşılaştığı sorunları çözmek için tek başına ya da takım olarak seçenekler üretme becerisi kazanır.\n4. Staj yapılan kurum/şirkette birimler arasındaki ilişkileri tanımlama becerisi kazanır\n5. Staj süresi boyunca üniversite eğitiminde verilmemiş yeni mesleki bilgi/beceri edinir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Mesleki deneyim\nHafta 2: Mesleki deneyim\nHafta 3: Mesleki deneyim\nHafta 4: Mesleki deneyim\n",
+  "source_file": "BMB 301_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

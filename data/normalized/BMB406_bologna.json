@@ -1,0 +1,71 @@
+{
+  "title": "BMB406 - Mühendislik Ekonomisi Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB406",
+    "ders_adi": "Mühendislik Ekonomisi",
+    "yariyil": "8",
+    "kredi": "2",
+    "akts": "2",
+    "son_guncelleme": "23.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/@bahargezici bahargezici@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, mühendislik öğrencilerine ekonomik analiz becerileri kazandırarak teknik kararları maliyet, fayda ve sürdürülebilirlik açısından değerlendirebilmelerini sağlamaktır. Öğrenciler, mühendislik projelerinde karşılaşabilecekleri ekonomik problemleri tanımlayabilecek, alternatif çözümler geliştirebilecek ve bu çözümleri nicel verilerle karşılaştırarak en uygun seçeneği belirleyebilecek bilgi ve beceriye sahip olacaklardır. Ders ayrıca, mühendislik uygulamalarında maliyet tahmini, paranın zaman değeri, yatırım analizleri ve ekonomik optimizasyon gibi temel kavramları öğretmeyi hedefler.",
+    "icerik": "Mühendislik ekonomisinin tanımı ve önemi Mühendislik kararlarında ekonomik analiz süreci Paranın zaman değeri ve ilgili hesaplama yöntemleri Eşdeğerlik hesaplamaları: bugünkü değer, gelecekteki değer, yıllık değer Geri ödeme süresi, net bugünkü değer (NPV), iç kârlılık oranı (IRR) gibi yatırım değerlendirme kriterleri Alternatiflerin karşılaştırılması: ekonomik karşılaştırma yöntemleri Maliyet kavramları ve maliyet tahmini teknikleri Enflasyonun mühendislik ekonomik analizlerine etkisi Risk ve belirsizlik altında karar verme Tasarım ekonomisi ve yaşam döngüsü maliyet analizi Elektronik tablolar (Excel vb.) ile ekonomik analiz uygulamaları Gerçek mühendislik problemleri üzerinde ekonomik analiz örnekleri ve vaka çalışmaları",
+    "yontemler": "Mühendislik ekonomisi, mühendislik projelerinin ekonomik açıdan değerlendirilmesi ve kararların verilmesi sürecidir. Bu alandaki başlıca yöntemler: a. İzlenen Ekonomik Yöntemler Maliyet-fayda analizi (Cost-Benefit Analysis): Bu yöntem, projelerin faydalarını maliyetlerine karşı değerlendirir. Maliyetlerin ve faydaların sayısal verilerle ölçülmesi ve karşılaştırılması gerekir. Net Bugünkü Değer (NBD) / Net Present Value (NPV): Yatırım projelerinin gelecekteki nakit akışlarının bugünkü değere indirgenmesiyle, bir projenin karlılığı hesaplanır. İç Verim Oranı (IRR): Bir yatırımın sağladığı nakit akışlarının, yapılan yatırımı karşılayıp karşılamadığını ölçer. NPV’nin sıfır olduğu nokta IRR’dir. Geri Ödeme Süresi (Payback Period): Yatırımın, yapılan harcamaları ne kadar sürede geri kazanacağını hesaplar. Bu, özellikle kısa vadeli projelerde kullanılır. Duyarlılık Analizi: Proje parametrelerinin değişkenliğini inceleyerek, en kritik faktörlerin projeye olan etkisini değerlendirir. Karar Ağaçları: Belirsizlik durumlarını ve alternatif seçenekleri görselleştirerek, karar vermede yardımcı olan bir yöntemdir. Mühendislik ekonomisinde kullanılan bazı temel teknikler şunlardır: a. Hesaplama Teknikleri Nakit Akış Tablosu: Yatırım ve operasyonel maliyetlerin düzenli olarak kaydedilmesi ve zaman içerisinde gelişen ekonomik durumu takip etmek için kullanılır. İndirgeme (Discounting): Gelecek nakit akışlarını ve maliyetleri bugünkü değere indirgemek için kullanılır. Bu, uzun vadeli projelerde oldukça yaygındır. b. Ekonomik Karar Modelleri Karar Verme Matrisleri: Alternatifler arasında seçim yapmak için kullanılan, her bir alternatifin belirli kriterlere göre değerlendirildiği tablolardır. Ağırlıklı Skor Yöntemi: Birden fazla kriterin olduğu durumlarda, her bir kritere belirli bir ağırlık verilip alternatifler bu ağırlıklara göre sıralanır. c. Yatırım Değerlendirme Teknikleri Kapitalizasyon Faktörleri (Capitalization Factors): Yatırım projelerinin değerini ve getirisini belirlerken kullanılan faktörlerdir. Proje Yaşam Döngüsü Maliyeti (Life Cycle Costing): Bir projenin başlangıcından sonuna kadar olan tüm maliyetlerin analiz edilmesini sağlar.",
+    "kaynaklar": {
+      "kitaplar": [
+        "https://drive.google.com/file/d/10ioYJppmVV5V-1lobP8Jyvhx-7IadhzX/view?usp=drive_link",
+        "Dökümanlar \"Engineering Economy\" by William G. Sullivan, Elin M. Wicks, and C. Patrick Koelling"
+      ],
+      "ders_notlari": [
+        "https://drive.google.com/drive/folders/1w0TYyoVNbovuAm34ERlP_DtSLf0nFGZO?usp=drive_link"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Kısa Sınav",
+        "sayi": "2",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Öğrenci, mühendislik ekonomisinin temel kavramlarını, para zaman değeri, faiz, amortisman ve maliyet analizi prensiplerini açıklar.",
+      "Farklı yatırım alternatiflerini değerlendirmede kullanılan ekonomik analiz yöntemlerini (NPV, IRR, Payback, Benefit-Cost vb.) tanımlar .",
+      "Farklı yatırım alternatiflerini değerlendirmede kullanılan ekonomik analiz yöntemlerinin (NPV, IRR, Payback, Benefit-Cost vb.) aralarındaki farkları açıklar.",
+      "Mühendislik projelerinde ekonomik kararlar almak için finansal analiz araçlarını (nakit akış tabloları, maliyet-fayda analizi, duyarlılık analizi vb.) uygular.",
+      "Alternatif mühendislik çözümlerini karşılaştırarak en uygun yatırım kararını verir ve bunu matematiksel yöntemlerle destekler.",
+      "Gerçek mühendislik projelerinde ekonomik değerlendirme süreçlerini bağımsız olarak planlayabilir.",
+      "Ekip çalışması içerisinde ekonomik karar süreçlerine katkı sağlar; etik ve sürdürülebilirlik boyutlarını dikkate alarak karar verir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Mühendislik ekonomisine giriş ve temel kavramlar",
+      "Hafta 2: Faiz, bileşik ve basit faiz hesaplamaları Örnek problem setleri, formüller ve finansal tablolar",
+      "Hafta 3: Net bugünkü değer (NPV) ve fayda-maliyet analizi",
+      "Hafta 4: İç verim oranı (IRR) ve geri ödeme süresi (Payback Period) Örnek hesaplamalar, Excel uygulamaları",
+      "Hafta 5: Alternatiflerin karşılaştırılması ve ekonomik seçim Case study örnekleri, proje ödevleri",
+      "Hafta 6: Maliyet kavramları ve maliyet analizi Üretim maliyetleri, sabit/değişken maliyet örnekleri",
+      "Hafta 7: Amortisman ve varlık değerlemesi Amortisman yöntemleri, hesaplama örnekleri",
+      "Hafta 8: Ara Sınav Önceki haftaların örnekleri ve uygulamaları tekrar edilir",
+      "Hafta 9: Risk ve belirsizlik analizi Temel risk hesaplamaları, olasılık tabloları",
+      "Hafta 10: Proje finansmanı ve sermaye bütçelemesi Excel ile örnek sermaye bütçe planlaması",
+      "Hafta 11: Borç ve kredi maliyetleri Faiz hesaplamaları, kredi senaryoları",
+      "Hafta 12: Enerji ve çevre projelerinde ekonomik analiz Örnek projeler ve vaka çalışmaları",
+      "Hafta 13: Genel değerlendirme ve kapanış Ders özet notları, güncel yazılım mühendisliği trendleri"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Mühendislik Ekonomisi\nDers Kodu: BMB406\nYarıyıl: 8. Yarıyıl\nKredi: 2\nAKTS Kredisi: 2\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 23.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/@bahargezici bahargezici@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, mühendislik öğrencilerine ekonomik analiz becerileri kazandırarak teknik kararları maliyet, fayda ve sürdürülebilirlik açısından değerlendirebilmelerini sağlamaktır. Öğrenciler, mühendislik projelerinde karşılaşabilecekleri ekonomik problemleri tanımlayabilecek, alternatif çözümler geliştirebilecek ve bu çözümleri nicel verilerle karşılaştırarak en uygun seçeneği belirleyebilecek bilgi ve beceriye sahip olacaklardır. Ders ayrıca, mühendislik uygulamalarında maliyet tahmini, paranın zaman değeri, yatırım analizleri ve ekonomik optimizasyon gibi temel kavramları öğretmeyi hedefler.\n\n--- DERS İÇERİĞİ ---\nMühendislik ekonomisinin tanımı ve önemi Mühendislik kararlarında ekonomik analiz süreci Paranın zaman değeri ve ilgili hesaplama yöntemleri Eşdeğerlik hesaplamaları: bugünkü değer, gelecekteki değer, yıllık değer Geri ödeme süresi, net bugünkü değer (NPV), iç kârlılık oranı (IRR) gibi yatırım değerlendirme kriterleri Alternatiflerin karşılaştırılması: ekonomik karşılaştırma yöntemleri Maliyet kavramları ve maliyet tahmini teknikleri Enflasyonun mühendislik ekonomik analizlerine etkisi Risk ve belirsizlik altında karar verme Tasarım ekonomisi ve yaşam döngüsü maliyet analizi Elektronik tablolar (Excel vb.) ile ekonomik analiz uygulamaları Gerçek mühendislik problemleri üzerinde ekonomik analiz örnekleri ve vaka çalışmaları\n\nÖğretim Yöntemleri: Mühendislik ekonomisi, mühendislik projelerinin ekonomik açıdan değerlendirilmesi ve kararların verilmesi sürecidir. Bu alandaki başlıca yöntemler: a. İzlenen Ekonomik Yöntemler Maliyet-fayda analizi (Cost-Benefit Analysis): Bu yöntem, projelerin faydalarını maliyetlerine karşı değerlendirir. Maliyetlerin ve faydaların sayısal verilerle ölçülmesi ve karşılaştırılması gerekir. Net Bugünkü Değer (NBD) / Net Present Value (NPV): Yatırım projelerinin gelecekteki nakit akışlarının bugünkü değere indirgenmesiyle, bir projenin karlılığı hesaplanır. İç Verim Oranı (IRR): Bir yatırımın sağladığı nakit akışlarının, yapılan yatırımı karşılayıp karşılamadığını ölçer. NPV’nin sıfır olduğu nokta IRR’dir. Geri Ödeme Süresi (Payback Period): Yatırımın, yapılan harcamaları ne kadar sürede geri kazanacağını hesaplar. Bu, özellikle kısa vadeli projelerde kullanılır. Duyarlılık Analizi: Proje parametrelerinin değişkenliğini inceleyerek, en kritik faktörlerin projeye olan etkisini değerlendirir. Karar Ağaçları: Belirsizlik durumlarını ve alternatif seçenekleri görselleştirerek, karar vermede yardımcı olan bir yöntemdir. Mühendislik ekonomisinde kullanılan bazı temel teknikler şunlardır: a. Hesaplama Teknikleri Nakit Akış Tablosu: Yatırım ve operasyonel maliyetlerin düzenli olarak kaydedilmesi ve zaman içerisinde gelişen ekonomik durumu takip etmek için kullanılır. İndirgeme (Discounting): Gelecek nakit akışlarını ve maliyetleri bugünkü değere indirgemek için kullanılır. Bu, uzun vadeli projelerde oldukça yaygındır. b. Ekonomik Karar Modelleri Karar Verme Matrisleri: Alternatifler arasında seçim yapmak için kullanılan, her bir alternatifin belirli kriterlere göre değerlendirildiği tablolardır. Ağırlıklı Skor Yöntemi: Birden fazla kriterin olduğu durumlarda, her bir kritere belirli bir ağırlık verilip alternatifler bu ağırlıklara göre sıralanır. c. Yatırım Değerlendirme Teknikleri Kapitalizasyon Faktörleri (Capitalization Factors): Yatırım projelerinin değerini ve getirisini belirlerken kullanılan faktörlerdir. Proje Yaşam Döngüsü Maliyeti (Life Cycle Costing): Bir projenin başlangıcından sonuna kadar olan tüm maliyetlerin analiz edilmesini sağlar.\n\n--- DERS KAYNAKLARI ---\n• https://drive.google.com/file/d/10ioYJppmVV5V-1lobP8Jyvhx-7IadhzX/view?usp=drive_link\n• Dökümanlar \"Engineering Economy\" by William G. Sullivan, Elin M. Wicks, and C. Patrick Koelling\n• Ders Notu: https://drive.google.com/drive/folders/1w0TYyoVNbovuAm34ERlP_DtSLf0nFGZO?usp=drive_link\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nKısa Sınav: 2 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Öğrenci, mühendislik ekonomisinin temel kavramlarını, para zaman değeri, faiz, amortisman ve maliyet analizi prensiplerini açıklar.\n2. Farklı yatırım alternatiflerini değerlendirmede kullanılan ekonomik analiz yöntemlerini (NPV, IRR, Payback, Benefit-Cost vb.) tanımlar .\n3. Farklı yatırım alternatiflerini değerlendirmede kullanılan ekonomik analiz yöntemlerinin (NPV, IRR, Payback, Benefit-Cost vb.) aralarındaki farkları açıklar.\n4. Mühendislik projelerinde ekonomik kararlar almak için finansal analiz araçlarını (nakit akış tabloları, maliyet-fayda analizi, duyarlılık analizi vb.) uygular.\n5. Alternatif mühendislik çözümlerini karşılaştırarak en uygun yatırım kararını verir ve bunu matematiksel yöntemlerle destekler.\n6. Gerçek mühendislik projelerinde ekonomik değerlendirme süreçlerini bağımsız olarak planlayabilir.\n7. Ekip çalışması içerisinde ekonomik karar süreçlerine katkı sağlar; etik ve sürdürülebilirlik boyutlarını dikkate alarak karar verir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Mühendislik ekonomisine giriş ve temel kavramlar\nHafta 2: Faiz, bileşik ve basit faiz hesaplamaları Örnek problem setleri, formüller ve finansal tablolar\nHafta 3: Net bugünkü değer (NPV) ve fayda-maliyet analizi\nHafta 4: İç verim oranı (IRR) ve geri ödeme süresi (Payback Period) Örnek hesaplamalar, Excel uygulamaları\nHafta 5: Alternatiflerin karşılaştırılması ve ekonomik seçim Case study örnekleri, proje ödevleri\nHafta 6: Maliyet kavramları ve maliyet analizi Üretim maliyetleri, sabit/değişken maliyet örnekleri\nHafta 7: Amortisman ve varlık değerlemesi Amortisman yöntemleri, hesaplama örnekleri\nHafta 8: Ara Sınav Önceki haftaların örnekleri ve uygulamaları tekrar edilir\nHafta 9: Risk ve belirsizlik analizi Temel risk hesaplamaları, olasılık tabloları\nHafta 10: Proje finansmanı ve sermaye bütçelemesi Excel ile örnek sermaye bütçe planlaması\nHafta 11: Borç ve kredi maliyetleri Faiz hesaplamaları, kredi senaryoları\nHafta 12: Enerji ve çevre projelerinde ekonomik analiz Örnek projeler ve vaka çalışmaları\nHafta 13: Genel değerlendirme ve kapanış Ders özet notları, güncel yazılım mühendisliği trendleri\n",
+  "source_file": "BMB406_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

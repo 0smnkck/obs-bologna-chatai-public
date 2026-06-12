@@ -1,0 +1,72 @@
+{
+  "title": "BMB402 - Bilişim Hukuku Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB402",
+    "ders_adi": "Bilişim Hukuku",
+    "yariyil": "8",
+    "kredi": "2",
+    "akts": "2",
+    "son_guncelleme": "07.04.2026",
+    "ogretim_uyesi": "Doç. Dr. Mehmet Fatih TEFEK"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, bilgisayar mühendisliği öğrencilerine bilişim sistemlerinin tasarımı, geliştirilmesi ve yönetimi süreçlerinde karşılaşabilecekleri hukuki problemleri analiz etme yeteneği kazandırmaktır. Öğrencilerin; ulusal ve uluslararası bilişim mevzuatı, 7545 sayılı Siber Güvenlik Kanunu, kişisel verilerin korunması, fikri mülkiyet hakları ve siber suçlar hakkında donanım sahibi olmaları amaçlanmaktadır. Böylece, mesleki uygulamalarını mühendislik etiği ve yasal sorumluluklar (SOME, kritik altyapı güvenliği vb.) çerçevesinde yürütebilecek profesyonel bir vizyon geliştirmeleri hedeflenmektedir.",
+    "icerik": "Bilişim hukuku ve internet yönetiminin temel kavramları. 7545 Sayılı Siber Güvenlik Kanunu, siber uzay kavramı ve kurumsal siber güvenlik yükümlülükleri (SOME, kritik altyapılar). Bilişim sistemlerinde insan hakları, kişisel verilerin korunması mevzuatı (KVKK) ve mühendislik projelerine entegrasyonu. Türk Ceza Kanunu kapsamında bilişim suçları (sisteme yetkisiz girme, veri yok etme) ve adli bilişim (arama, kopyalama, el koyma) tedbirleri. 5651 Sayılı Kanun bağlamında içerik, yer ve erişim sağlayıcıların sorumlulukları ile erişimin engellenmesi usulleri. Elektronik ortamda sözleşmeler, elektronik imza ve e-ticaret hukuku. İnternet ortamında yazılım, veritabanı ve çoklu ortam tasarımlarının fikri mülkiyet hukuku ile korunması. Alan adları uyuşmazlıkları, unutulma hakkı ve bilişim hukukundaki güncel yargı kararları. Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "Bilişim Hukuku / Prof. Dr.Mustafa TOPALOĞLU",
+        "7545 Sayılı Siber Güvenlik Kanunu, T.C. Resmî Gazete (19 Mart 2025). Erişim Adresi: https://www.resmigazete.gov.tr/eskiler/2025/03/20250319-1.htm"
+      ],
+      "ders_notlari": [
+        "Anadolu Üniversitesi Açıköğretim Fakültesi Yayınları, Bilişim Hukuku Ders Kitabı (Yayın Kodu: HUK124U)"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Bilişim hukukundaki güncel tartışmaları, özellikle yargı kararlarına yansıyan \"unutulma hakkı\" boyutunda yorumlar.",
+      "7545 sayılı Siber Güvenlik Kanunu kapsamındaki siber uzay, siber olay tanımlarını ve kurumsal yükümlülükleri açıklar.",
+      "Bilişim hukukunun genel yapısını, internetin tarihi gelişimini ve Türkiye'deki yönetim kurumlarının görevlerini özetler.",
+      "Bilişim suçları kapsamında arama, kopyalama ve el koyma gibi ceza muhakemesi tedbirlerinin teknik ve hukuki sınırlarını açıklar.",
+      "Elektronik ortamda kurulan sözleşmelerin geçerlilik şartlarını ve elektronik imzanın hukuki sonuçlarını belirler.",
+      "Bilişim teknolojilerinin gelişimi karşısında insan haklarının ve kişisel verilerin korunması ihtiyacını değerlendirir.",
+      "Türkiye'de kişisel verilerin korunmasına yönelik ceza ve borçlar hukuku normlarını bilgisayar mühendisliği uygulamalarıyla ilişkilendirir.",
+      "5651 sayılı Kanun uyarınca içerik, yer ve erişim sağlayıcıların yükümlülüklerini ve sorumluluklarını birbirinden ayırt eder.",
+      "İnternet üzerindeki yazılım, multimedya ve web sayfası tasarımlarının fikri mülkiyet hukuku çerçevesinde korunmasını değerlendirir.",
+      "Alan adları (domain names) ile marka hakları arasındaki hukuki uyuşmazlıkları mühendislik projeleri kapsamında inceler.",
+      "Bilişim sistemine yetkisiz girme, verileri bozma veya yok etme gibi TCK kapsamındaki bilişim suçlarını analiz eder.",
+      "İnternet ortamındaki hukuka aykırı içeriklerin çıkartılması ve erişimin engellenmesi prosedürlerini teknik boyutlarıyla yorumlar."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: 7545 Sayılı Siber Güvenlik Kanunu'na Giriş (Siber uzay, siber olay tanımları ve kanunun amacı)",
+      "Hafta 2: Siber Güvenlik Kanunu Kapsamında Kurumsal Yükümlülükler (SOME, Kritik Altyapılar ve Yaptırımlar)",
+      "Hafta 3: Bilişim, İnternet ve Hukukun Temel Kavramları ile İnternetin Yönetimi",
+      "Hafta 4: Bilişim Sistemlerinde İnsan Hakları ve Kişisel Verilerin Korunması İhtiyacı",
+      "Hafta 5: Türkiye'de Kişisel Verilerin Korunması (KVKK, TCK ve İlgili Mevzuat)",
+      "Hafta 6: Bilişim Alanındaki Suçlar: Sisteme Girme, Engelleme, Verileri Yok Etme",
+      "Hafta 7: Bilişim Alanındaki Suçlar: Banka/Kredi Kartlarının Kötüye Kullanımı ve Yasak Cihaz/Programlar",
+      "Hafta 8: Bilgisayarlarda, Bilgisayar Programlarında ve Kütüklerinde Arama, Kopyalama ve Elkoyma Tedbiri",
+      "Hafta 9: 5651 Sayılı Kanun Bağlamında İnternet Süjelerinin (İçerik, Yer, Erişim Sağlayıcı) Sorumlulukları",
+      "Hafta 10: 5651 Sayılı Kanun: İçeriğin Çıkartılması ve Erişimin Engellenmesi Usulleri",
+      "Hafta 11: Elektronik Ortamda Sözleşmeler, E-Ticaret ve Haksız Rekabet",
+      "Hafta 12: İnternet Ortamında Fikrî Haklar, Eser Sahipliği ve Çoklu Ortam (Multimedya)",
+      "Hafta 13: İnternet Ortamında Sınai Haklar: Alan Adları, Markasal Kullanım ve Arama Motoru İhlalleri",
+      "Hafta 14: Bilişim Hukukundaki Son Gelişmeler ve Unutulma Hakkı (Yargı Kararları Çerçevesinde)"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Bilişim Hukuku\nDers Kodu: BMB402\nYarıyıl: 8. Yarıyıl\nKredi: 2\nAKTS Kredisi: 2\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 07.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Doç. Dr. Mehmet Fatih TEFEK\n\n--- DERS AMACI ---\nBu dersin amacı, bilgisayar mühendisliği öğrencilerine bilişim sistemlerinin tasarımı, geliştirilmesi ve yönetimi süreçlerinde karşılaşabilecekleri hukuki problemleri analiz etme yeteneği kazandırmaktır. Öğrencilerin; ulusal ve uluslararası bilişim mevzuatı, 7545 sayılı Siber Güvenlik Kanunu, kişisel verilerin korunması, fikri mülkiyet hakları ve siber suçlar hakkında donanım sahibi olmaları amaçlanmaktadır. Böylece, mesleki uygulamalarını mühendislik etiği ve yasal sorumluluklar (SOME, kritik altyapı güvenliği vb.) çerçevesinde yürütebilecek profesyonel bir vizyon geliştirmeleri hedeflenmektedir.\n\n--- DERS İÇERİĞİ ---\nBilişim hukuku ve internet yönetiminin temel kavramları. 7545 Sayılı Siber Güvenlik Kanunu, siber uzay kavramı ve kurumsal siber güvenlik yükümlülükleri (SOME, kritik altyapılar). Bilişim sistemlerinde insan hakları, kişisel verilerin korunması mevzuatı (KVKK) ve mühendislik projelerine entegrasyonu. Türk Ceza Kanunu kapsamında bilişim suçları (sisteme yetkisiz girme, veri yok etme) ve adli bilişim (arama, kopyalama, el koyma) tedbirleri. 5651 Sayılı Kanun bağlamında içerik, yer ve erişim sağlayıcıların sorumlulukları ile erişimin engellenmesi usulleri. Elektronik ortamda sözleşmeler, elektronik imza ve e-ticaret hukuku. İnternet ortamında yazılım, veritabanı ve çoklu ortam tasarımlarının fikri mülkiyet hukuku ile korunması. Alan adları uyuşmazlıkları, unutulma hakkı ve bilişim hukukundaki güncel yargı kararları. Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• Bilişim Hukuku / Prof. Dr.Mustafa TOPALOĞLU\n• 7545 Sayılı Siber Güvenlik Kanunu, T.C. Resmî Gazete (19 Mart 2025). Erişim Adresi: https://www.resmigazete.gov.tr/eskiler/2025/03/20250319-1.htm\n• Ders Notu: Anadolu Üniversitesi Açıköğretim Fakültesi Yayınları, Bilişim Hukuku Ders Kitabı (Yayın Kodu: HUK124U)\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Bilişim hukukundaki güncel tartışmaları, özellikle yargı kararlarına yansıyan \"unutulma hakkı\" boyutunda yorumlar.\n2. 7545 sayılı Siber Güvenlik Kanunu kapsamındaki siber uzay, siber olay tanımlarını ve kurumsal yükümlülükleri açıklar.\n3. Bilişim hukukunun genel yapısını, internetin tarihi gelişimini ve Türkiye'deki yönetim kurumlarının görevlerini özetler.\n4. Bilişim suçları kapsamında arama, kopyalama ve el koyma gibi ceza muhakemesi tedbirlerinin teknik ve hukuki sınırlarını açıklar.\n5. Elektronik ortamda kurulan sözleşmelerin geçerlilik şartlarını ve elektronik imzanın hukuki sonuçlarını belirler.\n6. Bilişim teknolojilerinin gelişimi karşısında insan haklarının ve kişisel verilerin korunması ihtiyacını değerlendirir.\n7. Türkiye'de kişisel verilerin korunmasına yönelik ceza ve borçlar hukuku normlarını bilgisayar mühendisliği uygulamalarıyla ilişkilendirir.\n8. 5651 sayılı Kanun uyarınca içerik, yer ve erişim sağlayıcıların yükümlülüklerini ve sorumluluklarını birbirinden ayırt eder.\n9. İnternet üzerindeki yazılım, multimedya ve web sayfası tasarımlarının fikri mülkiyet hukuku çerçevesinde korunmasını değerlendirir.\n10. Alan adları (domain names) ile marka hakları arasındaki hukuki uyuşmazlıkları mühendislik projeleri kapsamında inceler.\n11. Bilişim sistemine yetkisiz girme, verileri bozma veya yok etme gibi TCK kapsamındaki bilişim suçlarını analiz eder.\n12. İnternet ortamındaki hukuka aykırı içeriklerin çıkartılması ve erişimin engellenmesi prosedürlerini teknik boyutlarıyla yorumlar.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: 7545 Sayılı Siber Güvenlik Kanunu'na Giriş (Siber uzay, siber olay tanımları ve kanunun amacı)\nHafta 2: Siber Güvenlik Kanunu Kapsamında Kurumsal Yükümlülükler (SOME, Kritik Altyapılar ve Yaptırımlar)\nHafta 3: Bilişim, İnternet ve Hukukun Temel Kavramları ile İnternetin Yönetimi\nHafta 4: Bilişim Sistemlerinde İnsan Hakları ve Kişisel Verilerin Korunması İhtiyacı\nHafta 5: Türkiye'de Kişisel Verilerin Korunması (KVKK, TCK ve İlgili Mevzuat)\nHafta 6: Bilişim Alanındaki Suçlar: Sisteme Girme, Engelleme, Verileri Yok Etme\nHafta 7: Bilişim Alanındaki Suçlar: Banka/Kredi Kartlarının Kötüye Kullanımı ve Yasak Cihaz/Programlar\nHafta 8: Bilgisayarlarda, Bilgisayar Programlarında ve Kütüklerinde Arama, Kopyalama ve Elkoyma Tedbiri\nHafta 9: 5651 Sayılı Kanun Bağlamında İnternet Süjelerinin (İçerik, Yer, Erişim Sağlayıcı) Sorumlulukları\nHafta 10: 5651 Sayılı Kanun: İçeriğin Çıkartılması ve Erişimin Engellenmesi Usulleri\nHafta 11: Elektronik Ortamda Sözleşmeler, E-Ticaret ve Haksız Rekabet\nHafta 12: İnternet Ortamında Fikrî Haklar, Eser Sahipliği ve Çoklu Ortam (Multimedya)\nHafta 13: İnternet Ortamında Sınai Haklar: Alan Adları, Markasal Kullanım ve Arama Motoru İhlalleri\nHafta 14: Bilişim Hukukundaki Son Gelişmeler ve Unutulma Hakkı (Yargı Kararları Çerçevesinde)\n",
+  "source_file": "BMB402_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

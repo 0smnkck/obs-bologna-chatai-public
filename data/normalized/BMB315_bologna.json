@@ -1,0 +1,74 @@
+{
+  "title": "BMB315 - Bilgisayar Organizasyonu ve Tasarımı Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB315",
+    "ders_adi": "Bilgisayar Organizasyonu ve Tasarımı",
+    "yariyil": "5",
+    "kredi": "3",
+    "akts": "4",
+    "son_guncelleme": "06.04.2026",
+    "ogretim_uyesi": "Öğr. Gör. Fatma Neda Topuz fatmanedatopuz@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Öğrencilere bilgisayar mimarisinin temellerini sunar. Yazılım ve donanımın bilgisayar mimarisinde rollerini öğretmeyi amaçlamaktadır.",
+    "icerik": "Bilgisayar temel bileşenleri: CPU, bellek, giriş/çıkış birimleri, RISC-V mimarisi ve komut seti yapısı. İşlemcide veri akışı, kontrol birimi, komutların yürütülme aşamaları Bellek hiyerarşisi, registerlar, cache, ana bellek, disk, pipeline, veri bağımlılıkları Gelişmiş pipeline tasarımları ve branch predicition Basit giriş/çıkış ve assembly seviyesinde RISC-V programlama İş hattı yapısı. Giriş–çıkış düzeni: veri aktarım yöntemleri, kesmeler ve doğrudan belleğe erişim. Bellek düzenleri, sanal bellek, önbellek, bellek yönetim donanımı. Çok işlemci mimarileri: arabağlantı yapısı, yol hakemliği, önbellek tutarlılığı.",
+    "yontemler": "Yüz yüze eğitim",
+    "kaynaklar": {
+      "kitaplar": [
+        "J. L. Hennessy, and D. A. Patterson, Computer Architecture: A Quantitive Approach",
+        "Dökümanlar Teams'de paylaşılacaktır",
+        "Ödevler 3 adet ödev vardır",
+        "Sınavlar 1 arasınav ve 1 final vardır."
+      ],
+      "ders_notlari": [
+        "D. A. Patterson and J. L. Hennessy, Bilgisayar Mimarisi ve Tasarım Donanım/Yazılım Arayüzü RISC-V"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%45"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "1",
+        "katki": "%0"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%55"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Bilgisayar sisteminin temel bileşenlerini ve çalışma prensiplerini açıklar.",
+      "Komut seti mimarilerini (ISA) analiz eder ve farklı mimarileri karşılaştırır.",
+      "İşlemci performansını etkileyen faktörleri analiz eder ve performans hesaplamaları yapar.",
+      "Basit bir işlemci veri yolu ve kontrol birimi tasarlar.",
+      "Bellek hiyerarşisini açıklar ve performans üzerindeki etkilerini değerlendirir.",
+      "Assembly dili ve simülasyon araçları kullanarak mimari davranışı inceler.",
+      "Bilgisayar mimarisi ile diğer sistem yazılımları arasındaki ilişkileri açıklar."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Bilgisayar Mimarisine Giriş",
+      "Hafta 2: İleri işlemci yapıları: CISC/RISC mimarileri, dizi işlemciler.",
+      "Hafta 3: Komutlar: Bilgisayarın Dili",
+      "Hafta 4: Komutlar: Bilgisayarın Dili",
+      "Hafta 5: Kayan noktalı bilgisayar aritmetiği ve algoritmaları",
+      "Hafta 6: Kayan noktalı bilgisayar aritmetiği ve algoritmaları",
+      "Hafta 7: Arasınav",
+      "Hafta 8: İşlemci",
+      "Hafta 9: İşlemci",
+      "Hafta 10: Hafıza Hiyerarşisi",
+      "Hafta 11: Hafıza Hiyerarşisi",
+      "Hafta 12: Hafıza ve Giriş Çıkış Birimleri",
+      "Hafta 13: Çok çekirdekli, çok işlemcili ve kümeler",
+      "Hafta 14: Final Tekrar"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Bilgisayar Organizasyonu ve Tasarımı\nDers Kodu: BMB315\nYarıyıl: 5. Yarıyıl\nKredi: 3\nAKTS Kredisi: 4\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 06.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Öğr. Gör. Fatma Neda Topuz fatmanedatopuz@osmaniye.edu.tr\n\n--- DERS AMACI ---\nÖğrencilere bilgisayar mimarisinin temellerini sunar. Yazılım ve donanımın bilgisayar mimarisinde rollerini öğretmeyi amaçlamaktadır.\n\n--- DERS İÇERİĞİ ---\nBilgisayar temel bileşenleri: CPU, bellek, giriş/çıkış birimleri, RISC-V mimarisi ve komut seti yapısı. İşlemcide veri akışı, kontrol birimi, komutların yürütülme aşamaları Bellek hiyerarşisi, registerlar, cache, ana bellek, disk, pipeline, veri bağımlılıkları Gelişmiş pipeline tasarımları ve branch predicition Basit giriş/çıkış ve assembly seviyesinde RISC-V programlama İş hattı yapısı. Giriş–çıkış düzeni: veri aktarım yöntemleri, kesmeler ve doğrudan belleğe erişim. Bellek düzenleri, sanal bellek, önbellek, bellek yönetim donanımı. Çok işlemci mimarileri: arabağlantı yapısı, yol hakemliği, önbellek tutarlılığı.\n\nÖğretim Yöntemleri: Yüz yüze eğitim\n\n--- DERS KAYNAKLARI ---\n• J. L. Hennessy, and D. A. Patterson, Computer Architecture: A Quantitive Approach\n• Dökümanlar Teams'de paylaşılacaktır\n• Ödevler 3 adet ödev vardır\n• Sınavlar 1 arasınav ve 1 final vardır.\n• Ders Notu: D. A. Patterson and J. L. Hennessy, Bilgisayar Mimarisi ve Tasarım Donanım/Yazılım Arayüzü RISC-V\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %45\nÖdev: 1 adet, katkı oranı %0\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %55\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Bilgisayar sisteminin temel bileşenlerini ve çalışma prensiplerini açıklar.\n2. Komut seti mimarilerini (ISA) analiz eder ve farklı mimarileri karşılaştırır.\n3. İşlemci performansını etkileyen faktörleri analiz eder ve performans hesaplamaları yapar.\n4. Basit bir işlemci veri yolu ve kontrol birimi tasarlar.\n5. Bellek hiyerarşisini açıklar ve performans üzerindeki etkilerini değerlendirir.\n6. Assembly dili ve simülasyon araçları kullanarak mimari davranışı inceler.\n7. Bilgisayar mimarisi ile diğer sistem yazılımları arasındaki ilişkileri açıklar.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Bilgisayar Mimarisine Giriş\nHafta 2: İleri işlemci yapıları: CISC/RISC mimarileri, dizi işlemciler.\nHafta 3: Komutlar: Bilgisayarın Dili\nHafta 4: Komutlar: Bilgisayarın Dili\nHafta 5: Kayan noktalı bilgisayar aritmetiği ve algoritmaları\nHafta 6: Kayan noktalı bilgisayar aritmetiği ve algoritmaları\nHafta 7: Arasınav\nHafta 8: İşlemci\nHafta 9: İşlemci\nHafta 10: Hafıza Hiyerarşisi\nHafta 11: Hafıza Hiyerarşisi\nHafta 12: Hafıza ve Giriş Çıkış Birimleri\nHafta 13: Çok çekirdekli, çok işlemcili ve kümeler\nHafta 14: Final Tekrar\n",
+  "source_file": "BMB315_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

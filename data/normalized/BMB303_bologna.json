@@ -1,0 +1,55 @@
+{
+  "title": "BMB 303 - Veritabanı Yönetim Sistemleri Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB303",
+    "ders_adi": "Veritabanı Yönetim Sistemleri",
+    "yariyil": "5",
+    "kredi": "2",
+    "akts": "3",
+    "son_guncelleme": "12.12.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı gerçek uygulamalarda verimli veritabanlarının nasıl tasarlanacağı, geliştirileceği ve kodlanacağı konusunda bilgi sahibi olmalarını, SQL dilini etkin bir şekilde kullanmalarını sağlamaktır.",
+    "icerik": "VTYS Temel Kavramları, Tablolar ve Alanlar, Veritabanı Yazılımları, Veritabanı Ortamları, 3. Seviye ANTI-SPARC Mimarisi, Varlık İlişki (Vİ) Modellemesi, İlişkisel Veritabanı Modeli, İlişkisel Cebir ve Kalkülüs, SQL Programlama Diline Giriş, DDL, DML, DCL, TCL, Veritabanı Tasarımı, MS Access, MSSQL ve MySQL, QBE, Oracle, Veritabanı Tablolarının Normalizasyonu, Veritabanı Mimarileri, Veritabanı Yönetimi ve Güvenlik",
+    "yontemler": "Anlatım, Grup Çalışması, Problem Çözme, Proje Tasarımı, Soru-Cevap",
+    "kaynaklar": {
+      "kitaplar": [
+        "R. Elmasri, S.B. Navathe, \" Fundamentals of Database Systems (Pearson new international edition)\", 6th edition, Pearson, 2014.",
+        "R. Ramakrishnan, J. Gehrke, \"Database Management Systems\", McGraw Hill, 2003.",
+        "2. R. Ramakrishnan, J. Gehrke, \"Database Management Systems\", McGraw Hill, 2003."
+      ],
+      "ders_notlari": [
+        "1.R. Elmasri, S.B. Navathe, \" Fundamentals of Database Systems (Pearson new international edition)\", 6th edition, Pearson, 2014."
+      ]
+    },
+    "degerlendirme": [],
+    "ogrenme_cikti": [
+      "Öğrenciler VTYS için temel kavramları ve veritabanını öğrenir.",
+      "Veritabanı yazılımını tanımlayabilir.",
+      "Öğrenci ilişkisel veritabanlarını öğrenir, veritabanı, tablolar ve alanları tanımlayabilir, ve varlık ilişki modelini kullanarak veritabanı oluşturabilir.",
+      "Öğrenci veritabanı içerisindeki verileri işlemek için etkin sorgulamalar yazabilir.",
+      "Öğrenciler SQL`i tanımlayabilir, MS Access, MSSQL ve MySQL teknolojilerine aşina olur, ve gerçek hayat problemleri için etkin uygulamalar geliştirebilir ve SQL dilini kullanabilir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: VTYS için temel kavramlar ve tanımlar, Veritabanına Giriş, Veritabanları, Tablolar ve Alanlar, Veritabanı Yazılımları Ders Notlarını Okuma Bölüm 1",
+      "Hafta 2: Veritabanı Ortamı, VTYS Tarihçesi, 3. Seviye ANSI-SPARC Mimarisi, Veritabanı Dilleri, Veri Modelleri Ders Notlarını Okuma Bölüm 2",
+      "Hafta 3: Varlık İlişki Diyagramları, Varlık Tipleri, İlişki Türleri, Nitelikler, Anahtarlar, Yapısal Kısıtlamalar, Vİ Modellerinin Faydaları, Vİ Modellerinin Sorunları Ders Notlarını Okuma Bölüm 7",
+      "Hafta 4: İlişkisel Model, İlişkisel Örnekler, İlişkinin Matematiksel Tanımı, Veritaanı İlişkileri, İlişki Özellikleri, İlişki Anahtarları Ders Notlarını Okuma Bölüm 4",
+      "Hafta 5: İlişkisel Cebir, İlişkisel Cebir Operatörleri ve Sorgu Oluşturma, İlişisel Kalkülüs Ders Notlarını Okuma Bölüm 5",
+      "Hafta 6: Veri Tanımlama Diline (VTD) Giriş Komutları, SQL Veri Manipülasyonuna Giriş Komutları, select ile Sorgu Oluşturma, select ile Karmaşık Sorgular Oluşturma Ders Notlarını Okuma Bölüm 6",
+      "Hafta 7: SQL Veri Kontrol Diline (VKD) Giriş Komutları, SQL İşlemsel Kontrol Diline (İKD) Giriş Komutları, Veritabanı Programlarının SQL Farklılıkları Ders Notlarını Okuma Bölüm 7",
+      "Hafta 8: VİZE sınav sınav",
+      "Hafta 9: SQL Veri Kontrol Diline (VKD) Giriş Komutları, SQL İşlemsel Kontrol Diline (İKD) Giriş Komutları, Veritabanı Programlarının SQL Farklılıkları - devamı Ders Notlarını Okuma Bölüm 8",
+      "Hafta 10: Sorgunun temel kavramları, QBE Giriş, QBE için İlişkisel Operantlar, Sorgu İşleme Ders Notlarını Okuma Bölüm 9",
+      "Hafta 11: Normalizasyona Giriş, Veritabanı Şemalarında Arıtma ve Normal Formlar, Birinci Normal Form (1NF), İkinci Normal Form (2NF) Ders Notlarını Okuma Bölüm 10",
+      "Hafta 12: Veritabanı Normalizasyonunda Üçüncü Normal Form (3NF), Boyce-Codd Normal Formu (BCNF-3.5NF), Dördüncü Normal Form (4NF) Ders Notlarını Okuma Bölüm 11",
+      "Hafta 13: Veritabanı Mimarisi, Çok Kullanıcılı VTYS Mimarileri, Teleprocessing Topolojisi, Dosya-Sunucu Mimarisi, Geleneksel İki Katmanlı İstemci-Sunucu Mimarisi, Üç Katmanlı İstemci-Sunucu Mimarisi, N-Katmanlı Mimariler, Ara Katman, İşlem İşleme İzleyicileri, Dağıtık VTYS, Veri Ambarı Ders Notlarını Okuma Bölüm 12",
+      "Hafta 14: FİNAL sınav sınav"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Veritabanı Yönetim Sistemleri\nDers Kodu: BMB 303\nYarıyıl: 5. Yarıyıl\nKredi: 2\nAKTS Kredisi: 3\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 12.12.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı gerçek uygulamalarda verimli veritabanlarının nasıl tasarlanacağı, geliştirileceği ve kodlanacağı konusunda bilgi sahibi olmalarını, SQL dilini etkin bir şekilde kullanmalarını sağlamaktır.\n\n--- DERS İÇERİĞİ ---\nVTYS Temel Kavramları, Tablolar ve Alanlar, Veritabanı Yazılımları, Veritabanı Ortamları, 3. Seviye ANTI-SPARC Mimarisi, Varlık İlişki (Vİ) Modellemesi, İlişkisel Veritabanı Modeli, İlişkisel Cebir ve Kalkülüs, SQL Programlama Diline Giriş, DDL, DML, DCL, TCL, Veritabanı Tasarımı, MS Access, MSSQL ve MySQL, QBE, Oracle, Veritabanı Tablolarının Normalizasyonu, Veritabanı Mimarileri, Veritabanı Yönetimi ve Güvenlik\n\nÖğretim Yöntemleri: Anlatım, Grup Çalışması, Problem Çözme, Proje Tasarımı, Soru-Cevap\n\n--- DERS KAYNAKLARI ---\n• R. Elmasri, S.B. Navathe, \" Fundamentals of Database Systems (Pearson new international edition)\", 6th edition, Pearson, 2014.\n• R. Ramakrishnan, J. Gehrke, \"Database Management Systems\", McGraw Hill, 2003.\n• 2. R. Ramakrishnan, J. Gehrke, \"Database Management Systems\", McGraw Hill, 2003.\n• Ders Notu: 1.R. Elmasri, S.B. Navathe, \" Fundamentals of Database Systems (Pearson new international edition)\", 6th edition, Pearson, 2014.\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Öğrenciler VTYS için temel kavramları ve veritabanını öğrenir.\n2. Veritabanı yazılımını tanımlayabilir.\n3. Öğrenci ilişkisel veritabanlarını öğrenir, veritabanı, tablolar ve alanları tanımlayabilir, ve varlık ilişki modelini kullanarak veritabanı oluşturabilir.\n4. Öğrenci veritabanı içerisindeki verileri işlemek için etkin sorgulamalar yazabilir.\n5. Öğrenciler SQL`i tanımlayabilir, MS Access, MSSQL ve MySQL teknolojilerine aşina olur, ve gerçek hayat problemleri için etkin uygulamalar geliştirebilir ve SQL dilini kullanabilir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: VTYS için temel kavramlar ve tanımlar, Veritabanına Giriş, Veritabanları, Tablolar ve Alanlar, Veritabanı Yazılımları Ders Notlarını Okuma Bölüm 1\nHafta 2: Veritabanı Ortamı, VTYS Tarihçesi, 3. Seviye ANSI-SPARC Mimarisi, Veritabanı Dilleri, Veri Modelleri Ders Notlarını Okuma Bölüm 2\nHafta 3: Varlık İlişki Diyagramları, Varlık Tipleri, İlişki Türleri, Nitelikler, Anahtarlar, Yapısal Kısıtlamalar, Vİ Modellerinin Faydaları, Vİ Modellerinin Sorunları Ders Notlarını Okuma Bölüm 7\nHafta 4: İlişkisel Model, İlişkisel Örnekler, İlişkinin Matematiksel Tanımı, Veritaanı İlişkileri, İlişki Özellikleri, İlişki Anahtarları Ders Notlarını Okuma Bölüm 4\nHafta 5: İlişkisel Cebir, İlişkisel Cebir Operatörleri ve Sorgu Oluşturma, İlişisel Kalkülüs Ders Notlarını Okuma Bölüm 5\nHafta 6: Veri Tanımlama Diline (VTD) Giriş Komutları, SQL Veri Manipülasyonuna Giriş Komutları, select ile Sorgu Oluşturma, select ile Karmaşık Sorgular Oluşturma Ders Notlarını Okuma Bölüm 6\nHafta 7: SQL Veri Kontrol Diline (VKD) Giriş Komutları, SQL İşlemsel Kontrol Diline (İKD) Giriş Komutları, Veritabanı Programlarının SQL Farklılıkları Ders Notlarını Okuma Bölüm 7\nHafta 8: VİZE sınav sınav\nHafta 9: SQL Veri Kontrol Diline (VKD) Giriş Komutları, SQL İşlemsel Kontrol Diline (İKD) Giriş Komutları, Veritabanı Programlarının SQL Farklılıkları - devamı Ders Notlarını Okuma Bölüm 8\nHafta 10: Sorgunun temel kavramları, QBE Giriş, QBE için İlişkisel Operantlar, Sorgu İşleme Ders Notlarını Okuma Bölüm 9\nHafta 11: Normalizasyona Giriş, Veritabanı Şemalarında Arıtma ve Normal Formlar, Birinci Normal Form (1NF), İkinci Normal Form (2NF) Ders Notlarını Okuma Bölüm 10\nHafta 12: Veritabanı Normalizasyonunda Üçüncü Normal Form (3NF), Boyce-Codd Normal Formu (BCNF-3.5NF), Dördüncü Normal Form (4NF) Ders Notlarını Okuma Bölüm 11\nHafta 13: Veritabanı Mimarisi, Çok Kullanıcılı VTYS Mimarileri, Teleprocessing Topolojisi, Dosya-Sunucu Mimarisi, Geleneksel İki Katmanlı İstemci-Sunucu Mimarisi, Üç Katmanlı İstemci-Sunucu Mimarisi, N-Katmanlı Mimariler, Ara Katman, İşlem İşleme İzleyicileri, Dağıtık VTYS, Veri Ambarı Ders Notlarını Okuma Bölüm 12\nHafta 14: FİNAL sınav sınav\n",
+  "source_file": "BMB 303_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

@@ -1,0 +1,65 @@
+{
+  "title": "BMB 433 - Çizge Tabanlı Makine Öğrenme Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB433",
+    "ders_adi": "Çizge Tabanlı Makine Öğrenme",
+    "yariyil": "7",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "26.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Öğrencilere graph yapıları ve graph tabanlı makine öğrenmesi tekniklerini tanıtmak, sosyal ağ, metin ve finansal veri gibi farklı alanlarda uygulama yapabilme yeteneği kazandırmak.",
+    "icerik": "Graph yapıları, temel kavramlar, graph tabanlı makine öğrenmesi, neural networkler ve graphler, gözlemsiz ve gözlemlenmiş graph öğrenme, yaygın graph problemlerinin çözümü, sosyal ağ ve metin analitiği, finansal işlemlerde graph analizi, veri odaklı graph uygulamaları, temporal graph modelleri, GraphML ve LLM entegrasyonu, güncel trendler.",
+    "yontemler": "Anlatım, örnek uygulamalar, laboratuvar çalışmaları, vaka incelemeleri ve proje tabanlı uygulamalar.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Marzullo, A., Deusebio, E., & Stamile, C. (2025). Graph machine learning (2. baski). Packt Publishing."
+      ],
+      "ders_notlari": [
+        "Ders notları, temel graph kavramları, makine öğrenmesi uygulamaları, neural networkler, sosyal ağ analizi ve GraphML uygulamaları üzerine örnekler ve açıklamalar içermektedir."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Graph yapıları ve temel kavramlarını açıklayabilir",
+      "Graph tabanlı makine öğrenmesi yöntemlerini uygulayabilir",
+      "Neural network modellerini graph verisi üzerinde kullanabilir",
+      "Gözlemsiz (unsupervised) ve gözlemlenmiş (supervised) graph öğrenme tekniklerini ayırt edebilir",
+      "Sosyal ağlar, metin analitiği ve finansal uygulamalarda graph analizi yapabilir",
+      "GraphML ve LLM’ler ile veri odaklı uygulamalar geliştirebilir"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Graph yapisina giris Temel graph kavramlari, dügüm ve kenar yapisi Chapter 1",
+      "Hafta 2: Graph tabanli makine ögrenmesi Graph tabanli ML yöntemleri Chapter 2",
+      "Hafta 3: Neural networkler ve graphler Neural network temel kavramlari ve graphlere uygulanmasi Chapter 3",
+      "Hafta 4: Gözlemsiz graph ögrenme Clustering, embedding ve community detection teknikleri Chapter 4",
+      "Hafta 5: Gözlemlenmis graph ögrenme Siniflandirma ve regresyon teknikleri Chapter 5",
+      "Hafta 6: Yaygin graph problemleri En sik karsilasilan graph tabanli problemler Chapter 6",
+      "Hafta 7: Sosyal ag grafikleri Sosyal ag analizi teknikleri, baglanti ve topluluk analizi Chapter 7",
+      "Hafta 8: Metin ve NLP ile graph analizi Metin verisi üzerinde graph tabanli NLP uygulamalari Chapter 8",
+      "Hafta 9: Kredi karti islemleri analizi Finansal verilerde graph analizi Chapter 9",
+      "Hafta 10: Veri odakli graph uygulamalari GraphML ve veri odakli uygulama gelistirme Chapter 10",
+      "Hafta 11: Temporal graph makine ögrenmesi Zamansal graph modelleri ve uygulamalari Chapter 11",
+      "Hafta 12: GraphML ve LLM entegrasyonu GraphML ile LLM tabanli uygulamalar Chapter 12",
+      "Hafta 13: Graphlerde güncel trendler Yeni arastirma ve trendler Chapter 13",
+      "Hafta 14: Proje sunumlari ve genel tekrar Ögrenci projeleri ve genel ders tekrari -"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Çizge Tabanlı Makine Öğrenme\nDers Kodu: BMB 433\nYarıyıl: 7. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 26.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr\n\n--- DERS AMACI ---\nÖğrencilere graph yapıları ve graph tabanlı makine öğrenmesi tekniklerini tanıtmak, sosyal ağ, metin ve finansal veri gibi farklı alanlarda uygulama yapabilme yeteneği kazandırmak.\n\n--- DERS İÇERİĞİ ---\nGraph yapıları, temel kavramlar, graph tabanlı makine öğrenmesi, neural networkler ve graphler, gözlemsiz ve gözlemlenmiş graph öğrenme, yaygın graph problemlerinin çözümü, sosyal ağ ve metin analitiği, finansal işlemlerde graph analizi, veri odaklı graph uygulamaları, temporal graph modelleri, GraphML ve LLM entegrasyonu, güncel trendler.\n\nÖğretim Yöntemleri: Anlatım, örnek uygulamalar, laboratuvar çalışmaları, vaka incelemeleri ve proje tabanlı uygulamalar.\n\n--- DERS KAYNAKLARI ---\n• Marzullo, A., Deusebio, E., & Stamile, C. (2025). Graph machine learning (2. baski). Packt Publishing.\n• Ders Notu: Ders notları, temel graph kavramları, makine öğrenmesi uygulamaları, neural networkler, sosyal ağ analizi ve GraphML uygulamaları üzerine örnekler ve açıklamalar içermektedir.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Graph yapıları ve temel kavramlarını açıklayabilir\n2. Graph tabanlı makine öğrenmesi yöntemlerini uygulayabilir\n3. Neural network modellerini graph verisi üzerinde kullanabilir\n4. Gözlemsiz (unsupervised) ve gözlemlenmiş (supervised) graph öğrenme tekniklerini ayırt edebilir\n5. Sosyal ağlar, metin analitiği ve finansal uygulamalarda graph analizi yapabilir\n6. GraphML ve LLM’ler ile veri odaklı uygulamalar geliştirebilir\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Graph yapisina giris Temel graph kavramlari, dügüm ve kenar yapisi Chapter 1\nHafta 2: Graph tabanli makine ögrenmesi Graph tabanli ML yöntemleri Chapter 2\nHafta 3: Neural networkler ve graphler Neural network temel kavramlari ve graphlere uygulanmasi Chapter 3\nHafta 4: Gözlemsiz graph ögrenme Clustering, embedding ve community detection teknikleri Chapter 4\nHafta 5: Gözlemlenmis graph ögrenme Siniflandirma ve regresyon teknikleri Chapter 5\nHafta 6: Yaygin graph problemleri En sik karsilasilan graph tabanli problemler Chapter 6\nHafta 7: Sosyal ag grafikleri Sosyal ag analizi teknikleri, baglanti ve topluluk analizi Chapter 7\nHafta 8: Metin ve NLP ile graph analizi Metin verisi üzerinde graph tabanli NLP uygulamalari Chapter 8\nHafta 9: Kredi karti islemleri analizi Finansal verilerde graph analizi Chapter 9\nHafta 10: Veri odakli graph uygulamalari GraphML ve veri odakli uygulama gelistirme Chapter 10\nHafta 11: Temporal graph makine ögrenmesi Zamansal graph modelleri ve uygulamalari Chapter 11\nHafta 12: GraphML ve LLM entegrasyonu GraphML ile LLM tabanli uygulamalar Chapter 12\nHafta 13: Graphlerde güncel trendler Yeni arastirma ve trendler Chapter 13\nHafta 14: Proje sunumlari ve genel tekrar Ögrenci projeleri ve genel ders tekrari -\n",
+  "source_file": "BMB 433_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

@@ -1,0 +1,67 @@
+{
+  "title": "BMB 409 - Bilgisayar Mühendisliğinde Araştırma Yöntemleri Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB409",
+    "ders_adi": "Bilgisayar Mühendisliğinde Araştırma Yöntemleri",
+    "yariyil": "7",
+    "kredi": "2",
+    "akts": "3",
+    "son_guncelleme": "28.11.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER"
+  },
+  "sections": {
+    "amac": "Bilimsel araştırmaya özgü temel akımları, paradigmaları ve kavramları (pozitivizm, hipotez, değişken, ölçme, ölçek vs.); bilimsel araştırmanın yapısını ve sürecini (araştırma konusu ve probleminin belirlenmesi, literatür taraması, araştırma deseninin geliştirilmesi, verilerin toplanması ve analizi, araştırma bulgularının raporlaştırılması) öğrencilere kavratmak; araştırma projesi vasıtasıyla bilimsel araştırmanın değişik boyutlarına ilişkin öğrencilerin becerilerinin ve eleştirel bakış açılarının gelişmesini sağlamak.",
+    "icerik": "Bilimsel araştırmaya giriş & Bilimsel araştırmanın temelleri Bilimsel yaklaşımlar (pozitivizm & nitel yaklaşım; yorumlayıcı & nicel yaklaşım) Bilimsel araştırmada temel kavramlar Araştırma konusu ve probleminin seçimi Eleştirel kaynak incelemesi Bilimsel araştırmada veri türleri ve veri toplama araçları: Anket & Gözlem Bilimsel araştırmada veri türleri ve veri toplama araçları: Mülakat & Dökümanlar Araştırmada ölçme ve ölçekler Örneklem ve örneklem türleri Nicel ve nicel veri analizi Araştırma raporunun hazırlanması",
+    "yontemler": "Anlatım, Soru-Cevap",
+    "kaynaklar": {
+      "kitaplar": [
+        "Birsen Gökçe, Toplumsal Bilimlerde Araştırma, 5. basım, Ankara: Savaş Yayınevi, 2007.",
+        "Zeynel Dinler, Bilimsel Araştırma ve E-Kaynaklar, 7. basım, Bursa: Ekin Yayınevi, 2012.",
+        "Halil Seyitoğlu, Bilimsel Araştırma ve Yazma El Kitabı, 6. basım, İstanbul: Güzem Yayınları, 1995."
+      ],
+      "ders_notlari": [
+        "Öğretim Üyesi tarafından hazırlanan ders notları"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "bilimsel araştırmaya özgü temel akımları, paradigmaları ve kavramları (pozitivizm, hipotez, değişken, ölçme, ölçek vs.) bilir ve açıklar",
+      "bilimsel araştırmanın yapısını ve sürecini (araştırma konusu ve probleminin belirlenmesi, literatür taraması, araştırma deseninin geliştirilmesi, verilerin toplanması ve analizi, araştırma bulgularının raporlaştırılması) bilir ve uygulamaya geçirir",
+      "araştırma projeleri vasıtasıyla bilimsel araştırmanın değişik boyutlarına ilişkin bilgi, beceri ve eleştirel bakış açısı geliştirir",
+      "bilimsel araştırmaya karşı olumlu bir tutum geliştirir ve açık görüşlü bir kişi olmanın önemini takdir eder",
+      "bir bilimsel araştırma raporunu olumlu ve olumsuz yönleri açısından değerlendirir"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Bilimsel araştırmaya giriş & Bilimsel araştırmanın temelleri",
+      "Hafta 2: Bilimsel yaklaşımlar (pozitivizm & nitel yaklaşım; yorumlayıcı & nicel yaklaşım)",
+      "Hafta 3: Bilimsel araştırmada temel kavramlar",
+      "Hafta 4: Araştırma konusu ve probleminin seçimi",
+      "Hafta 5: Araştırma problemi nedir, nasıl belirlenir? Hipotez, amaç, önem sayıtlı, sınırlılıklar, tanımlar, uygulama, özet.–Araştırma yapmaya başlıyorum uygulama tablosunun yapılması",
+      "Hafta 6: Bilimsel araştırmada veri türleri ve veri toplama araçları: Anket & Gözlem",
+      "Hafta 7: Literatür taraması ve Bilimsel bilgiye erişim – bilgi kaynakları, kütüphane ve on-line veri tabanlarının kullanımı.",
+      "Hafta 8: Araştırmada ölçme ve ölçekler",
+      "Hafta 9: Örneklem ve örneklem türleri",
+      "Hafta 10: Nicel ve nicel veri analizi",
+      "Hafta 11: Tez Yazım Kuralları ve Tezin Bölümlerinin İncelenmesi.",
+      "Hafta 12: Makale Nedir, Nasıl Hazırlanır ve Makale Bölümlerinin İncelenmesi.",
+      "Hafta 13: Araştırma Projesi Nasıl Hazırlanır? Örnek bir Projenin İncelenmesi.",
+      "Hafta 14: Akademik Yazım-Raporlaştırma.",
+      "Hafta 15: Final Sınavı"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Bilgisayar Mühendisliğinde Araştırma Yöntemleri\nDers Kodu: BMB 409\nYarıyıl: 7. Yarıyıl\nKredi: 2\nAKTS Kredisi: 3\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 28.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Abdurrahman Burak GÜHER\n\n--- DERS AMACI ---\nBilimsel araştırmaya özgü temel akımları, paradigmaları ve kavramları (pozitivizm, hipotez, değişken, ölçme, ölçek vs.); bilimsel araştırmanın yapısını ve sürecini (araştırma konusu ve probleminin belirlenmesi, literatür taraması, araştırma deseninin geliştirilmesi, verilerin toplanması ve analizi, araştırma bulgularının raporlaştırılması) öğrencilere kavratmak; araştırma projesi vasıtasıyla bilimsel araştırmanın değişik boyutlarına ilişkin öğrencilerin becerilerinin ve eleştirel bakış açılarının gelişmesini sağlamak.\n\n--- DERS İÇERİĞİ ---\nBilimsel araştırmaya giriş & Bilimsel araştırmanın temelleri Bilimsel yaklaşımlar (pozitivizm & nitel yaklaşım; yorumlayıcı & nicel yaklaşım) Bilimsel araştırmada temel kavramlar Araştırma konusu ve probleminin seçimi Eleştirel kaynak incelemesi Bilimsel araştırmada veri türleri ve veri toplama araçları: Anket & Gözlem Bilimsel araştırmada veri türleri ve veri toplama araçları: Mülakat & Dökümanlar Araştırmada ölçme ve ölçekler Örneklem ve örneklem türleri Nicel ve nicel veri analizi Araştırma raporunun hazırlanması\n\nÖğretim Yöntemleri: Anlatım, Soru-Cevap\n\n--- DERS KAYNAKLARI ---\n• Birsen Gökçe, Toplumsal Bilimlerde Araştırma, 5. basım, Ankara: Savaş Yayınevi, 2007.\n• Zeynel Dinler, Bilimsel Araştırma ve E-Kaynaklar, 7. basım, Bursa: Ekin Yayınevi, 2012.\n• Halil Seyitoğlu, Bilimsel Araştırma ve Yazma El Kitabı, 6. basım, İstanbul: Güzem Yayınları, 1995.\n• Ders Notu: Öğretim Üyesi tarafından hazırlanan ders notları\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. bilimsel araştırmaya özgü temel akımları, paradigmaları ve kavramları (pozitivizm, hipotez, değişken, ölçme, ölçek vs.) bilir ve açıklar\n2. bilimsel araştırmanın yapısını ve sürecini (araştırma konusu ve probleminin belirlenmesi, literatür taraması, araştırma deseninin geliştirilmesi, verilerin toplanması ve analizi, araştırma bulgularının raporlaştırılması) bilir ve uygulamaya geçirir\n3. araştırma projeleri vasıtasıyla bilimsel araştırmanın değişik boyutlarına ilişkin bilgi, beceri ve eleştirel bakış açısı geliştirir\n4. bilimsel araştırmaya karşı olumlu bir tutum geliştirir ve açık görüşlü bir kişi olmanın önemini takdir eder\n5. bir bilimsel araştırma raporunu olumlu ve olumsuz yönleri açısından değerlendirir\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Bilimsel araştırmaya giriş & Bilimsel araştırmanın temelleri\nHafta 2: Bilimsel yaklaşımlar (pozitivizm & nitel yaklaşım; yorumlayıcı & nicel yaklaşım)\nHafta 3: Bilimsel araştırmada temel kavramlar\nHafta 4: Araştırma konusu ve probleminin seçimi\nHafta 5: Araştırma problemi nedir, nasıl belirlenir? Hipotez, amaç, önem sayıtlı, sınırlılıklar, tanımlar, uygulama, özet.–Araştırma yapmaya başlıyorum uygulama tablosunun yapılması\nHafta 6: Bilimsel araştırmada veri türleri ve veri toplama araçları: Anket & Gözlem\nHafta 7: Literatür taraması ve Bilimsel bilgiye erişim – bilgi kaynakları, kütüphane ve on-line veri tabanlarının kullanımı.\nHafta 8: Araştırmada ölçme ve ölçekler\nHafta 9: Örneklem ve örneklem türleri\nHafta 10: Nicel ve nicel veri analizi\nHafta 11: Tez Yazım Kuralları ve Tezin Bölümlerinin İncelenmesi.\nHafta 12: Makale Nedir, Nasıl Hazırlanır ve Makale Bölümlerinin İncelenmesi.\nHafta 13: Araştırma Projesi Nasıl Hazırlanır? Örnek bir Projenin İncelenmesi.\nHafta 14: Akademik Yazım-Raporlaştırma.\nHafta 15: Final Sınavı\n",
+  "source_file": "BMB 409_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

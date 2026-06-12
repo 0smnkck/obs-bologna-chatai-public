@@ -1,0 +1,66 @@
+{
+  "title": "BMB309 - İşletim Sistemleri Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB309",
+    "ders_adi": "İşletim Sistemleri",
+    "yariyil": "5",
+    "kredi": "3",
+    "akts": "4",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Orhan ABAR https://akbis.osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Modern işletim sistemlerinin temel kavramlarını öğretmek ve uygulamalı örneklerle pekiştirmek.",
+    "icerik": "İşletim sistemi yapısı, süreç ve bellek yönetimi, CPU zamanlama, dosya sistemi, I/O, depolama ve Linux vaka çalışması.",
+    "yontemler": "Ders, teorik anlatım, laboratuvar, grup ve bireysel çalışmalar ile yürütülür.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Abraham Silberschatz, Peter B. Galvin, Greg Gagne (2012), İşletim Sistemi Kavramları, Dokuzuncu Baskı, John Wiley & Sons",
+        "Mutlu Avcı, Buse Melis Özyıldırım, Onur Ülgen, İşletim Sistemleri ve Sistem Programlama"
+      ],
+      "ders_notlari": [
+        "Silberschatz, Galvin, Gagne’nin Operating System Concepts kitabı temel alınmıştır; Tanenbaum ve Bos önerilir."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "İşletim sistemi tasarım ve uygulamalarını anlamak",
+      "Süreç yönetimi kavramlarını öğrenmek",
+      "Bellek yönetimi tekniklerini uygulayabilmek",
+      "Depolama ve dosya sistemlerini yönetmek",
+      "Farklı işletim sistemlerini karşılaştırabilmek",
+      "İşletim sistemi performansını artırma yöntemlerini uygulamak"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: İşletim Sistemlerine Giriş Ch.1 Slaytlar, Notlar",
+      "Hafta 2: İşletim Sistemi Yapısı Ch.2 Slaytlar, Notlar",
+      "Hafta 3: Süreçler Ch.3 Slaytlar, Notlar",
+      "Hafta 4: İş Parçacıkları Ch.4 Slaytlar, Notlar",
+      "Hafta 5: CPU Zamanlama Ch.6 Slaytlar, Notlar",
+      "Hafta 6: Süreç Senkronizasyonu Ch.5 Slaytlar, Notlar",
+      "Hafta 7: Ana Bellek Ch.8 Slaytlar, Notlar",
+      "Hafta 8: Sanal Bellek Ch.9 Slaytlar, Notlar",
+      "Hafta 9: Dosya Sistemi Arayüzü Ch.11 Slaytlar, Notlar",
+      "Hafta 10: G/Ç Sistemleri Ch.13 Slaytlar, Notlar",
+      "Hafta 11: Kütle Depolama Sistemleri Ch.10 Slaytlar, Notlar",
+      "Hafta 12: Koruma Ch.14 Slaytlar, Notlar",
+      "Hafta 13: Vaka Çalışması: Linux Sistemi Ch.18 Slaytlar, Notlar",
+      "Hafta 14: Genel Tekrar ve Final Hazırlığı - Slaytlar, Notlar"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: İşletim Sistemleri\nDers Kodu: BMB309\nYarıyıl: 5. Yarıyıl\nKredi: 3\nAKTS Kredisi: 4\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Orhan ABAR https://akbis.osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr\n\n--- DERS AMACI ---\nModern işletim sistemlerinin temel kavramlarını öğretmek ve uygulamalı örneklerle pekiştirmek.\n\n--- DERS İÇERİĞİ ---\nİşletim sistemi yapısı, süreç ve bellek yönetimi, CPU zamanlama, dosya sistemi, I/O, depolama ve Linux vaka çalışması.\n\nÖğretim Yöntemleri: Ders, teorik anlatım, laboratuvar, grup ve bireysel çalışmalar ile yürütülür.\n\n--- DERS KAYNAKLARI ---\n• Abraham Silberschatz, Peter B. Galvin, Greg Gagne (2012), İşletim Sistemi Kavramları, Dokuzuncu Baskı, John Wiley & Sons\n• Mutlu Avcı, Buse Melis Özyıldırım, Onur Ülgen, İşletim Sistemleri ve Sistem Programlama\n• Ders Notu: Silberschatz, Galvin, Gagne’nin Operating System Concepts kitabı temel alınmıştır; Tanenbaum ve Bos önerilir.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. İşletim sistemi tasarım ve uygulamalarını anlamak\n2. Süreç yönetimi kavramlarını öğrenmek\n3. Bellek yönetimi tekniklerini uygulayabilmek\n4. Depolama ve dosya sistemlerini yönetmek\n5. Farklı işletim sistemlerini karşılaştırabilmek\n6. İşletim sistemi performansını artırma yöntemlerini uygulamak\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: İşletim Sistemlerine Giriş Ch.1 Slaytlar, Notlar\nHafta 2: İşletim Sistemi Yapısı Ch.2 Slaytlar, Notlar\nHafta 3: Süreçler Ch.3 Slaytlar, Notlar\nHafta 4: İş Parçacıkları Ch.4 Slaytlar, Notlar\nHafta 5: CPU Zamanlama Ch.6 Slaytlar, Notlar\nHafta 6: Süreç Senkronizasyonu Ch.5 Slaytlar, Notlar\nHafta 7: Ana Bellek Ch.8 Slaytlar, Notlar\nHafta 8: Sanal Bellek Ch.9 Slaytlar, Notlar\nHafta 9: Dosya Sistemi Arayüzü Ch.11 Slaytlar, Notlar\nHafta 10: G/Ç Sistemleri Ch.13 Slaytlar, Notlar\nHafta 11: Kütle Depolama Sistemleri Ch.10 Slaytlar, Notlar\nHafta 12: Koruma Ch.14 Slaytlar, Notlar\nHafta 13: Vaka Çalışması: Linux Sistemi Ch.18 Slaytlar, Notlar\nHafta 14: Genel Tekrar ve Final Hazırlığı - Slaytlar, Notlar\n",
+  "source_file": "BMB309_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

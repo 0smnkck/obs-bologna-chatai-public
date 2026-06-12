@@ -1,0 +1,78 @@
+{
+  "title": "BMB445 - Otomasyon Sistemleri Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB445",
+    "ders_adi": "Otomasyon Sistemleri",
+    "yariyil": "7",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "28.11.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilere bilgisayar destekli otomasyon sistemleri kavramlarını, kontrol ve izleme teknolojilerini öğretmek; sensör, aktüatör, PLC, SCADA, haberleşme ve kontrol algoritmalarını kullanarak otomatik sistemler tasarlama ve analiz etme becerisi kazandırmaktır. Ders sonunda öğrenciler, gerçek dünyadaki otomasyon sistemlerini modelleyip uygulayabilecek, kontrol stratejileri geliştirebilecek ve performans analizleri yapabilecek seviyeye gelir.",
+    "icerik": "Otomasyon sistemleri kavramı ve bileşenleri, sensörler ve aktüatörler, geri beslemeli kontrol sistemleri, PLC mimarisi ve programlaması; endüstriyel haberleşme protokolleri (Modbus, CAN, Ethernet/IP), SCADA sistemleri ve izleme, HMI, kontrol algoritmaları, sistem modelleme ve simülasyon, otomasyon sistemlerinde güvenlik ve emniyet, uygulama örnekleri ve proje tabanlı otomasyon sistemleri.",
+    "yontemler": "Anlatım, Gösterim, Problem Çözme",
+    "kaynaklar": {
+      "kitaplar": [
+        "PLC üreticilerinin dokümantasyonları (Siemens, Allen-Bradley vs.)",
+        "Doyle, J., Modern Control Systems"
+      ],
+      "ders_notlari": [
+        "Öğretim Üyesi Ders Notları"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "1",
+        "katki": "%15"
+      },
+      {
+        "tur": "Uygulama",
+        "sayi": "1",
+        "katki": "%15"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Otomasyon sistemlerinin temel bileşenlerini açıklar.",
+      "Geri beslemeli kontrol sistemlerini modelleyip analiz eder.",
+      "PLC mimarisi ve programlama yapısını kavrar.",
+      "Endüstriyel haberleşme protokollerini tanır ve kullanır.",
+      "SCADA / HMI sistemlerini otomasyon projelerine entegre eder.",
+      "PID ve ileri kontrol algoritmalarını uygular.",
+      "Otomasyon sistemleri güvenliği ve emniyet prensiplerini değerlendirir.",
+      "Küçük çaplı bir otomasyon sistemi projesi tasarlar, uygular ve analiz eder."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Otomasyon sistemlerine giriş, tarihçesi ve kapsamı",
+      "Hafta 2: Sensörler, aktüatörler ve sistem bileşenleri Teknik dökümantasyon",
+      "Hafta 3: Kontrol sistemleri temelleri: açık ve kapalı çevrim Teorik kaynaklar",
+      "Hafta 4: Modelleme ve sistem denklemleri, transfer fonksiyonları Kontrol teorisi kitapları",
+      "Hafta 5: PID kontrol tasarımı ve parametre ayarı Uygulamalı örnekler",
+      "Hafta 6: PLC mimarisi ve temelleri PLC üretici dokümantasyonu",
+      "Hafta 7: PLC programlama teknikleri Simülasyon ortamı",
+      "Hafta 8: Endüstriyel haberleşme protokolleri Teknik standartlar",
+      "Hafta 9: SCADA sistemleri, HMI ve izleme SCADA yazılımları",
+      "Hafta 10: Kontrol sistemlerinde güvenlik / emniyet prensipleri Emniyet standartları",
+      "Hafta 11: İleri kontrol teknikleri",
+      "Hafta 12: Otomasyon sistemlerinde simülasyon / yazılım araçları Simülasyon yazılımları",
+      "Hafta 13: Proje geliştirme: sistem kurulumu ve testi Öğretim elemanı gözetimi",
+      "Hafta 14: Proje sunumu ve değerlendirme Öğrenci sunumları"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Otomasyon Sistemleri\nDers Kodu: BMB445\nYarıyıl: 7. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 28.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilere bilgisayar destekli otomasyon sistemleri kavramlarını, kontrol ve izleme teknolojilerini öğretmek; sensör, aktüatör, PLC, SCADA, haberleşme ve kontrol algoritmalarını kullanarak otomatik sistemler tasarlama ve analiz etme becerisi kazandırmaktır. Ders sonunda öğrenciler, gerçek dünyadaki otomasyon sistemlerini modelleyip uygulayabilecek, kontrol stratejileri geliştirebilecek ve performans analizleri yapabilecek seviyeye gelir.\n\n--- DERS İÇERİĞİ ---\nOtomasyon sistemleri kavramı ve bileşenleri, sensörler ve aktüatörler, geri beslemeli kontrol sistemleri, PLC mimarisi ve programlaması; endüstriyel haberleşme protokolleri (Modbus, CAN, Ethernet/IP), SCADA sistemleri ve izleme, HMI, kontrol algoritmaları, sistem modelleme ve simülasyon, otomasyon sistemlerinde güvenlik ve emniyet, uygulama örnekleri ve proje tabanlı otomasyon sistemleri.\n\nÖğretim Yöntemleri: Anlatım, Gösterim, Problem Çözme\n\n--- DERS KAYNAKLARI ---\n• PLC üreticilerinin dokümantasyonları (Siemens, Allen-Bradley vs.)\n• Doyle, J., Modern Control Systems\n• Ders Notu: Öğretim Üyesi Ders Notları\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %30\nÖdev: 1 adet, katkı oranı %15\nUygulama: 1 adet, katkı oranı %15\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Otomasyon sistemlerinin temel bileşenlerini açıklar.\n2. Geri beslemeli kontrol sistemlerini modelleyip analiz eder.\n3. PLC mimarisi ve programlama yapısını kavrar.\n4. Endüstriyel haberleşme protokollerini tanır ve kullanır.\n5. SCADA / HMI sistemlerini otomasyon projelerine entegre eder.\n6. PID ve ileri kontrol algoritmalarını uygular.\n7. Otomasyon sistemleri güvenliği ve emniyet prensiplerini değerlendirir.\n8. Küçük çaplı bir otomasyon sistemi projesi tasarlar, uygular ve analiz eder.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Otomasyon sistemlerine giriş, tarihçesi ve kapsamı\nHafta 2: Sensörler, aktüatörler ve sistem bileşenleri Teknik dökümantasyon\nHafta 3: Kontrol sistemleri temelleri: açık ve kapalı çevrim Teorik kaynaklar\nHafta 4: Modelleme ve sistem denklemleri, transfer fonksiyonları Kontrol teorisi kitapları\nHafta 5: PID kontrol tasarımı ve parametre ayarı Uygulamalı örnekler\nHafta 6: PLC mimarisi ve temelleri PLC üretici dokümantasyonu\nHafta 7: PLC programlama teknikleri Simülasyon ortamı\nHafta 8: Endüstriyel haberleşme protokolleri Teknik standartlar\nHafta 9: SCADA sistemleri, HMI ve izleme SCADA yazılımları\nHafta 10: Kontrol sistemlerinde güvenlik / emniyet prensipleri Emniyet standartları\nHafta 11: İleri kontrol teknikleri\nHafta 12: Otomasyon sistemlerinde simülasyon / yazılım araçları Simülasyon yazılımları\nHafta 13: Proje geliştirme: sistem kurulumu ve testi Öğretim elemanı gözetimi\nHafta 14: Proje sunumu ve değerlendirme Öğrenci sunumları\n",
+  "source_file": "BMB445_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

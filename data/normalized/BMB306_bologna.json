@@ -1,0 +1,71 @@
+{
+  "title": "BMB306 - Yazılım Mühendisliği Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB306",
+    "ders_adi": "Yazılım Mühendisliği",
+    "yariyil": "6",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "20.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/@bahargezici bahargezici@osmaniye.edu.tr Öğr. Gör. Dr. Fatma Neda TOPUZ"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilere yazılım geliştirme yaşam döngüsü (SDLC) süreçlerini kavratmak, yazılım tasarım, geliştirme, test, bakım ve proje yönetimi konularında temel bilgi ve beceriler kazandırmaktır. Ayrıca yazılım mühendisliği prensiplerini ve iyi uygulama yöntemlerini öğretmektir.",
+    "icerik": "Yazılım mühendisliğine giriş ve temel kavramlar Yazılım yaşam döngüsü modelleri (Waterfall, Agile, Spiral, V-Model) Gereksinim analizi ve dokümantasyonu Yazılım tasarım prensipleri ve UML kullanımı Kodlama ve sürüm kontrol yöntemleri Yazılım testi ve kalite güvencesi Yazılım bakım ve yeniden yapılandırma (Refactoring) Yazılım proje yönetimi ve takım çalışması Güncel yazılım mühendisliği trendleri ve araçları",
+    "yontemler": "Ders anlatımı, vaka çalışmaları, laboratuvar uygulamaları, proje tabanlı öğrenme ve grup tartışmalarıyla yürütülür. Öğrenciler, yazılım geliştirme süreçlerini uygulamalı olarak deneyimleyerek öğrenir.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Ian Sommerville – Software Engineering, 10th Edition",
+        "Dökümanlar https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/computer-science/Sommerville-Engineering-Software-Products-An-Introduction-to-Modern-Software-Engineering.html"
+      ],
+      "ders_notlari": [
+        "Ders notları öğretim elemanı tarafından hazırlanmış sunumları, UML diyagram örneklerini, kod örneklerini ve proje uygulamalarını içerir."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Yazılım geliştirme yaşam döngüsü (SDLC) modelleri ve süreçleri hakkında bilgi sahibi olur.",
+      "Yazılım tasarım prensipleri, kalite güvencesi ve güncel yazılım mühendisliği trendlerini açıklar.",
+      "Yazılım tasarımı ve UML kullanarak sistem modelleri oluşturur.",
+      "Yazılım projelerinde sürüm kontrol, test ve bakım süreçlerini uygular.",
+      "Yazılım projelerini bağımsız ve takım çalışması ile planlayabilir.",
+      "Yazılım geliştirme sürecindeki teknik sorunları analiz edip çözebilir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Yazılım mühendisliğine giriş ve temel kavramlar Sommerville, Ch. 1; ders sunumu (PDF)",
+      "Hafta 2: Yazılım yaşam döngüsü modelleri: Waterfall ve V-Model Sommerville, Ch. 2; vaka çalışması",
+      "Hafta 3: Agile ve Spiral modeller Sommerville, Ch. 2–3; Agile dokümantasyon incelemesi",
+      "Hafta 4: Gereksinim mühendisliği ve gereksinim analizi Sommerville, Ch. 4; örnek gereksinim dokümanı",
+      "Hafta 5: Gereksinim spesifikasyonu ve doğrulama Sommerville, Ch. 5; dokümantasyon çalışması",
+      "Hafta 6: Yazılım tasarım temel kavramları Sommerville, Ch. 7; UML diyagram örnekleri",
+      "Hafta 7: Yazılım mimarisi ve tasarım desenleri Sommerville, Ch. 8; örnek tasarım deseni uygulamaları",
+      "Hafta 8: Yazılım kodlama yöntemleri Sommerville, Ch. 9; Git/GitHub uygulamaları",
+      "Hafta 9: Yazılım kodlama ve sürüm kontrol yöntemleri Sommerville, Ch. 9; Git/GitHub uygulamaları",
+      "Hafta 10: Yazılım testi ve kalite güvence Sommerville, Ch. 10; test planları ve örnek test senaryoları",
+      "Hafta 11: Yazılım bakım ve yeniden yapılandırma Sommerville, Ch. 11; kod örnekleri ve uygulamalar",
+      "Hafta 12: Yazılım proje yönetimi Sommerville, Ch. 12; proje planlama ve Gantt örnekleri",
+      "Hafta 13: Proje sunumları ve vaka çalışmaları Grup projeleri, rapor hazırlıkları",
+      "Hafta 14: Genel değerlendirme ve kapanış Ders özet notları, güncel yazılım mühendisliği trendleri"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Yazılım Mühendisliği\nDers Kodu: BMB306\nYarıyıl: 6. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 20.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/@bahargezici bahargezici@osmaniye.edu.tr Öğr. Gör. Dr. Fatma Neda TOPUZ\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilere yazılım geliştirme yaşam döngüsü (SDLC) süreçlerini kavratmak, yazılım tasarım, geliştirme, test, bakım ve proje yönetimi konularında temel bilgi ve beceriler kazandırmaktır. Ayrıca yazılım mühendisliği prensiplerini ve iyi uygulama yöntemlerini öğretmektir.\n\n--- DERS İÇERİĞİ ---\nYazılım mühendisliğine giriş ve temel kavramlar Yazılım yaşam döngüsü modelleri (Waterfall, Agile, Spiral, V-Model) Gereksinim analizi ve dokümantasyonu Yazılım tasarım prensipleri ve UML kullanımı Kodlama ve sürüm kontrol yöntemleri Yazılım testi ve kalite güvencesi Yazılım bakım ve yeniden yapılandırma (Refactoring) Yazılım proje yönetimi ve takım çalışması Güncel yazılım mühendisliği trendleri ve araçları\n\nÖğretim Yöntemleri: Ders anlatımı, vaka çalışmaları, laboratuvar uygulamaları, proje tabanlı öğrenme ve grup tartışmalarıyla yürütülür. Öğrenciler, yazılım geliştirme süreçlerini uygulamalı olarak deneyimleyerek öğrenir.\n\n--- DERS KAYNAKLARI ---\n• Ian Sommerville – Software Engineering, 10th Edition\n• Dökümanlar https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/computer-science/Sommerville-Engineering-Software-Products-An-Introduction-to-Modern-Software-Engineering.html\n• Ders Notu: Ders notları öğretim elemanı tarafından hazırlanmış sunumları, UML diyagram örneklerini, kod örneklerini ve proje uygulamalarını içerir.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nProje: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Yazılım geliştirme yaşam döngüsü (SDLC) modelleri ve süreçleri hakkında bilgi sahibi olur.\n2. Yazılım tasarım prensipleri, kalite güvencesi ve güncel yazılım mühendisliği trendlerini açıklar.\n3. Yazılım tasarımı ve UML kullanarak sistem modelleri oluşturur.\n4. Yazılım projelerinde sürüm kontrol, test ve bakım süreçlerini uygular.\n5. Yazılım projelerini bağımsız ve takım çalışması ile planlayabilir.\n6. Yazılım geliştirme sürecindeki teknik sorunları analiz edip çözebilir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Yazılım mühendisliğine giriş ve temel kavramlar Sommerville, Ch. 1; ders sunumu (PDF)\nHafta 2: Yazılım yaşam döngüsü modelleri: Waterfall ve V-Model Sommerville, Ch. 2; vaka çalışması\nHafta 3: Agile ve Spiral modeller Sommerville, Ch. 2–3; Agile dokümantasyon incelemesi\nHafta 4: Gereksinim mühendisliği ve gereksinim analizi Sommerville, Ch. 4; örnek gereksinim dokümanı\nHafta 5: Gereksinim spesifikasyonu ve doğrulama Sommerville, Ch. 5; dokümantasyon çalışması\nHafta 6: Yazılım tasarım temel kavramları Sommerville, Ch. 7; UML diyagram örnekleri\nHafta 7: Yazılım mimarisi ve tasarım desenleri Sommerville, Ch. 8; örnek tasarım deseni uygulamaları\nHafta 8: Yazılım kodlama yöntemleri Sommerville, Ch. 9; Git/GitHub uygulamaları\nHafta 9: Yazılım kodlama ve sürüm kontrol yöntemleri Sommerville, Ch. 9; Git/GitHub uygulamaları\nHafta 10: Yazılım testi ve kalite güvence Sommerville, Ch. 10; test planları ve örnek test senaryoları\nHafta 11: Yazılım bakım ve yeniden yapılandırma Sommerville, Ch. 11; kod örnekleri ve uygulamalar\nHafta 12: Yazılım proje yönetimi Sommerville, Ch. 12; proje planlama ve Gantt örnekleri\nHafta 13: Proje sunumları ve vaka çalışmaları Grup projeleri, rapor hazırlıkları\nHafta 14: Genel değerlendirme ve kapanış Ders özet notları, güncel yazılım mühendisliği trendleri\n",
+  "source_file": "BMB306_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

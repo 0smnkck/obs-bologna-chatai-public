@@ -1,0 +1,57 @@
+{
+  "title": "BMB104 - İş Sağlığı ve Güvenliği Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB104",
+    "ders_adi": "İş Sağlığı ve Güvenliği",
+    "yariyil": "2",
+    "kredi": "2",
+    "akts": "3",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Mühendislik Eğitimi alan öğrencilerin iş hayatına atıldığında işveren vekili olarak veya işveren olarak yetki ve sorumluluklarının ne olduğunu öğrenmesi, iş kazalarına karşı alınacak güvenlik önlemlerinin neler olduğunu bilmesi ve kaza olmadan önce alınabilecek güvenlik tedbirlerinin alınmasını sağlamak",
+    "icerik": "İş güvenliğine giriş; İş Güvenliğinin Temel Prensipleri; İş güvenliği kültürü; İş kazaları ve tanımı, nedenleri, çeşitleri, önlemler; İş güvenliğinin ekonomik yönü; İş güvenliği ve ergonomi; Kaza zinciri; kaza raporları; Kaza istatistikleri ve kaza araştırması; Meslek hastalıkları, tanımı, çeşitleri, önlemler.",
+    "yontemler": "Yüz yüze",
+    "kaynaklar": {
+      "kitaplar": [
+        "AKYÜZ Necdet,İŞ GÜVENLİĞİ MEVZUATI, İstanbul, 1980, 2011."
+      ],
+      "ders_notlari": [
+        "Haftalık olarak ders materyalleri öğrenciler ile paylaşılacaktır."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ödev",
+        "sayi": "1",
+        "katki": "%0"
+      }
+    ],
+    "ogrenme_cikti": [
+      "İş kazası tiplerini belirleyebilir",
+      "Kaza olmadan önce alınabilecek bilimsel ve gözlemlemeye dayalı tedbirleri tespit edebilir,",
+      "Görev yaparken yetki ve sorumluluklarının ne olduğunu belirleyebilir"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Ders programı ve ders işleyiş yönteminin öğrencilere tanıtılması",
+      "Hafta 2: İş Sağlığı ve Güvenliği Kavramsal Çerçevesi",
+      "Hafta 3: İş Sağlığı ve Güvenliği Stratejik Çerçevesi",
+      "Hafta 4: İşveren Yükümlülükleri",
+      "Hafta 5: Çalışan Sorumlulukları",
+      "Hafta 6: İş Kazalarından Korunma Politikaları",
+      "Hafta 7: VİZE",
+      "Hafta 8: Risk Grupları",
+      "Hafta 9: İSG Örgütlenmesi",
+      "Hafta 10: İş Kazalarından Koruyucu Donanımlar",
+      "Hafta 11: İş Kazası Sebep Teorileri ve Kaza Sonrası Süreçler",
+      "Hafta 12: Meslek Hastalıkları",
+      "Hafta 13: Risk Etmenleri",
+      "Hafta 14: FİNAL"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: İş Sağlığı ve Güvenliği\nDers Kodu: BMB104\nYarıyıl: 2. Yarıyıl\nKredi: 2\nAKTS Kredisi: 3\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr\n\n--- DERS AMACI ---\nMühendislik Eğitimi alan öğrencilerin iş hayatına atıldığında işveren vekili olarak veya işveren olarak yetki ve sorumluluklarının ne olduğunu öğrenmesi, iş kazalarına karşı alınacak güvenlik önlemlerinin neler olduğunu bilmesi ve kaza olmadan önce alınabilecek güvenlik tedbirlerinin alınmasını sağlamak\n\n--- DERS İÇERİĞİ ---\nİş güvenliğine giriş; İş Güvenliğinin Temel Prensipleri; İş güvenliği kültürü; İş kazaları ve tanımı, nedenleri, çeşitleri, önlemler; İş güvenliğinin ekonomik yönü; İş güvenliği ve ergonomi; Kaza zinciri; kaza raporları; Kaza istatistikleri ve kaza araştırması; Meslek hastalıkları, tanımı, çeşitleri, önlemler.\n\nÖğretim Yöntemleri: Yüz yüze\n\n--- DERS KAYNAKLARI ---\n• AKYÜZ Necdet,İŞ GÜVENLİĞİ MEVZUATI, İstanbul, 1980, 2011.\n• Ders Notu: Haftalık olarak ders materyalleri öğrenciler ile paylaşılacaktır.\n\n--- DEĞERLENDİRME ---\nÖdev: 1 adet, katkı oranı %0\n\n--- ÖĞRENME ÇIKTILARI ---\n1. İş kazası tiplerini belirleyebilir\n2. Kaza olmadan önce alınabilecek bilimsel ve gözlemlemeye dayalı tedbirleri tespit edebilir,\n3. Görev yaparken yetki ve sorumluluklarının ne olduğunu belirleyebilir\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Ders programı ve ders işleyiş yönteminin öğrencilere tanıtılması\nHafta 2: İş Sağlığı ve Güvenliği Kavramsal Çerçevesi\nHafta 3: İş Sağlığı ve Güvenliği Stratejik Çerçevesi\nHafta 4: İşveren Yükümlülükleri\nHafta 5: Çalışan Sorumlulukları\nHafta 6: İş Kazalarından Korunma Politikaları\nHafta 7: VİZE\nHafta 8: Risk Grupları\nHafta 9: İSG Örgütlenmesi\nHafta 10: İş Kazalarından Koruyucu Donanımlar\nHafta 11: İş Kazası Sebep Teorileri ve Kaza Sonrası Süreçler\nHafta 12: Meslek Hastalıkları\nHafta 13: Risk Etmenleri\nHafta 14: FİNAL\n",
+  "source_file": "BMB104_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

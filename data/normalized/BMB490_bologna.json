@@ -1,0 +1,54 @@
+{
+  "title": "BMB490 - Bitirme Tezi Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB490",
+    "ders_adi": "Bitirme Tezi",
+    "yariyil": "8",
+    "kredi": "1",
+    "akts": "8",
+    "son_guncelleme": "04.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Öğrencilerin bilgisayar mühendisliği alanında edindikleri temel bilim, matematik ve mühendislik bilgilerini kullanarak; karmaşık bir mühendislik problemini gerçekçi kısıtlar (ekonomik, çevresel, sürdürülebilirlik, üretilebilirlik, etik, sağlık, güvenlik vb.) altında tanımlamalarını, formüle etmelerini ve çözmelerini sağlamaktır. Bu süreçte modern mühendislik araçlarını kullanarak standartlara uygun bir donanım ve/veya yazılım sistemi tasarlamaları, geliştirmeleri ve raporlamaları hedeflenmektedir.",
+    "icerik": "Proje/tez konusunun belirlenmesi, literatür araştırması yapılması, gereksinim analizinin çıkarılması, sistem ve mimari tasarımın oluşturulması, yazılım ve/veya donanım geliştirme (uygulama) süreçleri, test ve doğrulama aşamaları ile sonuçların akademik standartlara uygun olarak raporlanıp sunulması.",
+    "yontemler": "Proje tabanlı öğrenme, bağımsız çalışma, literatür taraması, mentorluk/danışmanlık, mühendislik tasarımı, rapor yazma ve sözlü/poster sunum.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Bilimsel Makaleler/Tezler/Derlemeler"
+      ],
+      "ders_notlari": [
+        "Sabit bir ders kitabı bulunmamaktadır. Öğrenciler proje konularına özgü güncel IEEE, ACM makaleleri, bilimsel yayınlar ve bölümün Bitirme Projesi/Tez Yazım Kılavuzu'nu referans almalıdır."
+      ]
+    },
+    "degerlendirme": [],
+    "ogrenme_cikti": [
+      "Karmaşık bilgisayar mühendisliği problemlerini tanımlama, formüle etme ve çözme becerisi kazanır.",
+      "Belirli gereksinimleri karşılayacak bir bilgisayar tabanlı sistemi, bileşeni veya süreci, gerçekçi kısıtlar ve koşullar altında tasarlama becerisi sergiler.",
+      "Tasarım sürecinde modern yazılım ve donanım geliştirme araçları ile bilişim teknolojilerini seçme ve etkin bir şekilde kullanma yetkinliğini gösterir.",
+      "Bireysel olarak ve disiplin içi/çok disiplinli takımlarda etkin bir şekilde sorumluluk alarak çalışma becerisi kazanır.",
+      "Mühendislik çözümlerinin evrensel ve toplumsal boyutlardaki sağlık, güvenlik ve çevre üzerindeki etkilerini anlar; mesleki ve etik sorumluluk bilinciyle hareket eder.",
+      "Bağımsız ve sürekli öğrenebilme; yapay zeka, gömülü sistemler, yeni nesil yazılım ve donanım mimarileri gibi gelişmekte olan teknolojilere hızla uyum sağlayabilme ve bilgisayar bilimlerindeki hızlı paradigma değişimlerini sorgulayıcı bir yaklaşımla değerlendirebilme becerisi kazanır.",
+      "Proje tasarım ve geliştirme süreçlerini, standartlara uygun mühendislik raporları hazırlayarak ve etkili sunum teknikleri kullanarak Türkçe/İngilizce olarak sözlü ve yazılı şekilde ifade eder."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Proje konusunun belirlenmesi, literatür araştırması ve problem tanımı. Bilimsel Makaleler/Tezler/Derlemeler",
+      "Hafta 2: Proje konusunun belirlenmesi, literatür araştırması ve problem tanımı. Bilimsel Makaleler/Tezler/Derlemeler",
+      "Hafta 3: Proje konusunun belirlenmesi, literatür araştırması ve problem tanımı. Bilimsel Makaleler/Tezler/Derlemeler",
+      "Hafta 5: Proje gereksinim analizi ve gerçekçi kısıtların (maliyet, standartlar, etik) belirlenmesi.",
+      "Hafta 6: Sistem ve mimari tasarımının oluşturulması (kavramsal tasarım).",
+      "Hafta 7: Sistem ve mimari tasarımının oluşturulması (kavramsal tasarım).",
+      "Hafta 8: Sistem ve mimari tasarımının oluşturulması (kavramsal tasarım).",
+      "Hafta 9: Donanım ve/veya yazılım bileşenlerinin prototiplenmesi ve geliştirme süreçleri.",
+      "Hafta 10: Donanım ve/veya yazılım bileşenlerinin prototiplenmesi ve geliştirme süreçleri.",
+      "Hafta 11: Donanım ve/veya yazılım bileşenlerinin prototiplenmesi ve geliştirme süreçleri.",
+      "Hafta 12: Sistem entegrasyonu, doğrulama (validation) ve test (testing) aşamaları.",
+      "Hafta 13: Sistem entegrasyonu, doğrulama (validation) ve test (testing) aşamaları.",
+      "Hafta 14: Bitirme tezi raporunun yazım kurallarına uygun olarak tamamlanması ve akademik jüri önünde sözlü/poster sunumu."
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Bitirme Tezi\nDers Kodu: BMB490\nYarıyıl: 8. Yarıyıl\nKredi: 1\nAKTS Kredisi: 8\nDers Saati: Teori=0, Uygulama=2, Lab=0\nSon Güncelleme: 04.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Doç. Dr. Mehmet Fatih Tefek mftefek@gmail.com\nÖğretim Üyesi: Dr. Öğr. Üyesi Ahmet LOĞOĞLU Dr. Öğr. Üyesi Haydar Tuna haydartuna@osmaniye.edu.tr\n\n--- DERS AMACI ---\nÖğrencilerin bilgisayar mühendisliği alanında edindikleri temel bilim, matematik ve mühendislik bilgilerini kullanarak; karmaşık bir mühendislik problemini gerçekçi kısıtlar (ekonomik, çevresel, sürdürülebilirlik, üretilebilirlik, etik, sağlık, güvenlik vb.) altında tanımlamalarını, formüle etmelerini ve çözmelerini sağlamaktır. Bu süreçte modern mühendislik araçlarını kullanarak standartlara uygun bir donanım ve/veya yazılım sistemi tasarlamaları, geliştirmeleri ve raporlamaları hedeflenmektedir.\n\n--- DERS İÇERİĞİ ---\nProje/tez konusunun belirlenmesi, literatür araştırması yapılması, gereksinim analizinin çıkarılması, sistem ve mimari tasarımın oluşturulması, yazılım ve/veya donanım geliştirme (uygulama) süreçleri, test ve doğrulama aşamaları ile sonuçların akademik standartlara uygun olarak raporlanıp sunulması.\n\nÖğretim Yöntemleri: Proje tabanlı öğrenme, bağımsız çalışma, literatür taraması, mentorluk/danışmanlık, mühendislik tasarımı, rapor yazma ve sözlü/poster sunum.\n\n--- DERS KAYNAKLARI ---\n• Bilimsel Makaleler/Tezler/Derlemeler\n• Ders Notu: Sabit bir ders kitabı bulunmamaktadır. Öğrenciler proje konularına özgü güncel IEEE, ACM makaleleri, bilimsel yayınlar ve bölümün Bitirme Projesi/Tez Yazım Kılavuzu'nu referans almalıdır.\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Karmaşık bilgisayar mühendisliği problemlerini tanımlama, formüle etme ve çözme becerisi kazanır.\n2. Belirli gereksinimleri karşılayacak bir bilgisayar tabanlı sistemi, bileşeni veya süreci, gerçekçi kısıtlar ve koşullar altında tasarlama becerisi sergiler.\n3. Tasarım sürecinde modern yazılım ve donanım geliştirme araçları ile bilişim teknolojilerini seçme ve etkin bir şekilde kullanma yetkinliğini gösterir.\n4. Bireysel olarak ve disiplin içi/çok disiplinli takımlarda etkin bir şekilde sorumluluk alarak çalışma becerisi kazanır.\n5. Mühendislik çözümlerinin evrensel ve toplumsal boyutlardaki sağlık, güvenlik ve çevre üzerindeki etkilerini anlar; mesleki ve etik sorumluluk bilinciyle hareket eder.\n6. Bağımsız ve sürekli öğrenebilme; yapay zeka, gömülü sistemler, yeni nesil yazılım ve donanım mimarileri gibi gelişmekte olan teknolojilere hızla uyum sağlayabilme ve bilgisayar bilimlerindeki hızlı paradigma değişimlerini sorgulayıcı bir yaklaşımla değerlendirebilme becerisi kazanır.\n7. Proje tasarım ve geliştirme süreçlerini, standartlara uygun mühendislik raporları hazırlayarak ve etkili sunum teknikleri kullanarak Türkçe/İngilizce olarak sözlü ve yazılı şekilde ifade eder.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Proje konusunun belirlenmesi, literatür araştırması ve problem tanımı. Bilimsel Makaleler/Tezler/Derlemeler\nHafta 2: Proje konusunun belirlenmesi, literatür araştırması ve problem tanımı. Bilimsel Makaleler/Tezler/Derlemeler\nHafta 3: Proje konusunun belirlenmesi, literatür araştırması ve problem tanımı. Bilimsel Makaleler/Tezler/Derlemeler\nHafta 5: Proje gereksinim analizi ve gerçekçi kısıtların (maliyet, standartlar, etik) belirlenmesi.\nHafta 6: Sistem ve mimari tasarımının oluşturulması (kavramsal tasarım).\nHafta 7: Sistem ve mimari tasarımının oluşturulması (kavramsal tasarım).\nHafta 8: Sistem ve mimari tasarımının oluşturulması (kavramsal tasarım).\nHafta 9: Donanım ve/veya yazılım bileşenlerinin prototiplenmesi ve geliştirme süreçleri.\nHafta 10: Donanım ve/veya yazılım bileşenlerinin prototiplenmesi ve geliştirme süreçleri.\nHafta 11: Donanım ve/veya yazılım bileşenlerinin prototiplenmesi ve geliştirme süreçleri.\nHafta 12: Sistem entegrasyonu, doğrulama (validation) ve test (testing) aşamaları.\nHafta 13: Sistem entegrasyonu, doğrulama (validation) ve test (testing) aşamaları.\nHafta 14: Bitirme tezi raporunun yazım kurallarına uygun olarak tamamlanması ve akademik jüri önünde sözlü/poster sunumu.\n",
+  "source_file": "BMB490_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

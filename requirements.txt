@@ -1,0 +1,55 @@
+# ---- Web Scraping ve Veri Ayrıştırma (Data Mining Layer) ----
+# beautifulsoup4: HTML parsing and tag extraction logic
+beautifulsoup4
+# requests: HTTP protocol handling for synchronous API/Web calls
+requests>=2.32.2
+# lxml: High-performance XML/HTML parser required by BeautifulSoup
+lxml
+
+# ---- RAG Altyapısı ve Vektör Veritabanı (Retrieval Layer) ----
+# langchain: RAG orchestration and chain management framework
+langchain
+# langchain-community: Third-party integrations for vector stores
+langchain-community
+# langchain-text-splitters: Chunking and semantic document splitting
+langchain-text-splitters
+# langchain-huggingface: Native HuggingFace embedding integrations
+langchain-huggingface
+# numpy: Matrix operations and tensor manipulation
+numpy
+# faiss-gpu-cu12: High-dimensional vector similarity search indexing (GPU-accelerated)
+faiss-gpu-cu12
+# sentence-transformers: Embedding generation for dense retrieval (MiniLM)
+sentence-transformers
+
+# ---- Büyük Dil Modeli (LLM) İşleme ve Inference (Generative Layer) ----
+# torch: Core tensor operations — GH200 (Hopper arch) CUDA 12.4+ desteği
+torch>=2.6.0
+# transformers: Autoregressive text generation and model loading
+transformers>=5.7.0
+# accelerate: Multi-GPU and large model memory management
+accelerate
+# einops: Tensor dimension manipulation and flexible pooling
+einops
+# quanto: PTQ (Post-Training Quantization) for 8-bit KV Cache memory reduction
+quanto
+optimum-quanto
+
+# ---- Metrik Sistemi (Evaluation Layer) ----
+# rouge-score: Lexical overlap evaluation (ROUGE-L/1/2) for generation accuracy
+rouge-score
+snowballstemmer
+
+# ---- Web Arayüzü (Presentation Layer) ----
+# gradio: Interactive web-based user interface for inference testing
+gradio
+
+# ---- Otomasyon & Kazıma (Web Automation Layer) ----
+# selenium: Headless browser automation for dynamic DOM rendering
+selenium>=4.21.0
+# webdriver-manager: Automated driver installation and version alignment
+webdriver-manager>=4.0.1
+
+# ---- Test Altyapısı (Test Layer) ----
+# pytest: Unit testing framework
+pytest

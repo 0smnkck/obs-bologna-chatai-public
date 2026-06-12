@@ -1,0 +1,71 @@
+{
+  "title": "BMB411 - Kompleks Analize Giriş Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB411",
+    "ders_adi": "Kompleks Analize Giriş",
+    "yariyil": "7",
+    "kredi": "2",
+    "akts": "3",
+    "son_guncelleme": "21.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Özcan YIRTICI"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı mühendislikte üst düzeyde matematik kullanımını gerektiren dersler arasında bir köprü kurmaktır.",
+    "icerik": "In this course, complex numbers, operations and rules with complex numbers; polar representation of complex numbers, De Moivre's formula, Euler's formula, regions in the complex plane; elementary functions of complex numbers; mapping of functions of a complex variable; analytic functions: concepts of derivative, limit and continuity, Cauchy-Riemann equations, harmonic functions; integrals and series in the complex plane; Cauchy's Theorem, series expansion of analytic functions: Taylor and Laurent series; residue theorem, and solution of real integrals using residue theorem are covered. Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "Complex Variables, Murray Spiegel, Seymour Lipschutz, John J. Schiller, Dennis Spellman"
+      ],
+      "ders_notlari": [
+        "Fizikte ve Mühendislikte Matematiksel Yöntemler, Bekir Karaoğlu"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "4",
+        "katki": "%10"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Kompleks sayıları tanımlar.",
+      "Kompleks düzlemde bölgeleri tanımlar.",
+      "Kompleks integral alır.",
+      "Reel integralleri rezidü yöntemiyle çözer.",
+      "Karmaşık düzlemlerde integraller ve seriler arasında ilişki kurar."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Karmaşık sayılar, karmaşık sayılarla işlemler ve kurallar",
+      "Hafta 2: Karmaşık sayıların kutupsal gösterimi.",
+      "Hafta 3: De Moivre formülü, Euler formülü.",
+      "Hafta 4: Karmaşık düzlemde bölgeler, karmaşık sayıların temel Fonksiyonları, karmaşık değişkenli fonksiyonların tasviri.",
+      "Hafta 5: Analitik Fonksiyonlar: Türev,limit ve süreklilik kavramları.",
+      "Hafta 6: Cauchy-Riemann denklemleri, Harmonik fonksiyonlar",
+      "Hafta 7: Karmaşık Düzlemde İntegraller ve Seriler",
+      "Hafta 8: Ara Sınav",
+      "Hafta 9: Cauchy Teoremi.",
+      "Hafta 10: İntegral hesabı temel formülleri ve Cauchy integral formülleri.",
+      "Hafta 11: Analitik fonksiyonların seri açılımı: Taylor serileri K",
+      "Hafta 12: Analitik fonksiyonların seri açılımı:Taylor ve Laurent serileri",
+      "Hafta 13: Rezidü Teoremi ve Rezidü hesaplama teknikleri.",
+      "Hafta 14: Rezidü teoremi yardımıyla reel integrallerin çözümü.",
+      "Hafta 15: Rezidü teoremi yardımıyla reel trigonometrik integrallerin çözümü.",
+      "Hafta 16: Final"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Kompleks Analize Giriş\nDers Kodu: BMB411\nYarıyıl: 7. Yarıyıl\nKredi: 2\nAKTS Kredisi: 3\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 21.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Özcan YIRTICI\n\n--- DERS AMACI ---\nBu dersin amacı mühendislikte üst düzeyde matematik kullanımını gerektiren dersler arasında bir köprü kurmaktır.\n\n--- DERS İÇERİĞİ ---\nIn this course, complex numbers, operations and rules with complex numbers; polar representation of complex numbers, De Moivre's formula, Euler's formula, regions in the complex plane; elementary functions of complex numbers; mapping of functions of a complex variable; analytic functions: concepts of derivative, limit and continuity, Cauchy-Riemann equations, harmonic functions; integrals and series in the complex plane; Cauchy's Theorem, series expansion of analytic functions: Taylor and Laurent series; residue theorem, and solution of real integrals using residue theorem are covered. Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• Complex Variables, Murray Spiegel, Seymour Lipschutz, John J. Schiller, Dennis Spellman\n• Ders Notu: Fizikte ve Mühendislikte Matematiksel Yöntemler, Bekir Karaoğlu\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %30\nÖdev: 4 adet, katkı oranı %10\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Kompleks sayıları tanımlar.\n2. Kompleks düzlemde bölgeleri tanımlar.\n3. Kompleks integral alır.\n4. Reel integralleri rezidü yöntemiyle çözer.\n5. Karmaşık düzlemlerde integraller ve seriler arasında ilişki kurar.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Karmaşık sayılar, karmaşık sayılarla işlemler ve kurallar\nHafta 2: Karmaşık sayıların kutupsal gösterimi.\nHafta 3: De Moivre formülü, Euler formülü.\nHafta 4: Karmaşık düzlemde bölgeler, karmaşık sayıların temel Fonksiyonları, karmaşık değişkenli fonksiyonların tasviri.\nHafta 5: Analitik Fonksiyonlar: Türev,limit ve süreklilik kavramları.\nHafta 6: Cauchy-Riemann denklemleri, Harmonik fonksiyonlar\nHafta 7: Karmaşık Düzlemde İntegraller ve Seriler\nHafta 8: Ara Sınav\nHafta 9: Cauchy Teoremi.\nHafta 10: İntegral hesabı temel formülleri ve Cauchy integral formülleri.\nHafta 11: Analitik fonksiyonların seri açılımı: Taylor serileri K\nHafta 12: Analitik fonksiyonların seri açılımı:Taylor ve Laurent serileri\nHafta 13: Rezidü Teoremi ve Rezidü hesaplama teknikleri.\nHafta 14: Rezidü teoremi yardımıyla reel integrallerin çözümü.\nHafta 15: Rezidü teoremi yardımıyla reel trigonometrik integrallerin çözümü.\nHafta 16: Final\n",
+  "source_file": "BMB411_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

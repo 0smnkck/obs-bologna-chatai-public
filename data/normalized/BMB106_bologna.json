@@ -1,0 +1,66 @@
+{
+  "title": "BMB106 - Lineer Cebir Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB106",
+    "ders_adi": "Lineer Cebir",
+    "yariyil": "2",
+    "kredi": "3",
+    "akts": "4",
+    "son_guncelleme": "21.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Özcan YIRTICI"
+  },
+  "sections": {
+    "amac": "Bu derste, daha ileri düzeydeki matematik konuları için gerekli bilgiyi oluşturmak amaçlanmaktadır. Bu konular ileride yapay zeka ve makine öğrenmesinde önemli bir yer tutacaktır.",
+    "icerik": "Matrisler: Matris tanımı, matris çeşitleri, matris işlemleri ve özellikleri, matrisin transpozezi ve özellikleri, Matrislerde elemanter satır ve sütün işlemleri, bir matrisin satırca indirgenmiş (eşolon) formu, matrisin rangı, bir kare matrisin tersi -Determinantlar: Bir kare matrisin determinantı, Laplace açılımı, determinant özellikleri -Sarrus kuralı, Ek matris, bir matrisin tersinin ek matris yardımı ile hesaplanması, Lineer Denklem Sistemleri: Lineer denklem sistemlerinin denk matrisler yardımı ile çözümü, Lineer homojen denklem sistemleri, Gaus Jordan Eliminasyon Yöntemi, Cramer yöntemi, Vektörler: Vektör tanımı, vektör işlemleri, Vektör Uzayları: Vektör uzayları tanımı, alt vektör uzayı, vektörlerin lineer bağımlılığı ve lineer bağımsızlığı, taban ve boyut kavramı ve temel teoremler. Koordinatlar ve geçiş matrisleri. İç çarpım uzayları ve ortogonallik, Lineer Dönüşümler: Lineer dönüşümün çekirdeği ve görüntüsü, lineer dönüşümün matrisi, Özdeğer ve Özvektörler: Bir kare matrisin özdeğerleri ve özvektörlerinin hesaplanması, köşegenleştirme. Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "Lineer Cebir, Seymour Upschutz ve Marc Lipson",
+        "[2] Kennet Hoffman, Ray Kunze (1971), Linear Algebra, Prentice Hall."
+      ],
+      "ders_notlari": [
+        "[1] Arif Sabuncuoğlu. (2020), Lineer Cebir, Nobel Yayınları."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Lineer denklem sistemleri ve matrisler arasındaki ilişki kurar.",
+      "Vektör diferansiyel operatörleri kullanır.",
+      "Özdeğer ve özvektörleri tanımlayıp, verilen bir matris için özdeğer ve özvektörleri bulur.",
+      "Lineer denklem sistemi, determinant, lineer bağımlılık, lineer bağımsızlık, özdeğer ve özvektör kavramları arasındaki ilişkileri yorumlar.",
+      "Lineer denklem sistemlerini iyi analiz ederek, farklı yöntemler (Cramer, Gauss yok etme ) yardımıyla çözer."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Matrisler ve Matris İşlemleri, Özel Matrisler.",
+      "Hafta 2: Bir matrisin determinantının bulunması",
+      "Hafta 3: Matrisin tersinin hesaplanması",
+      "Hafta 4: Matrislerin rankının hesaplanması",
+      "Hafta 5: Homojen Lineer Denklem Sistemlerine Giriş ve çözümleri",
+      "Hafta 6: Homojen Olmayan Lineer Denklem Sistemlerine Giriş, Rank metoduyla irdeleme",
+      "Hafta 7: Gauss Eleme Yöntemi, Gauss-Jordan Yöntemi",
+      "Hafta 8: Ara Sınav",
+      "Hafta 9: Özdeğer ve Özvektörler",
+      "Hafta 10: Benzerlik Dönüşümü ve Matrislerin Köşegenleştirilmesi",
+      "Hafta 11: Gram-Schmidt dikleştirme metodu",
+      "Hafta 12: Vektörler, Vektör İşlemleri, Vektör fonksiyonların türevi",
+      "Hafta 13: Gradyent, Diverjans, Rotasyonel İşlemleri ve fiziksel Uygulamaları-I",
+      "Hafta 14: Gradyent, Diverjans, Rotasyonel İşlemleri ve fiziksel Uygulamaları-II.",
+      "Hafta 15: Genel Sınav Uygulaması"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Lineer Cebir\nDers Kodu: BMB106\nYarıyıl: 2. Yarıyıl\nKredi: 3\nAKTS Kredisi: 4\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 21.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Özcan YIRTICI\n\n--- DERS AMACI ---\nBu derste, daha ileri düzeydeki matematik konuları için gerekli bilgiyi oluşturmak amaçlanmaktadır. Bu konular ileride yapay zeka ve makine öğrenmesinde önemli bir yer tutacaktır.\n\n--- DERS İÇERİĞİ ---\nMatrisler: Matris tanımı, matris çeşitleri, matris işlemleri ve özellikleri, matrisin transpozezi ve özellikleri, Matrislerde elemanter satır ve sütün işlemleri, bir matrisin satırca indirgenmiş (eşolon) formu, matrisin rangı, bir kare matrisin tersi -Determinantlar: Bir kare matrisin determinantı, Laplace açılımı, determinant özellikleri -Sarrus kuralı, Ek matris, bir matrisin tersinin ek matris yardımı ile hesaplanması, Lineer Denklem Sistemleri: Lineer denklem sistemlerinin denk matrisler yardımı ile çözümü, Lineer homojen denklem sistemleri, Gaus Jordan Eliminasyon Yöntemi, Cramer yöntemi, Vektörler: Vektör tanımı, vektör işlemleri, Vektör Uzayları: Vektör uzayları tanımı, alt vektör uzayı, vektörlerin lineer bağımlılığı ve lineer bağımsızlığı, taban ve boyut kavramı ve temel teoremler. Koordinatlar ve geçiş matrisleri. İç çarpım uzayları ve ortogonallik, Lineer Dönüşümler: Lineer dönüşümün çekirdeği ve görüntüsü, lineer dönüşümün matrisi, Özdeğer ve Özvektörler: Bir kare matrisin özdeğerleri ve özvektörlerinin hesaplanması, köşegenleştirme. Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• Lineer Cebir, Seymour Upschutz ve Marc Lipson\n• [2] Kennet Hoffman, Ray Kunze (1971), Linear Algebra, Prentice Hall.\n• Ders Notu: [1] Arif Sabuncuoğlu. (2020), Lineer Cebir, Nobel Yayınları.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Lineer denklem sistemleri ve matrisler arasındaki ilişki kurar.\n2. Vektör diferansiyel operatörleri kullanır.\n3. Özdeğer ve özvektörleri tanımlayıp, verilen bir matris için özdeğer ve özvektörleri bulur.\n4. Lineer denklem sistemi, determinant, lineer bağımlılık, lineer bağımsızlık, özdeğer ve özvektör kavramları arasındaki ilişkileri yorumlar.\n5. Lineer denklem sistemlerini iyi analiz ederek, farklı yöntemler (Cramer, Gauss yok etme ) yardımıyla çözer.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Matrisler ve Matris İşlemleri, Özel Matrisler.\nHafta 2: Bir matrisin determinantının bulunması\nHafta 3: Matrisin tersinin hesaplanması\nHafta 4: Matrislerin rankının hesaplanması\nHafta 5: Homojen Lineer Denklem Sistemlerine Giriş ve çözümleri\nHafta 6: Homojen Olmayan Lineer Denklem Sistemlerine Giriş, Rank metoduyla irdeleme\nHafta 7: Gauss Eleme Yöntemi, Gauss-Jordan Yöntemi\nHafta 8: Ara Sınav\nHafta 9: Özdeğer ve Özvektörler\nHafta 10: Benzerlik Dönüşümü ve Matrislerin Köşegenleştirilmesi\nHafta 11: Gram-Schmidt dikleştirme metodu\nHafta 12: Vektörler, Vektör İşlemleri, Vektör fonksiyonların türevi\nHafta 13: Gradyent, Diverjans, Rotasyonel İşlemleri ve fiziksel Uygulamaları-I\nHafta 14: Gradyent, Diverjans, Rotasyonel İşlemleri ve fiziksel Uygulamaları-II.\nHafta 15: Genel Sınav Uygulaması\n",
+  "source_file": "BMB106_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

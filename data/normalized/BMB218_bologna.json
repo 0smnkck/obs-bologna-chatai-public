@@ -1,0 +1,70 @@
+{
+  "title": "BMB218 - Programlama Dilleri Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB218",
+    "ders_adi": "Programlama Dilleri",
+    "yariyil": "4",
+    "kredi": "3",
+    "akts": "4",
+    "son_guncelleme": "05.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilere farklı programlama paradigmalara dayalı dilleri karşılaştırmalı olarak öğretmek ve bu dillerle uygulama geliştirme yöntemlerini benimsetmektir. Öğrenciler, programlama dillerinin yapısını, tasarım ilkelerini ve gerçekleştirim yöntemlerini öğrenerek farklı diller arasında kavramsal ilişki kurma becerisi kazanacaktır.",
+    "icerik": "Programlama dili tasarımına yön veren yazılım ve donanım mimarisi, uygulama alanlarına göre yazılımlar ve yazılım geliştirme süreçleri, programlama dili kavramlarının öğrenilmesinin gerekçeleri, programlama dillerinin sınıflandırılması, programlama paradigmaları (yordamsal, nesneye dayalı, fonksiyonel, mantıksal), dil değerlendirme kriterleri, gerçekleştirim metotları, programlama dillerinin evrimi, dillerin tanımlanması ve tasarımı, sözdizimi ve anlambilim kavramları, biçimsel diller, gramerler, türetmeler, ayrıştırma ağaçları, adlar, bağlama ve tip kontrolü konuları işlenecektir.",
+    "yontemler": "Anlatım, Soru-Cevap, Kod Gösterimi, Karşılaştırmalı Analiz",
+    "kaynaklar": {
+      "kitaplar": [
+        "Sebesta, R.W., Concepts of Programming Languages, Eleventh Edition, Pearson",
+        "Yumuşak, N., ADAK, M. F., Programlama Dilleri Prensipleri, Seçkin Yayıncılık"
+      ],
+      "ders_notlari": [
+        "Öğretim üyesi tarafından hazırlanan ders notları"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "2",
+        "katki": "%10"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Programlama dillerinin temel kavramlarını, gelişim sürecini, kullanım alanlarını ve temel yaklaşımlarını açıklar.",
+      "Programlama dillerini; kullanım kolaylığı, anlaşılabilirlik, güvenilirlik ve maliyet gibi ölçütlere göre karşılaştırır ve değerlendirir.",
+      "Programlama dillerinin yapılarını, kurallarını ve anlam boyutlarını inceleyerek bu yapıların program geliştirmedeki rolünü açıklar.",
+      "Programlama dillerinde yer alan temel yapı taşlarını ve bu yapıların farklı dillerde nasıl kullanıldığını analiz eder.",
+      "Belirli bir problem ya da uygulama alanı için uygun programlama dili veya yaklaşımını seçer ve seçimini teknik gerekçelerle ifade eder."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Donanım ve yazılım kavramı, programlama dili kavramına giriş",
+      "Hafta 2: Programlama dillerinin uygulama alanları, yazılım geliştirme süreçleri ve öğrenilme nedenleri",
+      "Hafta 3: Programlama dillerinin seviyelerine, uygulama alanlarına, tasarım paradigmalarına göre sınıflandırılması",
+      "Hafta 4: Programlama dillerinin tarihsel gelişimi I: Zuse’s Plankalkül ve ilk dönem diller",
+      "Hafta 5: Programlama dillerinin tarihsel gelişimi II: Yapısal programlama anlayışı, dil ailelerinin gelişimi",
+      "Hafta 6: Programlama dillerinin tarihsel gelişimi III: Nesneye dayalı programlama, Smalltalk, modern diller ve C tabanlı gelişim çizgisi",
+      "Hafta 7: Programlama dillerinin değerlendirme kriterleri: okunabilirlik, yazılabilirlik, güvenilirlik ve maliyet",
+      "Hafta 8: Dil tasarımını etkileyen faktörler: bilgisayar mimarisi etkisi, programlama tasarım yöntemleri, dil tasarımındaki getiri-götürü ilişkileri",
+      "Hafta 9: Gerçekleştirim metotları: derleyici, yorumlayıcı ve hibrit sistemler",
+      "Hafta 10: Dillerin tanımlanması ve tasarımı: sözdizimi ve anlam kavramları, expressions, statements ve blocks",
+      "Hafta 11: Metinsel analiz, biçimsel diller ve özellikleri, gramer kavramına giriş",
+      "Hafta 12: Backus-Naur Form, Context-Free yapı, BNF temelleri ve dil kurallarının gösterimi",
+      "Hafta 13: Gramerler ve türetmeler, ayrıştırma ağaçları, belirsizlik, operatörlerin ilişkilendirilmesi",
+      "Hafta 14: Extended BNF, dil yapılarının bütüncül değerlendirilmesi, genel tekrar Öğretim üyesi değerlendirmesi"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Programlama Dilleri\nDers Kodu: BMB218\nYarıyıl: 4. Yarıyıl\nKredi: 3\nAKTS Kredisi: 4\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 05.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Abdurrahman Burak GÜHER burakguher@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilere farklı programlama paradigmalara dayalı dilleri karşılaştırmalı olarak öğretmek ve bu dillerle uygulama geliştirme yöntemlerini benimsetmektir. Öğrenciler, programlama dillerinin yapısını, tasarım ilkelerini ve gerçekleştirim yöntemlerini öğrenerek farklı diller arasında kavramsal ilişki kurma becerisi kazanacaktır.\n\n--- DERS İÇERİĞİ ---\nProgramlama dili tasarımına yön veren yazılım ve donanım mimarisi, uygulama alanlarına göre yazılımlar ve yazılım geliştirme süreçleri, programlama dili kavramlarının öğrenilmesinin gerekçeleri, programlama dillerinin sınıflandırılması, programlama paradigmaları (yordamsal, nesneye dayalı, fonksiyonel, mantıksal), dil değerlendirme kriterleri, gerçekleştirim metotları, programlama dillerinin evrimi, dillerin tanımlanması ve tasarımı, sözdizimi ve anlambilim kavramları, biçimsel diller, gramerler, türetmeler, ayrıştırma ağaçları, adlar, bağlama ve tip kontrolü konuları işlenecektir.\n\nÖğretim Yöntemleri: Anlatım, Soru-Cevap, Kod Gösterimi, Karşılaştırmalı Analiz\n\n--- DERS KAYNAKLARI ---\n• Sebesta, R.W., Concepts of Programming Languages, Eleventh Edition, Pearson\n• Yumuşak, N., ADAK, M. F., Programlama Dilleri Prensipleri, Seçkin Yayıncılık\n• Ders Notu: Öğretim üyesi tarafından hazırlanan ders notları\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nÖdev: 2 adet, katkı oranı %10\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Programlama dillerinin temel kavramlarını, gelişim sürecini, kullanım alanlarını ve temel yaklaşımlarını açıklar.\n2. Programlama dillerini; kullanım kolaylığı, anlaşılabilirlik, güvenilirlik ve maliyet gibi ölçütlere göre karşılaştırır ve değerlendirir.\n3. Programlama dillerinin yapılarını, kurallarını ve anlam boyutlarını inceleyerek bu yapıların program geliştirmedeki rolünü açıklar.\n4. Programlama dillerinde yer alan temel yapı taşlarını ve bu yapıların farklı dillerde nasıl kullanıldığını analiz eder.\n5. Belirli bir problem ya da uygulama alanı için uygun programlama dili veya yaklaşımını seçer ve seçimini teknik gerekçelerle ifade eder.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Donanım ve yazılım kavramı, programlama dili kavramına giriş\nHafta 2: Programlama dillerinin uygulama alanları, yazılım geliştirme süreçleri ve öğrenilme nedenleri\nHafta 3: Programlama dillerinin seviyelerine, uygulama alanlarına, tasarım paradigmalarına göre sınıflandırılması\nHafta 4: Programlama dillerinin tarihsel gelişimi I: Zuse’s Plankalkül ve ilk dönem diller\nHafta 5: Programlama dillerinin tarihsel gelişimi II: Yapısal programlama anlayışı, dil ailelerinin gelişimi\nHafta 6: Programlama dillerinin tarihsel gelişimi III: Nesneye dayalı programlama, Smalltalk, modern diller ve C tabanlı gelişim çizgisi\nHafta 7: Programlama dillerinin değerlendirme kriterleri: okunabilirlik, yazılabilirlik, güvenilirlik ve maliyet\nHafta 8: Dil tasarımını etkileyen faktörler: bilgisayar mimarisi etkisi, programlama tasarım yöntemleri, dil tasarımındaki getiri-götürü ilişkileri\nHafta 9: Gerçekleştirim metotları: derleyici, yorumlayıcı ve hibrit sistemler\nHafta 10: Dillerin tanımlanması ve tasarımı: sözdizimi ve anlam kavramları, expressions, statements ve blocks\nHafta 11: Metinsel analiz, biçimsel diller ve özellikleri, gramer kavramına giriş\nHafta 12: Backus-Naur Form, Context-Free yapı, BNF temelleri ve dil kurallarının gösterimi\nHafta 13: Gramerler ve türetmeler, ayrıştırma ağaçları, belirsizlik, operatörlerin ilişkilendirilmesi\nHafta 14: Extended BNF, dil yapılarının bütüncül değerlendirilmesi, genel tekrar Öğretim üyesi değerlendirmesi\n",
+  "source_file": "BMB218_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

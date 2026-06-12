@@ -1,0 +1,65 @@
+{
+  "title": "BMB446 - Kuantum Hesaplama Uygulamaları Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB446",
+    "ders_adi": "Kuantum Hesaplama Uygulamaları",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "26.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Öğrencilere kuantum hesaplama kavramlarını, temel algoritmaları ve kuantum iletişim protokollerini öğretmek; simülasyon araçlarıyla kuantum algoritmalarını uygulayabilme becerisi kazandırmak.",
+    "icerik": "Kuantum devre simülasyonları (Qiskit, Quirk), Deutsch-Jozsa, Bernstein-Vazirani, Simon ve Grover algoritmaları, Kuantum Fourier Dönüşümü, Faz Tahmini, Shor algoritması, Kuantum yürüyüşleri, BB84 protokolü, Bell eşitsizlikleri, süper yoğun kodlama, kuantum teleportasyonu ve kuantum makine öğrenmesi konularını kapsar.",
+    "yontemler": "Ders, teorik anlatım, simülasyon tabanlı laboratuvar uygulamaları, grup çalışmaları ve proje sunumlarını içerir.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Wong, T. G. (2022). Klasik ve Kuantum Hesaplama Giriş (1. baskı). Rooted Grove."
+      ],
+      "ders_notlari": [
+        "James F. Kurose ve Keith W. Ross, Kuantum Hesaplama Uygulamaları ders notları ve çevrimiçi kaynaklar (Qiskit.org, IBM Quantum Tutorials)."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Qiskit ve Quirk simülatörlerini kullanarak temel kuantum devrelerini olusturabilir.",
+      "Deutsch-Jozsa, Bernstein-Vazirani ve Simon algoritmalarini karsilastirarak analiz edebilir.",
+      "Grover algoritmasini kullanarak arama problemlerini çözebilir.",
+      "Shor algoritmasini ve Kuantum Fourier Dönüsümünü açiklayabilir ve uygulayabilir.",
+      "Kuantum iletisim protokollerini (BB84, teleportation, superdense coding) deneysel olarak gerçeklestirebilir.",
+      "Kuantum makine ögrenmesi kavramlarini ve kuantum yürüyüslerinin uygulamalarini açiklayabilir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Qiskit ve Quirk Simülatörlerine Giris Temel kuantum mantik kavramlarini gözden geçiriniz. Qiskit resmi belgeleri, IBM Quantum",
+      "Hafta 2: Deutsch-Jozsa Algoritmasi Simülasyon ortaminda sabit ve dengeli fonksiyonlari tanimlayiniz. Qiskit örnek devreleri",
+      "Hafta 3: Bernstein-Vazirani Algoritmasi Gizli bit dizisi kavramini inceleyiniz. Qiskit uygulama kilavuzu",
+      "Hafta 4: Simon Algoritmasi XOR mask kavramini gözden geçiriniz. IBM Quantum Lab",
+      "Hafta 5: Grover Algoritmasi Arama problemlerini tanimlayiniz. Qiskit ve Quirk örnek devreleri",
+      "Hafta 6: Kuantum Fourier Dönüsümü ve Ters Dönüsüm Fourier dönüsüm kavramlarini tekrar ediniz. Kurs notlari, Qiskit örnekleri",
+      "Hafta 7: Kuantum Faz Tahmini Faz kavramini inceleyiniz. IBM Quantum Tutorial",
+      "Hafta 8: Shor Algoritmasi Asal çarpanlara ayirma temellerini inceleyiniz. Qiskit dokümantasyonu",
+      "Hafta 9: Kuantum Yürüyüs Graf ve olasilik temellerini gözden geçiriniz. Akademik makaleler",
+      "Hafta 10: BB84 Protokolü ve Kuantum Anahtar Dagitimi BB84 protokolünün temel prensiplerini okuyunuz. QKD arastirma notlari",
+      "Hafta 11: Bell Esitsizlikleri EPR paradoksunu ve Bell testlerini arastiriniz. Fiziksel Review Letters makaleleri",
+      "Hafta 12: Süper Yogun Kodlama Iletisim protokollerini tekrar ediniz. Kuantum iletisim ders notlari",
+      "Hafta 13: Kuantum Teleportasyonu Teleportasyon protokolünü inceleyiniz. IBM Q örnek devreleri",
+      "Hafta 14: Kuantum Makine Ögrenmesi Makine ögrenmesi temel kavramlarini gözden geçiriniz. Qiskit Machine Learning modülü"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Kuantum Hesaplama Uygulamaları\nDers Kodu: BMB446\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 26.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr\n\n--- DERS AMACI ---\nÖğrencilere kuantum hesaplama kavramlarını, temel algoritmaları ve kuantum iletişim protokollerini öğretmek; simülasyon araçlarıyla kuantum algoritmalarını uygulayabilme becerisi kazandırmak.\n\n--- DERS İÇERİĞİ ---\nKuantum devre simülasyonları (Qiskit, Quirk), Deutsch-Jozsa, Bernstein-Vazirani, Simon ve Grover algoritmaları, Kuantum Fourier Dönüşümü, Faz Tahmini, Shor algoritması, Kuantum yürüyüşleri, BB84 protokolü, Bell eşitsizlikleri, süper yoğun kodlama, kuantum teleportasyonu ve kuantum makine öğrenmesi konularını kapsar.\n\nÖğretim Yöntemleri: Ders, teorik anlatım, simülasyon tabanlı laboratuvar uygulamaları, grup çalışmaları ve proje sunumlarını içerir.\n\n--- DERS KAYNAKLARI ---\n• Wong, T. G. (2022). Klasik ve Kuantum Hesaplama Giriş (1. baskı). Rooted Grove.\n• Ders Notu: James F. Kurose ve Keith W. Ross, Kuantum Hesaplama Uygulamaları ders notları ve çevrimiçi kaynaklar (Qiskit.org, IBM Quantum Tutorials).\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Qiskit ve Quirk simülatörlerini kullanarak temel kuantum devrelerini olusturabilir.\n2. Deutsch-Jozsa, Bernstein-Vazirani ve Simon algoritmalarini karsilastirarak analiz edebilir.\n3. Grover algoritmasini kullanarak arama problemlerini çözebilir.\n4. Shor algoritmasini ve Kuantum Fourier Dönüsümünü açiklayabilir ve uygulayabilir.\n5. Kuantum iletisim protokollerini (BB84, teleportation, superdense coding) deneysel olarak gerçeklestirebilir.\n6. Kuantum makine ögrenmesi kavramlarini ve kuantum yürüyüslerinin uygulamalarini açiklayabilir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Qiskit ve Quirk Simülatörlerine Giris Temel kuantum mantik kavramlarini gözden geçiriniz. Qiskit resmi belgeleri, IBM Quantum\nHafta 2: Deutsch-Jozsa Algoritmasi Simülasyon ortaminda sabit ve dengeli fonksiyonlari tanimlayiniz. Qiskit örnek devreleri\nHafta 3: Bernstein-Vazirani Algoritmasi Gizli bit dizisi kavramini inceleyiniz. Qiskit uygulama kilavuzu\nHafta 4: Simon Algoritmasi XOR mask kavramini gözden geçiriniz. IBM Quantum Lab\nHafta 5: Grover Algoritmasi Arama problemlerini tanimlayiniz. Qiskit ve Quirk örnek devreleri\nHafta 6: Kuantum Fourier Dönüsümü ve Ters Dönüsüm Fourier dönüsüm kavramlarini tekrar ediniz. Kurs notlari, Qiskit örnekleri\nHafta 7: Kuantum Faz Tahmini Faz kavramini inceleyiniz. IBM Quantum Tutorial\nHafta 8: Shor Algoritmasi Asal çarpanlara ayirma temellerini inceleyiniz. Qiskit dokümantasyonu\nHafta 9: Kuantum Yürüyüs Graf ve olasilik temellerini gözden geçiriniz. Akademik makaleler\nHafta 10: BB84 Protokolü ve Kuantum Anahtar Dagitimi BB84 protokolünün temel prensiplerini okuyunuz. QKD arastirma notlari\nHafta 11: Bell Esitsizlikleri EPR paradoksunu ve Bell testlerini arastiriniz. Fiziksel Review Letters makaleleri\nHafta 12: Süper Yogun Kodlama Iletisim protokollerini tekrar ediniz. Kuantum iletisim ders notlari\nHafta 13: Kuantum Teleportasyonu Teleportasyon protokolünü inceleyiniz. IBM Q örnek devreleri\nHafta 14: Kuantum Makine Ögrenmesi Makine ögrenmesi temel kavramlarini gözden geçiriniz. Qiskit Machine Learning modülü\n",
+  "source_file": "BMB446_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

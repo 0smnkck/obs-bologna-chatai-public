@@ -1,0 +1,65 @@
+{
+  "title": "BMB210 - Lojik tasarım Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB210",
+    "ders_adi": "Lojik tasarım",
+    "yariyil": "4",
+    "kredi": "2",
+    "akts": "3",
+    "son_guncelleme": "02.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+  },
+  "sections": {
+    "amac": "Temel lojik devre donanımlarını anlama ve çeşitli kombinasyonel ve ardışık devre tasarım adımlarını ortaya koyabilmek",
+    "icerik": "Lojik devrelerde kullanılan semboller ve anlamları, sayı sistemleri, kombinasyonel devre analizi ve tasarımı; toplayıcılar,çıkarıcılar, kodlayıcılar, kod dönüştürücüler,çoğullayıcılar, temel ardışık devre analizi ve tasarımı; sayıcılar, kaydediciler, hafıza birimleri, RAM, ROM vs Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "Digital Design Principles and Practices, John F. Wakerly, Prentice Hall, New Jersey, 2001."
+      ],
+      "ders_notlari": [
+        "Logic and Computer Design Fundamentals” - M. Morris Mano and Charles R. Kime, 2008"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Sayı sistemleri arasında dönüşüm yapabilme",
+      "Lojik devre elemanlarını tanıma",
+      "Temel mantık operatörlerini kullanarak karmaşık mantıksal ifadeleri analiz edebilme, doğruluk tabloları oluşturabilme ve verilen bir problemin çözümünde doğru Boolean ifadesini kurgulayabilme",
+      "Kombinasyonel mantık devreleri tasarlayabilme becerisi",
+      "Durum diyagramlarını ve durum tablolarını kullanarak ardışıl devreleri tasarlayabilme",
+      "Sistem tabanlı bir yaklaşım kullanarak kombinasyonel ve ardışıl devreler ve sistemler tasarlama becerisi"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Sayısal sistemlere giriş ve sayı sistemleri",
+      "Hafta 2: Boolean cebri",
+      "Hafta 3: Karnoug Diyagramları",
+      "Hafta 4: Maksterm ve minterm kavramları, iki seviyeli lojik",
+      "Hafta 5: sadece nand ve sadece nor kapıları ile tasarım",
+      "Hafta 6: Yarı toplayıcı, tam toplayıcı ve çıkarıcı devreler",
+      "Hafta 7: Dekoder",
+      "Hafta 8: Ara Sınav",
+      "Hafta 9: Multiplexer'lar",
+      "Hafta 10: Flip Floplar",
+      "Hafta 11: Ardışıl devrelerin analizi",
+      "Hafta 12: Ardışıl devrelerin tasarımı",
+      "Hafta 13: Sayıcılar",
+      "Hafta 14: Register'lar"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Lojik tasarım\nDers Kodu: BMB210\nYarıyıl: 4. Yarıyıl\nKredi: 2\nAKTS Kredisi: 3\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 02.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\nÖğretim Üyesi: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\n\n--- DERS AMACI ---\nTemel lojik devre donanımlarını anlama ve çeşitli kombinasyonel ve ardışık devre tasarım adımlarını ortaya koyabilmek\n\n--- DERS İÇERİĞİ ---\nLojik devrelerde kullanılan semboller ve anlamları, sayı sistemleri, kombinasyonel devre analizi ve tasarımı; toplayıcılar,çıkarıcılar, kodlayıcılar, kod dönüştürücüler,çoğullayıcılar, temel ardışık devre analizi ve tasarımı; sayıcılar, kaydediciler, hafıza birimleri, RAM, ROM vs Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• Digital Design Principles and Practices, John F. Wakerly, Prentice Hall, New Jersey, 2001.\n• Ders Notu: Logic and Computer Design Fundamentals” - M. Morris Mano and Charles R. Kime, 2008\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Sayı sistemleri arasında dönüşüm yapabilme\n2. Lojik devre elemanlarını tanıma\n3. Temel mantık operatörlerini kullanarak karmaşık mantıksal ifadeleri analiz edebilme, doğruluk tabloları oluşturabilme ve verilen bir problemin çözümünde doğru Boolean ifadesini kurgulayabilme\n4. Kombinasyonel mantık devreleri tasarlayabilme becerisi\n5. Durum diyagramlarını ve durum tablolarını kullanarak ardışıl devreleri tasarlayabilme\n6. Sistem tabanlı bir yaklaşım kullanarak kombinasyonel ve ardışıl devreler ve sistemler tasarlama becerisi\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Sayısal sistemlere giriş ve sayı sistemleri\nHafta 2: Boolean cebri\nHafta 3: Karnoug Diyagramları\nHafta 4: Maksterm ve minterm kavramları, iki seviyeli lojik\nHafta 5: sadece nand ve sadece nor kapıları ile tasarım\nHafta 6: Yarı toplayıcı, tam toplayıcı ve çıkarıcı devreler\nHafta 7: Dekoder\nHafta 8: Ara Sınav\nHafta 9: Multiplexer'lar\nHafta 10: Flip Floplar\nHafta 11: Ardışıl devrelerin analizi\nHafta 12: Ardışıl devrelerin tasarımı\nHafta 13: Sayıcılar\nHafta 14: Register'lar\n",
+  "source_file": "BMB210_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

@@ -1,0 +1,71 @@
+{
+  "title": "BMB101 - Matematik - I Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB101",
+    "ders_adi": "Matematik - I",
+    "yariyil": "1",
+    "kredi": "4",
+    "akts": "5",
+    "son_guncelleme": "21.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Özcan YIRTICI"
+  },
+  "sections": {
+    "amac": "Limit, süreklilik ve Türevin temel özelliklerini kavratmak, integral hesaplama yöntemlerini tanıtmak, integral kullanarak bazı mühendislik ve fiziksel uygulama problemlerini çözmek, problem çözme yeteneğini geliştirmek, akıl yürütme becerisine destek olmak, Bilgisayar Mühendisliği meslek dersleri için matematiksel alt yapı oluşturmak.",
+    "icerik": "Sayılar. Fonksiyonlar, fonksiyonların bazı özellikleri, ters fonksiyonlar, trigonometrik fonksiyonlar, logaritmik ve üstel fonksiyonlar, hiperbolik fonksiyonlar. Kutupsal ve parametrik fonksiyonlar. Fonksiyonlarda limit ve süreklilik. Türev, türev uygulamaları, fonksiyonların maksimum ve minimum değerleri. L’Hopital Kuralı. Asimptotlar ve eğri çizimleri. Zincir kuralı. Diferansiyele giriş. Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "Adams R.A. and Essex C. (2009), Calculus, A complete Course, Pearson.",
+        "[2] Calculus ve Analitik Geometri II. Cilt, SHERMAN K. STEIN, ANTHONY McGraw-Hill Inc., London, U.K., 1992",
+        "[3] Genel Matematik 1, Prof.Dr. Mustafa BALCI, Balcı Yayınları, 2008.",
+        "[4] Analize Giriş I-II, Prof.Dr.Fikri AKDENİZ, Prof.Dr. Yusuf ÜNLÜ, Prof.Dr. Doğan DÖNMEZ, Baki Kitabevi 1999."
+      ],
+      "ders_notlari": [
+        "[1] Calculus ve Analitik Geometri I. Cilt, SHERMAN K. STEIN, ANTHONY McGraw-Hill Inc., London, U.K., 1992"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Kısa Sınav",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Limit ve türevi tanımlayıp ifade eder",
+      "Türevi uygulamaları ile ilişkilendirir",
+      "Fonksiyonların grafiğini çizer"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Sayı kümeleri, (doğal, tam, rasyonel, reel sayılar), fonksiyon kavramı, tanım kümesi, bazı özel fonksiyonlar, bazı özel fonksiyonlar (trigonometrik, üstel, logaritmik, hiperbolik fonksiyonlar).",
+      "Hafta 2: Fonksiyonlar , Bileşke, Ters Fonksiyonlar ve Fonksiyonların Grafikler",
+      "Hafta 3: Limit kavramı, tek yanlı limitler, sonsuz limitler, sonsuzda limitler, belirsizlikler.",
+      "Hafta 4: Süreklilik kavramı, süreklilik tanımı, sürekli fonksiyonların özellikleri, süreksizlik tanımı ve süreksizlik türleri.",
+      "Hafta 5: Türev kavramı, türevin geometrik anlamı, türev alma kuralları",
+      "Hafta 6: Trigonometrik Fonksiyonların Türevleri, zincir kuralı",
+      "Hafta 7: Kapalı fonksiyonların türevi, ters fonksiyonun türevi, yüksek mertebeden türevler.",
+      "Hafta 8: Ara Sınav",
+      "Hafta 9: Artmalar ve Diferansiyeller",
+      "Hafta 10: Fonksiyonların Ekstremum Değerler",
+      "Hafta 11: Teğet denklemi, maksimum-minimum uygulamaları, L’Hospital Kuralı.",
+      "Hafta 12: Türevin uygulamaları",
+      "Hafta 13: Eğri çizme",
+      "Hafta 14: Rolle Teoremi, Ortalama Değer Teoremi",
+      "Hafta 15: Sınav uygulaması"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Matematik - I\nDers Kodu: BMB101\nYarıyıl: 1. Yarıyıl\nKredi: 4\nAKTS Kredisi: 5\nDers Saati: Teori=4, Uygulama=0, Lab=0\nSon Güncelleme: 21.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Özcan YIRTICI\n\n--- DERS AMACI ---\nLimit, süreklilik ve Türevin temel özelliklerini kavratmak, integral hesaplama yöntemlerini tanıtmak, integral kullanarak bazı mühendislik ve fiziksel uygulama problemlerini çözmek, problem çözme yeteneğini geliştirmek, akıl yürütme becerisine destek olmak, Bilgisayar Mühendisliği meslek dersleri için matematiksel alt yapı oluşturmak.\n\n--- DERS İÇERİĞİ ---\nSayılar. Fonksiyonlar, fonksiyonların bazı özellikleri, ters fonksiyonlar, trigonometrik fonksiyonlar, logaritmik ve üstel fonksiyonlar, hiperbolik fonksiyonlar. Kutupsal ve parametrik fonksiyonlar. Fonksiyonlarda limit ve süreklilik. Türev, türev uygulamaları, fonksiyonların maksimum ve minimum değerleri. L’Hopital Kuralı. Asimptotlar ve eğri çizimleri. Zincir kuralı. Diferansiyele giriş. Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• Adams R.A. and Essex C. (2009), Calculus, A complete Course, Pearson.\n• [2] Calculus ve Analitik Geometri II. Cilt, SHERMAN K. STEIN, ANTHONY McGraw-Hill Inc., London, U.K., 1992\n• [3] Genel Matematik 1, Prof.Dr. Mustafa BALCI, Balcı Yayınları, 2008.\n• [4] Analize Giriş I-II, Prof.Dr.Fikri AKDENİZ, Prof.Dr. Yusuf ÜNLÜ, Prof.Dr. Doğan DÖNMEZ, Baki Kitabevi 1999.\n• Ders Notu: [1] Calculus ve Analitik Geometri I. Cilt, SHERMAN K. STEIN, ANTHONY McGraw-Hill Inc., London, U.K., 1992\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %30\nKısa Sınav: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Limit ve türevi tanımlayıp ifade eder\n2. Türevi uygulamaları ile ilişkilendirir\n3. Fonksiyonların grafiğini çizer\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Sayı kümeleri, (doğal, tam, rasyonel, reel sayılar), fonksiyon kavramı, tanım kümesi, bazı özel fonksiyonlar, bazı özel fonksiyonlar (trigonometrik, üstel, logaritmik, hiperbolik fonksiyonlar).\nHafta 2: Fonksiyonlar , Bileşke, Ters Fonksiyonlar ve Fonksiyonların Grafikler\nHafta 3: Limit kavramı, tek yanlı limitler, sonsuz limitler, sonsuzda limitler, belirsizlikler.\nHafta 4: Süreklilik kavramı, süreklilik tanımı, sürekli fonksiyonların özellikleri, süreksizlik tanımı ve süreksizlik türleri.\nHafta 5: Türev kavramı, türevin geometrik anlamı, türev alma kuralları\nHafta 6: Trigonometrik Fonksiyonların Türevleri, zincir kuralı\nHafta 7: Kapalı fonksiyonların türevi, ters fonksiyonun türevi, yüksek mertebeden türevler.\nHafta 8: Ara Sınav\nHafta 9: Artmalar ve Diferansiyeller\nHafta 10: Fonksiyonların Ekstremum Değerler\nHafta 11: Teğet denklemi, maksimum-minimum uygulamaları, L’Hospital Kuralı.\nHafta 12: Türevin uygulamaları\nHafta 13: Eğri çizme\nHafta 14: Rolle Teoremi, Ortalama Değer Teoremi\nHafta 15: Sınav uygulaması\n",
+  "source_file": "BMB101_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

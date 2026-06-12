@@ -1,0 +1,71 @@
+{
+  "title": "BMB304 - Otomata Teorisi Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB304",
+    "ders_adi": "Otomata Teorisi",
+    "yariyil": "6",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "02.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Erhan TURAN erhanturan@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Otomata teorisi dersinin amacı, soyut makinelerin kavramlarını ve çözebilecekleri hesaplama problemlerini tanıtmak, öğrencilerin hesaplamanın temellerini ve ayrık sistemlerin davranışını anlamalarına yardımcı olmaktır. Aynı zamanda resmi tanımları, otomat türlerini ve bunların bilgisayar bilimi ve ilgili alanlardaki uygulamalarını da kapsar.",
+    "icerik": "Sonlu özdevinirler (Deterministik ve deterministik olmayan özdevinir modelleri), Lamda-geçişleri, Mealy ve Moore makineleri, yalınlaştırma yöntemi). Düzgün kümeler ve deyimler, sonlu özdevinir-düzgün deyim ilişkisi. Dilbilgisi ve diller (Biçimsel dilbilgisi ve diller, dilbilgisi ve dil sınıfları ve özellikleri. Düzgün dilbilgisi ve diller, düzgün dilbilgisi-sonlu özdevinir ilişkisi). Bağlamdan bağımsız dilbilgisi ve diller. Yığıtlı özdevinirler (Push-down automata) – Yığıtlı özdevinir modeli, yığıtlı özdevinir-bağlamdan bağımsız dilbilgisi ilişkisi. Turing Makineleri.",
+    "yontemler": "Anlatım,Tartışma,Problem Çözümü",
+    "kaynaklar": {
+      "kitaplar": [
+        "Introduction to Automata Theory, Languages and Computation, John E. Hopcroft",
+        "An Introduction to Formal Languages and Automata, Peter Linz",
+        "Theory of Computation, Michael Sipser",
+        "Özdevinirler Kuramı ve Biçimsel Diller - Prof. Dr. Ünal Yarımağan"
+      ],
+      "ders_notlari": [
+        "Otomatlar, Biçimsel Diller ve Turing Makineleri, Dr. Emre Sermutlu"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "3",
+        "katki": "%30"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Bir problemin bilgisayar tarafından hesaplanabilirliği ve problem çözümü için kuramsal sistem tasarımı yeteneği",
+      "Bir problemin çözümü için gereken ihtiyaçların donanımsal ve yazılımsal analizini yapabilme yeteneği",
+      "Bir programlama dili için derleyici tasarlama için gerekli temel kavramları bilme ve kullanabilme yeteneği",
+      "Düzenli ifadelerin çalışma prensibi ve düzenli ifadelerin herhangi bir programlama dilinde kullanabilme yeteneği"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Sonlu özdevinirler ve Deterministik özdevinir modeli - -",
+      "Hafta 2: Deterministik olmayan özdevinir modeli ve Lamda-geçişleri - -",
+      "Hafta 3: Deterministik olmayan özdevinirden Deterministik özdevinire çevirimi - -",
+      "Hafta 4: Mealy ve Moore makineleri, Yalınlaştırma yöntemi - -",
+      "Hafta 5: Düzgün kümeler ve deyimler, Pompalama önsavı - -",
+      "Hafta 6: Ara Sınav - -",
+      "Hafta 7: Sonlu özdevinir-düzgün deyim ilişkisi - -",
+      "Hafta 8: Biçimsel dilbilgisi ve diller, dilbilgisi ve dil sınıfları ve özellikleri - -",
+      "Hafta 9: Düzgün dilbilgisi ve diller , düzgün dilbilgisi-sonlu özdevinir ilişkisi - -",
+      "Hafta 10: Bağlamdan bağımsız dilbilgisi ve diller. - -",
+      "Hafta 11: Yığıtlı özdevinirler, - -",
+      "Hafta 12: yığıtlı özdevinir-bağlamdan bağımsız dilbilgisi ilişkisi. - -",
+      "Hafta 13: Turing Makineleri - -",
+      "Hafta 14: Karar Verilemeyen Diller, P ve NP, NP-Tam Problemler - -"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Otomata Teorisi\nDers Kodu: BMB304\nYarıyıl: 6. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 02.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Erhan TURAN erhanturan@osmaniye.edu.tr\n\n--- DERS AMACI ---\nOtomata teorisi dersinin amacı, soyut makinelerin kavramlarını ve çözebilecekleri hesaplama problemlerini tanıtmak, öğrencilerin hesaplamanın temellerini ve ayrık sistemlerin davranışını anlamalarına yardımcı olmaktır. Aynı zamanda resmi tanımları, otomat türlerini ve bunların bilgisayar bilimi ve ilgili alanlardaki uygulamalarını da kapsar.\n\n--- DERS İÇERİĞİ ---\nSonlu özdevinirler (Deterministik ve deterministik olmayan özdevinir modelleri), Lamda-geçişleri, Mealy ve Moore makineleri, yalınlaştırma yöntemi). Düzgün kümeler ve deyimler, sonlu özdevinir-düzgün deyim ilişkisi. Dilbilgisi ve diller (Biçimsel dilbilgisi ve diller, dilbilgisi ve dil sınıfları ve özellikleri. Düzgün dilbilgisi ve diller, düzgün dilbilgisi-sonlu özdevinir ilişkisi). Bağlamdan bağımsız dilbilgisi ve diller. Yığıtlı özdevinirler (Push-down automata) – Yığıtlı özdevinir modeli, yığıtlı özdevinir-bağlamdan bağımsız dilbilgisi ilişkisi. Turing Makineleri.\n\nÖğretim Yöntemleri: Anlatım,Tartışma,Problem Çözümü\n\n--- DERS KAYNAKLARI ---\n• Introduction to Automata Theory, Languages and Computation, John E. Hopcroft\n• An Introduction to Formal Languages and Automata, Peter Linz\n• Theory of Computation, Michael Sipser\n• Özdevinirler Kuramı ve Biçimsel Diller - Prof. Dr. Ünal Yarımağan\n• Ders Notu: Otomatlar, Biçimsel Diller ve Turing Makineleri, Dr. Emre Sermutlu\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %20\nÖdev: 3 adet, katkı oranı %30\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Bir problemin bilgisayar tarafından hesaplanabilirliği ve problem çözümü için kuramsal sistem tasarımı yeteneği\n2. Bir problemin çözümü için gereken ihtiyaçların donanımsal ve yazılımsal analizini yapabilme yeteneği\n3. Bir programlama dili için derleyici tasarlama için gerekli temel kavramları bilme ve kullanabilme yeteneği\n4. Düzenli ifadelerin çalışma prensibi ve düzenli ifadelerin herhangi bir programlama dilinde kullanabilme yeteneği\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Sonlu özdevinirler ve Deterministik özdevinir modeli - -\nHafta 2: Deterministik olmayan özdevinir modeli ve Lamda-geçişleri - -\nHafta 3: Deterministik olmayan özdevinirden Deterministik özdevinire çevirimi - -\nHafta 4: Mealy ve Moore makineleri, Yalınlaştırma yöntemi - -\nHafta 5: Düzgün kümeler ve deyimler, Pompalama önsavı - -\nHafta 6: Ara Sınav - -\nHafta 7: Sonlu özdevinir-düzgün deyim ilişkisi - -\nHafta 8: Biçimsel dilbilgisi ve diller, dilbilgisi ve dil sınıfları ve özellikleri - -\nHafta 9: Düzgün dilbilgisi ve diller , düzgün dilbilgisi-sonlu özdevinir ilişkisi - -\nHafta 10: Bağlamdan bağımsız dilbilgisi ve diller. - -\nHafta 11: Yığıtlı özdevinirler, - -\nHafta 12: yığıtlı özdevinir-bağlamdan bağımsız dilbilgisi ilişkisi. - -\nHafta 13: Turing Makineleri - -\nHafta 14: Karar Verilemeyen Diller, P ve NP, NP-Tam Problemler - -\n",
+  "source_file": "BMB304_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

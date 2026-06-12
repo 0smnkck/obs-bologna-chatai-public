@@ -1,0 +1,68 @@
+{
+  "title": "BMB326 - Bilgisayar Grafikleri Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB326",
+    "ders_adi": "Bilgisayar Grafikleri",
+    "yariyil": "6",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "27.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Erhan TURAN"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilere bilgisayar grafiğinin teorisi ve uygulaması konularında giriş düzeyinde bilgi ve beceri kazandırmaktır.",
+    "icerik": "Bilgisayar grafiğinin temel konuları, matematik ilkeleri, algoritmalar ve veri yapılarını kapsar. Bu alandaki uygulamalar, ele alınan konuların pratik yönleri konusunda beceri kazandırır. Bu ders; bilgisayar grafiğinin uygulama alanları, çizgi ve eğri çizimi, çokgen çizimi, çokgen boyama, öteleme ve döndürme gibi dönüşümler, 2-D bakış, çizgi kırpma, çokgen kırpma, 3-D bakış, paralel ve perspektif projeksiyon, 3D kırpma, görünür yüzey algılama, aydınlatma, çokgen gerçekleme, ışın izleme, OpenGL gibi konulardan oluşur.",
+    "yontemler": "Anlatım,Tartışma,Proje",
+    "kaynaklar": {
+      "kitaplar": [
+        "Computer Graphics with Open GL, Donald Hearn, Pauline Baker, Warren Carithers",
+        "Computer Graphics - Principles and Practice, John F. Hughes"
+      ],
+      "ders_notlari": [
+        "Bilgisayar Grafikleri, Atılım Çetin"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Öğrenci bilgisayar grafiklerinin temel bilgilerini anlar, grafik matematiğini anlar, 2D ve 3D grafik temel dönüşümlerini kullanır.",
+      "Öğrenci bilimsel görselleştirme ve bilimsel grafik anlayışı kazanır.",
+      "Öğrenci OpenGL grafik kütüphanesini kullanarak 2 veya 3 boyutlu modelleri oluşturur, görsel giydirme ve renk kullanımı becerisi kazanır."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Bilgisayar Grafiklerine Giriş - -",
+      "Hafta 2: Grafik Donanımı - -",
+      "Hafta 3: Grafik Yazılımı - -",
+      "Hafta 4: Bilgisayar Grafikleri için Temel Matematik - -",
+      "Hafta 5: Nokta, Doğru ve Çember çizme algoritmaları - -",
+      "Hafta 6: 2D Dönüşümler - -",
+      "Hafta 7: Ara Sınav - -",
+      "Hafta 8: 3D Dönüşümler - -",
+      "Hafta 9: Projeksiyonlar - -",
+      "Hafta 10: Kırpma - -",
+      "Hafta 11: Aydınlatma ve gölgelendirme - -",
+      "Hafta 12: Renkler - -",
+      "Hafta 13: Desen Giydirme - -",
+      "Hafta 14: Genel Tekrar - -"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Bilgisayar Grafikleri\nDers Kodu: BMB326\nYarıyıl: 6. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 27.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Erhan TURAN\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilere bilgisayar grafiğinin teorisi ve uygulaması konularında giriş düzeyinde bilgi ve beceri kazandırmaktır.\n\n--- DERS İÇERİĞİ ---\nBilgisayar grafiğinin temel konuları, matematik ilkeleri, algoritmalar ve veri yapılarını kapsar. Bu alandaki uygulamalar, ele alınan konuların pratik yönleri konusunda beceri kazandırır. Bu ders; bilgisayar grafiğinin uygulama alanları, çizgi ve eğri çizimi, çokgen çizimi, çokgen boyama, öteleme ve döndürme gibi dönüşümler, 2-D bakış, çizgi kırpma, çokgen kırpma, 3-D bakış, paralel ve perspektif projeksiyon, 3D kırpma, görünür yüzey algılama, aydınlatma, çokgen gerçekleme, ışın izleme, OpenGL gibi konulardan oluşur.\n\nÖğretim Yöntemleri: Anlatım,Tartışma,Proje\n\n--- DERS KAYNAKLARI ---\n• Computer Graphics with Open GL, Donald Hearn, Pauline Baker, Warren Carithers\n• Computer Graphics - Principles and Practice, John F. Hughes\n• Ders Notu: Bilgisayar Grafikleri, Atılım Çetin\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nProje: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Öğrenci bilgisayar grafiklerinin temel bilgilerini anlar, grafik matematiğini anlar, 2D ve 3D grafik temel dönüşümlerini kullanır.\n2. Öğrenci bilimsel görselleştirme ve bilimsel grafik anlayışı kazanır.\n3. Öğrenci OpenGL grafik kütüphanesini kullanarak 2 veya 3 boyutlu modelleri oluşturur, görsel giydirme ve renk kullanımı becerisi kazanır.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Bilgisayar Grafiklerine Giriş - -\nHafta 2: Grafik Donanımı - -\nHafta 3: Grafik Yazılımı - -\nHafta 4: Bilgisayar Grafikleri için Temel Matematik - -\nHafta 5: Nokta, Doğru ve Çember çizme algoritmaları - -\nHafta 6: 2D Dönüşümler - -\nHafta 7: Ara Sınav - -\nHafta 8: 3D Dönüşümler - -\nHafta 9: Projeksiyonlar - -\nHafta 10: Kırpma - -\nHafta 11: Aydınlatma ve gölgelendirme - -\nHafta 12: Renkler - -\nHafta 13: Desen Giydirme - -\nHafta 14: Genel Tekrar - -\n",
+  "source_file": "BMB326_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

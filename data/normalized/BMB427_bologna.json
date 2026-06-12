@@ -1,0 +1,62 @@
+{
+  "title": "BMB427 - Robotiğe Giriş Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB427",
+    "ders_adi": "Robotiğe Giriş",
+    "yariyil": "7",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Robot tekniğini temellerini kavrayıp, endüstriyel robotların çalışmalarını programlama becerisini kazanmak.",
+    "icerik": "Robotlarda temel kavramlar ,eksenler, koordinat sistemleri çeşitleri ve kullanım yerleri. Robot sisteminin elemanları ve hareket ettirme sistemleri. Robot denetimi ve çevre birimleri ve yörünge planlaması. Robot simülasyon yazılımları ve Endüstriyel robotik uygulamalar.",
+    "yontemler": "Anlatım, Soru-Cevap, Tartışma",
+    "kaynaklar": {
+      "kitaplar": [
+        "Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley"
+      ],
+      "ders_notlari": [
+        "B.C. Kuo, Otomatik Kontrol Sistemleri, Literatür Yayınları (uyarlama ve çeviri: Atilla Bir), 1999. K. Ogata, Modern Control Engineering-3rd ed., Prentice-Hall, 1997. R.C. Dorf, R.H. Bishop, Modern Control Systems, Addison Wesley Longman, Inc., 1998"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Robotiğin temellerini kavramak",
+      "Robot çeşitleri, yapıları ve kullanım yerleri hakkında bilgi sahibi olmak",
+      "Bir otomasyon sisteminde robotların görevini kavramak"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Robotiğe giriş, tarihsel gelişim ve temel kavramlar Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley",
+      "Hafta 2: Otomasyon sistemlerinde robotlar, grup teknolojisi Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley",
+      "Hafta 3: Robotlarda eksenler, koordinat sistemleri Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley",
+      "Hafta 4: Robot çeşitleri ve kullanım yerleri Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley",
+      "Hafta 5: Robot hareket ettirme sistemleri Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley",
+      "Hafta 6: Robot dinamiği Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley",
+      "Hafta 7: Robot kinematiği Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley",
+      "Hafta 8: Kinematik analiz Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley",
+      "Hafta 9: Kinematik analiz Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley",
+      "Hafta 10: Düz kinematik denklemlerin çıkartılması Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley",
+      "Hafta 11: Ters kinematik problemi ve çözüm yöntemleri Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley",
+      "Hafta 12: Robotlarda uç elemanları Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley",
+      "Hafta 13: Robot simülasyon yazılımları Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley",
+      "Hafta 14: Endüstriyel robotik uygulamaları Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Robotiğe Giriş\nDers Kodu: BMB427\nYarıyıl: 7. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Ahmet LOĞOĞLU www.osmaniye.edu.tr alogoglu@osmaniye.edu.tr\n\n--- DERS AMACI ---\nRobot tekniğini temellerini kavrayıp, endüstriyel robotların çalışmalarını programlama becerisini kazanmak.\n\n--- DERS İÇERİĞİ ---\nRobotlarda temel kavramlar ,eksenler, koordinat sistemleri çeşitleri ve kullanım yerleri. Robot sisteminin elemanları ve hareket ettirme sistemleri. Robot denetimi ve çevre birimleri ve yörünge planlaması. Robot simülasyon yazılımları ve Endüstriyel robotik uygulamalar.\n\nÖğretim Yöntemleri: Anlatım, Soru-Cevap, Tartışma\n\n--- DERS KAYNAKLARI ---\n• Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\n• Ders Notu: B.C. Kuo, Otomatik Kontrol Sistemleri, Literatür Yayınları (uyarlama ve çeviri: Atilla Bir), 1999. K. Ogata, Modern Control Engineering-3rd ed., Prentice-Hall, 1997. R.C. Dorf, R.H. Bishop, Modern Control Systems, Addison Wesley Longman, Inc., 1998\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Robotiğin temellerini kavramak\n2. Robot çeşitleri, yapıları ve kullanım yerleri hakkında bilgi sahibi olmak\n3. Bir otomasyon sisteminde robotların görevini kavramak\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Robotiğe giriş, tarihsel gelişim ve temel kavramlar Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\nHafta 2: Otomasyon sistemlerinde robotlar, grup teknolojisi Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\nHafta 3: Robotlarda eksenler, koordinat sistemleri Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\nHafta 4: Robot çeşitleri ve kullanım yerleri Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\nHafta 5: Robot hareket ettirme sistemleri Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\nHafta 6: Robot dinamiği Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\nHafta 7: Robot kinematiği Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\nHafta 8: Kinematik analiz Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\nHafta 9: Kinematik analiz Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\nHafta 10: Düz kinematik denklemlerin çıkartılması Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\nHafta 11: Ters kinematik problemi ve çözüm yöntemleri Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\nHafta 12: Robotlarda uç elemanları Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\nHafta 13: Robot simülasyon yazılımları Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\nHafta 14: Endüstriyel robotik uygulamaları Anlatım, problem çözme, soru-cevap Introduction to Robotics: Mechanics and Control, 2nd Ed., Craig John, Addison Wesley\n",
+  "source_file": "BMB427_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

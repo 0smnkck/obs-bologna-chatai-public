@@ -1,0 +1,71 @@
+{
+  "title": "BMB439 - Yazılım Testi ve Kalite Güvencesi Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB439",
+    "ders_adi": "Yazılım Testi ve Kalite Güvencesi",
+    "yariyil": "7",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "23.10.2025",
+    "ogretim_uyesi": "Öğretim Üyesi Fatma Neda TOPUZ"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, yazılım geliştirme sürecinde kalite güvence (QA) ve test süreçlerinin önemini kavratmak, yazılım hatalarını önleme ve tespit etme tekniklerini öğretmek, test planlaması ve otomasyon araçları konusunda bilgi ve beceri kazandırmaktır.",
+    "icerik": "Yazılım testi ve kalite güvence kavramları Test seviyeleri ve türleri (unit, integration, system, acceptance) Test tasarım teknikleri (black-box, white-box, boundary value, equivalence partitioning) Test planlaması, test süreç yönetimi ve dokümantasyon Otomatik test araçları ve test otomasyonu Hata izleme, raporlama ve test metrikleri Agile, DevOps ve CI/CD süreçlerinde test yaklaşımı Güncel yazılım kalite standartları ve best practice",
+    "yontemler": "Anlatım, vaka çalışması (case study), laboratuvar çalışmaları, uygulamalı test senaryoları ve proje tabanlı öğrenme yöntemleri kullanılır. Öğrencilerin pratik uygulama yapması ve otomasyon araçlarını kullanması teşvik edilir.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Software Testing: Principles and Practices – Srinivasan Desikan, Gopalaswamy Ramesh"
+      ],
+      "ders_notlari": [
+        "Ders notları öğretim elemanı tarafından hazırlanan sunumlar, örnek test senaryoları, otomasyon araçları kullanım kılavuzları ve güncel makaleleri içerir."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Proje",
+        "sayi": "1",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Yazılım testi, kalite güvence ve yazılım yaşam döngüsü süreçleri hakkında temel bilgiye sahip olur.",
+      "Test seviyeleri, türleri ve tasarım teknikleri (black-box, white-box, boundary value vb.) hakkında bilgi edinir.",
+      "Yazılım test planları hazırlar ve farklı test türlerini uygular.",
+      "Otomasyon test araçlarını kullanarak test senaryolarını uygular.",
+      "Hata raporları oluşturur.",
+      "Test süreçlerini bağımsız yürütebilir ve test dokümantasyonunu doğru bir şekilde tutar.",
+      "Test sonuçlarını teknik ve teknik olmayan paydaşlara açık ve anlaşılır biçimde sunar."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Yazılım testi ve kalite güvenceye giriş Ders sunumu (PDF), “Software Testing: Principles and Practices” 1. bölüm okunması",
+      "Hafta 2: Yazılım geliştirme yaşam döngüsü ve test seviyeleri",
+      "Hafta 3: Test tasarım teknikleri – Black-box ve White-box Örnek test senaryoları, ilgili makaleler",
+      "Hafta 4: Boundary Value, Equivalence Partitioning, Decision Table",
+      "Hafta 5: Unit Test ve Integration Test JUnit / PyTest örnekleri, uygulamalı kodlar",
+      "Hafta 6: Sistem testi ve kabul testi Test senaryoları, vaka çalışması dökümanları",
+      "Hafta 7: Test otomasyonu temelleri Selenium veya başka otomasyon araçlarının tanıtımı, dokümantasyon",
+      "Hafta 8: Ara Sınav",
+      "Hafta 9: Test planlama ve dokümantasyon Test planı şablonları, örnek dokümanlar",
+      "Hafta 10: Hata yönetimi ve test raporlama Hata raporlama araçlarının (Jira, Bugzilla) incelemesi",
+      "Hafta 11: Test metrikleri ve kalite göstergeleri Metrik hesaplama örnekleri, vaka çalışmaları",
+      "Hafta 12: Agile ve DevOps süreçlerinde test Agile test yaklaşımı dokümanları, CI/CD örnekleri",
+      "Hafta 13: Test otomasyonu uygulamaları ve vaka çalışmaları Otomasyon örnekleri, proje hazırlığı",
+      "Hafta 14: Genel değerlendirme ve kapanış Ders özet notları, güncel QA trendleri okunması"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Yazılım Testi ve Kalite Güvencesi\nDers Kodu: BMB439\nYarıyıl: 7. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 23.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Öğretim Üyesi Fatma Neda TOPUZ\n\n--- DERS AMACI ---\nBu dersin amacı, yazılım geliştirme sürecinde kalite güvence (QA) ve test süreçlerinin önemini kavratmak, yazılım hatalarını önleme ve tespit etme tekniklerini öğretmek, test planlaması ve otomasyon araçları konusunda bilgi ve beceri kazandırmaktır.\n\n--- DERS İÇERİĞİ ---\nYazılım testi ve kalite güvence kavramları Test seviyeleri ve türleri (unit, integration, system, acceptance) Test tasarım teknikleri (black-box, white-box, boundary value, equivalence partitioning) Test planlaması, test süreç yönetimi ve dokümantasyon Otomatik test araçları ve test otomasyonu Hata izleme, raporlama ve test metrikleri Agile, DevOps ve CI/CD süreçlerinde test yaklaşımı Güncel yazılım kalite standartları ve best practice\n\nÖğretim Yöntemleri: Anlatım, vaka çalışması (case study), laboratuvar çalışmaları, uygulamalı test senaryoları ve proje tabanlı öğrenme yöntemleri kullanılır. Öğrencilerin pratik uygulama yapması ve otomasyon araçlarını kullanması teşvik edilir.\n\n--- DERS KAYNAKLARI ---\n• Software Testing: Principles and Practices – Srinivasan Desikan, Gopalaswamy Ramesh\n• Ders Notu: Ders notları öğretim elemanı tarafından hazırlanan sunumlar, örnek test senaryoları, otomasyon araçları kullanım kılavuzları ve güncel makaleleri içerir.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nProje: 1 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Yazılım testi, kalite güvence ve yazılım yaşam döngüsü süreçleri hakkında temel bilgiye sahip olur.\n2. Test seviyeleri, türleri ve tasarım teknikleri (black-box, white-box, boundary value vb.) hakkında bilgi edinir.\n3. Yazılım test planları hazırlar ve farklı test türlerini uygular.\n4. Otomasyon test araçlarını kullanarak test senaryolarını uygular.\n5. Hata raporları oluşturur.\n6. Test süreçlerini bağımsız yürütebilir ve test dokümantasyonunu doğru bir şekilde tutar.\n7. Test sonuçlarını teknik ve teknik olmayan paydaşlara açık ve anlaşılır biçimde sunar.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Yazılım testi ve kalite güvenceye giriş Ders sunumu (PDF), “Software Testing: Principles and Practices” 1. bölüm okunması\nHafta 2: Yazılım geliştirme yaşam döngüsü ve test seviyeleri\nHafta 3: Test tasarım teknikleri – Black-box ve White-box Örnek test senaryoları, ilgili makaleler\nHafta 4: Boundary Value, Equivalence Partitioning, Decision Table\nHafta 5: Unit Test ve Integration Test JUnit / PyTest örnekleri, uygulamalı kodlar\nHafta 6: Sistem testi ve kabul testi Test senaryoları, vaka çalışması dökümanları\nHafta 7: Test otomasyonu temelleri Selenium veya başka otomasyon araçlarının tanıtımı, dokümantasyon\nHafta 8: Ara Sınav\nHafta 9: Test planlama ve dokümantasyon Test planı şablonları, örnek dokümanlar\nHafta 10: Hata yönetimi ve test raporlama Hata raporlama araçlarının (Jira, Bugzilla) incelemesi\nHafta 11: Test metrikleri ve kalite göstergeleri Metrik hesaplama örnekleri, vaka çalışmaları\nHafta 12: Agile ve DevOps süreçlerinde test Agile test yaklaşımı dokümanları, CI/CD örnekleri\nHafta 13: Test otomasyonu uygulamaları ve vaka çalışmaları Otomasyon örnekleri, proje hazırlığı\nHafta 14: Genel değerlendirme ve kapanış Ders özet notları, güncel QA trendleri okunması\n",
+  "source_file": "BMB439_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

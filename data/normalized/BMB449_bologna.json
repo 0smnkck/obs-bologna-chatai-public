@@ -1,0 +1,71 @@
+{
+  "title": "BMB449 - Dosya Yapıları Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB449",
+    "ders_adi": "Dosya Yapıları",
+    "yariyil": "7",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "24.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi ORHAN ABAR"
+  },
+  "sections": {
+    "amac": "Öğrencilere dosya yapıları ve ikincil bellek üzerinde veri yönetimi tekniklerini öğretmek.",
+    "icerik": "Dosya organizasyon yöntemleri, erişim teknikleri, indeksleme, hashing ve ağaç tabanlı dosya yapıları işlenir.",
+    "yontemler": "Anlatım, uygulamalı programlama, örnek çözümü ve laboratuvar çalışmaları kullanılır.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Zoellick & Riccardi - File Structures",
+        "Tharp, A.L. - File Organization and Processing"
+      ],
+      "ders_notlari": [
+        "Ders materyalleri ve öğretim elemanı tarafından sağlanan notlar kullanılır."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%30"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "2",
+        "katki": "%20"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%50"
+      }
+    ],
+    "ogrenme_cikti": [
+      "İkincil bellek yapısını açıklayabilme",
+      "Dosya işlemlerini C++ ile programlayabilme",
+      "Dosya organizasyon yöntemlerini uygulayabilme",
+      "İndeksleme ve hashing tekniklerini kullanabilme",
+      "Büyük veriyi etkin şekilde yönetebilme",
+      "Ağaç tabanlı veri yapılarıyla arama yapabilme"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Dosya yapılarına giriş İlgili bölümün okunması",
+      "Hafta 2: Temel dosya kavramları İlgili bölümün okunması",
+      "Hafta 3: Veri tipleri ve kayıt yapısı Kitap bölümü inceleme Örnek uygulama",
+      "Hafta 4: Erişim yöntemleri Önceki ders tekrarı Ders slaytları",
+      "Hafta 5: İkincil bellek yapısı Araştırma yapma",
+      "Hafta 6: Sıralı dosya organizasyonu Konu araştırması",
+      "Hafta 7: Doğrudan dosya organizasyonu Ön okuma yapma Kaynak kitap",
+      "Hafta 8: Hashing teknikleri İlgili bölüm okunması Örnek kodlar",
+      "Hafta 9: İndeksli dosya yapıları Ön çalışma yapılması",
+      "Hafta 10: Ağaç yapılı dosyalar Araştırma yapma Ders slaytları",
+      "Hafta 11: B ve B+ ağaçları Konu tekrarı Kaynak kitap",
+      "Hafta 12: Bit düzeyinde dosya işlemleri Önceki ders tekrarı",
+      "Hafta 13: Arama ve sıralama algoritmaları Konu araştırması Örnek uygulama",
+      "Hafta 14: Veri sıkıştırma teknikleri Genel tekrar"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Dosya Yapıları\nDers Kodu: BMB449\nYarıyıl: 7. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 24.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Dr. Öğr. Üyesi Orhan ABAR https://akbis.osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr\nÖğretim Üyesi: Dr. Öğr. Üyesi ORHAN ABAR\n\n--- DERS AMACI ---\nÖğrencilere dosya yapıları ve ikincil bellek üzerinde veri yönetimi tekniklerini öğretmek.\n\n--- DERS İÇERİĞİ ---\nDosya organizasyon yöntemleri, erişim teknikleri, indeksleme, hashing ve ağaç tabanlı dosya yapıları işlenir.\n\nÖğretim Yöntemleri: Anlatım, uygulamalı programlama, örnek çözümü ve laboratuvar çalışmaları kullanılır.\n\n--- DERS KAYNAKLARI ---\n• Zoellick & Riccardi - File Structures\n• Tharp, A.L. - File Organization and Processing\n• Ders Notu: Ders materyalleri ve öğretim elemanı tarafından sağlanan notlar kullanılır.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %30\nÖdev: 2 adet, katkı oranı %20\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %50\n\n--- ÖĞRENME ÇIKTILARI ---\n1. İkincil bellek yapısını açıklayabilme\n2. Dosya işlemlerini C++ ile programlayabilme\n3. Dosya organizasyon yöntemlerini uygulayabilme\n4. İndeksleme ve hashing tekniklerini kullanabilme\n5. Büyük veriyi etkin şekilde yönetebilme\n6. Ağaç tabanlı veri yapılarıyla arama yapabilme\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Dosya yapılarına giriş İlgili bölümün okunması\nHafta 2: Temel dosya kavramları İlgili bölümün okunması\nHafta 3: Veri tipleri ve kayıt yapısı Kitap bölümü inceleme Örnek uygulama\nHafta 4: Erişim yöntemleri Önceki ders tekrarı Ders slaytları\nHafta 5: İkincil bellek yapısı Araştırma yapma\nHafta 6: Sıralı dosya organizasyonu Konu araştırması\nHafta 7: Doğrudan dosya organizasyonu Ön okuma yapma Kaynak kitap\nHafta 8: Hashing teknikleri İlgili bölüm okunması Örnek kodlar\nHafta 9: İndeksli dosya yapıları Ön çalışma yapılması\nHafta 10: Ağaç yapılı dosyalar Araştırma yapma Ders slaytları\nHafta 11: B ve B+ ağaçları Konu tekrarı Kaynak kitap\nHafta 12: Bit düzeyinde dosya işlemleri Önceki ders tekrarı\nHafta 13: Arama ve sıralama algoritmaları Konu araştırması Örnek uygulama\nHafta 14: Veri sıkıştırma teknikleri Genel tekrar\n",
+  "source_file": "BMB449_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

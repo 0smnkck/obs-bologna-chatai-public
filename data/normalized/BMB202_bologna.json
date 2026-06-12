@@ -1,0 +1,65 @@
+{
+  "title": "BMB202 - Sayısal Yöntemler Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB202",
+    "ders_adi": "Sayısal Yöntemler",
+    "yariyil": "4",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "21.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Özcan YIRTICI"
+  },
+  "sections": {
+    "amac": "Bu derste, öğrencilere çeşitli sayısal analiz yöntemlerini tanıtmak amaçlanmaktadır.",
+    "icerik": "Sayısal Analiz için Ön Bilgiler, Hata kavramı ve Hata çeşitleri, Lineer ve Lineer Olmayan Denklemlerin Sayısal Çözüm Yöntemleri, Sonlu Farklar, İntegral için Sayısal Yöntemler, Türev için Sayısal Yöntemler, Adi Diferansiyel Denklemlerin Sayısal Çözümleri, İnterpolasyon Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "NUMERICAL METHODS FOR ENGINEERS, STEVEN C. CHAPRA & RAYMOND P. CANALE, McGraw Hill, 1998.",
+        "[2] Bakioğlu, M. (2004). Sayısal Analiz, Birsen Kitabevi: İstanbul.",
+        "[3] Yunusoğlu, A. (1974). Uygulamalı Sayısal Çözümleme (Nümerik Analiz), TBD Yayınları: Ankara."
+      ],
+      "ders_notlari": [
+        "[1] Uzun, İ. (2011). Nümerik Analiz, Beta Yayıncılık: İstanbul."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Sayısal analizin temel amacını sunar.",
+      "Sayısal hesaplamalarda ortaya çıkabilecek hataların kaynaklarını açıklar.",
+      "Bir amaç için yazılmış programları kendi amaçları için değiştirerek benzer problemleri sayısal olarak çözer."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Sayısal grafik çizme, sayısal analizin amacı, hata, hassasiyet, kararlılık",
+      "Hafta 2: Geçerli programlama dilinde basit girdi ve çıktı programlarını çalıştırma, onlar üzerinde değişiklikler yapma.",
+      "Hafta 3: Kök bulma, yarılama, ve kiriş metotları, program çalıştırma",
+      "Hafta 4: Kök bulma (devam), sekant ve Newton-Raphson metotları, program çalıştırma",
+      "Hafta 5: Sayısal türev alma, Sonlu Farklar Metodu, program çalıştırma",
+      "Hafta 6: Sayisal integrasyon: Trapez, Simpson ve Romberg yöntemleri",
+      "Hafta 7: Lineer denklem sistemlerinin çözümü (Doğrudan çözümler)",
+      "Hafta 8: Ara Sınav",
+      "Hafta 9: Lineer denklem sistemlerinin çözümü (İteratif Yöntemler)",
+      "Hafta 10: Örnek problem çözümü",
+      "Hafta 11: Euler-Richardson ve Runge-Kutta metotları, program çalıştırma",
+      "Hafta 12: Sayisal interpolasyon teknikleri: Dogrusal interpolasyon",
+      "Hafta 13: Sayisal interpolasyon teknikleri: Lagrange interpolasyonu, Newton (Bölünmüs Farklar) interpolasyonu",
+      "Hafta 14: Özdeğer, özvektör problemlerinin sayısal çözümü",
+      "Hafta 15: Genel Tekrar, Sınav uygulaması"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Sayısal Yöntemler\nDers Kodu: BMB202\nYarıyıl: 4. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 21.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Özcan YIRTICI\n\n--- DERS AMACI ---\nBu derste, öğrencilere çeşitli sayısal analiz yöntemlerini tanıtmak amaçlanmaktadır.\n\n--- DERS İÇERİĞİ ---\nSayısal Analiz için Ön Bilgiler, Hata kavramı ve Hata çeşitleri, Lineer ve Lineer Olmayan Denklemlerin Sayısal Çözüm Yöntemleri, Sonlu Farklar, İntegral için Sayısal Yöntemler, Türev için Sayısal Yöntemler, Adi Diferansiyel Denklemlerin Sayısal Çözümleri, İnterpolasyon Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• NUMERICAL METHODS FOR ENGINEERS, STEVEN C. CHAPRA & RAYMOND P. CANALE, McGraw Hill, 1998.\n• [2] Bakioğlu, M. (2004). Sayısal Analiz, Birsen Kitabevi: İstanbul.\n• [3] Yunusoğlu, A. (1974). Uygulamalı Sayısal Çözümleme (Nümerik Analiz), TBD Yayınları: Ankara.\n• Ders Notu: [1] Uzun, İ. (2011). Nümerik Analiz, Beta Yayıncılık: İstanbul.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Sayısal analizin temel amacını sunar.\n2. Sayısal hesaplamalarda ortaya çıkabilecek hataların kaynaklarını açıklar.\n3. Bir amaç için yazılmış programları kendi amaçları için değiştirerek benzer problemleri sayısal olarak çözer.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Sayısal grafik çizme, sayısal analizin amacı, hata, hassasiyet, kararlılık\nHafta 2: Geçerli programlama dilinde basit girdi ve çıktı programlarını çalıştırma, onlar üzerinde değişiklikler yapma.\nHafta 3: Kök bulma, yarılama, ve kiriş metotları, program çalıştırma\nHafta 4: Kök bulma (devam), sekant ve Newton-Raphson metotları, program çalıştırma\nHafta 5: Sayısal türev alma, Sonlu Farklar Metodu, program çalıştırma\nHafta 6: Sayisal integrasyon: Trapez, Simpson ve Romberg yöntemleri\nHafta 7: Lineer denklem sistemlerinin çözümü (Doğrudan çözümler)\nHafta 8: Ara Sınav\nHafta 9: Lineer denklem sistemlerinin çözümü (İteratif Yöntemler)\nHafta 10: Örnek problem çözümü\nHafta 11: Euler-Richardson ve Runge-Kutta metotları, program çalıştırma\nHafta 12: Sayisal interpolasyon teknikleri: Dogrusal interpolasyon\nHafta 13: Sayisal interpolasyon teknikleri: Lagrange interpolasyonu, Newton (Bölünmüs Farklar) interpolasyonu\nHafta 14: Özdeğer, özvektör problemlerinin sayısal çözümü\nHafta 15: Genel Tekrar, Sınav uygulaması\n",
+  "source_file": "BMB202_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

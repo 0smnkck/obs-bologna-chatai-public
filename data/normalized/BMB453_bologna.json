@@ -1,0 +1,60 @@
+{
+  "title": "BMB453 - Nesnelerin İnterneti ve Uygulamaları Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB453",
+    "ders_adi": "Nesnelerin İnterneti ve Uygulamaları",
+    "yariyil": "7",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "26.10.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilerin nesnelerin interneti sistemlerinin temel bileşenlerini, haberleşme protokollerini ve MicroPython programlama becerilerini kullanarak IoT uygulamaları geliştirebilmelerini sağlamaktır.",
+    "icerik": "Ders kapsamında Nesnelerin İnterneti kavramı, Raspberry Pi Pico W mimarisi, MicroPython programlama temelleri, BLE ve MQTT protokolleri, UART–SPI–I2C haberleşmeleri, HTTP tabanlı veri alışverişi, sensör–aktüatör uygulamaları, bulut tabanlı IoT çözümleri, güvenlik ve proje yönetimi konuları ele alınacaktır.",
+    "yontemler": "Ders; anlatım, uygulamalı laboratuvar çalışmaları, grup projeleri ve sunum teknikleri kullanılarak yürütülür.",
+    "kaynaklar": {
+      "kitaplar": [
+        "Santos, R. (t.y.). Random Nerd Tutorials: ESP32, ESP8266, Arduino ve Raspberry Pi ile Elektronik Projeler. https://randomnerdtutorials.com"
+      ],
+      "ders_notlari": [
+        "Ders notları öğretim elemanı tarafından sağlanacak, Raspberry Pi Pico W ve MicroPython resmi belgeleri ek kaynak olarak kullanılacaktır."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Proje",
+        "sayi": "2",
+        "katki": "%100"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Nesnelerin interneti kavramini, mimarisini ve uygulama alanlarini açiklar.",
+      "Raspberry Pi Pico W gelistirme kartini ve temel donanim bilesenlerini tanimlar.",
+      "MicroPython kullanarak temel sensör, aktüatör ve haberlesme uygulamalari gelistirir.",
+      "Bluetooth, HTTP, MQTT gibi haberlesme protokollerini kullanarak cihazlar arasi veri aktarimi gerçeklestirir.",
+      "IoT sistemlerinde bulut tabanli veri iletimi, kontrol ve görsellestirme islemlerini uygular.",
+      "IoT projelerinde güvenlik, veri bütünlügü ve gizlilik ilkelerini uygular."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Nesnelerin Internetine Giris ve Uygulama Alanlari IoT kavrami hakkinda ön okuma yapiniz IoT giris notlari",
+      "Hafta 2: Gelistirme Kartlari Tanitimi ve Raspberry Pico W Mimarisi Pico W teknik özelliklerini inceleyiniz Raspberry Pico W dökümani",
+      "Hafta 3: Micropython ile Programlama Temelleri Thonny IDE kurulumunu tamamlayiniz MicroPython baslangiç notlari",
+      "Hafta 4: Bluetooth Low Energy (BLE) MicroPython BLE kütüphanesini arastiriniz BLE örnek kodlari",
+      "Hafta 5: Web Sunucu ve Web Soket Uygulamasi Web sunucusu kavramini arastiriniz MicroPython web server dökümani",
+      "Hafta 6: MQTT Protokolü ile Haberlesme MQTT broker kavramini inceleyiniz MQTT kütüphane örnekleri",
+      "Hafta 7: IoT Haberlesme Protokolleri: UART, SPI ve I2C Haberlesme Donanim baglanti semalarini inceleyiniz Haberlesme protokolü dökümanlari",
+      "Hafta 8: Micropython ile HTTP istekler HTTP istek metodlarini arastiriniz MicroPython network modülü dökümani",
+      "Hafta 9: Analog ve Dijital Verileri Okuma, ADC ADC kavramini ve kullanimini inceleyiniz Sensör baglanti notlari",
+      "Hafta 10: Proje Tasarimi ve Yönetimi Proje önerinizi hazirlayiniz Proje planlama rehberi",
+      "Hafta 11: Bulut Tabanli IoT Uygulamasi ThingSpeak veya Blynk platformunu inceleyiniz Bulut platformu belgeleri",
+      "Hafta 12: Sensörler ve Aktüatörler Farkli sensör türlerini arastiriniz Sensör teknik dokümanlari",
+      "Hafta 13: IoT`de Güvenlik IoT güvenlik risklerini inceleyiniz IoT güvenlik raporu",
+      "Hafta 14: Proje Sunumlari Proje raporunuzu tamamlayiniz Sunum dosyasi"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Nesnelerin İnterneti ve Uygulamaları\nDers Kodu: BMB453\nYarıyıl: 7. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 26.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Muhammet Talha KAKIZ https://akbis.osmaniye.edu.tr/@mtalhakakiz mtalhakakiz@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilerin nesnelerin interneti sistemlerinin temel bileşenlerini, haberleşme protokollerini ve MicroPython programlama becerilerini kullanarak IoT uygulamaları geliştirebilmelerini sağlamaktır.\n\n--- DERS İÇERİĞİ ---\nDers kapsamında Nesnelerin İnterneti kavramı, Raspberry Pi Pico W mimarisi, MicroPython programlama temelleri, BLE ve MQTT protokolleri, UART–SPI–I2C haberleşmeleri, HTTP tabanlı veri alışverişi, sensör–aktüatör uygulamaları, bulut tabanlı IoT çözümleri, güvenlik ve proje yönetimi konuları ele alınacaktır.\n\nÖğretim Yöntemleri: Ders; anlatım, uygulamalı laboratuvar çalışmaları, grup projeleri ve sunum teknikleri kullanılarak yürütülür.\n\n--- DERS KAYNAKLARI ---\n• Santos, R. (t.y.). Random Nerd Tutorials: ESP32, ESP8266, Arduino ve Raspberry Pi ile Elektronik Projeler. https://randomnerdtutorials.com\n• Ders Notu: Ders notları öğretim elemanı tarafından sağlanacak, Raspberry Pi Pico W ve MicroPython resmi belgeleri ek kaynak olarak kullanılacaktır.\n\n--- DEĞERLENDİRME ---\nProje: 2 adet, katkı oranı %100\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Nesnelerin interneti kavramini, mimarisini ve uygulama alanlarini açiklar.\n2. Raspberry Pi Pico W gelistirme kartini ve temel donanim bilesenlerini tanimlar.\n3. MicroPython kullanarak temel sensör, aktüatör ve haberlesme uygulamalari gelistirir.\n4. Bluetooth, HTTP, MQTT gibi haberlesme protokollerini kullanarak cihazlar arasi veri aktarimi gerçeklestirir.\n5. IoT sistemlerinde bulut tabanli veri iletimi, kontrol ve görsellestirme islemlerini uygular.\n6. IoT projelerinde güvenlik, veri bütünlügü ve gizlilik ilkelerini uygular.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Nesnelerin Internetine Giris ve Uygulama Alanlari IoT kavrami hakkinda ön okuma yapiniz IoT giris notlari\nHafta 2: Gelistirme Kartlari Tanitimi ve Raspberry Pico W Mimarisi Pico W teknik özelliklerini inceleyiniz Raspberry Pico W dökümani\nHafta 3: Micropython ile Programlama Temelleri Thonny IDE kurulumunu tamamlayiniz MicroPython baslangiç notlari\nHafta 4: Bluetooth Low Energy (BLE) MicroPython BLE kütüphanesini arastiriniz BLE örnek kodlari\nHafta 5: Web Sunucu ve Web Soket Uygulamasi Web sunucusu kavramini arastiriniz MicroPython web server dökümani\nHafta 6: MQTT Protokolü ile Haberlesme MQTT broker kavramini inceleyiniz MQTT kütüphane örnekleri\nHafta 7: IoT Haberlesme Protokolleri: UART, SPI ve I2C Haberlesme Donanim baglanti semalarini inceleyiniz Haberlesme protokolü dökümanlari\nHafta 8: Micropython ile HTTP istekler HTTP istek metodlarini arastiriniz MicroPython network modülü dökümani\nHafta 9: Analog ve Dijital Verileri Okuma, ADC ADC kavramini ve kullanimini inceleyiniz Sensör baglanti notlari\nHafta 10: Proje Tasarimi ve Yönetimi Proje önerinizi hazirlayiniz Proje planlama rehberi\nHafta 11: Bulut Tabanli IoT Uygulamasi ThingSpeak veya Blynk platformunu inceleyiniz Bulut platformu belgeleri\nHafta 12: Sensörler ve Aktüatörler Farkli sensör türlerini arastiriniz Sensör teknik dokümanlari\nHafta 13: IoT`de Güvenlik IoT güvenlik risklerini inceleyiniz IoT güvenlik raporu\nHafta 14: Proje Sunumlari Proje raporunuzu tamamlayiniz Sunum dosyasi\n",
+  "source_file": "BMB453_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

@@ -1,0 +1,67 @@
+{
+  "title": "BMB207 - Elektronik Devreler Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB207",
+    "ders_adi": "Elektronik Devreler",
+    "yariyil": "3",
+    "kredi": "3",
+    "akts": "4",
+    "son_guncelleme": "28.11.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN"
+  },
+  "sections": {
+    "amac": "Analog devrelerin analiz ve tasarımı hakkında temel bilgilerin öğretilmesi",
+    "icerik": "Diyot, BJT, FET ve op-amp gibi analog elektronik devrelerin tasarımında kullanılan devre elemanlarının tanıtılması, Bu devre elemanlarının kullanıldığı elektronik devrelerin analizi ve tasarımı Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "M. Alçı, S. Kara, Op Amp ve Lineer Tümdevreler, Ufuk Kitabevi, 2000.",
+        "Robert L. Boylestad & Louis Nashelsky,Electronic Devices and Circuit Theory, Pearson Education, 2008",
+        "Thomas L. Floyd, Electronic devices, Pearson, 2018.",
+        "M. Alçı, S. Kara, Op Amp ve Lineer Tümdevreler, Ufuk Kitabevi, 2000.",
+        "Thomas L. Floyd, Electronic devices, Pearson, 2018."
+      ],
+      "ders_notlari": [
+        "Robert L. Boylestad & Louis Nashelsky,Electronic Devices and Circuit Theory, Pearson Education, 2008"
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Temel diyotlu devrelerin analizinin tasarımının yapılabilmesi",
+      "BJT'li kuvvetlendirici yapılarının AC ve DC analizlerinin yapılabilmesi",
+      "FET'li kuvvetlendiricilerin DC ve AC analizlerinin yapılabilmesi",
+      "Op-Amp'lı devrelerin analiz ve tasarımının yapılabilmesi"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Yarıiletken kavramının açıklanması",
+      "Hafta 2: P-N Jonksiyonu ve Diyot modelleri",
+      "Hafta 3: Diyot uygulamaları",
+      "Hafta 4: BJT'ler ve BJT'li kuvvetlendiricilerin DC analizi",
+      "Hafta 5: BJT'li kuvvetlendiricilerin AC analizi",
+      "Hafta 6: FET'ler ve FET'li kuvvetlendiricilerin DC analizi",
+      "Hafta 7: FET'li kuvvetlendiricilerin AC analizi",
+      "Hafta 8: Ara sınav",
+      "Hafta 9: İdeal op-amp kavramı ve op-amp parametreleri",
+      "Hafta 10: Eviren Kuvvetlendirici, Evirmeyen Kuvvetlendirici, Fark Kuvvetlendirici, Voltaj Takipçisi, Eviren Toplayıcı, Evirmeyen Toplayıcı",
+      "Hafta 11: Türev alıcı ve İntegral Alıcı Devreler",
+      "Hafta 12: Enstrumantasyon Kuvvetlendirici ve Köprü Kuvvetlendirici",
+      "Hafta 13: Süperdiyot uygulamaları",
+      "Hafta 14: Karşılaştırıcı Devreler"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Elektronik Devreler\nDers Kodu: BMB207\nYarıyıl: 3. Yarıyıl\nKredi: 3\nAKTS Kredisi: 4\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 28.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\nÖğretim Üyesi: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\n\n--- DERS AMACI ---\nAnalog devrelerin analiz ve tasarımı hakkında temel bilgilerin öğretilmesi\n\n--- DERS İÇERİĞİ ---\nDiyot, BJT, FET ve op-amp gibi analog elektronik devrelerin tasarımında kullanılan devre elemanlarının tanıtılması, Bu devre elemanlarının kullanıldığı elektronik devrelerin analizi ve tasarımı Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• M. Alçı, S. Kara, Op Amp ve Lineer Tümdevreler, Ufuk Kitabevi, 2000.\n• Robert L. Boylestad & Louis Nashelsky,Electronic Devices and Circuit Theory, Pearson Education, 2008\n• Thomas L. Floyd, Electronic devices, Pearson, 2018.\n• M. Alçı, S. Kara, Op Amp ve Lineer Tümdevreler, Ufuk Kitabevi, 2000.\n• Thomas L. Floyd, Electronic devices, Pearson, 2018.\n• Ders Notu: Robert L. Boylestad & Louis Nashelsky,Electronic Devices and Circuit Theory, Pearson Education, 2008\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Temel diyotlu devrelerin analizinin tasarımının yapılabilmesi\n2. BJT'li kuvvetlendirici yapılarının AC ve DC analizlerinin yapılabilmesi\n3. FET'li kuvvetlendiricilerin DC ve AC analizlerinin yapılabilmesi\n4. Op-Amp'lı devrelerin analiz ve tasarımının yapılabilmesi\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Yarıiletken kavramının açıklanması\nHafta 2: P-N Jonksiyonu ve Diyot modelleri\nHafta 3: Diyot uygulamaları\nHafta 4: BJT'ler ve BJT'li kuvvetlendiricilerin DC analizi\nHafta 5: BJT'li kuvvetlendiricilerin AC analizi\nHafta 6: FET'ler ve FET'li kuvvetlendiricilerin DC analizi\nHafta 7: FET'li kuvvetlendiricilerin AC analizi\nHafta 8: Ara sınav\nHafta 9: İdeal op-amp kavramı ve op-amp parametreleri\nHafta 10: Eviren Kuvvetlendirici, Evirmeyen Kuvvetlendirici, Fark Kuvvetlendirici, Voltaj Takipçisi, Eviren Toplayıcı, Evirmeyen Toplayıcı\nHafta 11: Türev alıcı ve İntegral Alıcı Devreler\nHafta 12: Enstrumantasyon Kuvvetlendirici ve Köprü Kuvvetlendirici\nHafta 13: Süperdiyot uygulamaları\nHafta 14: Karşılaştırıcı Devreler\n",
+  "source_file": "BMB207_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

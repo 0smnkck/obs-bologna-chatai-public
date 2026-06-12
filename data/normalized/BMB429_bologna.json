@@ -1,0 +1,58 @@
+{
+  "title": "BMB429 - Yapay Sinir Ağları Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB429",
+    "ders_adi": "Yapay Sinir Ağları",
+    "yariyil": "7",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "05.11.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Orhan ABAR https://akbis. osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Sinir ağı sistemlerin temel kural ve tekniklerini öğretmek ve temel yapay sinir ağı modellerini ve uygulamalarını incelemek.",
+    "icerik": "Ders kapsamında temel sinir biyolojisi ve yapay nöronlar ele alınır. Tek ve çok katlı pörseptranlar ile radyal taban fonksiyonlu ağlar incelenir. Ayrıca Kohonen kendini örgütleyen eşlemlemeler ve farklı öğrenme algoritmaları ile uygulamaları üzerinde çalışılır. Dersin Yöntem ve Teknikleri",
+    "yontemler": "",
+    "kaynaklar": {
+      "kitaplar": [
+        "Neural Networks: Kapsamlı Temel, Simon Haykin",
+        "Neural Networks ile Örüntü Tanıma, C. Bishop",
+        "Neurocomputing İlkeleri, F.M. Ham ve I. Kostanic Ders Yapısı Yarıyıl Kodu Adı T+U 7 BMB429 Osmaniye Korkut Ata Üniversitesi Mühendislik ve Doğa Bilimleri Fakültesi Bilgisayar Mühendisliği Matematik ve Temel Bilimler Mühendislik Bilimleri Mühendislik Tasarımı Sosyal Bilimler : : : : 0 100",
+        "Neural Networks ile Örüntü Tanıma, C. Bishop",
+        "Neurocomputing İlkeleri, F.M. Ham ve I. Kostanic"
+      ],
+      "ders_notlari": [
+        "Ders notları haftalık konular ve örnek uygulamaları içerir. Algoritmalar açıklanır ve grafiklerle gösterilir. Sınıf içi alıştırmalar ve ödevler dersin tamamlayıcı materyallerini oluşturur. Neural Networks: Kapsamlı Temel, Simon Haykin"
+      ]
+    },
+    "degerlendirme": [],
+    "ogrenme_cikti": [
+      "Beyin ile basit yapay sinir ağı modelleri arasındaki ilişkiyi tanımlayabilme",
+      "Çok katlı pörseptran, radyal taban fonksiyonlu ağlar ve Kohonen eşlemeleri için öğrenme algoritmalarını açıklayabilme",
+      "Farklı sinir ağı mimarilerini ve uygun öğrenme kurallarını ayırt edebilme",
+      "Tek katlı ağlarda doğrusal ayırt edilebilirlik sorununu belirleyip çözümünü gösterebilme",
+      "İyi bir öğrenme ve genelleştirme başarımını sağlayan ana faktörleri tartışabilme",
+      "Sınıflandırma ve örüntü tanıma problemlerini çözmek için sinir ağı sistemleri tasarlayabilme ve gerçekleştirebilme"
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Sinir Ağları ve Tarihçesi, Biyolojik nöronlar, Yapay nöronlar",
+      "Hafta 2: Yapay Sinir Ağları, Tek katlı pörseptran ve tek katlı pörseptranda öğrenme ve genelleştirme",
+      "Hafta 3: Hebbian Öğrenme, Bayır İnişli Öğrenme",
+      "Hafta 4: Genelleştirilmiş delta kuralı, Uygulamada gözönüne alınacaklar",
+      "Hafta 5: Çok Katlı pörseptranda öğrenme, Geri yayılım Algoritması",
+      "Hafta 6: Momentumlu Öğrenme, Eşlenik Gradyan Öğrenme",
+      "Hafta 7: Yanlılık ve Değişinti, Eksik Oturtma ve Aşırı Oturtma, Genelleştirmeyi iyileştirme",
+      "Hafta 8: Çok Katlı Pörseptranların Uygulamaları",
+      "Hafta 9: Radyal Taban Fonksiyonlu Ağlar: Algoritmalar ve Uygulamalar",
+      "Hafta 10: Çağrışımsal Öğrenme",
+      "Hafta 11: Yarışmalı Öğrenme, Karşı yayılım Ağları, Grossberg ağları",
+      "Hafta 12: Uyarlanır Rezonans Kuramı, Kararlılık",
+      "Hafta 13: Hopfield ağlar, çift taraflı çağrışımsal hafızalar",
+      "Hafta 14: Kendini Örgütleyen Eşlemlemeler: Algoritmalar ve Uygulamalar"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Yapay Sinir Ağları\nDers Kodu: BMB429\nYarıyıl: 7. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 05.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Orhan ABAR https://akbis. osmaniye.edu.tr/@orhanabar orhanabar@osmaniye.edu.tr\n\n--- DERS AMACI ---\nSinir ağı sistemlerin temel kural ve tekniklerini öğretmek ve temel yapay sinir ağı modellerini ve uygulamalarını incelemek.\n\n--- DERS İÇERİĞİ ---\nDers kapsamında temel sinir biyolojisi ve yapay nöronlar ele alınır. Tek ve çok katlı pörseptranlar ile radyal taban fonksiyonlu ağlar incelenir. Ayrıca Kohonen kendini örgütleyen eşlemlemeler ve farklı öğrenme algoritmaları ile uygulamaları üzerinde çalışılır. Dersin Yöntem ve Teknikleri\n\n--- DERS KAYNAKLARI ---\n• Neural Networks: Kapsamlı Temel, Simon Haykin\n• Neural Networks ile Örüntü Tanıma, C. Bishop\n• Neurocomputing İlkeleri, F.M. Ham ve I. Kostanic Ders Yapısı Yarıyıl Kodu Adı T+U 7 BMB429 Osmaniye Korkut Ata Üniversitesi Mühendislik ve Doğa Bilimleri Fakültesi Bilgisayar Mühendisliği Matematik ve Temel Bilimler Mühendislik Bilimleri Mühendislik Tasarımı Sosyal Bilimler : : : : 0 100\n• Neural Networks ile Örüntü Tanıma, C. Bishop\n• Neurocomputing İlkeleri, F.M. Ham ve I. Kostanic\n• Ders Notu: Ders notları haftalık konular ve örnek uygulamaları içerir. Algoritmalar açıklanır ve grafiklerle gösterilir. Sınıf içi alıştırmalar ve ödevler dersin tamamlayıcı materyallerini oluşturur. Neural Networks: Kapsamlı Temel, Simon Haykin\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Beyin ile basit yapay sinir ağı modelleri arasındaki ilişkiyi tanımlayabilme\n2. Çok katlı pörseptran, radyal taban fonksiyonlu ağlar ve Kohonen eşlemeleri için öğrenme algoritmalarını açıklayabilme\n3. Farklı sinir ağı mimarilerini ve uygun öğrenme kurallarını ayırt edebilme\n4. Tek katlı ağlarda doğrusal ayırt edilebilirlik sorununu belirleyip çözümünü gösterebilme\n5. İyi bir öğrenme ve genelleştirme başarımını sağlayan ana faktörleri tartışabilme\n6. Sınıflandırma ve örüntü tanıma problemlerini çözmek için sinir ağı sistemleri tasarlayabilme ve gerçekleştirebilme\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Sinir Ağları ve Tarihçesi, Biyolojik nöronlar, Yapay nöronlar\nHafta 2: Yapay Sinir Ağları, Tek katlı pörseptran ve tek katlı pörseptranda öğrenme ve genelleştirme\nHafta 3: Hebbian Öğrenme, Bayır İnişli Öğrenme\nHafta 4: Genelleştirilmiş delta kuralı, Uygulamada gözönüne alınacaklar\nHafta 5: Çok Katlı pörseptranda öğrenme, Geri yayılım Algoritması\nHafta 6: Momentumlu Öğrenme, Eşlenik Gradyan Öğrenme\nHafta 7: Yanlılık ve Değişinti, Eksik Oturtma ve Aşırı Oturtma, Genelleştirmeyi iyileştirme\nHafta 8: Çok Katlı Pörseptranların Uygulamaları\nHafta 9: Radyal Taban Fonksiyonlu Ağlar: Algoritmalar ve Uygulamalar\nHafta 10: Çağrışımsal Öğrenme\nHafta 11: Yarışmalı Öğrenme, Karşı yayılım Ağları, Grossberg ağları\nHafta 12: Uyarlanır Rezonans Kuramı, Kararlılık\nHafta 13: Hopfield ağlar, çift taraflı çağrışımsal hafızalar\nHafta 14: Kendini Örgütleyen Eşlemlemeler: Algoritmalar ve Uygulamalar\n",
+  "source_file": "BMB429_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

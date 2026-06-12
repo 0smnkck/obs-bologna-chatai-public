@@ -1,0 +1,63 @@
+{
+  "title": "BMB430 - Derleyici Tasarımı Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB430",
+    "ders_adi": "Derleyici Tasarımı",
+    "yariyil": "8",
+    "kredi": "3",
+    "akts": "5",
+    "son_guncelleme": "28.11.2025",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi ÖKKEŞ GÖKALP SÖKMEN"
+  },
+  "sections": {
+    "amac": "Kelimesel analiz, aşağıya ve yukarıya doğru ayrıştırma, soyut sözdizim ağaçları, tip denetimi, arakod dönüşümü, temel bloklar ve kod üretimi gibi çeşitli derleme süreci aşamalarını anlatmayı ve bu derleme aşamalarının Java programlama dilinde kaynak kod üretebilen JavaCC ve JTB gibi derleyici-derleyici araçları ile nasıl gerçeklenebildiğini öğretmektir.",
+    "icerik": "Kelimesel analiz: Kelimesel token'lar, düzenli ifadeler, sonlu otomata, kelimesel çözümleyici üreticileri. Ayrıştırma: Bağlamla ilintisiz gramerler, öngörücü ayrıştırma, LR ayrıştırma, ayrıştırıcı üreteçleri. Soyut sözdizimi: Anlambilimsel eylemler, soyut ayrıştırma ağaçları, ziyaretçiler. Anlambilimsel analiz: Sembol tabloları, tip denetimi. Aktivasyon kayıtları: Yığın çatıları, MiniJava derleyicisinde çatılar. Arakoda dönüşüm: Arakod gösterim ağaçları, ağaçlara dönüşüm, bildirim. Temel bloklar ve icra yolları: Doğal ağaçlar, koşullu dallanma çıkarımı. Emir seçimi: Emir seçim algoritmaları, CISC makineleri, MiniJava derleyicisi için emir seçimi. Canlılık analizi: Veri akış denklemlerinin çözümü, MiniJava derleyicisinde canlılık. Kaydedici tahsisi: Sadeleştirme ile renklendirme, ergitme, önrenkli düğümler, graf renklendirme, ağaçlar için kaydedici tahsisi. Kod üretimi: Bütün modülleri birleştirme.",
+    "yontemler": "Yüz yüze eğitim",
+    "kaynaklar": {
+      "kitaplar": [
+        "Cooper, K., Torczon, L. 2003; Engineering a Compiler, 1st ed., Morgan Kaufmann, 801 p."
+      ],
+      "ders_notlari": [
+        "Appel, A. W., 2002; Modern Compiler Implementation in Java, 2nd ed., Cambridge University Press, 501 p."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "40",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "60",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "derleme süreci aşamalarını kavrayabilir.",
+      "programlama dili yapıları için sonlu otomata ve gramerler yazabilir.",
+      "basit bir programlama dili için tarayıcı, ayrıştırıcı ve tip kontrolörü yazabilir.",
+      "basit programlama dili yorumlayıcıları geliştirebilir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Çeviricilere Giriş",
+      "Hafta 2: Kelimesel Analiz",
+      "Hafta 3: Sözdizim Analizi (Ayrıştırma)",
+      "Hafta 4: Soyut Sözdizimi",
+      "Hafta 5: Anlambilimsel Analiz",
+      "Hafta 6: Aktivasyon Kayıtları",
+      "Hafta 7: Ara Kod Dönüşümü",
+      "Hafta 8: Temel Bloklar ve İcra Yolları",
+      "Hafta 9: Emir Seçimi",
+      "Hafta 10: Canlılık Analizi",
+      "Hafta 11: Kaydedici Tahsisi",
+      "Hafta 12: Kod Üretimi",
+      "Hafta 13: Veri Akış Analizi",
+      "Hafta 14: Döngü Optimizasyonu"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Derleyici Tasarımı\nDers Kodu: BMB430\nYarıyıl: 8. Yarıyıl\nKredi: 3\nAKTS Kredisi: 5\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 28.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nKoordinatör: Dr. Öğr. Üyesi Ökkeş Gökalp SÖKMEN\nÖğretim Üyesi: Dr. Öğr. Üyesi ÖKKEŞ GÖKALP SÖKMEN\n\n--- DERS AMACI ---\nKelimesel analiz, aşağıya ve yukarıya doğru ayrıştırma, soyut sözdizim ağaçları, tip denetimi, arakod dönüşümü, temel bloklar ve kod üretimi gibi çeşitli derleme süreci aşamalarını anlatmayı ve bu derleme aşamalarının Java programlama dilinde kaynak kod üretebilen JavaCC ve JTB gibi derleyici-derleyici araçları ile nasıl gerçeklenebildiğini öğretmektir.\n\n--- DERS İÇERİĞİ ---\nKelimesel analiz: Kelimesel token'lar, düzenli ifadeler, sonlu otomata, kelimesel çözümleyici üreticileri. Ayrıştırma: Bağlamla ilintisiz gramerler, öngörücü ayrıştırma, LR ayrıştırma, ayrıştırıcı üreteçleri. Soyut sözdizimi: Anlambilimsel eylemler, soyut ayrıştırma ağaçları, ziyaretçiler. Anlambilimsel analiz: Sembol tabloları, tip denetimi. Aktivasyon kayıtları: Yığın çatıları, MiniJava derleyicisinde çatılar. Arakoda dönüşüm: Arakod gösterim ağaçları, ağaçlara dönüşüm, bildirim. Temel bloklar ve icra yolları: Doğal ağaçlar, koşullu dallanma çıkarımı. Emir seçimi: Emir seçim algoritmaları, CISC makineleri, MiniJava derleyicisi için emir seçimi. Canlılık analizi: Veri akış denklemlerinin çözümü, MiniJava derleyicisinde canlılık. Kaydedici tahsisi: Sadeleştirme ile renklendirme, ergitme, önrenkli düğümler, graf renklendirme, ağaçlar için kaydedici tahsisi. Kod üretimi: Bütün modülleri birleştirme.\n\nÖğretim Yöntemleri: Yüz yüze eğitim\n\n--- DERS KAYNAKLARI ---\n• Cooper, K., Torczon, L. 2003; Engineering a Compiler, 1st ed., Morgan Kaufmann, 801 p.\n• Ders Notu: Appel, A. W., 2002; Modern Compiler Implementation in Java, 2nd ed., Cambridge University Press, 501 p.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 40 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 60 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. derleme süreci aşamalarını kavrayabilir.\n2. programlama dili yapıları için sonlu otomata ve gramerler yazabilir.\n3. basit bir programlama dili için tarayıcı, ayrıştırıcı ve tip kontrolörü yazabilir.\n4. basit programlama dili yorumlayıcıları geliştirebilir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Çeviricilere Giriş\nHafta 2: Kelimesel Analiz\nHafta 3: Sözdizim Analizi (Ayrıştırma)\nHafta 4: Soyut Sözdizimi\nHafta 5: Anlambilimsel Analiz\nHafta 6: Aktivasyon Kayıtları\nHafta 7: Ara Kod Dönüşümü\nHafta 8: Temel Bloklar ve İcra Yolları\nHafta 9: Emir Seçimi\nHafta 10: Canlılık Analizi\nHafta 11: Kaydedici Tahsisi\nHafta 12: Kod Üretimi\nHafta 13: Veri Akış Analizi\nHafta 14: Döngü Optimizasyonu\n",
+  "source_file": "BMB430_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

@@ -1,0 +1,70 @@
+{
+  "title": "BMB405 - İşletme Ekonomisi Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB405",
+    "ders_adi": "İşletme Ekonomisi",
+    "yariyil": "7",
+    "kredi": "2",
+    "akts": "3",
+    "son_guncelleme": "20.04.2026",
+    "ogretim_uyesi": "Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/@bahargezici bahargezici@osmaniye.edu.tr"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilerin işletmelerin ekonomik çevrelerini, üretim ve maliyet ilişkilerini, piyasa türlerini ve ekonomik karar süreçlerini analiz edebilmelerini sağlamaktır. Ayrıca, ekonomik ilke ve modellerin işletme yönetiminde nasıl uygulandığını kavratmak hedeflenmektedir.",
+    "icerik": "İşletme ekonomisinin temel kavramları; mikro ve makro ekonomi ilişkisi; arz-talep analizi; üretim fonksiyonları; maliyet türleri; fiyatlama ve piyasa yapıları; firma büyümesi, birleşmeleri ve verimlilik analizi; kamu ekonomisi ile işletme ilişkisi; güncel ekonomik gelişmelerin işletmelere etkileri.",
+    "yontemler": "Anlatım, tartışma, örnek olay analizi, problem çözme, grup çalışması ve sunum kullanılmaktadır. Öğrencilerin aktif katılımı teşvik edilir.",
+    "kaynaklar": {
+      "kitaplar": [
+        "https://drive.google.com/drive/folders/1rkAXc8vhv8NpSetOWURqG7Wouw1jr531?usp=drive_link",
+        "Dökümanlar https://drive.google.com/drive/folders/1rkAXc8vhv8NpSetOWURqG7Wouw1jr531?usp=sharing"
+      ],
+      "ders_notlari": [
+        "Ders notları öğretim elemanı tarafından hazırlanmış sunumlar, vaka analizleri ve güncel ekonomi raporlarını içermektedir. Yardımcı kaynak olarak temel ekonomi ve işletme ekonomisi ders kitaplarından yararlanılır."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%40"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%60"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Nicel (sayısal) ve nitel (yorumlayıcı) yöntemleri kullanarak ekonomik sorunlara çözüm üretir.",
+      "Ekonomi biliminin temel kavramlarını, ilkelerini ve işletme ekonomisiyle olan ilişkisini açıklar.",
+      "Mikro ve makro ekonomik değişkenlerin işletmeler üzerindeki etkilerini kavrar.",
+      "Arz-talep dengesi, üretim fonksiyonları, maliyet türleri ve piyasa yapıları hakkında bilgi sahibi olur.",
+      "İşletmelerin ekonomik çevresi, kamu ekonomisi ilişkileri ve güncel ekonomik gelişmelerin işletme üzerindeki etkilerini değerlendirir.",
+      "İşletme kararlarında ekonomik analiz yöntemlerini uygular.",
+      "Arz-talep, maliyet ve üretim analizlerini yapar ve yorumlar.",
+      "Farklı piyasa koşullarında fiyatlama stratejilerini belirleyebilir.",
+      "Ekonomik karar süreçlerinde bireysel ve ekip çalışmasına aktif olarak katılır.",
+      "Ekonomik analiz sonuçlarını yazılı ve sözlü olarak ifade eder.",
+      "İşletme ekonomisi bilgisini yönetim, finans, üretim ve strateji süreçlerinde bütünleştirir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: TEMEL KAVRAMLAR – Ekonomi ve işletme ekonomisi kavramlarını tanımak, Bilgisayar mühendisliği bağlamında ekonomik düşünmenin önemini kavramak, Ekonomik karar verme süreçlerine giriş yapmak, Mikro ve makro ekonomi arasındaki farkları öğrenmek, İşletme ekonomisinin özellikleri, İşletme kurma fikri, Üretim, Üretim Faktörleri, İşletme, Girişimcilik, Girişimciliği etkileyen faktörler nelerdir? Yönetici, İşletme Ekonomisi ve Yönetimi, İhtiyaç, İstek, Talep, Pazar, İkame mal, etkenlik, etkililik, verimlilik, karlılık, Tamamlayıcı mal, İşletmelerin Kuruluş Amaçları, kuruluş yeri seçimi, İşletmelerin Ekonomik Açıdan Yeri ve Önemi, İşletme Türleri; Faaliyet Alanına, Tüketicilere, Üretilen Mal ve Hizmete Göre İşletmeler, Ders sorumlusu tarafından dersten önce paylaşılan ders sunumlarının incelenmesi; “ekonomi” ve “işletme ekonomisi” kavramlarının tanımlanması.",
+      "Hafta 2: Ekonomi Biliminin Temel Kavramları Mikro ve makro ekonomi ayrımını araştırlması ve güncel ekonomik göstergelerin incelenmesi",
+      "Hafta 3: Arz, Talep ve Piyasa Dengesi Arz-talep eğrilerinin nasıl oluştuğunu tekrar edilmesi; güncel bir ürün piyasasından örnek bulunması.",
+      "Hafta 4: Üretim Fonksiyonları ve Verimlilik Kısa ve uzun dönem üretim fonksiyonlarının incelenmesi; bir işletme örneği seçilmesi.",
+      "Hafta 5: Maliyet Türleri ve Analizi Sabit ve değişken maliyet kavramlarını tanımlayınız; örnek tablo hazırlayınız.",
+      "Hafta 6: Piyasa Türleri ve Fiyatlama Tam rekabet ve tekel piyasalarını karşılaştırınız; gerçek hayattan örnekler araştırınız.",
+      "Hafta 7: Firma Büyümesi ve Birleşmeler Son yıllarda yaşanan firma birleşmeleriyle ilgili haberleri inceleyiniz.",
+      "Hafta 8: Ara Sınav Önceki haftaların özetini ve ders notlarını gözden geçiriniz.",
+      "Hafta 9: Risk ve belirsizlik analizi Temel risk hesaplamaları, olasılık tabloları",
+      "Hafta 10: Proje finansmanı ve sermaye bütçelemesi Excel ile örnek sermaye bütçe planlaması",
+      "Hafta 11: Borç ve kredi maliyetleri Faiz hesaplamaları, kredi senaryoları",
+      "Hafta 12: Enerji ve çevre projelerinde ekonomik analiz Örnek projeler ve vaka çalışmaları",
+      "Hafta 13: Genel değerlendirme ve kapanış Ders özet notları ve tartışma"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: İşletme Ekonomisi\nDers Kodu: BMB405\nYarıyıl: 7. Yarıyıl\nKredi: 2\nAKTS Kredisi: 3\nDers Saati: Teori=2, Uygulama=0, Lab=0\nSon Güncelleme: 20.04.2026\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Seçmeli\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Dr. Öğr. Üyesi Bahar GEZİCİ GEÇER https://akbis.osmaniye.edu.tr/@bahargezici bahargezici@osmaniye.edu.tr\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilerin işletmelerin ekonomik çevrelerini, üretim ve maliyet ilişkilerini, piyasa türlerini ve ekonomik karar süreçlerini analiz edebilmelerini sağlamaktır. Ayrıca, ekonomik ilke ve modellerin işletme yönetiminde nasıl uygulandığını kavratmak hedeflenmektedir.\n\n--- DERS İÇERİĞİ ---\nİşletme ekonomisinin temel kavramları; mikro ve makro ekonomi ilişkisi; arz-talep analizi; üretim fonksiyonları; maliyet türleri; fiyatlama ve piyasa yapıları; firma büyümesi, birleşmeleri ve verimlilik analizi; kamu ekonomisi ile işletme ilişkisi; güncel ekonomik gelişmelerin işletmelere etkileri.\n\nÖğretim Yöntemleri: Anlatım, tartışma, örnek olay analizi, problem çözme, grup çalışması ve sunum kullanılmaktadır. Öğrencilerin aktif katılımı teşvik edilir.\n\n--- DERS KAYNAKLARI ---\n• https://drive.google.com/drive/folders/1rkAXc8vhv8NpSetOWURqG7Wouw1jr531?usp=drive_link\n• Dökümanlar https://drive.google.com/drive/folders/1rkAXc8vhv8NpSetOWURqG7Wouw1jr531?usp=sharing\n• Ders Notu: Ders notları öğretim elemanı tarafından hazırlanmış sunumlar, vaka analizleri ve güncel ekonomi raporlarını içermektedir. Yardımcı kaynak olarak temel ekonomi ve işletme ekonomisi ders kitaplarından yararlanılır.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %40\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %60\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Nicel (sayısal) ve nitel (yorumlayıcı) yöntemleri kullanarak ekonomik sorunlara çözüm üretir.\n2. Ekonomi biliminin temel kavramlarını, ilkelerini ve işletme ekonomisiyle olan ilişkisini açıklar.\n3. Mikro ve makro ekonomik değişkenlerin işletmeler üzerindeki etkilerini kavrar.\n4. Arz-talep dengesi, üretim fonksiyonları, maliyet türleri ve piyasa yapıları hakkında bilgi sahibi olur.\n5. İşletmelerin ekonomik çevresi, kamu ekonomisi ilişkileri ve güncel ekonomik gelişmelerin işletme üzerindeki etkilerini değerlendirir.\n6. İşletme kararlarında ekonomik analiz yöntemlerini uygular.\n7. Arz-talep, maliyet ve üretim analizlerini yapar ve yorumlar.\n8. Farklı piyasa koşullarında fiyatlama stratejilerini belirleyebilir.\n9. Ekonomik karar süreçlerinde bireysel ve ekip çalışmasına aktif olarak katılır.\n10. Ekonomik analiz sonuçlarını yazılı ve sözlü olarak ifade eder.\n11. İşletme ekonomisi bilgisini yönetim, finans, üretim ve strateji süreçlerinde bütünleştirir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: TEMEL KAVRAMLAR – Ekonomi ve işletme ekonomisi kavramlarını tanımak, Bilgisayar mühendisliği bağlamında ekonomik düşünmenin önemini kavramak, Ekonomik karar verme süreçlerine giriş yapmak, Mikro ve makro ekonomi arasındaki farkları öğrenmek, İşletme ekonomisinin özellikleri, İşletme kurma fikri, Üretim, Üretim Faktörleri, İşletme, Girişimcilik, Girişimciliği etkileyen faktörler nelerdir? Yönetici, İşletme Ekonomisi ve Yönetimi, İhtiyaç, İstek, Talep, Pazar, İkame mal, etkenlik, etkililik, verimlilik, karlılık, Tamamlayıcı mal, İşletmelerin Kuruluş Amaçları, kuruluş yeri seçimi, İşletmelerin Ekonomik Açıdan Yeri ve Önemi, İşletme Türleri; Faaliyet Alanına, Tüketicilere, Üretilen Mal ve Hizmete Göre İşletmeler, Ders sorumlusu tarafından dersten önce paylaşılan ders sunumlarının incelenmesi; “ekonomi” ve “işletme ekonomisi” kavramlarının tanımlanması.\nHafta 2: Ekonomi Biliminin Temel Kavramları Mikro ve makro ekonomi ayrımını araştırlması ve güncel ekonomik göstergelerin incelenmesi\nHafta 3: Arz, Talep ve Piyasa Dengesi Arz-talep eğrilerinin nasıl oluştuğunu tekrar edilmesi; güncel bir ürün piyasasından örnek bulunması.\nHafta 4: Üretim Fonksiyonları ve Verimlilik Kısa ve uzun dönem üretim fonksiyonlarının incelenmesi; bir işletme örneği seçilmesi.\nHafta 5: Maliyet Türleri ve Analizi Sabit ve değişken maliyet kavramlarını tanımlayınız; örnek tablo hazırlayınız.\nHafta 6: Piyasa Türleri ve Fiyatlama Tam rekabet ve tekel piyasalarını karşılaştırınız; gerçek hayattan örnekler araştırınız.\nHafta 7: Firma Büyümesi ve Birleşmeler Son yıllarda yaşanan firma birleşmeleriyle ilgili haberleri inceleyiniz.\nHafta 8: Ara Sınav Önceki haftaların özetini ve ders notlarını gözden geçiriniz.\nHafta 9: Risk ve belirsizlik analizi Temel risk hesaplamaları, olasılık tabloları\nHafta 10: Proje finansmanı ve sermaye bütçelemesi Excel ile örnek sermaye bütçe planlaması\nHafta 11: Borç ve kredi maliyetleri Faiz hesaplamaları, kredi senaryoları\nHafta 12: Enerji ve çevre projelerinde ekonomik analiz Örnek projeler ve vaka çalışmaları\nHafta 13: Genel değerlendirme ve kapanış Ders özet notları ve tartışma\n",
+  "source_file": "BMB405_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

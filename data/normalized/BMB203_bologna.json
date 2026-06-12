@@ -1,0 +1,71 @@
+{
+  "title": "BMB203 - Ayrık Matematik Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB203",
+    "ders_adi": "Ayrık Matematik",
+    "yariyil": "3",
+    "kredi": "3",
+    "akts": "4",
+    "son_guncelleme": "28.11.2025",
+    "ogretim_uyesi": "Öğr. Gör. Fatma Neda Topuz"
+  },
+  "sections": {
+    "amac": "Matematiksel Akıl Yürütme Kombinatorik Analiz Ayrık Yapılar Algoritmik Düşünme Uygulamalar ve Modelleme",
+    "icerik": "Mantık, İspat Yöntemleri Kümeler, Fonksiyonlar, Seriler ve Toplamlar Algoritmalar ve Algoritmaların Karmaşıklığı Sayılar Teorisine Giriş Endüksiyon ve Tekrarlı Bağıntılar Sayma Ayrık Olasılık İlişkiler Graf Teorisi Ağaçlar Bolean Cebri Hesaplama Modelleri",
+    "yontemler": "Yüzyüze eğitim Soru cevap ve tartışma Ödev ve Proje Çalışmaları",
+    "kaynaklar": {
+      "kitaplar": [
+        "İnternet",
+        "Dökümanlar Teams'de paylaşılacaktır",
+        "Ödevler 4 adet vardır",
+        "Sınavlar 1 arasınav ve 1 final vardır"
+      ],
+      "ders_notlari": [
+        "H.Rosen, Ayrık Matematik ve Uygulamaları, Mc.Graw Hill, 2015."
+      ]
+    },
+    "degerlendirme": [
+      {
+        "tur": "Ara Sınav",
+        "sayi": "1",
+        "katki": "%35"
+      },
+      {
+        "tur": "Ödev",
+        "sayi": "4",
+        "katki": "%25"
+      },
+      {
+        "tur": "Yarıyıl Sonu Sınavı",
+        "sayi": "1",
+        "katki": "%40"
+      }
+    ],
+    "ogrenme_cikti": [
+      "Matematiksel ve hesaplamalı yöntemleri seçme, uygulama, bütünleştirme ve sonuçlarını yorumlama becerisi.",
+      "Matematiksel ve ilgili disiplinlerde ortaya çıkan problemleri tanımlayabilme, uygun matematiksel modeller geliştirebilme ve bu problemleri etkin biçimde çözebilme becerisine sahip olmak.",
+      "Karşılaştığı problemleri analiz edebilme ve bu problemlere uygun çözüm yöntemleri geliştirebilme becerisine sahip olur.",
+      "Analitik düşünme becerilerini geliştirerek bireysel ve bağımsız karar verebilme yetkinliğine sahip olur."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Mantık, İspat Yöntemleri",
+      "Hafta 2: Kümeler, Fonksiyonlar, Seriler ve Toplamlar",
+      "Hafta 3: Bolean Cebri",
+      "Hafta 4: Algoritmalar ve Algoritmaların Karmaşıklığı",
+      "Hafta 5: Sayılar Teorisine Giriş",
+      "Hafta 6: Endüksiyon ve Tekrarlı Bağıntılar",
+      "Hafta 7: Arasınav",
+      "Hafta 8: Sayma",
+      "Hafta 9: Ayrık Olasılık",
+      "Hafta 10: İlişkiler",
+      "Hafta 11: Graf Teorisi",
+      "Hafta 12: Ağaçlar",
+      "Hafta 13: Hesaplama Modelleri",
+      "Hafta 14: Final Tekrar"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Ayrık Matematik\nDers Kodu: BMB203\nYarıyıl: 3. Yarıyıl\nKredi: 3\nAKTS Kredisi: 4\nDers Saati: Teori=3, Uygulama=0, Lab=0\nSon Güncelleme: 28.11.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Öğr. Gör. Fatma Neda Topuz\n\n--- DERS AMACI ---\nMatematiksel Akıl Yürütme Kombinatorik Analiz Ayrık Yapılar Algoritmik Düşünme Uygulamalar ve Modelleme\n\n--- DERS İÇERİĞİ ---\nMantık, İspat Yöntemleri Kümeler, Fonksiyonlar, Seriler ve Toplamlar Algoritmalar ve Algoritmaların Karmaşıklığı Sayılar Teorisine Giriş Endüksiyon ve Tekrarlı Bağıntılar Sayma Ayrık Olasılık İlişkiler Graf Teorisi Ağaçlar Bolean Cebri Hesaplama Modelleri\n\nÖğretim Yöntemleri: Yüzyüze eğitim Soru cevap ve tartışma Ödev ve Proje Çalışmaları\n\n--- DERS KAYNAKLARI ---\n• İnternet\n• Dökümanlar Teams'de paylaşılacaktır\n• Ödevler 4 adet vardır\n• Sınavlar 1 arasınav ve 1 final vardır\n• Ders Notu: H.Rosen, Ayrık Matematik ve Uygulamaları, Mc.Graw Hill, 2015.\n\n--- DEĞERLENDİRME ---\nAra Sınav: 1 adet, katkı oranı %35\nÖdev: 4 adet, katkı oranı %25\nYarıyıl Sonu Sınavı: 1 adet, katkı oranı %40\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Matematiksel ve hesaplamalı yöntemleri seçme, uygulama, bütünleştirme ve sonuçlarını yorumlama becerisi.\n2. Matematiksel ve ilgili disiplinlerde ortaya çıkan problemleri tanımlayabilme, uygun matematiksel modeller geliştirebilme ve bu problemleri etkin biçimde çözebilme becerisine sahip olmak.\n3. Karşılaştığı problemleri analiz edebilme ve bu problemlere uygun çözüm yöntemleri geliştirebilme becerisine sahip olur.\n4. Analitik düşünme becerilerini geliştirerek bireysel ve bağımsız karar verebilme yetkinliğine sahip olur.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Mantık, İspat Yöntemleri\nHafta 2: Kümeler, Fonksiyonlar, Seriler ve Toplamlar\nHafta 3: Bolean Cebri\nHafta 4: Algoritmalar ve Algoritmaların Karmaşıklığı\nHafta 5: Sayılar Teorisine Giriş\nHafta 6: Endüksiyon ve Tekrarlı Bağıntılar\nHafta 7: Arasınav\nHafta 8: Sayma\nHafta 9: Ayrık Olasılık\nHafta 10: İlişkiler\nHafta 11: Graf Teorisi\nHafta 12: Ağaçlar\nHafta 13: Hesaplama Modelleri\nHafta 14: Final Tekrar\n",
+  "source_file": "BMB203_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}

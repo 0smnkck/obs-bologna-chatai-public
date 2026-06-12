@@ -1,0 +1,67 @@
+{
+  "title": "BMB110 - Algoritma ve Programlama Laboratuvarı II Bologna Paketi",
+  "metadata": {
+    "ders_kodu": "BMB110",
+    "ders_adi": "Algoritma ve Programlama Laboratuvarı II",
+    "yariyil": "2",
+    "kredi": "1",
+    "akts": "4",
+    "son_guncelleme": "23.10.2025",
+    "ogretim_uyesi": "Doç. Dr. Mehmet Fatih Tefek"
+  },
+  "sections": {
+    "amac": "Bu dersin amacı, öğrencilere Python programlama dili ile yazılım geliştirme becerilerini kazandırmak, algoritma tasarımı ve problem çözme yeteneklerini geliştirmek ve programlama temellerini pekiştirmektir.",
+    "icerik": "Python dilinin temelleri ve sözdizimi Veri tipleri, değişkenler ve operatörler Kontrol yapıları ve döngüler Fonksiyonlar ve modüller Dosya işlemleri Hata ayıklama ve istisna yönetimi Nesne yönelimli programlama Python kütüphaneleri ve standart modüller",
+    "yontemler": "Teorik ders anlatımı Kod örnekleri ve uygulamalar Ödev ve projeler Laboratuvar çalışmaları Sınıf içi tartışmalar ve soru-cevap",
+    "kaynaklar": {
+      "kitaplar": [
+        "• Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık Ders Notları, \"Python ile Temel Programlama\" • Python Resmi Belgeleri (Türkçe) – https://docs.python.org/tr/3/ • Eric Matthes, \"Python Crash Course\" • Al Sweigart, \"Automate the Boring Stuff with Python\" • Mark Lutz, \"Learning Python\" • Python Official Documentation – https://docs.python.org/3/ • W3Schools Python Tutorial – https://www.w3schools.com/python/ • Real Python – https://realpython.com/",
+        "Python Programlama Dili – Bülent Düzgün, Pusula Yayıncılık",
+        "Python ile Temel Programlama – Hacettepe Üniversitesi Açık Ders Notları",
+        "Python Resmi Belgeleri (Türkçe) – https://docs.python.org/tr/3/",
+        "“Python Crash Course” – Eric Matthes",
+        "“Automate the Boring Stuff with Python” – Al Sweigart",
+        "“Learning Python” – Mark Lutz",
+        "Python Resmi Belgeleri – https://docs.python.org/3/",
+        "W3Schools Python Tutorial – https://www.w3schools.com/python/",
+        "Real Python – https://realpython.com/"
+      ],
+      "ders_notlari": [
+        "Python ile Programlama – Ahmet Şimşek, Seçkin Yayıncılık"
+      ]
+    },
+    "degerlendirme": [],
+    "ogrenme_cikti": [
+      "Python programlama ortamını kurar ve temel sözdizimi ile basit programlar yazabilir.",
+      "Python’da temel veri tiplerini, değişkenleri ve operatörleri tanımlar ve kullanabilir.",
+      "Koşullu ifadeler ve döngüler ile program akışını kontrol edebilir.",
+      "Fonksiyonları tanımlar, çağırır ve parametre ile geri dönüş değerlerini kullanabilir.",
+      "Python listeleri, tuple’lar ve sözlükler gibi veri yapıları ile çalışabilir.",
+      "Dosya işlemleri (okuma, yazma) yapabilir ve veri yönetimi gerçekleştirebilir.",
+      "Hata ayıklama ve istisna yönetimi ile program hatalarını çözebilir.",
+      "Nesne yönelimli programlamayı kullanarak sınıf ve nesneler oluşturabilir, miras ve polimorfizm uygulayabilir.",
+      "Python standart kütüphanesini ve ek kütüphaneleri kullanarak uygulamalar geliştirebilir.",
+      "Basit projeler tasarlayabilir, geliştirebilir ve sunabilir."
+    ],
+    "haftalik_plan": [
+      "Hafta 1: Python’a Giriş ve Kurulum Python ile Programlama – Ahmet Şimşek, Seçkin Yayıncılık Python Programlama Dili – Bülent Düzgün, Pusula Yayıncılık Python ile Temel Programlama – Hacettepe Üniversitesi Açık",
+      "Hafta 2: Temel Veri Tipleri ve Değişkenler • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık",
+      "Hafta 3: Operatörler ve İfade Yapıları • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık",
+      "Hafta 4: Koşullu İfadeler (if-else, elif) • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık",
+      "Hafta 5: Döngüler (for, while) • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık",
+      "Hafta 6: Fonksiyonlar ve Parametreler • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık",
+      "Hafta 7: Modüller ve Kütüphaneler • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık",
+      "Hafta 8: Diziler (Listeler), Tuple ve Sözlükler • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık",
+      "Hafta 9: Dosya İşlemleri (okuma, yazma) • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık",
+      "Hafta 10: Hata Ayıklama ve İstisna Yönetimi • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık",
+      "Hafta 11: Nesne Yönelimli Programlama: Sınıflar ve Nesneler • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık",
+      "Hafta 12: Nesne Yönelimli Programlama: Miras ve Polimorfizm • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık",
+      "Hafta 13: Python Standart Kütüphanesi ve Örnek Proje • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık",
+      "Hafta 14: Final Proje Sunumları ve Genel Değerlendirme • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık"
+    ]
+  },
+  "content": "=== DERS BİLGİ PAKETİ ===\nDers Adı: Algoritma ve Programlama Laboratuvarı II\nDers Kodu: BMB110\nYarıyıl: 2. Yarıyıl\nKredi: 1\nAKTS Kredisi: 4\nDers Saati: Teori=0, Uygulama=2, Lab=0\nSon Güncelleme: 23.10.2025\n\n--- DERS DETAYLARI ---\nDil: Türkçe\nDüzey: Lisans\nProgram: Bilgisayar Mühendisliği\nÖğrenim Türü: Örgün Öğretim\nDers Türü: Zorunlu\nÖğretim Şekli: Yüz Yüze\nÖğretim Üyesi: Doç. Dr. Mehmet Fatih Tefek\n\n--- DERS AMACI ---\nBu dersin amacı, öğrencilere Python programlama dili ile yazılım geliştirme becerilerini kazandırmak, algoritma tasarımı ve problem çözme yeteneklerini geliştirmek ve programlama temellerini pekiştirmektir.\n\n--- DERS İÇERİĞİ ---\nPython dilinin temelleri ve sözdizimi Veri tipleri, değişkenler ve operatörler Kontrol yapıları ve döngüler Fonksiyonlar ve modüller Dosya işlemleri Hata ayıklama ve istisna yönetimi Nesne yönelimli programlama Python kütüphaneleri ve standart modüller\n\nÖğretim Yöntemleri: Teorik ders anlatımı Kod örnekleri ve uygulamalar Ödev ve projeler Laboratuvar çalışmaları Sınıf içi tartışmalar ve soru-cevap\n\n--- DERS KAYNAKLARI ---\n• • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık Ders Notları, \"Python ile Temel Programlama\" • Python Resmi Belgeleri (Türkçe) – https://docs.python.org/tr/3/ • Eric Matthes, \"Python Crash Course\" • Al Sweigart, \"Automate the Boring Stuff with Python\" • Mark Lutz, \"Learning Python\" • Python Official Documentation – https://docs.python.org/3/ • W3Schools Python Tutorial – https://www.w3schools.com/python/ • Real Python – https://realpython.com/\n• Python Programlama Dili – Bülent Düzgün, Pusula Yayıncılık\n• Python ile Temel Programlama – Hacettepe Üniversitesi Açık Ders Notları\n• Python Resmi Belgeleri (Türkçe) – https://docs.python.org/tr/3/\n• “Python Crash Course” – Eric Matthes\n• “Automate the Boring Stuff with Python” – Al Sweigart\n• “Learning Python” – Mark Lutz\n• Python Resmi Belgeleri – https://docs.python.org/3/\n• W3Schools Python Tutorial – https://www.w3schools.com/python/\n• Real Python – https://realpython.com/\n• Ders Notu: Python ile Programlama – Ahmet Şimşek, Seçkin Yayıncılık\n\n--- ÖĞRENME ÇIKTILARI ---\n1. Python programlama ortamını kurar ve temel sözdizimi ile basit programlar yazabilir.\n2. Python’da temel veri tiplerini, değişkenleri ve operatörleri tanımlar ve kullanabilir.\n3. Koşullu ifadeler ve döngüler ile program akışını kontrol edebilir.\n4. Fonksiyonları tanımlar, çağırır ve parametre ile geri dönüş değerlerini kullanabilir.\n5. Python listeleri, tuple’lar ve sözlükler gibi veri yapıları ile çalışabilir.\n6. Dosya işlemleri (okuma, yazma) yapabilir ve veri yönetimi gerçekleştirebilir.\n7. Hata ayıklama ve istisna yönetimi ile program hatalarını çözebilir.\n8. Nesne yönelimli programlamayı kullanarak sınıf ve nesneler oluşturabilir, miras ve polimorfizm uygulayabilir.\n9. Python standart kütüphanesini ve ek kütüphaneleri kullanarak uygulamalar geliştirebilir.\n10. Basit projeler tasarlayabilir, geliştirebilir ve sunabilir.\n\n--- HAFTALIK KONU PLANI ---\nHafta 1: Python’a Giriş ve Kurulum Python ile Programlama – Ahmet Şimşek, Seçkin Yayıncılık Python Programlama Dili – Bülent Düzgün, Pusula Yayıncılık Python ile Temel Programlama – Hacettepe Üniversitesi Açık\nHafta 2: Temel Veri Tipleri ve Değişkenler • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık\nHafta 3: Operatörler ve İfade Yapıları • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık\nHafta 4: Koşullu İfadeler (if-else, elif) • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık\nHafta 5: Döngüler (for, while) • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık\nHafta 6: Fonksiyonlar ve Parametreler • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık\nHafta 7: Modüller ve Kütüphaneler • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık\nHafta 8: Diziler (Listeler), Tuple ve Sözlükler • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık\nHafta 9: Dosya İşlemleri (okuma, yazma) • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık\nHafta 10: Hata Ayıklama ve İstisna Yönetimi • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık\nHafta 11: Nesne Yönelimli Programlama: Sınıflar ve Nesneler • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık\nHafta 12: Nesne Yönelimli Programlama: Miras ve Polimorfizm • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık\nHafta 13: Python Standart Kütüphanesi ve Örnek Proje • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık\nHafta 14: Final Proje Sunumları ve Genel Değerlendirme • Ahmet Şimşek, \"Python ile Programlama\", Seçkin Yayıncılık • Bülent Düzgün, \"Python Programlama Dili\", Pusula Yayıncılık • Hacettepe Üniversitesi Açık\n",
+  "source_file": "BMB110_bologna.json",
+  "_normalized": true,
+  "_version": "2.0"
+}
